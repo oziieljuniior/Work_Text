@@ -45,7 +45,7 @@ indice_excel = 1
 #path.replace("/","\\")
 #print(path)
 #'/home/oziel/Documentos/Alunos/PauloB/data/today'
-path = 'C:\\Users\\Riallen\\Documents\\Att\\treinamento2'
+path = 'C:\\Users\\Riallen\\Documents\\Att\\treinamento3'
 lista_caminho = os.listdir(path)
 print(lista_caminho)
 
