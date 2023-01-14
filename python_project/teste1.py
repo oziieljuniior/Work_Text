@@ -8,7 +8,7 @@ import shutil
 data = pd.read_excel('C:/Users/Riallen/Documents/Att/Cias não financeiras - 12-12-2022.xlsx')
 consulta = data['ticker'].to_list()
 t1 = len(consulta)
-for emp in range(0,t1):
+for emp in range(23,t1):
     path = "C:/Users/Riallen/Documents/Att/Data/" + consulta[emp]
     os.makedirs(path)
     
@@ -41,41 +41,19 @@ for emp in range(0,t1):
             pyautogui.press('enter')
             time.sleep(10)
             while j == 0:
-                print("Frase 3")
-                im7 = pyautogui.screenshot().save("im2.png")
-                im8 = Image.open("im2.png")
-                #[(1, (1, 44, 99))] [(1, (247, 247, 247))]
-                #[(1, (2, 42, 104))] [(1, (255, 255, 255))]
-                #[(1, (1, 44, 99))] [(1, (223, 223, 223))]
-                #[(1, (255, 255, 255))] [(1, (223, 223, 223))]
-                area3 = (136,289,137,290)
-                area4 = (323,679,324,680)
-                im9_corte1 = im8.crop(area3)
-                im10_corte2 = im8.crop(area4)
-                im9_corte1.save('foto03.jpeg','jpeg')
-                im10_corte2.save('foto04.jpeg','jpeg')
-                im11 = Image.open('foto03.jpeg')
-                im12 = Image.open('foto04.jpeg')
-                convert_im3 = im11.convert('RGB').getcolors()
-                convert_im4 = im12.convert('RGB').getcolors()
-                print(convert_im3,convert_im4)
-                if convert_im3 == [(1, (255, 255, 255))] and convert_im4 == [(1, (223, 223, 223))]:
-                    print("Fase 4")
+                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\digitar_nome.png') != None:
+                    print("Fase 3")
                     k = 0
                     time.sleep(10)
-                    pyautogui.doubleClick(272,621)
+                    pyautogui.doubleClick('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\digitar_nome.png', interval = 2)
                     pyautogui.write(consulta[emp], interval = 0.5)
                     pyautogui.press('enter')
-# =============================================================================
-#                     time.sleep(5)
-# =============================================================================
                     while k == 0:
-                        print("Fase 5")
+                        print("Fase 4")
                         
                         im13 = pyautogui.screenshot().save("im3.jpeg")
                         im14 = Image.open("im3.jpeg")
                         #[(1, (255, 255, 255))]
-                        #[(1, (1, 44, 99))] [(1, (247, 247, 247))]
                         #[(1, (1, 44, 99))] [(1, (247, 247, 247))]
                         #[(1, (1, 44, 99))] [(1, (223, 223, 223))]
                         #[(1, (255, 255, 255))] [(1, (223, 223, 223))]
@@ -87,22 +65,27 @@ for emp in range(0,t1):
                         im16_corte2.save('foto06.jpeg','jpeg')
                         im17 = Image.open('foto05.jpeg')
                         im18 = Image.open('foto06.jpeg')
-                        convert_im5 = im11.convert('RGB').getcolors()
-                        convert_im6 = im12.convert('RGB').getcolors()
+                        convert_im5 = im17.convert('RGB').getcolors()
+                        convert_im6 = im18.convert('RGB').getcolors()
                         print(convert_im5,convert_im6)
-                        if convert_im3 == [(1, (255, 255, 255))] and convert_im4 == [(1, (223, 223, 223))]:
-                            time.sleep(3)
+                        if convert_im5 == [(1, (1, 44, 99))] and convert_im6 == [(1, (247, 247, 247))]:
+                            print("Fase 5")
+                            pyautogui.click((201,610), interval = 2)
                             l = 0
-                            print("Fase 6")
+                            
                             time.sleep(10)
-                            pyautogui.doubleClick(207,650)
-                            #possivel colocar outra captura
-                            time.sleep(5)
-                            pyautogui.click(1133,467)
-                            time.sleep(3)
-                            pyautogui.click(1067,527)
                             while l == 0:
-                                print("Fase 7")
+                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\sobre_empresa.png') != None:
+                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\sobre_empresa.png', interval = 2)
+                                    l += 1
+                            l = 0
+                            while l == 0:
+                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\relatorio_estruturado.png') != None:
+                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\relatorio_estruturado.png', interval = 2)
+                                    l += 1
+                            l = 0
+                            while l == 0:
+                                print("Fase 5")
                                 im13 =  pyautogui.screenshot().save("im3.jpeg")
                                 im14 = Image.open("im3.jpeg")
                                 #[(1, (1, 44, 99))] [(1, (247, 247, 247))]
@@ -117,10 +100,10 @@ for emp in range(0,t1):
                                 im16_corte2.save('foto06.jpeg','jpeg')
                                 im17 = Image.open('foto05.jpeg')
                                 im18 = Image.open('foto06.jpeg')
-                                convert_im5 = im11.convert('RGB').getcolors()
-                                convert_im6 = im12.convert('RGB').getcolors()
+                                convert_im5 = im17.convert('RGB').getcolors()
+                                convert_im6 = im18.convert('RGB').getcolors()
                                 print(convert_im5,convert_im6)
-                                if convert_im3 == [(1, (1, 44, 99))] and convert_im4 == [(1, (223, 223, 223))]:
+                                if convert_im5 == [(1, (1, 44, 99))] and convert_im6 == [(1, (247, 247, 247))]:
                                     print("Fase 8")
                                     time.sleep(10)
                                     pyautogui.click(155,540)
@@ -150,31 +133,34 @@ for emp in range(0,t1):
                                             pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao ')
                                             pyautogui.press('enter')
                                             while n == 0:
-                                                x = pyautogui.locateOnScreen('C:/Users/Riallen/Documents/Att/point.png')
+                                                x = pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                 print(x)
                                                 if x != None:
                                                     print("encontrei ouro")
                                                     time.sleep(5)
-                                                    pyautogui.click('C:/Users/Riallen/Documents/Att/point.png')
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                     time.sleep(15)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png') != None: 
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                            y = y + 1
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png', interval = 2)
                                                             y = y + 1
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\download.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\download.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
-                                                    name_pdf = consulta[emp] + "_" + cot
+                                                    name_pdf = consulta[emp] + "_" + str(cot)
                                                     print(name_pdf)
                                                     pyautogui.write(name_pdf, interval = 0.5)
                                                     pyautogui.press('enter')
@@ -219,32 +205,35 @@ for emp in range(0,t1):
                                             pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                             pyautogui.press('enter')
                                             while n == 0:
-                                                x = pyautogui.locateOnScreen('C:/Users/Riallen/Documents/Att/point.png')
+                                                x = pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                 print(x)
                                                 if x != None:
                                                     print("encontrei ouro")
                                                     time.sleep(5)
-                                                    pyautogui.click('C:/Users/Riallen/Documents/Att/point.png')
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                 
                                                     time.sleep(15)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                            y = y + 1
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png', interval = 2)
                                                             y = y + 1
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\download.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\download.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
-                                                    name_pdf = consulta[emp] + "_" + cot
+                                                    name_pdf = consulta[emp] + "_" + str(cot)
                                                     print(name_pdf)
                                                     pyautogui.write(name_pdf, interval = 0.5)
                                                     pyautogui.press('enter')
@@ -288,32 +277,34 @@ for emp in range(0,t1):
                                             pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                             pyautogui.press('enter')
                                             while n == 0:
-                                                x = pyautogui.locateOnScreen('C:/Users/Riallen/Documents/Att/point.png')
+                                                x = pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                 print(x)
                                                 if x != None:
                                                     print("encontrei ouro")
                                                     time.sleep(5)
-                                                    pyautogui.click('C:/Users/Riallen/Documents/Att/point.png')
-                                                
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                     time.sleep(15)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                            y = y + 1
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png', interval = 2)
                                                             y = y + 1
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\download.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\download.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
-                                                    name_pdf = consulta[emp] + "_" + cot
+                                                    name_pdf = consulta[emp] + "_" + str(cot)
                                                     print(name_pdf)
                                                     pyautogui.write(name_pdf, interval = 0.5)
                                                     pyautogui.press('enter')
@@ -355,32 +346,34 @@ for emp in range(0,t1):
                                             pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                             pyautogui.press('enter')
                                             while n == 0:
-                                                x = pyautogui.locateOnScreen('C:/Users/Riallen/Documents/Att/point.png')
+                                                x = pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                 print(x)
                                                 if x != None:
                                                     print("encontrei ouro")
                                                     time.sleep(5)
-                                                    pyautogui.click('C:/Users/Riallen/Documents/Att/point.png')
-                                                
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                     time.sleep(15)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                            y = y + 1
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png', interval = 2)
                                                             y = y + 1
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\download.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\download.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
-                                                    name_pdf = consulta[emp] + "_" + cot
+                                                    name_pdf = consulta[emp] + "_" + str(cot)
                                                     print(name_pdf)
                                                     pyautogui.write(name_pdf, interval = 0.5)
                                                     pyautogui.press('enter')
@@ -422,32 +415,34 @@ for emp in range(0,t1):
                                             pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                             pyautogui.press('enter')
                                             while n == 0:
-                                                x = pyautogui.locateOnScreen('C:/Users/Riallen/Documents/Att/point.png')
+                                                x = pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                 print(x)
                                                 if x != None:
                                                     print("encontrei ouro")
                                                     time.sleep(5)
-                                                    pyautogui.click('C:/Users/Riallen/Documents/Att/point.png')
-                                                
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                     time.sleep(15)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                            y = y + 1
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png', interval = 2)
                                                             y = y + 1
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\download.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\download.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
-                                                    name_pdf = consulta[emp] + "_" + cot
+                                                    name_pdf = consulta[emp] + "_" + str(cot)
                                                     print(name_pdf)
                                                     pyautogui.write(name_pdf, interval = 0.5)
                                                     pyautogui.press('enter')
@@ -488,32 +483,34 @@ for emp in range(0,t1):
                                             pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                             pyautogui.press('enter')
                                             while n == 0:
-                                                x = pyautogui.locateOnScreen('C:/Users/Riallen/Documents/Att/point.png')
+                                                x = pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                 print(x)
                                                 if x != None:
                                                     print("encontrei ouro")
                                                     time.sleep(5)
-                                                    pyautogui.click('C:/Users/Riallen/Documents/Att/point.png')
-                                                
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                     time.sleep(15)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                            y = y + 1
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png', interval = 2)
                                                             y = y + 1
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\download.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\download.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
-                                                    name_pdf = consulta[emp] + "_" + cot
+                                                    name_pdf = consulta[emp] + "_" + str(cot)
                                                     print(name_pdf)
                                                     pyautogui.write(name_pdf, interval = 0.5)
                                                     pyautogui.press('enter')
@@ -554,32 +551,34 @@ for emp in range(0,t1):
                                             pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                             pyautogui.press('enter')
                                             while n == 0:
-                                                x = pyautogui.locateOnScreen('C:/Users/Riallen/Documents/Att/point.png')
+                                                x = pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                 print(x)
                                                 if x != None:
                                                     print("encontrei ouro")
                                                     time.sleep(5)
-                                                    pyautogui.click('C:/Users/Riallen/Documents/Att/point.png')
-                                                
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                     time.sleep(15)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                            y = y + 1
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png', interval = 2)
                                                             y = y + 1
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\download.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\download.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
-                                                    name_pdf = consulta[emp] + "_" + cot
+                                                    name_pdf = consulta[emp] + "_" + str(cot)
                                                     print(name_pdf)
                                                     pyautogui.write(name_pdf, interval = 0.5)
                                                     pyautogui.press('enter')
@@ -619,32 +618,34 @@ for emp in range(0,t1):
                                             pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                             pyautogui.press('enter')
                                             while n == 0:
-                                                x = pyautogui.locateOnScreen('C:/Users/Riallen/Documents/Att/point.png')
+                                                x = pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                 print(x)
                                                 if x != None:
                                                     print("encontrei ouro")
                                                     time.sleep(5)
-                                                    pyautogui.click('C:/Users/Riallen/Documents/Att/point.png')
-                                                    
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                     time.sleep(15)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                            y = y + 1
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png', interval = 2)
                                                             y = y + 1
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\download.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\download.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
-                                                    name_pdf = consulta[emp] + "_" + cot
+                                                    name_pdf = consulta[emp] + "_" + str(cot)
                                                     print(name_pdf)
                                                     pyautogui.write(name_pdf, interval = 0.5)
                                                     pyautogui.press('enter')
@@ -685,32 +686,34 @@ for emp in range(0,t1):
                                             pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                             pyautogui.press('enter')
                                             while n == 0:
-                                                x = pyautogui.locateOnScreen('C:/Users/Riallen/Documents/Att/point.png')
+                                                x = pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                 print(x)
                                                 if x != None:
                                                     print("encontrei ouro")
                                                     time.sleep(5)
-                                                    pyautogui.click('C:/Users/Riallen/Documents/Att/point.png')
-                                                
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                     time.sleep(15)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                            y = y + 1
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png', interval = 2)
                                                             y = y + 1
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\download.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\download.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
-                                                    name_pdf = consulta[emp] + "_" + cot
+                                                    name_pdf = consulta[emp] + "_" + str(cot)
                                                     print(name_pdf)
                                                     pyautogui.write(name_pdf, interval = 0.5)
                                                     pyautogui.press('enter')
@@ -752,32 +755,34 @@ for emp in range(0,t1):
                                             pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                             pyautogui.press('enter')
                                             while n == 0:
-                                                x = pyautogui.locateOnScreen('C:/Users/Riallen/Documents/Att/point.png')
+                                                x = pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                 print(x)
                                                 if x != None:
                                                     print("encontrei ouro")
                                                     time.sleep(5)
-                                                    pyautogui.click('C:/Users/Riallen/Documents/Att/point.png')
-                                                
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                     time.sleep(15)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                            y = y + 1
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png', interval = 2)
                                                             y = y + 1
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\download.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\download.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
-                                                    name_pdf = consulta[emp] + "_" + cot
+                                                    name_pdf = consulta[emp] + "_" + str(cot)
                                                     print(name_pdf)
                                                     pyautogui.write(name_pdf, interval = 0.5)
                                                     pyautogui.press('enter')
@@ -818,32 +823,34 @@ for emp in range(0,t1):
                                             pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                             pyautogui.press('enter')
                                             while n == 0:
-                                                x = pyautogui.locateOnScreen('C:/Users/Riallen/Documents/Att/point.png')
+                                                x = pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                 print(x)
                                                 if x != None:
                                                     print("encontrei ouro")
                                                     time.sleep(5)
-                                                    pyautogui.click('C:/Users/Riallen/Documents/Att/point.png')
-                                                
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                     time.sleep(15)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                            y = y + 1
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png', interval = 2)
                                                             y = y + 1
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\download.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\download.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
-                                                    name_pdf = consulta[emp] + "_" + cot
+                                                    name_pdf = consulta[emp] + "_" + str(cot)
                                                     print(name_pdf)
                                                     pyautogui.write(name_pdf, interval = 0.5)
                                                     pyautogui.press('enter')
@@ -884,32 +891,34 @@ for emp in range(0,t1):
                                             pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                             pyautogui.press('enter')
                                             while n == 0:
-                                                x = pyautogui.locateOnScreen('C:/Users/Riallen/Documents/Att/point.png')
+                                                x = pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                 print(x)
                                                 if x != None:
                                                     print("encontrei ouro")
                                                     time.sleep(5)
-                                                    pyautogui.click('C:/Users/Riallen/Documents/Att/point.png')
-                                                
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                     time.sleep(15)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\DFs_Consolidades.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                            y = y + 1
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\DFs_Individuais.png', interval = 2)
                                                             y = y + 1
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\notas_explicativas.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\notas_explicativas.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
                                                     y = 0
                                                     while y == 0:
-                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\download.png') != None:
-                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\download.png', interval = 2)
+                                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png') != None:
+                                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\download.png', interval = 2)
                                                             y = y + 1
                                                     time.sleep(5)
-                                                    name_pdf = consulta[emp] + "_" + cot
+                                                    name_pdf = consulta[emp] + "_" + str(cot)
                                                     print(name_pdf)
                                                     pyautogui.write(name_pdf, interval = 0.5)
                                                     pyautogui.press('enter')

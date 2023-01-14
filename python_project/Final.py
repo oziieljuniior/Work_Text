@@ -25,6 +25,9 @@ import os
 #Blioteca que gerencia planilha
 from openpyxl import Workbook
 
+import datetime as dt
+inicio = dt.datetime.now().strftime("%H:%M:%S")
+
 #2 planilhas foram criadas: Geral e Local
 excel1 = Workbook()
 data_geral =  excel1.active
@@ -38,10 +41,11 @@ data_local["B1"] = "Qt_Erros"
 indice_excel = 1
 
 #Configurar caminho
-#caminho = askdirectory()
-#print(caminho)
+#path = askdirectory()
+#path.replace("/","\\")
+#print(path)
 #'/home/oziel/Documentos/Alunos/PauloB/data/today'
-path = 'C:\\Users\\Riallen\\Documents\\Att\\treinamento1'
+path = 'C:\\Users\\Riallen\\Documents\\Att\\treinamento2'
 lista_caminho = os.listdir(path)
 print(lista_caminho)
 
@@ -107,24 +111,24 @@ for caminho in lista_caminho:
             #criação de arquivo txt para relatório local 
             aperro = open(path_relatorio, 'x', encoding='utf-8')
             for i in range(0, erros_apontados):
-                if matches[i].ruleId != 'WHITESPACE_RULE' and matches[i].ruleId != 'DASH_RULE':
+                if matches[i].ruleId != 'WHITESPACE_RULE' and matches[i].ruleId != 'DASH_RULE' and matches[i].ruleId != 'HUNSPELL_RULE':
                     erro_local = erro_local + 1
                     aperro.write(str(erro_local))
                     aperro.write(str(matches[i]))
             aperro.close()
             print("Análise realizada com sucesso!")
             print("Relatório criado com sucesso")
-
-            erro_local = erro_local + erros_apontados
+            
             contador += 1
+        indice_excel += 1
         indice_planilhaA = 'A' + str(indice_excel)
         indice_planilhaB = 'B' + str(indice_excel)
         data_local[indice_planilhaA] = caminho
         data_local[indice_planilhaB] = erro_local
         print("Planilha local atualizada")
-        
+        print("Quantidade de erros localizadas: ", erro_local)
+
         erro_geral = erro_geral + erro_local
-        indice_excel += 1
         contador_geral += 1
     else:
         print("*-" * 24)
@@ -132,13 +136,17 @@ for caminho in lista_caminho:
         print(caminho, "não contém arquivo(s)")
         print("Do total estamos na pasta: ", contador_geral + 1)
         
+        indice_excel += 1
         indice_planilhaA = 'A' + str(indice_excel)
         indice_planilhaB = 'B' + str(indice_excel)
         data_local[indice_planilhaA] = caminho
         data_local[indice_planilhaB] = erro_local
         
         erro_geral = erro_geral + erro_local
-        indice_excel += 1
         contador_geral += 1
 excel1.save("Data_Geral.xlsx")
 excel2.save("Data_Local.xlsx")
+fim = dt.datetime.now().strftime("%H:%M:%S")
+print("Consulta finalizada com sucesso")
+print("Processo começou: ", inicio)
+print("Processo finalizou: ", fim)
