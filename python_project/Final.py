@@ -20,7 +20,7 @@ import language_tool_python as lt
 
 #Bibliotecas que configuram os caminhos pelo pc
 import os
-#from tkinter.filedialog import askdirectory
+from tkinter.filedialog import askdirectory
 
 #Blioteca que gerencia planilha
 from openpyxl import Workbook
