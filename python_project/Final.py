@@ -38,14 +38,14 @@ data_local = excel2.active
 data_local.title = "Empresas"
 data_local["A1"] = "Empresas"
 data_local["B1"] = "Qt_Erros"
-indice_excel = 1
+indice_excel = 1 
 
 #Configurar caminho
 #path = askdirectory()
 #path.replace("/","\\")
 #print(path)
 #'/home/oziel/Documentos/Alunos/PauloB/data/today'
-path = 'C:\\Users\\Riallen\\Documents\\Att\\treinamento3'
+path = 'C:\\Users\\Riallen\\Documents\\Att\\treinamento4'
 lista_caminho = os.listdir(path)
 print(lista_caminho)
 
@@ -111,7 +111,7 @@ for caminho in lista_caminho:
             #criação de arquivo txt para relatório local 
             aperro = open(path_relatorio, 'x', encoding='utf-8')
             for i in range(0, erros_apontados):
-                if matches[i].ruleId != 'WHITESPACE_RULE' and matches[i].ruleId != 'DASH_RULE' and matches[i].ruleId != 'HUNSPELL_RULE':
+                if matches[i].ruleId != 'WHITESPACE_RULE' and matches[i].ruleId != 'DASH_RULE' and matches[i].ruleId != 'HUNSPELL_RULE' and matches[i].ruleId != 'SPACE_BEFORE_PUNCTUATION' and matches[i].ruleId != 'ORDINAL_ABREVIATION' and matches[i].ruleId != 'SENT_START_NUM' and matches[i].ruleId != 'ROMAN_NUMBERS_CHECKER' and matches[i].ruleId != 'DECIMAL_COMMA' and matches[i].ruleId != 'PT_COMPOUNDS_POST_REFORM' and matches[i].ruleId != 'UNPAIRED_BRACKETS' and matches[i].ruleId != 'PT_BARBARISMS_REPLACE' and matches[i].ruleId != 'PT_BR_SIMPLE_REPLACE' and matches[i].ruleId != 'CHEMICAL_FORMULAS_TYPOGRAPHY' and matches[i].ruleId != 'GENERAL_NUMBER_FORMAT' and matches[i].ruleId != 'GENERAL_NUMBER_AGREEMENT_ERRORS'and matches[i].ruleId != 'PHRASE_REPETITION' and  matches[i].ruleId !='ABREVIATIONS_PUNCTUATION' and matches[i].ruleId != 'COPYRIGHT' and matches[i].ruleId != 'BARBARISMS' and matches[i].ruleId != 'UPPERCASE_AFTER_COMMA' and matches[i].ruleId != 'GENERAL_GENDER_AGREEMENT_ERRORS' and matches[i].ruleId != 'ZERO_IN_DAYS_OF_THE_MONTH':
                     erro_local = erro_local + 1
                     aperro.write(str(erro_local))
                     aperro.write(str(matches[i]))
