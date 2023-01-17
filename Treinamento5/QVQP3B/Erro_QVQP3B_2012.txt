@@ -1,0 +1,86 @@
+1Offset 98, length 8, Rule ID: AO90_MONTHS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os meses e as estações do ano deixam de ser capitalizados.
+Suggestion: dezembro
+...ão às Demonstrações Contábeis  Em 31 de Dezembro de 2011 e de 2010   (Em milhares de rea...
+                                           ^^^^^^^^2Offset 925, length 7, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Alienou
+...junho de 2010 a 524 Participações S.A.  alienou  a  sua  participação  de  8,25%  no  c...
+                                           ^^^^^^^3Offset 1182, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...emonstrações contábeis foram elaboradas de acordo com as práticas contábeis adotadas no Brasil, ...
+                                           ^^^^^^^^^^^^^^^^4Offset 1397, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...emitidos pelo Comitê de Pronunciamentos Contábeis – CPC e nas normas estabelecidas  pela ...
+                                           ^^^^^^^^^5Offset 1685, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...das e estão apresentadas em reais (R$), que é a moeda do  principal ambiente econômic...
+                                           ^^^^^6Offset 2063, length 4, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...ibuição  durante  determinado  período  e  é  apresentada  pela  Companhia,  conform...
+                                           ^^^^7Offset 3136, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...uivalentes de caixa incluem dinheiro em caixa, depósitos bancários e aplicações finan...
+                                           ^^^^^8Offset 4002, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...o de caixa futuro. Ver nota explicativa nº 5.   d)  Impostos e contribuições a rec...
+                                           ^^9Offset 4190, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+... operações,  atualizados monetariamente de acordo com as regras legais, e representam créditos f...
+                                           ^^^^^^^^^^^^^^^^10Offset 5076, length 16, Rule ID: OLD_SPELLING_U
+Message: O trema deixou de ser utilizado em Português com o Acordo de 1945.
+Suggestion: consequentemente
+...ia  não  apurou  lucro  tributável  e,  conseqüentemente,  não  obteve  base  de  calculo  posit...
+                                           ^^^^^^^^^^^^^^^^11Offset 5114, length 11, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de cálculo
+...  conseqüentemente,  não  obteve  base  de  calculo  positiva  para imposto de renda e cont...
+                                           ^^^^^^^^^^^12Offset 5697, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ação  e  no  registro  de  estimativas  contábeis.  Ativos  e  passivos  sujeitos  a  est...
+                                           ^^^^^^^^^13Offset 5985, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores  diferentes  dos...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^14Offset 9592, length 8, Rule ID: AO90_MONTHS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os meses e as estações do ano deixam de ser capitalizados.
+Suggestion: novembro
+...09,  a  emissora  celebrou  em  12  de  Novembro  de  2009  um  contrato  de  compra  e ...
+                                           ^^^^^^^^15Offset 9793, length 5, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘quota’ e ‘cota’.
+Suggestion: Cota
+...detidas pela 524  Participações  S/A  (“Quota  Purchase  and  Sale  Agreement”),  pel...
+                                           ^^^^^16Offset 10341, length 5, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘quota’ e ‘cota’.
+Suggestion: Cota
+...mercado  sobre  o  termo  aditivo  ao  “Quota  Purchase  and  Sale  Agreement”  firma...
+                                           ^^^^^17Offset 10759, length 5, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘quota’ e ‘cota’.
+Suggestion: Cota
+...ndições  suspensivas para efetivação do Quota Purchase and Sale Agreement. Em 22 de j...
+                                           ^^^^^18Offset 10841, length 5, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘quota’ e ‘cota’.
+Suggestion: Cota
+...e junho de 2010 houve a  consumação do “Quota Purchase and Sale Agreement”.   7.  Pat...
+                                           ^^^^^19Offset 11912, length 5, Rule ID: AO90_MONTHS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os meses e as estações do ano deixam de ser capitalizados.
+Suggestion: julho
+...Geral Extraordinária realizada em 20 de Julho de 2010, foram deliberadas:     Reduçã...
+                                           ^^^^^20Offset 14104, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...enda  com  base  em  seu  valor  justo  de  acordo com a estratégia de investimento e gerenciame...
+                                           ^^^^^^^^^^^^^^^^21Offset 15047, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: Conforme a; Segundo a; Consoante a
+... 9.  Serviços do auditor independente   De acordo com a Instrução CVM nº 381 de 14 de janeiro d...
+                                           ^^^^^^^^^^^^^^^22Offset 15077, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...endente   De acordo com a Instrução CVM nº 381 de 14 de janeiro de 2003, a Companh...
+                                           ^^

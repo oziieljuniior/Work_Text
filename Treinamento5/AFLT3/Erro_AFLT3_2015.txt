@@ -1,0 +1,466 @@
+377Offset 7918, length 8, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: créditos
+...cais e trabalhistas       Provisão para creditos de liquidação duvidosa  (AUMENTO) REDUÇ...
+                                           ^^^^^^^^378Offset 11853, length 11, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 3.449
+....313) 37.275  (18.030) (18.030) 19.245  3.449 3.449 22.694  1.419 2.356 2.717 649 7.141  48...
+                                           ^^^^^^^^^^^379Offset 11995, length 11, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 2.582
+...17) - 38.385  (14.962) (14.962) 23.423  2.582 2.582 26.005  1.238 1.919 2.958 57 6.172  367...
+                                           ^^^^^^^^^^^380Offset 14121, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...  assinado  o  Contrato  de  Concessão  nº  001/2010  da  Afluente  T,  com  vigên...
+                                           ^^381Offset 14491, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...rrido em 1º de julho de 2010, a próxima revisão tarifária está  prevista para 01 de jul...
+                                           ^^^^^^^382Offset 15595, length 32, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: venda, outros ativos e passivos; venda e outros ativos, e passivos
+...os ativos financeiros disponíveis  para venda e outros ativos e passivos financeiros, inclusive derivativos, é a...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^383Offset 16890, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...resentadas  em  milhares de Reais (R$), que é a moeda funcional e de apresentação da Co...
+                                           ^^^^^^^384Offset 17197, length 1, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...a é apresentada líquida dos impostos.   A Companhia reconhece a receita quando o ...
+                                           ^385Offset 18035, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...horia)  e  CPC  30  (R1)  –  Receitas  (serviços  de  operação  –  fornecimento  de  ene...
+                                           ^^^^^^^^386Offset 18730, length 12, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Estabelecida
+..._____________________________________   estabelecida  como  sendo  igual  a  zero,  consider...
+                                           ^^^^^^^^^^^^387Offset 19039, length 10, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... e  (iii)  a  Companhia  terceiriza  a  construção  da  infraestrutura  com  partes  não  ...
+                                           ^^^^^^^^^^388Offset 19886, length 4, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ada sobre o montante em aberto, sendo a taxa de juros efetiva aquela que desconta ex...
+                                           ^^^^389Offset 20798, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...osto também é reconhecido no patrimônio liquido.    São apurados com base no lucro pres...
+                                           ^^^^^^^390Offset 21627, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+... 13 de maio de 2014 foi publicada a Lei nº  12.973 que revoga o Regime Tributário ...
+                                           ^^391Offset 21760, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...tre elas: (i) alterações no Decreto-Lei nº 1.598/77 que trata do imposto de renda ...
+                                           ^^392Offset 22103, length 3, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...os com base em competência atribuída em lei comercial, que sejam posteriores à publ...
+                                           ^^^393Offset 22438, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...culo de juros sobre  capital próprio; e inclui considerações sobre investimentos avali...
+                                           ^^^^^^394Offset 23400, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...dos impostos sobre vendas exceto:   (cid:1)  Quando  os  impostos  sobre  vendas  ...
+                                           ^^395Offset 23689, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...em de despesa, conforme o caso; e   (cid:1)  Quando os valores a receber e a pagar...
+                                           ^^396Offset 23751, length 10, Rule ID: REDUNDANCY_JUNTO_COM
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+... a receber e a pagar forem apresentados juntos com o valor dos impostos sobre vendas.   O ...
+                                           ^^^^^^^^^^397Offset 24733, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...além de outros créditos realizáveis por caixa.   Os  ativos  financeiros  da  Companh...
+                                           ^^^^^398Offset 25083, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+..., que pode ser da seguinte forma:   (cid:1)  Ativos financeiros a valor justo por ...
+                                           ^^399Offset 25232, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...dos para negociação se forem adquiridos com o objetivo de venda  no curto prazo.   Ativos finance...
+                                           ^^^^^^^^^^^^^^^^^400Offset 25801, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+..._________________________________   (cid:1)  Empréstimos e recebíveis   Empréstimo...
+                                           ^^401Offset 26254, length 25, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...l.  O  custo  amortizado  é  calculado  levando  em  consideração  qualquer  desconto  ou  “prêmio”  na  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^402Offset 26854, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...os semelhantes) é baixado quando:   (cid:1)  Os direitos de receber fluxos de caix...
+                                           ^^403Offset 26924, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...uxos de caixa do ativo expirarem;   (cid:1)  A  Companhia  transferiu  os  seus  d...
+                                           ^^404Offset 27290, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...riscos e benefícios do ativo, ou  (b) a Companhia  não transferiu nem reteve substancialm...
+                                           ^^^^^^^^^405Offset 27305, length 10, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...cios do ativo, ou  (b) a Companhia  não transferiu nem reteve substancialmente todos os ri...
+                                           ^^^^^^^^^^406Offset 27386, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...dos os riscos e benefícios relativos ao ativo,  mas transferiu o controle sobre o ati...
+                                           ^^^^^407Offset 27398, length 10, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...s e benefícios relativos ao ativo,  mas transferiu o controle sobre o ativo.   b) Passivos...
+                                           ^^^^^^^^^^408Offset 27428, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ivo,  mas transferiu o controle sobre o ativo.   b) Passivos financeiros    Os  passi...
+                                           ^^^^^409Offset 27570, length 40, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: pagar, empréstimos e financiamentos; pagar e empréstimos, e financiamentos
+...r  a  fornecedores,  outras  contas  a  pagar  e  empréstimos  e  financiamentos.  A  Companhia  determina  a  classific...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^410Offset 27896, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+..., que pode ser da seguinte forma:   (cid:1)  Empréstimos e financiamentos   Após r...
+                                           ^^411Offset 28648, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...o ou alteração é tratada como  baixa do passivo original e reconhecimento de um novo pa...
+                                           ^^^^^^^412Offset 28693, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...vo original e reconhecimento de um novo passivo, sendo a diferença nos correspondentes ...
+                                           ^^^^^^^413Offset 29927, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...lentes  de  caixa  incluem  saldos  de  caixa,  depósitos  bancários  à  vista  e  as...
+                                           ^^^^^414Offset 30667, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...s a receber de consumidores e títulos a receber cuja recuperação é  considerada imprová...
+                                           ^^^^^^^415Offset 31580, length 40, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou outro ativo financeiro diretamente, ou
+... direito incondicional de receber caixa ou outro ativo financeiro diretamente ou indiretamente, através  da  receita  an...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^416Offset 31877, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...o de Concessão e ICPC 17 – Contrato  de Concessão: Evidenciação e da Orientação Técnica O...
+                                           ^^^^^^^^^417Offset 31936, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ação e da Orientação Técnica OCPC  05 – Contrato de Concessão. O ativo financeiro é  rem...
+                                           ^^^^^^^^418Offset 31948, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ientação Técnica OCPC  05 – Contrato de Concessão. O ativo financeiro é  remunerado  pela...
+                                           ^^^^^^^^^419Offset 32040, length 19, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: utilizada
+...axa  interna  de  retorno  do  projeto  que  foi  utilizada  para  desconto  a  valor  presente  do...
+                                           ^^^^^^^^^^^^^^^^^^^420Offset 32393, length 5, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...eis de Concessão de Serviços  Públicos) e são mensurados pelo custo amortizado usando...
+                                           ^^^^^421Offset 33782, length 6, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...produção  de  um  ativo  qualificável,  que  é  um  ativo  que,  necessariamente,  dem...
+                                           ^^^^^^422Offset 33957, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...italizados  como  parte  do  custo  do  ativo  quando  for  provável  que  eles  irão...
+                                           ^^^^^423Offset 34138, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...  ser  mensurados com confiança. Demais custos de empréstimos são reconhecidos como de...
+                                           ^^^^^^424Offset 35013, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...s as concessões outorgadas antes da Lei nº 8.987/95 foram impactadas por  esta  no...
+                                           ^^425Offset 35199, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...foi  outorgada após a publicação da Lei nº 8.897/95.   b) Conta de Desenvolvimento...
+                                           ^^426Offset 37151, length 10, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Dividendos
+..._____________________________________   dividendos  propostos  a  serem  pagos  e  que  es...
+                                           ^^^^^^^^^^427Offset 37191, length 15, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e estejam
+...dividendos  propostos  a  serem  pagos  e  que  estejam  fundamentados  em  obrigações  estatut...
+                                           ^^^^^^^^^^^^^^^428Offset 40028, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...  de  acordo  com  a  Deliberação  CVM  nº  641,  de  07  de  outubro  de  2010,  ...
+                                           ^^429Offset 40289, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...s de  acordo  com  a  Deliberação  CVM  nº  557,  de  12  de  novembro  de  2008, ...
+                                           ^^430Offset 42116, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...anceiros: custo amortizado, valor justo por meio de outros  resultados  abrangentes  e  val...
+                                           ^^^^^^^^^^^431Offset 44822, length 7, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...identificou  os  seguintes  julgamentos que têm efeito significativo sobre os valores r...
+                                           ^^^^^^^432Offset 45892, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...unidade geradora  de caixa excede o seu valor recuperável, o qual é o maior entre o v...
+                                           ^^^^^433Offset 45936, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...r recuperável, o qual é o maior entre o valor justo menos custos de venda e o valor  ...
+                                           ^^^^^434Offset 45974, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...o valor justo menos custos de venda e o valor  em  uso.  O  cálculo  do  valor  justo...
+                                           ^^^^^435Offset 47247, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...cia no ordenamento jurídico, bem como a avaliação dos  advogados  externos.  As  provisõe...
+                                           ^^^^^^^^^436Offset 47335, length 16, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...es  são  revisadas  e  ajustadas  para  levar  em  conta  alterações  nas  circunstâncias,  tais...
+                                           ^^^^^^^^^^^^^^^^437Offset 47470, length 70, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...l,  conclusões  de  inspeções  fiscais  ou  exposições  adicionais identificadas com base em novos assuntos ou decisões de tribunais.   c)  Provisão p...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^438Offset 47833, length 25, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...  realização  das  contas  a  receber,  levando  em  consideração as perdas históricas e uma avaliação in...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^439Offset 48190, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...  Caixa e equivalentes de caixa incluem caixa, depósitos bancários à vista e aplicaçõ...
+                                           ^^^^^440Offset 48777, length 1, Rule ID: LOOSE_ACCENTS
+Message: Caratere incorreto. Utilize antes o apóstrofe ou reveja a acentuação.
+Suggestion: ’; 
+...perações compromissadas, debêntures, CDB´s,  entre outros. Os valores aplicados s...
+                                           ^441Offset 48836, length 5, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘cota’ e ‘quota’.
+Suggestion: quotas
+...Os valores aplicados são convertidos em cotas com atualização diária e o cálculo do s...
+                                           ^^^^^442Offset 48932, length 5, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘cota’ e ‘quota’.
+Suggestion: quotas
+...ista  é feito multiplicando o número de cotas adquiridas pelo valor da cota no dia.  ...
+                                           ^^^^^443Offset 48963, length 4, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘cota’ e ‘quota’.
+Suggestion: quota
+...úmero de cotas adquiridas pelo valor da cota no dia.                                ...
+                                           ^^^^444Offset 49462, length 6, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (Nota
+...r     Terceiros     Partes relacionadas ( Nota 21 ) (-) Provisão para créditos de liqu...
+                                           ^^^^^^445Offset 49471, length 2, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Não insira um espaço antes de fechar parênteses
+Suggestion: )
+...ceiros     Partes relacionadas ( Nota 21 ) (-) Provisão para créditos de liquidaçã...
+                                           ^^446Offset 49947, length 2, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Há
+...os títulos com vencimentos superiores   há 365 dias.   6.  TÍTULOS E VALORES MOBIL...
+                                           ^^447Offset 50017, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; Categoria de
+...ALORES MOBILIÁRIOS   Agente Financeiro  Tipo de aplicação  Vencimento  Indexador  2014 ...
+                                           ^^^^^^^448Offset 50299, length 10, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Vencimento
+...a  resgate  acima  de  90  dias,  com   vencimento em abril de 2017.   7.  IMPOSTOS E CONT...
+                                           ^^^^^^^^^^449Offset 51963, length 6, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Termos
+..._____________________________________   termos  do  artigo  2(cid:176)   da  Lei  nº  ...
+                                           ^^^^^^450Offset 51988, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 176
+...____________   termos  do  artigo  2(cid:176)   da  Lei  nº  9.430,  de  27  de  dez...
+                                           ^^^^451Offset 52005, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...rmos  do  artigo  2(cid:176)   da  Lei  nº  9.430,  de  27  de  dezembro  de  1996...
+                                           ^^452Offset 52214, length 18, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: baixados
+...estados.   (b)  Créditos não realizados que foram baixados em 2014.   (c)  PIS  e  COFINS  a  comp...
+                                           ^^^^^^^^^^^^^^^^^^453Offset 52367, length 6, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Regime
+...  maior  decorrente  da  apuração  do   regime cumulativo estabelecido pela Lei 9.718/...
+                                           ^^^^^^454Offset 52958, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...ia elétrica pela Companhia, onde:   (cid:1)  O contrato estabelece quais os serviç...
+                                           ^^455Offset 53038, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...iços que o operador deve prestar;   (cid:1)  O contrato estabelece padrões de dese...
+                                           ^^456Offset 53182, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...nção   e disponibilidade da rede;   (cid:1)  Ao  final  da  concessão  os  ativos ...
+                                           ^^457Offset 53352, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+... pagamento de uma indenização; e    (cid:1)  O  preço  é  regulado  através  de  m...
+                                           ^^458Offset 53380, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...o; e    (cid:1)  O  preço  é  regulado  através  de  mecanismo  de  tarifa  estabelecido  n...
+                                           ^^^^^^^^^^^459Offset 54901, length 4, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Para
+...iente  para  fazer  face  aos  custos   para cumprimento das obrigações de operação ...
+                                           ^^^^460Offset 55109, length 2, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Da
+... junto ao poder concedente decorrente   da remuneração pela taxa interna de retorn...
+                                           ^^461Offset 55305, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...luxos de caixa,  a  saber:  (a)  Parte  através  de  valores  a  receber  garantidos  pelo ...
+                                           ^^^^^^^^^^^462Offset 56515, length 10, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Tarifárias
+...rna de retorno do projeto de parcelas   tarifárias correspondentes à remuneração pela infr...
+                                           ^^^^^^^^^^463Offset 58073, length 11, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 1.294
+...lante  833 833 - 833 833  1.294 307 987 1.294 1.294  A Afluente T mantem contrato de serviç...
+                                           ^^^^^^^^^^^464Offset 58953, length 2, Rule ID: SI_UNITS_CASE
+Message: Unidades do Sistema Internacional iguais ou inferiores a “kilo” são escritas com minúsculas.
+Suggestion: kV
+...a  Subestação  de  Energia  de  230/69  KV  em  Afluente  T  que  está  sendo  amo...
+                                           ^^465Offset 64052, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...164610 0,1427073186  O artigo 9º da Lei nº 9.249, de 26 de dezembro de 1995, permi...
+                                           ^^466Offset 65128, length 36, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: os dividendos mínimos obrigatórios são
+...______________   A base de cálculo para os dividendos mínimos obrigatórios é como segue:   Dividendos mínimos - sobr...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^467Offset 67716, length 6, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Verbas
+...eiteiam  o  recebimento  de  diversas   verbas trabalhistas.   16. PATRIMÔNIO LÍQUIDO ...
+                                           ^^^^^^468Offset 72387, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...ensurar a receita dos serviços prestado de acordo com os Pronunciamentos Técnicos  CPC  17  –  C...
+                                           ^^^^^^^^^^^^^^^^469Offset 80822, length 3, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...  Em  atendimento  à  Deliberação  CVM  nº.  604,  de  19  de  novembro  de  2009, ...
+                                           ^^^470Offset 80962, length 3, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...9,  e  alteração  da  Deliberação  CVM  nº.  684,  de  30  de  agosto  de  2012,  q...
+                                           ^^^471Offset 81306, length 17, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: aprovada
+...oposto na  Política Financeira do Grupo que foi  aprovada pelo Conselho de Administração da holdi...
+                                           ^^^^^^^^^^^^^^^^^472Offset 81752, length 18, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tem como objetivo’ é uma expressão prolixa. É preferível dizer “visa”, “pretende” ou “procura”
+Suggestion: visa; pretende; procura
+...de uma gestão de controles internos que tem como  objetivo  o  monitoramento  contínuo  das  opera...
+                                           ^^^^^^^^^^^^^^^^^^473Offset 83560, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; por isso
+...ados  como  mantidos  para  negociação  e  por  isso   classificado como mensurados a valor ...
+                                           ^^^^^^^^^^^^474Offset 83575, length 12, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Classificado
+...tidos  para  negociação  e  por  isso   classificado como mensurados a valor justo por meio ...
+                                           ^^^^^^^^^^^^475Offset 85010, length 6, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...tamente  das  operações  da  Companhia  e  são  classificados  como  passivos   financ...
+                                           ^^^^^^476Offset 85050, length 11, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Financeiros
+...e  são  classificados  como  passivos   financeiros mensurados pelo custo amortizado.   •  ...
+                                           ^^^^^^^^^^^477Offset 86430, length 14, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘a maior parte’ é uma expressão prolixa. É preferível dizer “a maioria”
+Suggestion: a maioria
+...s a receber e fornecedores, por possuir a maior  parte dos seus vencimentos no curto prazo, já...
+                                           ^^^^^^^^^^^^^^478Offset 86723, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: pois, estes
+...ilar  ao  valor  contábil  registrado,  pois  estes  têm  taxas  de  juros  indexadas  à  c...
+                                           ^^^^^^^^^^^479Offset 87605, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...  forma o valor justo está refletido no valor da cota do fundo. As assets possuem sua...
+                                           ^^^^^480Offset 87614, length 4, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘cota’ e ‘quota’.
+Suggestion: quota
+... valor justo está refletido no valor da cota do fundo. As assets possuem suas metodo...
+                                           ^^^^481Offset 87689, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...as metodologias de marcação a  mercado, em conformidade com o Código ANBIMA de Regulação e Melhores...
+                                           ^^^^^^^^^^^^^^^^^^^482Offset 87948, length 23, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: esses ativos não existem
+... legais já descritos na Nota 2.10. Para esses ativos não existe mercado ativo, e  uma  vez  que  todas ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^483Offset 89989, length 26, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis para
+...cados  ativos  incluídos  no  Nível  1  que  são  observáveis para o ativo ou passivo, diretamente (como p...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^484Offset 90094, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...preços) ou indiretamente (derivados dos preços); e    Nível 3 – Inputs para o ativo ou...
+                                           ^^^^^^485Offset 90547, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... de mercado (incluindo risco de moeda,  risco de taxa de juros de valor justo, risco ...
+                                           ^^^^^486Offset 90586, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... risco de taxa de juros de valor justo, risco de taxa de juros de fluxo de caixa e ri...
+                                           ^^^^^487Offset 90629, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...co de taxa de juros de fluxo de caixa e risco de preço), risco de crédito e  risco de...
+                                           ^^^^^488Offset 90646, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...os de fluxo de caixa e risco de preço), risco de crédito e  risco de liquidez. O prog...
+                                           ^^^^^489Offset 90666, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... e risco de preço), risco de crédito e  risco de liquidez. O programa de gestão de ri...
+                                           ^^^^^490Offset 91984, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...é oriundo da possibilidade da Companhia vir a incorrer em perdas por conta de flutuações nas t...
+                                           ^^^^^^^^^^^^^^491Offset 92361, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...tinuamente as taxas de juros de mercado com o objetivo de avaliar a eventual necessidade de  cont...
+                                           ^^^^^^^^^^^^^^^^^492Offset 93460, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...% e no cenário III em 50% em relação ao cenário provável. Para os rendimentos das aplic...
+                                           ^^^^^^^493Offset 93802, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...o vencimento.  Este risco é controlado, através de um planejamento criterioso dos recursos...
+                                           ^^^^^^^^^^494Offset 94063, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...to  do  fluxo  de  caixa  da  empresa,  através  de  projeções  de  curto  e  longo  prazo,...
+                                           ^^^^^^^^^^^495Offset 94750, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...ítica  de  Crédito do Grupo Neoenergia, com o objetivo de preservar a liquidez e mitigar o risco ...
+                                           ^^^^^^^^^^^^^^^^^496Offset 96078, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...sco surge da possibilidade da Companhia vir a incorrer em perdas resultantes da dificuldade de...
+                                           ^^^^^^^^^^^^^^497Offset 96562, length 34, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: caixa, equivalentes e títulos; caixa e equivalentes, e títulos
+...ivos  financeiros  classificados  como  caixa  e  equivalentes  e  títulos  e  valores  mobiliários  a  companhia ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^498Offset 96694, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tem como objetivo’ é uma expressão prolixa. É preferível dizer “visa”, “pretende” ou “procura”
+Suggestion: visa; pretende; procura
+...ões da Política de Crédito do Grupo que tem como objetivo a mitigação do risco de crédito através...
+                                           ^^^^^^^^^^^^^^^^^499Offset 97292, length 8, Rule ID: ERRO_DE_CONCORDNCIA_DO_GÉNERO_MASCULINO_O
+Message: Possível erro de concordância de género.
+Suggestion: a Contas; o conta; o continha; o contita
+...tidos nas atividades fins da Companhia, o Contas a receber de clientes e outros.    O  r...
+                                           ^^^^^^^^500Offset 97397, length 18, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrerem
+...possibilidade  da  Companhia  /  Grupo  virem  a  incorrer  em  perdas  resultantes  da  dificulda...
+                                           ^^^^^^^^^^^^^^^^^^501Offset 98637, length 10, Rule ID: GENTILICOS_LINGUAS
+Message: Os gentílicos e línguas são escritos em minúsculas.
+Suggestion: brasileiro
+...3 260  4.427 48.661  O Sistema Elétrico Brasileiro é abastecido predominantemente pela ger...
+                                           ^^^^^^^^^^

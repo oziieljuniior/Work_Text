@@ -1,0 +1,286 @@
+502Offset 9962, length 22, Rule ID: QUE_TER_COMO_POR_NOME_ADJ
+Message: Com o pronome ‘cujo’, o seu texto poderia ficar mais claro e elegante.
+Suggestion: cujo objeto é
+... com  vigência  até  agosto  de  2027,  que  tem  como  objeto  estabelecer  as  condições  para  pres...
+                                           ^^^^^^^^^^^^^^^^^^^^^^503Offset 10209, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...(RAP), conforme Resolução Homologatória nº 1899, de 16 de junho de  2015, é de R$ ...
+                                           ^^504Offset 11076, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...slação  societária,  previstas  na  Lei nº 6.404/76 com alterações da Lei nº 11.63...
+                                           ^^505Offset 11110, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...  Lei nº 6.404/76 com alterações da Lei nº 11.638/07 e Lei nº 11.941/09, e os pron...
+                                           ^^506Offset 11125, length 3, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...76 com alterações da Lei nº 11.638/07 e Lei nº 11.941/09, e os pronunciamentos  con...
+                                           ^^^507Offset 11129, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...om alterações da Lei nº 11.638/07 e Lei nº 11.941/09, e os pronunciamentos  contáb...
+                                           ^^508Offset 11816, length 16, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e requerem
+....  Áreas  consideradas  significativas  e  que  requerem  maior  nível  de  julgamento  e  estão...
+                                           ^^^^^^^^^^^^^^^^509Offset 12530, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...ntadas  em  milhares  de  Reais  (R$),  que  é  a  moeda funcional da Companhia.   2.3.  ...
+                                           ^^^^^^^^^510Offset 12704, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...nceiros,  no  reconhecimento  inicial,  de  acordo com as seguintes categorias:   a)  Ativos fina...
+                                           ^^^^^^^^^^^^^^^^^511Offset 13439, length 36, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: pagar, empréstimos e financiamentos; pagar e empréstimos, e financiamentos
+...gar  a  fornecedores,  outras  contas a pagar e empréstimos e financiamentos.   Após  reconhecimento  inicial,  empr...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^512Offset 16491, length 15, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: permitida
+...iciados  a partir de 1 de janeiro 2018, sendo permitida adoção antecipada. O objetivo  é fornec...
+                                           ^^^^^^^^^^^^^^^513Offset 16507, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...r de 1 de janeiro 2018, sendo permitida adoção antecipada. O objetivo  é fornecer prin...
+                                           ^^^^^^514Offset 16850, length 20, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: demonstrado
+...evantes acerca  das locações de maneira que seja demonstrado nas demonstrações  financeiras, de form...
+                                           ^^^^^^^^^^^^^^^^^^^^515Offset 17175, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...ão societária em uma operação  conjunta na qual a atividade da operação conjunta consti...
+                                           ^^^^^^^516Offset 19636, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ulares (e vice-versa) e os casos em que ativos mantidos para  distribuição a titulares...
+                                           ^^^^^^517Offset 19643, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...(e vice-versa) e os casos em que ativos mantidos para  distribuição a titulares não aten...
+                                           ^^^^^^^^518Offset 20865, length 13, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (amortização
+...operacional somado ao serviço da dívida ( amortização e juros),   tornando-se dessa forma uma...
+                                           ^^^^^^^^^^^^^519Offset 21101, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...  Caixa e equivalentes de caixa incluem caixa, depósitos bancários à vista e aplicaçõ...
+                                           ^^^^^520Offset 21876, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... a receber de consumidores  e títulos a receber cuja recuperação é considerada improváv...
+                                           ^^^^^^^521Offset 23790, length 10, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de forma a’ é uma expressão prolixa. É preferível dizer “para”
+Suggestion: para
+...rviços  públicos a operadores privados, de forma a refletir o negócio de transmissão, abra...
+                                           ^^^^^^^^^^522Offset 24833, length 10, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Concedente
+...tos  de  recebíveis  junto  ao  poder   concedente decorrente da remuneração pela taxa int...
+                                           ^^^^^^^^^^523Offset 25061, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...s  fluxos de caixa, à saber:  (a) Parte através de valores a receber garantidos pelo poder...
+                                           ^^^^^^^^^^524Offset 27289, length 7, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Reforço
+... e  engenharia  com  o  projeto  para   reforço da Subestação e linha de Transmissão.  ...
+                                           ^^^^^^^525Offset 27342, length 18, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: A Companhia mante
+...bestação e linha de Transmissão.   (b)  A Companhia mantem contrato de serviço de operação e manut...
+                                           ^^^^^^^^^^^^^^^^^^526Offset 29961, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: Conforme o; Segundo o; Consoante o
+...nações dos lucros da seguinte  forma:   De acordo com o previsto no estatuto social da Companhi...
+                                           ^^^^^^^^^^^^^^^527Offset 30149, length 36, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: os dividendos mínimos obrigatórios são
+...ão societária.   A base de cálculo para os dividendos mínimos obrigatórios é como segue:   17   Ref.20152014Circulan...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^528Offset 32254, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...clarados2.899        Propostos108       Saldos em 31 de dezembro de 20153.072    Acion...
+                                           ^^^^^^529Offset 33441, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : PIS
+...da receita bruta   19   20152014IMPOSTOS:PIS(254)          (253)       COFINS(1.167)...
+                                           ^^^^530Offset 33522, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Quota
+...67)        (1.166)    ENCARGOS SETORIAIS:Quota para reserva global de reversão - RGR(1...
+                                           ^^^^^^531Offset 34200, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...rução ou melhoria) e CPC 30 – Receitas (serviços de operação – fornecimento de energia  ...
+                                           ^^^^^^^^532Offset 37563, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...       452         BAGUARI I GERAÇÃO DE ENERGIA ELÉTRICA S.A.5            -          - ...
+                                           ^^^^^^^533Offset 37783, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...      -             -         CALANGO 1 ENERGIA RENOVÁVEL S/A2            -          - ...
+                                           ^^^^^^^534Offset 37894, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...      -             -         CALANGO 2 ENERGIA RENOVÁVEL S/A2            -          - ...
+                                           ^^^^^^^535Offset 38005, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...      -             -         CALANGO 3 ENERGIA RENOVÁVEL S/A2            -          - ...
+                                           ^^^^^^^536Offset 38013, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...            -         CALANGO 3 ENERGIA RENOVÁVEL S/A2            -          -           ...
+                                           ^^^^^^^^^537Offset 38116, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...      -             -         CALANGO 4 ENERGIA RENOVÁVEL S/A2            -          - ...
+                                           ^^^^^^^538Offset 38124, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...            -         CALANGO 4 ENERGIA RENOVÁVEL S/A2            -          -           ...
+                                           ^^^^^^^^^539Offset 38227, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...      -             -         CALANGO 5 ENERGIA RENOVÁVEL S/A2            -          - ...
+                                           ^^^^^^^540Offset 38235, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...            -         CALANGO 5 ENERGIA RENOVÁVEL S/A2            -          -           ...
+                                           ^^^^^^^^^541Offset 38338, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...      -             -         CAETITÉ 2 ENERGIA RENOVÁVEL S/A2            -          - ...
+                                           ^^^^^^^542Offset 38346, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...            -         CAETITÉ 2 ENERGIA RENOVÁVEL S/A2            -          -           ...
+                                           ^^^^^^^^^543Offset 38449, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...      -             -         CAETITÉ 3 ENERGIA RENOVÁVEL S/A2            -          - ...
+                                           ^^^^^^^544Offset 38457, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...            -         CAETITÉ 3 ENERGIA RENOVÁVEL S/A2            -          -           ...
+                                           ^^^^^^^^^545Offset 39487, length 16, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: aprovada
+...to  na  Política  Financeira  do  Grupo que foi aprovada pelo Conselho de Administração da  sua ...
+                                           ^^^^^^^^^^^^^^^^546Offset 39898, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tem como objetivo’ é uma expressão prolixa. É preferível dizer “visa”, “pretende” ou “procura”
+Suggestion: visa; pretende; procura
+...uma  gestão  de  controles internos que tem como objetivo o acompanhamento contínuo das operações...
+                                           ^^^^^^^^^^^^^^^^^547Offset 40752, length 22, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  ResultadoCirculanteNão
+...ento de dividendos, devolver   22   Ref.ResultadoCirculanteNão circulanteTotalCirculanteNão circulante...
+                                           ^^^^^^^^^^^^^^^^^^^^^^548Offset 42517, length 3, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Por
+...s  como mantidos  para  negociação  e   por isso classificados como mensurados a va...
+                                           ^^^549Offset 43626, length 5, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+... diretamente das operações da Companhia e são classificados como  passivos financeiro...
+                                           ^^^^^550Offset 44760, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘a maior parte’ é uma expressão prolixa. É preferível dizer “a maioria”
+Suggestion: a maioria
+...s a receber e fornecedores, por possuir a maior parte  dos seus vencimentos no curto prazo, j...
+                                           ^^^^^^^^^^^^^551Offset 45462, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...a forma o valor justo está refletido no valor da cota do fundo.   A mensuração contáb...
+                                           ^^^^^552Offset 45471, length 4, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘cota’ e ‘quota’.
+Suggestion: quota
+... valor justo está refletido no valor da cota do fundo.   A mensuração contábil da in...
+                                           ^^^^553Offset 45672, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: esses ativos não existem
+...s e legais já descritos na Nota 7. Para esses ativos não  existe  mercado  ativo,  e  uma  vez  que  tod...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^554Offset 46055, length 22, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 52.953
+...cebíveis46.156          46.156          52.953          52.953          Contas a receber de clientes e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^555Offset 46158, length 22, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 4.554
+...outros4.186            4.186            4.554            4.554            Concessão do Serviço Público...
+                                           ^^^^^^^^^^^^^^^^^^^^^^556Offset 46279, length 22, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 48.399
+...missoras41.970          41.970          48.399          48.399          Mensurados pelo valor justo po...
+                                           ^^^^^^^^^^^^^^^^^^^^^^557Offset 46392, length 22, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 30.004
+...esultado42.501          42.501          30.004          30.004          Caixa e equivalentes de caixa4...
+                                           ^^^^^^^^^^^^^^^^^^^^^^558Offset 46485, length 22, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 29.284
+...de caixa42.264          42.264          29.284          29.284          Titulos e valores mobiliários2...
+                                           ^^^^^^^^^^^^^^^^^^^^^^559Offset 46635, length 10, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...  720              Passivo financeiros (Circulante / Não circulante)Mensurado pelo custo a...
+                                           ^^^^^^^^^^560Offset 46652, length 10, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...  Passivo financeiros (Circulante / Não circulante)Mensurado pelo custo amortizado6.047   ...
+                                           ^^^^^^^^^^561Offset 46728, length 22, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 5.396
+...tizado6.047            6.047            5.396            5.396            Fornecedores2.011           ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^562Offset 46904, length 22, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 4.563
+...mentos4.036            4.036            4.563            4.563            20152014                    ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^563Offset 47121, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...s a valor justo  por meio do resultado, de acordo com o nível de mensuração de cada um, conside...
+                                           ^^^^^^^^^^^^^^^564Offset 47315, length 8, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Passivos
+...  ativos  para  ativos  idênticos  ou   passivos.     Nível 2 - Inputs diferentes dos p...
+                                           ^^^^^^^^565Offset 47420, length 27, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis para
+...em mercados ativos incluídos no Nível 1 que  são  observáveis  para  o  ativo  ou  passivo,  diretamente  (...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^566Offset 47536, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ços)  ou  indiretamente  (derivados dos preços).     Nível  3  -  Inputs  para  o  at...
+                                           ^^^^^^567Offset 47658, length 7, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Mercado
+...eados  em  variáveis  observáveis  de   mercado (inputs não observáveis).   Fatores de ...
+                                           ^^^^^^^568Offset 47859, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...  (incluindo,  risco de taxa de juros), risco de crédito e risco de liquidez. O progr...
+                                           ^^^^^569Offset 47878, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...o de taxa de juros), risco de crédito e risco de liquidez. O programa de gestão de ri...
+                                           ^^^^^570Offset 48198, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...é oriundo da possibilidade da Companhia vir a incorrer em perdas por conta de flutuações  nas ...
+                                           ^^^^^^^^^^^^^^571Offset 48596, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...tinuamente as taxas de juros de mercado com o objetivo de avaliar a eventual necessidade de  cont...
+                                           ^^^^^^^^^^^^^^^^^572Offset 48731, length 2, Rule ID: UNITS_OF_MEASURE_SPACING
+Message: Deve dar um espaço entre o valor e a unidade de medida: “1 N”
+Suggestion: 1 N
+...volatilidade dessas taxas.   25   Nível 1Nível 2TotalAtivosMantidos para negociaçã...
+                                           ^^573Offset 50466, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...olítica de Crédito do Grupo Neoenergia, com o objetivo de preservar a liquidez e  mitigar  o  ris...
+                                           ^^^^^^^^^^^^^^^^^574Offset 51468, length 16, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...urge  da  possibilidade  da  Companhia  vir  a  incorrer  em  perdas  resultantes  da  dificulda...
+                                           ^^^^^^^^^^^^^^^^575Offset 51629, length 34, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: caixa, equivalentes e títulos; caixa e equivalentes, e títulos
+...ivos  financeiros  classificados  como  caixa  e  equivalentes  e  títulos  e  valores  mobiliários, a Companhia s...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^576Offset 51759, length 18, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tem como objetivo’ é uma expressão prolixa. É preferível dizer “visa”, “pretende” ou “procura”
+Suggestion: visa; pretende; procura
+...ões da Política de Crédito do Grupo que tem como  objetivo  a  mitigação  do  risco  de  crédito  ...
+                                           ^^^^^^^^^^^^^^^^^^577Offset 52784, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...ata de vigência dos principais seguros, de acordo com  os corretores de seguros contratados pela ...
+                                           ^^^^^^^^^^^^^^^^^578Offset 53001, length 12, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Empréstimos
+...anosPassivos financeiros não derivativos:Empréstimos e financimentos4.036      4.722        ...
+                                           ^^^^^^^^^^^^579Offset 53130, length 28, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 2.011
+...62  817          Fornecedores2.011      2.011                  2.011    -   -   -    -   -           2015201...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^

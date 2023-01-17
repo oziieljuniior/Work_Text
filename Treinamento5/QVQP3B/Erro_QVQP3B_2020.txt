@@ -1,0 +1,133 @@
+146Offset 1024, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...emonstrações Contábeis foram preparadas de acordo com as práticas contábeis adotadas no Brasil, ...
+                                           ^^^^^^^^^^^^^^^^147Offset 2051, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensurados pelo
+...m exceção dos instrumentos  financeiros que são mensurados pelo valor justo.   c)  Moeda funcional e de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^148Offset 2220, length 6, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...  estão  apresentadas  em  Real  (R$),  que  é  a  moeda  do  principal ambiente econô...
+                                           ^^^^^^149Offset 2853, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores  diferentes  dos...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^150Offset 3801, length 8, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: aluguéis
+...ro  relacionado  com  o  pagamento  de  alugueis.     IFRIC 23/ICPC 22 – Esclarece como...
+                                           ^^^^^^^^151Offset 4044, length 20, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou diferido ativo, ou
+...nhecer  e mensurar seu tributo corrente ou diferido ativo ou passivo, aplicando os requisitos do CPC...
+                                           ^^^^^^^^^^^^^^^^^^^^152Offset 4215, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...juízos fiscais não utilizados, créditos fiscais  não  utilizados  e  alíquotas  fiscais...
+                                           ^^^^^^^153Offset 4255, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...fiscais  não  utilizados  e  alíquotas  fiscais  determinadas,  aplicando  esta  Interp...
+                                           ^^^^^^^154Offset 5145, length 29, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: las, conceitos e orientações; las e conceitos, e orientações
+...ração  e orientação  sobre  quando  usá-las e conceitos e orientações sobre apresentação e divulgação.      ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^155Offset 5490, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘para efeitos de’ é uma expressão prolixa. É preferível dizer “para”
+Suggestion: para
+... uma revisão da definição de “negócio”  para efeitos de contabilização de concentrações de ativ...
+                                           ^^^^^^^^^^^^^^^156Offset 6318, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: e, no entanto
+...nhia avaliou os reflexos destas normas, e no entanto, não espera impacto relevante sobre as ...
+                                           ^^^^^^^^^^^^157Offset 6888, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...iros inicialmente na data da negociação na qual a Companhia  se torna uma das partes da...
+                                           ^^^^^^^158Offset 7481, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...uivalentes de caixa abrangem saldos de  caixa e investimentos financeiros com vencime...
+                                           ^^^^^159Offset 7662, length 6, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...nsignificante de  alteração  no  valor  e  são  utilizadas  na  gestão  das  obrigaçõe...
+                                           ^^^^^^160Offset 9471, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...são preços cotados incluídos no Nível 1 e que são observáveis para o ativo  ou passivo, s...
+                                           ^^^^^^^^^161Offset 9761, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+... operações,  atualizados monetariamente de acordo com as regras legais, e representam créditos f...
+                                           ^^^^^^^^^^^^^^^^162Offset 11534, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...lo método indireto e estão apresentadas de  acordo com o CPC 03 (R2).   4.  Caixa e Equivalentes...
+                                           ^^^^^^^^^^^^^^^^163Offset 11925, length 5, Rule ID: PERCENT_WITHOUT_SPACE
+Message: Escreva a percentagem sem espaços (estilo padrão).
+Suggestion: 94%
+...Em 2019, a remuneração  média  foi  de  94  %  do  CDI  (95%  em  31/12/2018).  A  se...
+                                           ^^^^^164Offset 12189, length 2, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: De
+...     BNY Mellon    Itaú   2019   Quant. de  Cotas   714,74   8.338,54     Valor   ...
+                                           ^^165Offset 12193, length 5, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘cota’ e ‘quota’.
+Suggestion: Quotas
+... BNY Mellon    Itaú   2019   Quant. de  Cotas   714,74   8.338,54     Valor          ...
+                                           ^^^^^166Offset 12274, length 2, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: De
+...    3      38    41       2018   Quant. de  Cotas     Valor   474,27   2   16.156,...
+                                           ^^167Offset 12278, length 5, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘cota’ e ‘quota’.
+Suggestion: Quotas
+...3      38    41       2018   Quant. de  Cotas     Valor   474,27   2   16.156,12   70...
+                                           ^^^^^168Offset 14518, length 22, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+...7.  Partes Relacionadas   A  Companhia  não  efetuou  qualquer  remuneração  a  diretores,  administra...
+                                           ^^^^^^^^^^^^^^^^^^^^^^169Offset 15000, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... societárias, R$ 44 (R$ 43 em 2018) de  despesas com contribuições e associações diversa...
+                                           ^^^^^^^^170Offset 15073, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ciações diversas e R$ 10 (R$ 9 em 2018) despesas de serviços do sistema  financeiro e R$...
+                                           ^^^^^^^^171Offset 15153, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...iro e R$ 1 (R$ 3 em 2018) de despesa de serviços jurídicos.                             ...
+                                           ^^^^^^^^172Offset 15845, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...  riscos  apropriados, e para monitorar riscos e aderência aos limites.   Riscos de cr...
+                                           ^^^^^^173Offset 15854, length 9, Rule ID: PORTUGUESE_WRONG_WORD_IN_CONTEXT
+Message: Considere “adesão”, i.e. apoio com presença física, em vez de ‘aderência’, i.e. propriedade física de ser aderente?
+Suggestion: adesão
+... apropriados, e para monitorar riscos e aderência aos limites.   Riscos de crédito   Risc...
+                                           ^^^^^^^^^174Offset 16606, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...ssociadas com seus passivos financeiros que são liquidados com pagamentos à vista ou  com outro ativo ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^175Offset 16777, length 13, Rule ID: COLOCACAO_ADVERBIO
+Message: Esta frase poderia soar melhor com o verbo antes de sempre.
+Suggestion: tenha sempre 
+...e garantir,  o  máximo  possível,  que  sempre  tenha  liquidez  suficiente  para  cumprir  c...
+                                           ^^^^^^^^^^^^^176Offset 18137, length 8, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...enário  provável,  para  cada  cenário  e  foram  calculadas  as  receitas  financeiras ...
+                                           ^^^^^^^^177Offset 18216, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...anceiras ou despesas financeiras não se levando em consideração a incidência de tributos. Dessa forma, ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^178Offset 18425, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+... financeiras  R$ 41 em 31/12/2019 (Nota nº 4)   11. Eventos subsequentes   Fator d...
+                                           ^^179Offset 18801, length 7, Rule ID: UM_MIL_BR
+Message: Substitua «um mil» por “mil”.
+Suggestion: mil
+...R$  221.000,00  (duzentos  e  vinte  e  um  mil  reais),  mediante  a  emissão  privada...
+                                           ^^^^^^^180Offset 19067, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...orrendo assim o aumento de capital e a  emissão de ações da Companhia   *   *   *      ...
+                                           ^^^^^^^

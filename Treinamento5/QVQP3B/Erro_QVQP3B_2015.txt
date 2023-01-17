@@ -1,0 +1,50 @@
+55Offset 82, length 8, Rule ID: AO90_MONTHS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os meses e as estações do ano deixam de ser capitalizados.
+Suggestion: dezembro
+...s às Demonstrações Contábeis   Em 30 de Dezembro de 2014 e 2013    (Em milhares de reais...
+                                           ^^^^^^^^56Offset 619, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...emonstrações contábeis foram elaboradas de acordo com as práticas contábeis adotadas  no Brasil,...
+                                           ^^^^^^^^^^^^^^^^57Offset 790, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...mitidas  pelo Comitê de Pronunciamentos Contábeis – CPC e as normas estabelecidas pela Co...
+                                           ^^^^^^^^^58Offset 1112, length 6, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+... estão  apresentadas  em  reais  (R$),  que  é  a  moeda do principal ambiente econômi...
+                                           ^^^^^^59Offset 1651, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...uivalentes de caixa incluem dinheiro em caixa, depósitos bancários e aplicações  fina...
+                                           ^^^^^60Offset 2976, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+... elaboração das demonstrações contábeis de acordo com as práticas contábeis adotadas  no Brasil ...
+                                           ^^^^^^^^^^^^^^^^61Offset 3137, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...erminação  e no registro de estimativas contábeis. Ativos e passivos sujeitos a estimativ...
+                                           ^^^^^^^^^62Offset 3301, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...liquidação  das  transações  envolvendo essas estimativas poderá resultar em valores diferentes dos esti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^63Offset 4137, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+... de 2009, o IASB emitiu a norma IFRS 9, com o objetivo de substituir a  norma  IAS  39  –  Instru...
+                                           ^^^^^^^^^^^^^^^^^64Offset 4685, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...aio de 2014, da então Medida Provisória nº 627,  trata dos efeitos da extinção do ...
+                                           ^^65Offset 6305, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativos à
+...-se  ao  registro  da  baixa  de  R$86  relativos  a  desistência  do  recurso administrativ...
+                                           ^^^^^^^^^^^^66Offset 8083, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...ros  da  Companhia  foram  determinados por meio de informações disponíveis no mercado e me...
+                                           ^^^^^^^^^^^67Offset 8223, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...istração desses instrumentos é efetuada por meio de estratégias operacionais, visando  liqu...
+                                           ^^^^^^^^^^^

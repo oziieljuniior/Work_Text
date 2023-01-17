@@ -1,0 +1,122 @@
+181Offset 83, length 8, Rule ID: AO90_MONTHS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os meses e as estações do ano deixam de ser capitalizados.
+Suggestion: dezembro
+... às Demonstrações Contábeis    Em 31 de Dezembro de 2020 e 2019   (Em milhares de reais,...
+                                           ^^^^^^^^182Offset 1069, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...emonstrações contábeis foram preparadas de acordo com as práticas contábeis adotadas  no  Brasil...
+                                           ^^^^^^^^^^^^^^^^183Offset 2145, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensurados pelo
+...m exceção dos  instrumentos financeiros que são mensurados pelo valor justo.                           ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^184Offset 2419, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...adas e estão apresentadas em Real (R$), que é a  moeda do principal ambiente econômic...
+                                           ^^^^^185Offset 2931, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...o  a  ser  registrado  nas  informações contábeis intermediárias.    A  liquidação  das  ...
+                                           ^^^^^^^^^186Offset 3004, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores  diferentes dos ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^187Offset 4289, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...iros inicialmente na data da negociação na qual a  Companhia se torna uma das partes da...
+                                           ^^^^^^^188Offset 4874, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...entes  de  caixa  abrangem  saldos  de  caixa  e  investimentos  financeiros  com  ve...
+                                           ^^^^^189Offset 5075, length 6, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...significante  de  alteração  no  valor  e  são  utilizadas  na  gestão  das  obrigaçõe...
+                                           ^^^^^^190Offset 5504, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...idos inicialmente na data de negociação na qual a Companhia se torna  uma parte das dis...
+                                           ^^^^^^^191Offset 6943, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...são preços cotados incluídos no Nível 1 e que são observáveis  para o ativo ou passivo, s...
+                                           ^^^^^^^^^192Offset 7243, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...  operações, atualizados monetariamente de acordo com as regras legais, e representam créditos  ...
+                                           ^^^^^^^^^^^^^^^^193Offset 9053, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...o método indireto e estão apresentadas  de acordo com o CPC 03 (R2).   4 -  Caixa e Equivalente...
+                                           ^^^^^^^^^^^^^^^194Offset 9726, length 2, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: De
+...vo   2020  Nível  Administrador  Quant. de Cotas             31.150,03  319,94   B...
+                                           ^^195Offset 9729, length 5, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘cota’ e ‘quota’.
+Suggestion: Quotas
+...  2020  Nível  Administrador  Quant. de Cotas             31.150,03  319,94   BNY Mel...
+                                           ^^^^^196Offset 9838, length 2, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: De
+...or         144  2  146   2019    Quant. de Cotas   8.338,54    714,74     Valor  3...
+                                           ^^197Offset 9841, length 5, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘cota’ e ‘quota’.
+Suggestion: Quotas
+...        144  2  146   2019    Quant. de Cotas   8.338,54    714,74     Valor  38  3  ...
+                                           ^^^^^198Offset 10713, length 3, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: hum!; hum?; hum!?
+...em valor nominal, pelo preço de R$0,01 (hum centavo de real)  por ação.     A Assem...
+                                           ^^^199Offset 11007, length 3, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: hum!; hum?; hum!?
+...em valor nominal, pelo preço de R$0,01 (hum centavo de real)  por ação.     b)  Div...
+                                           ^^^200Offset 11995, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+... 7 -  Partes Relacionadas   A Companhia não efetuou qualquer remuneração a diretores, administradore...
+                                           ^^^^^^^^^^^^^^^^^^^^201Offset 12062, length 13, Rule ID: SUBSTANTIVO_PLURAL_E_CHAVE
+Message: Utilize a forma composta.
+Suggestion: pessoas-chave
+...ração a diretores, administradores ou a pessoas chave da  Administração ou qualquer outra ope...
+                                           ^^^^^^^^^^^^^202Offset 12493, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... societárias,  R$42  (R$44  em  31  de  dezembro  de  2019)  despesas  com  contribuiçõe...
+                                           ^^^^^^^^203Offset 12514, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...(R$44  em  31  de  dezembro  de  2019)  despesas  com  contribuições  e  associações div...
+                                           ^^^^^^^^204Offset 12584, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...e  associações diversas e (R$1 em 30 de dezembro de 2019) em despesas com serviços juríd...
+                                           ^^^^^^^^205Offset 12605, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...as e (R$1 em 30 de dezembro de 2019) em despesas com serviços jurídicos   9 -  Receitas ...
+                                           ^^^^^^^^206Offset 13209, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...de riscos apropriados, e para monitorar riscos e aderência aos limites.   Riscos de cr...
+                                           ^^^^^^207Offset 13218, length 9, Rule ID: PORTUGUESE_WRONG_WORD_IN_CONTEXT
+Message: Considere “adesão”, i.e. apoio com presença física, em vez de ‘aderência’, i.e. propriedade física de ser aderente?
+Suggestion: adesão
+... apropriados, e para monitorar riscos e aderência aos limites.   Riscos de crédito   Risc...
+                                           ^^^^^^^^^208Offset 14096, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...ssociadas com seus passivos financeiros que são liquidados com pagamentos à vista ou  com outro ativo ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^209Offset 14266, length 13, Rule ID: COLOCACAO_ADVERBIO
+Message: Esta frase poderia soar melhor com o verbo antes de sempre.
+Suggestion: tenha sempre 
+...de garantir, o  máximo  possível,  que  sempre  tenha  liquidez  suficiente  para  cumprir  c...
+                                           ^^^^^^^^^^^^^210Offset 15073, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; categoria de
+...  análise  de  sensibilidade, para cada tipo de risco de mercado considerado relevante ...
+                                           ^^^^^^^211Offset 15697, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...  R$146 em 31 de dezembro de 2020 (Nota nº 4)   CDI   3,00%   2,25%   1,50%   -   ...
+                                           ^^212Offset 15965, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...vância  ao  Ofício-Circular/CVM/SNC/SEP/nº  02/2020,  a  administração  da  Compan...
+                                           ^^

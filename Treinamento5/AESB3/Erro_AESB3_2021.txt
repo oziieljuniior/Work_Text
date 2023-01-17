@@ -1,0 +1,98 @@
+1Offset 3431, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...gistro  apresentado na nota explicativa nº 8, com sede na Avenida Luiz Carlos Berr...
+                                           ^^2Offset 3886, length 1, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: E
+...Stigma  Holdings  Participações  Ltda.  e  Kappa  Holdings  Participações  Ltda.,...
+                                           ^3Offset 4109, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...rgia S.A.    Em 23 de novembro de 2020, por meio de Assembleia Geral Extraordinária, foram ...
+                                           ^^^^^^^^^^^4Offset 4490, length 7, Rule ID: ARTICLES_PRECEDING_LOCATIONS
+Message: Este nome geográfico é precedido de um artigo.
+Suggestion: a Avenida
+...s, São Paulo  – SP, CEP 05425-011 para  Avenida  Luiz Carlos Berrini, 1.376, 12º andar ...
+                                           ^^^^^^^5Offset 4938, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: sem, contudo
+...de outras  fontes de energia incluindo, sem contudo se limitar, fontes renováveis como a so...
+                                           ^^^^^^^^^^^6Offset 5079, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...de projetos de produção independente de energia,  operação  e  manutenção  de  usinas, ...
+                                           ^^^^^^^7Offset 5235, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... de  equipamentos para  a  geração  de  energia,  (b)    barragens  de  acumulação,  ec...
+                                           ^^^^^^^8Offset 5474, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...pesquisa  e  desenvolvimento  de  novas fontes e vetores de energia, diretamente ou em...
+                                           ^^^^^^9Offset 5494, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...lvimento  de  novas fontes e vetores de energia, diretamente ou em cooperação com outra...
+                                           ^^^^^^^10Offset 5814, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...de combustíveis destinados à geração de energia, além de  realizar liquefação e regasei...
+                                           ^^^^^^^11Offset 6281, length 5, Rule ID: GENTILICOS_LINGUAS
+Message: Os gentílicos e línguas são escritos em minúsculas.
+Suggestion: ítalo
+...nhia na posição de Diretor  Presidente: Ítalo Tadeu de Carvalho Freitas Filho, Direto...
+                                           ^^^^^12Offset 6438, length 10, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ina  Sadock  Accorsi,  e  Diretor  Vice-Presidente:  Carlos  Renato Xavier Pompermaier.   ...
+                                           ^^^^^^^^^^13Offset 6970, length 16, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: permitida
+...com mandato unificado de 2 (dois) anos, sendo  permitida a reeleição.   (vi)  Autorizar  a  real...
+                                           ^^^^^^^^^^^^^^^^14Offset 7282, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...mos da Instrução CVM 480 (“Registro  de Companhia Aberta”).   (vii)  Autorizar  a  admini...
+                                           ^^^^^^^^^15Offset 8134, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...mpanhia foram preparadas e apresentadas de acordo com  as  práticas  contábeis  adotadas  no  Bra...
+                                           ^^^^^^^^^^^^^^^^^16Offset 8589, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: )
+...al Financial Reporting Standards (“IFRS”)), emitidas pelo International  Accountin...
+                                           ^^17Offset 8863, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...das e estão apresentadas em Reais (R$), que é a  moeda  funcional e de apresentação da ...
+                                           ^^^^^^^18Offset 9972, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...or são registrados como equivalentes de caixa. Os investimentos com  vencimento  supe...
+                                           ^^^^^19Offset 10773, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...  no  ordenamento jurídico, bem como, a avaliação dos advogados externos. As provisões de...
+                                           ^^^^^^^^^20Offset 10858, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...s devem  ser revisadas e ajustadas para levar em conta alterações nas circunstâncias, tais com...
+                                           ^^^^^^^^^^^^^^21Offset 12917, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+... 2020, a Companhia não mantém operações e ou acordos com partes  relacionadas, não h...
+                                           ^^^^22Offset 12975, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...artes  relacionadas, não havendo saldos e ou transações contábeis. Durante o período...
+                                           ^^^^23Offset 13326, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...forme  descrito  na  nota  explicativa  nº  1,  a  Companhia  está  em  fase  não ...
+                                           ^^24Offset 13617, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...  caixa apresentado na nota explicativa nº 4.   8    EVENTOS SUBSEQUENTES   Reorga...
+                                           ^^25Offset 14040, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...lor apurado para as ações da AES Tietê, de acordo com o  Laudo de Avaliação das Ações da AES Ti...
+                                           ^^^^^^^^^^^^^^^26Offset 14990, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...biliários em mercados regulamentados de valores mobiliários.             
+                                           ^^^^^^^27Offset 14998, length 11, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...s em mercados regulamentados de valores mobiliários.             
+                                           ^^^^^^^^^^^

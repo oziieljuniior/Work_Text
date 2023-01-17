@@ -1,0 +1,246 @@
+1Offset 834, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...         619                   TOTAL DO ATIVO NÃO CIRCULANTE239                  258 ...
+                                           ^^^^^2Offset 917, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...8                  619                  TOTAL DO ATIVO2.154               2.209      ...
+                                           ^^^^^3Offset 1210, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...                   -                    TOTAL DO PASSIVO CIRCULANTE-                 ...
+                                           ^^^^^4Offset 1354, length 26, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 2.357
+...IDOCapital social 82.357                2.357                2.357                Prejuízos acumulados(203...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^5Offset 1485, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...                 (171)                  TOTAL DO PATRIMÔNIO LÍQUIDO2.154             ...
+                                           ^^^^^6Offset 2865, length 26, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 2.356.634
+...    Quantidade de ações2.356.634        2.356.634        2.356.634        (Prejuízo)/Lucro por ação(0,02) ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^7Offset 2988, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...00                 0,01                 RESULTADO ANTES DOS TRIBUTOSTOTAL DOS TRIBUTOSTOT...
+                                           ^^^^^^^^^8Offset 4383, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...         9                              Saldos em 31 de dezembro de 20192.357         ...
+                                           ^^^^^^9Offset 4399, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...                        Saldos em 31 de dezembro de 20192.357               (162)       ...
+                                           ^^^^^^^^10Offset 4592, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...          (41)                          Saldos em 31 de dezembro de 20202.357         ...
+                                           ^^^^^^11Offset 4608, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...                        Saldos em 31 de dezembro de 20202.357               (203)       ...
+                                           ^^^^^^^^12Offset 5263, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : PIS
+... com o caixa das atividades operacionais:PIS e COFINS sobre receita financeira102   ...
+                                           ^^^^13Offset 6349, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...          (53)                    Caixa líquido (usado) gerado nas atividades operacion...
+                                           ^^^^^^^14Offset 6387, length 12, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...a líquido (usado) gerado nas atividades operacionais(14)                   406              ...
+                                           ^^^^^^^^^^^^15Offset 6508, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...plicações) Resgates de investimentos de curto prazo7                       (376)     ...
+                                           ^^^^^16Offset 6590, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...                (22)                    Caixa líquido gerado (usado) nas atividades d...
+                                           ^^^^^17Offset 6596, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...          (22)                    Caixa líquido gerado (usado) nas atividades de invest...
+                                           ^^^^^^^18Offset 6623, length 10, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...       Caixa líquido gerado (usado) nas atividades de investimentos7                      ...
+                                           ^^^^^^^^^^19Offset 6730, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...     (22)                   Variação no caixa líquido da Empresa(7)                  ...
+                                           ^^^^^20Offset 6736, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...22)                   Variação no caixa líquido da Empresa(7)                     30   ...
+                                           ^^^^^^^21Offset 6842, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...40)                    Saldo inicial de caixa e equivalentes de caixa47              ...
+                                           ^^^^^22Offset 6958, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...7                     Saldo no final de caixa e equivalentes de caixa40              ...
+                                           ^^^^^23Offset 7736, length 5, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...               (88)                  4. VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA56 ...
+                                           ^^^^^24Offset 7926, length 5, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...                116                  5. VALOR ADICIONADO TOTAL A DISTRIBUIR(35)      ...
+                                           ^^^^^25Offset 8981, length 3, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Era
+...ern Electric Brasil Participações Ltda. era uma sociedade por quotas de responsabil...
+                                           ^^^26Offset 9147, length 2, Rule ID: SI_UNITS_CASE
+Message: Unidades do Sistema Internacional são escritas com minúsculas.
+Suggestion: km
+...4 – Comandante  João Ribeiro de Barros, Km 348, Distrito Industrial Claudio Guedes...
+                                           ^^27Offset 9437, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...nota explicativa de evento  subsequente nº 11, em 24 de abril de 2021, houve trans...
+                                           ^^28Offset 11182, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: Para; Visando
+...significativos esforços em seu combate. Com o objetivo de avaliar,  monitorar e aplicar todas as ...
+                                           ^^^^^^^^^^^^^^^^^29Offset 11432, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...iderado  pela Diretoria de Tesouraria e Riscos.   Nesse  sentindo  a  Companhia  conti...
+                                           ^^^^^^30Offset 13804, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Como forma de’ é uma expressão prolixa. É preferível dizer “para”
+Suggestion: Para
+...se  no  pressuposto  de  continuidade.  Como forma de mitigar seu risco de liquidez, a Compan...
+                                           ^^^^^^^^^^^^^31Offset 14452, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+... estão  apresentadas  em  Reais  (R$),  que  é  a  moeda  funcional  da  Companhia.  A  m...
+                                           ^^^^^^^^^32Offset 14957, length 11, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... de janeiro de  2018, mantendo assim as informações auditadas para os exercícios findos em ...
+                                           ^^^^^^^^^^^33Offset 17619, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... ordenamento  jurídico,  bem  como,  a  avaliação  dos  advogados externos. As provisões ...
+                                           ^^^^^^^^^34Offset 17699, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...rovisões são revisadas e ajustadas para levar em conta alterações nas  circunstâncias, tais co...
+                                           ^^^^^^^^^^^^^^35Offset 18337, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...ibuição social correntes são calculadas de acordo com a legislação  tributária vigente. O impos...
+                                           ^^^^^^^^^^^^^^^36Offset 18652, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... computada pela alíquota de 9% sobre  o lucro tributável. O imposto de renda e a cont...
+                                           ^^^^^37Offset 19542, length 37, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: realizadas, os créditos e prejuízos; realizadas e os créditos, e prejuízos
+...ue as diferenças temporárias possam ser realizadas  e os créditos e prejuízos tributários possam ser utilizados.   A ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^38Offset 20013, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...nforme demonstrado na nota  explicativa nº 6.   3.4 Novos pronunciamentos   Para o...
+                                           ^^39Offset 20229, length 11, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: não haver
+...2)/IFRS 16 e CPC 47/IFRS 15, e concluiu que não  há impactos em suas demonstrações contábei...
+                                           ^^^^^^^^^^^40Offset 20600, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...descrito abaixo.  Vide nota explicativa nº 11.   4.  CAIXA E EQUIVALENTES DE CAIXA...
+                                           ^^41Offset 23868, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...            258                     619 Total Geral                    242           ...
+                                           ^^^^^42Offset 24014, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Na
+...La) Composição dos tributos no resultado:Na rubrica de tributos sobre o lucro:Corre...
+                                           ^^^43Offset 24051, length 10, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Correntes
+...ado:Na rubrica de tributos sobre o lucro:Correntes-                -                (1)   ...
+                                           ^^^^^^^^^^44Offset 24327, length 10, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Resultado
+...tração do cálculo dos tributos - despesa:Resultado antes dos tributos               (41)  ...
+                                           ^^^^^^^^^^45Offset 24348, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... tributos - despesa:Resultado antes dos tributos               (41)               (41)  ...
+                                           ^^^^^^^^46Offset 25139, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...%Alíquota adicional10%10%10%Despesa com tributos às alíquotas nominais-               - ...
+                                           ^^^^^^^^47Offset 25411, length 4, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...828.430            1.828.433            Base Negativa Contribuição Social1.832.491  ...
+                                           ^^^^48Offset 25425, length 12, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...     1.828.433            Base Negativa Contribuição Social1.832.491            1.832.450   ...
+                                           ^^^^^^^^^^^^49Offset 25784, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...ute judicialmente os efeitos do Decreto nº 8.426/2015, que trata da tributação  de...
+                                           ^^50Offset 26315, length 15, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘todos os demais’ é um pleonasmo. É preferível dizer “os demais”
+Suggestion: os demais
+...ral, este entendimento será aplicado  a todos os demais processos que discutem a mesma matéria....
+                                           ^^^^^^^^^^^^^^^51Offset 26441, length 33, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: seus assessores jurídicos entendem
+... a  Companhia, com base  na  opinião de seus assessores jurídicos entende que  este processo será  concluído até ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^52Offset 26668, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...itas financeiras (vide nota explicativa nº 10).    Não  há  provisão  relativa  a ...
+                                           ^^53Offset 27303, length 2, Rule ID: SI_UNITS_CASE
+Message: Unidades do Sistema Internacional iguais ou inferiores a “kilo” são escritas com minúsculas.
+Suggestion: cV
+...itularidade para a nova sócia  Cemig II CV. Cada quota foi transferida pelo valor ...
+                                           ^^54Offset 29332, length 2, Rule ID: SI_UNITS_CASE
+Message: Unidades do Sistema Internacional iguais ou inferiores a “kilo” são escritas com minúsculas.
+Suggestion: cV
+...                   1 0,01      Cemig II CV      2.356.634 100,00                  ...
+                                           ^^55Offset 32371, length 19, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 1.882
+...azo 4Nível 21.858         1.858         1.882         1.882         1.497         1.497         Val...
+                                           ^^^^^^^^^^^^^^^^^^^56Offset 32399, length 19, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 1.497
+...858         1.882         1.882         1.497         1.497         Valor justo por meio do resulta...
+                                           ^^^^^^^^^^^^^^^^^^^57Offset 32472, length 3, Rule ID: FORMAL_PRA_PARA
+Message: Será que quis dizer “para”?
+Suggestion: para
+... justo por meio do resultadoDisponíveis pra vendaTotal1.898        1.898        1.9...
+                                           ^^^58Offset 32512, length 18, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 1.929
+...pra vendaTotal1.898        1.898        1.929        1.929        1.514        1.514        PASSIV...
+                                           ^^^^^^^^^^^^^^^^^^59Offset 32538, length 18, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 1.514
+... 1.898        1.929        1.929        1.514        1.514        PASSIVO (Circulante e não circul...
+                                           ^^^^^^^^^^^^^^^^^^60Offset 32573, length 10, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...     1.514        1.514        PASSIVO (Circulante e não circulante)Fornecedores-         ...
+                                           ^^^^^^^^^^61Offset 32590, length 10, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... 1.514        PASSIVO (Circulante e não circulante)Fornecedores-            -            1...
+                                           ^^^^^^^^^^62Offset 33171, length 7, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Utiliza
+...exceto quando indicado de outra forma   utiliza outras técnicas para as quais todos os ...
+                                           ^^^^^^^63Offset 33994, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...o  de  crédito,  risco  de  mercado  e  risco  de  liquidez.  A  ocorrência  de  qual...
+                                           ^^^^^64Offset 35396, length 12, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...os em relação ao patrimônio líquido das instituições financeiras  e os respectivos ratings n...
+                                           ^^^^^^^^^^^^65Offset 37104, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+..., não gerando riscos de liquidez para a Companhia.   Conforme  mencionado  anteriormente,...
+                                           ^^^^^^^^^66Offset 37256, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Como forma de’ é uma expressão prolixa. É preferível dizer “para”
+Suggestion: Para
+... de caixa por não apresentar operações. Como forma de mitigar seu risco de  liquidez,  a  Com...
+                                           ^^^^^^^^^^^^^67Offset 37421, length 10, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de forma a’ é uma expressão prolixa. É preferível dizer “para”
+Suggestion: para
+... determinação de saldo mínimo de caixa, de forma a assegurar a disponibilidade de recursos...
+                                           ^^^^^^^^^^68Offset 37707, length 4, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Para
+...nsformação do tipo societário, de Ltda. para S.A., passando a denominação para  Sout...
+                                           ^^^^69Offset 37877, length 4, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Para
+... Electric  Brasil  Participações  S.A.  para  AES  Brasil Operações S.A.;   As 2.356...
+                                           ^^^^70Offset 39386, length 6, Rule ID: IRREGULAR_PAST_PARTICIPLES
+Message: Com o verbo ‘ser’ deve utilizar-se o particípio passado irregular.
+Suggestion: fixa
+...de para o próximo exercício social será fixada oportunamente, observado o  disposto no...
+                                           ^^^^^^

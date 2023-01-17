@@ -1,0 +1,61 @@
+23Offset 82, length 8, Rule ID: AO90_MONTHS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os meses e as estações do ano deixam de ser capitalizados.
+Suggestion: dezembro
+...s às Demonstrações Contábeis   Em 31 de Dezembro de 2012 e 2011   (Em milhares de reais)...
+                                           ^^^^^^^^24Offset 553, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...emonstrações contábeis foram elaboradas de acordo com as práticas contábeis adotadas no Brasil, ...
+                                           ^^^^^^^^^^^^^^^^25Offset 779, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...dos  pelo  Comitê  de  Pronunciamentos  Contábeis  –  CPC  e  nas  normas  estabelecidas ...
+                                           ^^^^^^^^^26Offset 964, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+... e  estão apresentadas em  reais  (R$), que é a moeda do principal  ambiente econômic...
+                                           ^^^^^27Offset 1507, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ntes  de  caixa  incluem  dinheiro  em  caixa,  depósitos  bancários  e  aplicações  ...
+                                           ^^^^^28Offset 1879, length 4, Rule ID: PROFANITY
+Message: Esta palavra é de baixo calão. Considere as alternativas.
+Suggestion: #¿$?%!¡
+...minal, acrescidos dos rendimentos  “pro-rata temporis” até a data do encerramento do...
+                                           ^^^^29Offset 2517, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...  de caixa futuro. Ver nota explicativa nº 5.   d) Tributos a recuperar   São  dem...
+                                           ^^30Offset 3087, length 16, Rule ID: OLD_SPELLING_U
+Message: O trema deixou de ser utilizado em Português com o Acordo de 1945.
+Suggestion: consequentemente
+...ia  não  apurou  lucro  tributável  e,  conseqüentemente,  não  obteve  base  de  calculo  posit...
+                                           ^^^^^^^^^^^^^^^^31Offset 3125, length 11, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de cálculo
+...  conseqüentemente,  não  obteve  base  de  calculo  positiva  para  imposto de renda e con...
+                                           ^^^^^^^^^^^32Offset 3546, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+... elaboração das demonstrações contábeis de acordo com as práticas contábeis adotadas no Brasil r...
+                                           ^^^^^^^^^^^^^^^^33Offset 3709, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...rminação e  no registro de  estimativas contábeis.  Ativos  e  passivos  sujeitos  a  est...
+                                           ^^^^^^^^^34Offset 3878, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...A  liquidação das transações envolvendo essas estimativas poderá  resultar  em  valores diferentes dos e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^35Offset 4595, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...governo e outros, bem como a parcela da riqueza não distribuída.    j)  Pronunciamentos...
+                                           ^^^^^^^36Offset 6454, length 9, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Negativos
+...ral pedidos de restituição dos saldos   negativos de IRPJ. Estes créditos estão sendo atu...
+                                           ^^^^^^^^^37Offset 6640, length 9, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Negativos
+...ral pedidos de restituição dos saldos   negativos de CSLL. Estes créditos estão sendo atu...
+                                           ^^^^^^^^^38Offset 8638, length 12, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...nceiros da Companhia foram determinados por meio  de informações disponíveis no mercado e me...
+                                           ^^^^^^^^^^^^

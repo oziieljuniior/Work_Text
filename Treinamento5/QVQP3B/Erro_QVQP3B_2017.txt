@@ -1,0 +1,43 @@
+76Offset 82, length 8, Rule ID: AO90_MONTHS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os meses e as estações do ano deixam de ser capitalizados.
+Suggestion: dezembro
+...s às Demonstrações Contábeis   Em 31 de Dezembro de 2016 e 2015   (Em milhares de reais)...
+                                           ^^^^^^^^77Offset 1234, length 6, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+... estão  apresentadas  em  reais  (R$),  que  é  a  moeda do principal ambiente econômi...
+                                           ^^^^^^78Offset 1584, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...processo de  aplicação  das  políticas  contábeis.  Aquelas  áreas  que  requerem  maior ...
+                                           ^^^^^^^^^79Offset 2706, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...Ciclo Anual de Melhorias (2012 – 2014), no qual o  CPC faz pequenas alterações em uma s...
+                                           ^^^^^^^80Offset 2778, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...rações em uma série de pronunciamentos, com o objetivo de esclarecer as  normas atuais e evitar d...
+                                           ^^^^^^^^^^^^^^^^^81Offset 3468, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...  operações, atualizados monetariamente de acordo com as regras legais, e representam créditos  ...
+                                           ^^^^^^^^^^^^^^^^82Offset 4411, length 4, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...ições  durante  determinado  exercício  e  é  apresentada  pela  Companhia  nos  ter...
+                                           ^^^^83Offset 4682, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ões  contábeis  conforme  as  práticas  contábeis  adotadas  no  Brasil  aplicável  as  c...
+                                           ^^^^^^^^^84Offset 5660, length 3, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Dos
+...ta  Federal  pedidos  de  restituição   dos saldos negativos de IRPJ. Estes crédito...
+                                           ^^^85Offset 5859, length 3, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Dos
+...ta  Federal  pedidos  de  restituição   dos saldos negativos de CSLL. Estes crédito...
+                                           ^^^86Offset 7029, length 20, Rule ID: SIMPLIFICAR_VERBO_TER_MAIS_PARTICIPIO_PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: contabilizara; contabilizei; contabilizou
+...  de  2016  e  2015  a  Companhia  não  tinha  contabilizado  ativos  e  passivos  contingentes e nã...
+                                           ^^^^^^^^^^^^^^^^^^^^

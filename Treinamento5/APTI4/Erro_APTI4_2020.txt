@@ -1,0 +1,355 @@
+546Offset 304, length 4, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Atua
+...ldoradoAgricultura  e  Pecuária  Ltda.  atua  no  segmento  do  agronegócio  tendo  ...
+                                           ^^^^547Offset 554, length 1, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  A
+... cana de açúcar, e agropecuária  bovina.A controlada RMCA Incorporação e Planejam...
+                                           ^548Offset 606, length 4, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Atua
+... RMCA Incorporação e Planejamento Ltda. atua no segmento de incorporação e  planejam...
+                                           ^^^^549Offset 985, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...viduais e consolidadas foram elaboradas de acordo com as normas  regulamentares da Comissão de V...
+                                           ^^^^^^^^^^^^^^^^550Offset 1087, length 20, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+... Mobiliários e estão sendo apresentadas em conformidade  com  a  legislação  societária  e  práticas...
+                                           ^^^^^^^^^^^^^^^^^^^^551Offset 1489, length 11, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...sto de certos instrumentos financeiros, estimativas para a  determinação da vida útil de at...
+                                           ^^^^^^^^^^^552Offset 2268, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... de  transações  realizadas  entre  as  empresas  consolidadas.   A conciliação entre o ...
+                                           ^^^^^^^^553Offset 2278, length 12, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ações  realizadas  entre  as  empresas  consolidadas.   A conciliação entre o resultadolíqui...
+                                           ^^^^^^^^^^^^554Offset 2759, length 21, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: registrados
+... determinados  instrumentos financeiros que estão registrados pelo seu valor justo, conforme descrito...
+                                           ^^^^^^^^^^^^^^^^^^^^^555Offset 2874, length 20, Rule ID: COLOCAÇÃO_ADVÉRBIO
+Message: Ter em conta a colocação do advérbio.
+Suggestion: é geralmente baseado
+...  contábeis a seguir. O custo histórico geralmente é baseado no valor justo das contraprestações pag...
+                                           ^^^^^^^^^^^^^^^^^^^^556Offset 3040, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+... preparação das demonstrações contábeis de acordo com as práticas contábeis adotadas no Brasil  ...
+                                           ^^^^^^^^^^^^^^^^557Offset 3309, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...nformações  sobre  suas  demonstrações  contábeis. Tais estimativas são feitas com base n...
+                                           ^^^^^^^^^558Offset 3702, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: divergir
+...seadas se alterem. As estimativas podem vir a divergir  para com o resultado real.   As inform...
+                                           ^^^^^^^^^^^^^^559Offset 3778, length 10, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Insira um espaço depois da vírgula
+Suggestion: , premissas
+... real.   As informações sobre incertezas,premissas e estimativas que possuam risco signifi...
+                                           ^^^^^^^^^^560Offset 4609, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...idos inicialmente na data da negociação na qual a  Companhia se torna uma das partes da...
+                                           ^^^^^^^561Offset 4697, length 1, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  A
+... disposições contratuais do instrumento.A Companhia não  designou nenhum ativo fi...
+                                           ^562Offset 5085, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...idos inicialmente na data de negociação na qual a Companhia  se  torna  uma  parte  das...
+                                           ^^^^^^^563Offset 5566, length 5, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+... insignificante de alteração  do valor, e são utilizados na gestão das obrigações de ...
+                                           ^^^^^564Offset 6696, length 14, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Corresponderam
+...dorado  Agricultura e  Pecuária  Ltda.  corresponderam,  preponderantementeno  exercício,  a  ...
+                                           ^^^^^^^^^^^^^^565Offset 6773, length 15, Rule ID: CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL
+Message: O pronome relativo ‘cujo’ tem de estar ligado a nome/adj/numeral.
+...  exercício,  a  cana-de-açúcar,  cuja  contraprestação  recebida  decorre  do  arrendamento  d...
+                                           ^^^^^^^^^^^^^^^566Offset 7912, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...erente à ação conforme Termo de Penhora nº 37.1998.403.6100.   g.2) Créditos Fisca...
+                                           ^^567Offset 8812, length 20, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: efetuadas
+... junto á Secretaria da Receita Federal, que  foram efetuadas com base na Lei nº 11.941/09 (Refis da ...
+                                           ^^^^^^^^^^^^^^^^^^^^568Offset 8849, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...l, que  foram efetuadas com base na Lei nº 11.941/09 (Refis da Crise).   g.5) Cauç...
+                                           ^^569Offset 9010, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...lvida, no montante de R$ 6.004 mil(Nota nº 9).   h)  Transações financeiras com co...
+                                           ^^570Offset 9183, length 5, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...assificadas  no  Ativo  Não  Circulante,e são demonstradas pelos valores conhecidos. ...
+                                           ^^^^^571Offset 9735, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: calculadas pelo
+... respectivas  depreciações  acumuladas, que são  calculadas pelo método linear e levam em consideração o...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^572Offset 9776, length 21, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consideram
+...ue são  calculadas pelo método linear e levam em consideração o tempo de vida útil  estimado dos bens...
+                                           ^^^^^^^^^^^^^^^^^^^^^573Offset 10496, length 12, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e poderá
+...rometer a vida útil e econômica do bem, e que poderá exigir,  dependendo das circunstâncias,...
+                                           ^^^^^^^^^^^^574Offset 10672, length 25, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: patentes, software e são; patentes e software, e são
+...tangíveis compreendem marcas, direitos, patentes e software e são mensurados pelo custo  total de aquisiç...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^575Offset 10986, length 2, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Os
+...isições anteriores ao exercício de 2008.Os  intangíveis da controladora encontram ...
+                                           ^^576Offset 11205, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...erável testado, no mínimo, anualmente,  com o objetivo de identificar perda decorrente das situaç...
+                                           ^^^^^^^^^^^^^^^^^577Offset 11341, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...valor  recuperável, definido pelo maior valor entre o valor emuso e o valor líquido d...
+                                           ^^^^^578Offset 11355, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ável, definido pelo maior valor entre o valor emuso e o valor líquido de venda.    m)...
+                                           ^^^^^579Offset 11371, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...elo maior valor entre o valor emuso e o valor líquido de venda.    m)  Redução ao val...
+                                           ^^^^^580Offset 11531, length 5, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Insira um espaço depois da vírgula
+Suggestion: , para
+...o  valor  justo  é  avaliado  anualmente,para  apurar  se  há  evidência objetiva de ...
+                                           ^^^^^581Offset 11801, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...nicial do ativo, e que aquele evento de perda teve um efeito negativo  nos fluxos de ...
+                                           ^^^^^582Offset 11871, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e podem
+... nos fluxos de caixa futuros projetados,e que podem ser estimados de maneira confiável.   n...
+                                           ^^^^^^^^^^^583Offset 11921, length 1, Rule ID: INTERNET_ABBREVIATIONS
+Message: Linguagem de Internet. Escreva por extenso.
+...m ser estimados de maneira confiável.   n)  Fornecedores e demais contas a pagar ...
+                                           ^584Offset 12147, length 11, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Insira um espaço depois da vírgula
+Suggestion: , obrigações
+... encontram-se registrados, dentre outros,obrigações  com  asremunerações  da  Diretoria  e ...
+                                           ^^^^^^^^^^^585Offset 12675, length 1, Rule ID: INTERNET_ABBREVIATIONS
+Message: Linguagem de Internet. Escreva por extenso.
+...nhecidos  em  exercícios anteriores.    p)   Provisões   Uma  provisão  é  reconh...
+                                           ^586Offset 12859, length 44, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja provável que um recurso econômico, seja
+...sa ser estimada de maneira confiável, e seja provável que um recurso econômico  seja  exigido  para  liquidar  a  obrigação,...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^587Offset 13922, length 10, Rule ID: QUE_VERBO_A_VERBOINFINITIVO
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: a versar
+...) processos judiciais e administrativos que versam sobre a matéria fiscal,  avaliados  pel...
+                                           ^^^^^^^^^^588Offset 14760, length 12, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Insira um espaço depois da vírgula
+Suggestion: , equiparação
+...ionais de periculosidade e insalubridade,equiparação salarial, verbas  rescisórias, multa do...
+                                           ^^^^^^^^^^^^589Offset 14839, length 5, Rule ID: AO90_MONTHS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os meses e as estações do ano deixam de ser capitalizados.
+Suggestion: verão
+...ias, multa do FGTS referente aos planos Verão e Collor, dentre outros.   Para os proc...
+                                           ^^^^^590Offset 15524, length 10, Rule ID: QUE_VERBO_A_VERBOINFINITIVO
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: a versar
+...m 26 (vinte e seis) processos judiciais que versam sobre matéria cível, relativos em sua g...
+                                           ^^^^^^^^^^591Offset 15872, length 4, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Insira um espaço depois da vírgula
+Suggestion: , não
+...classificados  como  de  perda  possível,não  houve  constituição  de  provisão,  em...
+                                           ^^^^592Offset 16488, length 9, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Insira um espaço depois da vírgula
+Suggestion: , duzentas
+... social está dividido em 6.250 (seis mil,duzentas e cinquenta) ações ordinárias nominativ...
+                                           ^^^^^^^^^593Offset 17279, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+... datas anteriores a  promulgação da Lei nº 11.638/07.    Os  saldos  do  imobiliza...
+                                           ^^594Offset 17837, length 1, Rule ID: INTERNET_ABBREVIATIONS
+Message: Linguagem de Internet. Escreva por extenso.
+... silos de carvão e tanques de carepa.   q)  Receitas de vendas de bens e de servi...
+                                           ^595Offset 19003, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: segregadas
+...a  dos  exercícios  e  por  atividade,  sendo  segregadas as operações, em conformidade com as pr...
+                                           ^^^^^^^^^^^^^^^^^596Offset 19035, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...idade,  sendo  segregadas as operações, em conformidade com as práticas contábeis adotadas no Brasi...
+                                           ^^^^^^^^^^^^^^^^^^^597Offset 20108, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...monstrado no quadro da Nota explicativa nº 10.   NOTA 5 – CAIXA E EQUIVALENTES DE ...
+                                           ^^598Offset 20950, length 4, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+Suggestion: Parecido com; Semelhante a
+...o Safra S/A  Banco Safra S/A   Totais   Tipo Aplicação  Invest  FIC  AutMais  CDB  R...
+                                           ^^^^599Offset 21271, length 3, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...rágrafo 1º, inciso “A” da Instrução CVM nº. 235, os valores indicados  representam ...
+                                           ^^^600Offset 21368, length 12, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Insira um espaço depois da vírgula
+Suggestion: , atualizados
+...des  da  Companhiae  de  suascontroladas,atualizados  a  valores  de  mercado  até  31/12/20...
+                                           ^^^^^^^^^^^^601Offset 22363, length 6, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Deixou
+...roeldorado Agricultura e Pecuária Ltda. deixou de praticar o cultivo e plantio de grão...
+                                           ^^^^^^602Offset 23200, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...rmação dos ativos biológicos, sendo que devido a  inexpressividade  da  valorização  de ...
+                                           ^^^^^^^^603Offset 24333, length 3, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (-
+...ade de ATR   Preço ATR   Receita Total  ( - ) Impostos incidentes   Resultado esper...
+                                           ^^^604Offset 24336, length 2, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Não insira um espaço antes de fechar parênteses
+Suggestion: )
+... de ATR   Preço ATR   Receita Total  ( - ) Impostos incidentes   Resultado esperad...
+                                           ^^605Offset 24766, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...ção do ativo biológico foi reconhecida, em contrapartida a rubrica de Ajustes de Avaliação  Patr...
+                                           ^^^^^^^^^^^^^^^^606Offset 25684, length 12, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 4.038
+...o Ltda.  Totais   Descrição   31/12/19  4.038  4.038   31/12/18  10.128  10.128   NOTA 9 - C...
+                                           ^^^^^^^^^^^^607Offset 25709, length 14, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 10.128
+...ão   31/12/19  4.038  4.038   31/12/18  10.128  10.128   NOTA 9 - CAUÇÕES E DEPÓSITOS   Contro...
+                                           ^^^^^^^^^^^^^^608Offset 26266, length 3, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...decorrente  do  Processo  de  Execução  nº.  2009.61.82.043711-0  movido pela Fazen...
+                                           ^^^609Offset 26728, length 2, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  No
+...ada  como  remota  pelos  Assessores  Jurídicos.No  mês  de  janeiro  de  2020,  a...
+                                           ^^610Offset 27681, length 12, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 2.792
+....970      2.304  199.274   31/12/19  -  2.792  2.792   31/12/18  -  4.993  4.993   a)  MOVIM...
+                                           ^^^^^^^^^^^^611Offset 27709, length 12, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 4.993
+...1/12/19  -  2.792  2.792   31/12/18  -  4.993  4.993   a)  MOVIMENTAÇÃO DE INVESTIMENTOS EM ...
+                                           ^^^^^^^^^^^^612Offset 29716, length 2, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: De
+...ntos  Instalações Industriais  Móveis e Equips. de Escritório  Veículos  Reflorest...
+                                           ^^613Offset 30669, length 2, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: De
+...ntos  Instalações Industriais  Móveis e Equips. de Escritório  Veículos  Reflorest...
+                                           ^^614Offset 31855, length 1, Rule ID: UNPAIRED_BRACKET_SUGGESTIONS
+Message: Utilize uma aspa de fecho.
+Suggestion: ”
+...18)   O saldo encontra-se em “sub judice“. A Companhia, através de Laudo Pericial...
+                                           ^615Offset 31871, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...contra-se em “sub judice“. A Companhia, através de Laudo Pericial, está atualizando  seu m...
+                                           ^^^^^^^^^^616Offset 32255, length 4, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...endas Beija- Flor, Beija-Flor II, Beija-Flor III, Olhos D`Água, Olhos D`Água II, Roc...
+                                           ^^^^617Offset 32272, length 1, Rule ID: LOOSE_ACCENTS
+Message: Caratere incorreto. Utilize antes o apóstrofe ou reveja a acentuação.
+Suggestion: ’; 
+..., Beija-Flor II, Beija-Flor III, Olhos D`Água, Olhos D`Água II, Rocinha, Rocinha ...
+                                           ^618Offset 32286, length 1, Rule ID: LOOSE_ACCENTS
+Message: Caratere incorreto. Utilize antes o apóstrofe ou reveja a acentuação.
+Suggestion: ’; 
+...I, Beija-Flor III, Olhos D`Água, Olhos D`Água II, Rocinha, Rocinha III,Déssio    ...
+                                           ^619Offset 32316, length 7, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Insira um espaço depois da vírgula
+Suggestion: , Déssio
+...a, Olhos D`Água II, Rocinha, Rocinha III,Déssio                                        ...
+                                           ^^^^^^^620Offset 32460, length 1, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  A
+...iperti, conforme contratos lavrados em cartório.A  propriedade rural Déssio Domin...
+                                           ^621Offset 32926, length 9, Rule ID: PARONYM_DIVIDA_612
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: a dívida
+...ue  a  Instituição  financeira  cobrou  a  divida  da  Companhia, em montantes superiores...
+                                           ^^^^^^^^^622Offset 34064, length 2, Rule ID: NO_SPACE_CLOSING_QUOTE
+Message: Deve espaçar depois de fechar aspas.
+Suggestion: ” g
+...xercícios anteriores (nota explicativa 3”g.1”).   c)  Saldos  devedores  rubrica  ...
+                                           ^^623Offset 34286, length 1, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  A
+...co Rural – R$ 425mil (R$ 425  mil em31/12/2018).A administração, baseada na orien...
+                                           ^624Offset 34609, length 11, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...isso, havendo a  reversão da dívida com atualização e juros, acarretará em base positiva pa...
+                                           ^^^^^^^^^^^625Offset 34630, length 13, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretará
+...rsão da dívida com atualização e juros, acarretará em base positiva para incidência de tribut...
+                                           ^^^^^^^^^^^^^626Offset 34979, length 6, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Insira um espaço depois da vírgula
+Suggestion: , sendo
+...ntes  nas  demonstrações  de  resultados,sendo  que  no  período,o  balanço  consolida...
+                                           ^^^^^^627Offset 35003, length 2, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Insira um espaço depois da vírgula
+Suggestion: , o
+...  de  resultados,sendo  que  no  período,o  balanço  consolidado  apresentou  base...
+                                           ^^628Offset 35668, length 2, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Não insira um espaço depois de abrir parênteses
+Suggestion: (
+...Vendas e Serviços  Impostos sobre Vendas( - )  Receita Operacional Líquida   Contr...
+                                           ^^629Offset 35671, length 2, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Não insira um espaço antes de fechar parênteses
+Suggestion: )
+...das e Serviços  Impostos sobre Vendas( - )  Receita Operacional Líquida   Controla...
+                                           ^^630Offset 35924, length 11, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Insira um espaço depois da vírgula
+Suggestion: , informamos
+...tendimento ao disposto na NBC TG 05 (R3),informamos que a Companhia possui transações  com ...
+                                           ^^^^^^^^^^^631Offset 36035, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+... conforme divulgado na nota explicativa nº 07.   NOTA 16 – INSTRUMENTOS FINANCEIRO...
+                                           ^^632Offset 36461, length 2, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  As
+...fletem o valor de realização na data do balanço.As  modalidades de aplicações cont...
+                                           ^^633Offset 38066, length 6, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Insira um espaço depois da vírgula
+Suggestion: , assim
+... de R$ 729mil (R$ 729 mil em 31/12/2018),assim  distribuído:   Honorários  Diretoria  ...
+                                           ^^^^^^634Offset 38380, length 2, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Insira um espaço depois da vírgula
+Suggestion: , a
+...cuária Ltda no montante  de R$ 5.000 mil,a Siderúrgica J. L. Aliperti S/A, continu...
+                                           ^^635Offset 39024, length 1, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: E
+....,  RMCA  Incorporação  e  Planejamento  Ltda.  e  S/A  Agro  Industrial  Eldorad...
+                                           ^636Offset 39991, length 8, Rule ID: PARONYM_OFICIO_227
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: o ofício
+...S – PANDEMIA DO COVID-19   Considerando o Oficio Circular CVM/SNC/SEP nº 02/2020, expedi...
+                                           ^^^^^^^^637Offset 40021, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...siderando o Oficio Circular CVM/SNC/SEP nº 02/2020, expedido pela CVM – Comissão d...
+                                           ^^

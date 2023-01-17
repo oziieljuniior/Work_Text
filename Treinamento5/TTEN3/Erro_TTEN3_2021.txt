@@ -1,0 +1,1296 @@
+1Offset 324, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...0001-70,  com  sede  na  Av.  Principal nº 187, Distrito Industrial em Santa Bárba...
+                                           ^^2Offset 477, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...registrado na JUCERGS em 14/10/1992 sob nº 43.202.481.056.   A Companhia se tornou...
+                                           ^^3Offset 585, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...capital fechado em 2 de agosto de 2011, através  de  alteração  contratual  com  modificaçã...
+                                           ^^^^^^^^^^^4Offset 731, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...nônima,  registrada na JUCERGS sob novo nº NIRE 43.300.053.504.   Tem como ativida...
+                                           ^^5Offset 848, length 45, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: insumos, o beneficiamento e comercialização; insumos e o beneficiamento, e comercialização
+...portação de grãos, a comercialização de insumos  e o beneficiamento e comercialização de sementes de cereais, oleaginosas e f...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^6Offset 2268, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^7Offset 2409, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+... outra forma)   1.  Contexto operacional--Continuação   a)  Aumento de capital e r...
+                                           ^^8Offset 2474, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...to de capital e reorganização societária--Continuação   Caixa e equivalentes de ca...
+                                           ^^9Offset 3796, length 1, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: E
+...s acionistas Sixth Participações  Ltda. e Eduardo Augusto Pereira de Menezes Filh...
+                                           ^10Offset 4062, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^11Offset 4203, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+... outra forma)   1.  Contexto operacional--Continuação   a)  Aumento de capital e r...
+                                           ^^12Offset 4268, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...to de capital e reorganização societária--Continuação   Reorganização societária –...
+                                           ^^13Offset 4778, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+... 98.240-000, inscrita no CNPJ/ME sob  o nº 14.795.252/0001-69, até então controlad...
+                                           ^^14Offset 5444, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...em na quantidade de ações de emissão da Companhia.   b)  Impactos do Covid-19   Em  razão...
+                                           ^^^^^^^^^15Offset 5742, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... à saúde pública e impactos na economia mundial, a Companhia informa  que vem tomando a...
+                                           ^^^^^^^16Offset 5900, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...zes  estabelecidas pelas autoridades de saúde nacionais e internacionais, visando min...
+                                           ^^^^^17Offset 5906, length 26, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘nacionais e internacionais’ é uma expressão prolixa. É preferível dizer “(inter)nacionais”
+Suggestion: (inter)nacionais
+...stabelecidas pelas autoridades de saúde nacionais e internacionais, visando minimizar eventuais  impactos ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^18Offset 5997, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...uais  impactos  no  que  se  refere  à  saúde  e  segurança  dos  colaboradores,  fam...
+                                           ^^^^^19Offset 7528, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^20Offset 7853, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...m elaboradas e estão sendo apresentadas de acordo com  as  práticas  contábeis  adotadas  no  Bra...
+                                           ^^^^^^^^^^^^^^^^^21Offset 8024, length 47, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: técnicos, as orientações e interpretações; técnicos e as orientações, e interpretações
+...ia  brasileira  e  os  pronunciamentos  técnicos  e  as  orientações  e  interpretações  técnicas  emitidos  pelo  Comitê  de  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^22Offset 8504, length 14, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conexão com’ é uma expressão prolixa. É preferível dizer “com”
+Suggestion: com
+...estão  sendo  financeiras  apresentadas em conexão com o processo de registro de companhia abe...
+                                           ^^^^^^^^^^^^^^23Offset 9267, length 6, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...que requerem maior nível de  julgamento e  têm maior complexidade, bem como  nas quais...
+                                           ^^^^^^24Offset 9431, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...as estão divulgadas na Nota Explicativa nº 3.  A Companhia revisa suas estimativas...
+                                           ^^25Offset 9623, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...PC 7, aprovada  pela  Deliberação  CVM  nº  727/14,  atendendo  aos  requerimentos...
+                                           ^^26Offset 9680, length 16, Rule ID: AO_MESMO_TEMPO-EM_SIMULTANEO
+Message: Substitua por “em simultâneo”.
+Suggestion: em simultâneo
+...dendo  aos  requerimentos  mínimos  e,  ao  mesmo  tempo, divulgando somente informações relevan...
+                                           ^^^^^^^^^^^^^^^^27Offset 10478, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^28Offset 10655, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.1.    Base de preparação...
+                                           ^^29Offset 10742, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resentação das demonstrações financeiras--Continuação   A  Administração  avaliou ...
+                                           ^^30Offset 11455, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...eiras estão apresentadas em Reais (R$), que é a moeda funcional  e de apresentação da C...
+                                           ^^^^^^^31Offset 12408, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^32Offset 12585, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.4.  Contas a receber de ...
+                                           ^^33Offset 14652, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...otação da commodity no mercado físico,  em contrapartida do custo das mercadorias e produtos ven...
+                                           ^^^^^^^^^^^^^^^^34Offset 14897, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^35Offset 15074, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.5.  Estoques   As  commo...
+                                           ^^36Offset 15789, length 11, Rule ID: INFORMALITIES
+Message: Esta é uma expressão oral. Reveja.
+Suggestion: trabalhadores
+...elo preço de mercado e pelos gastos com mão de obra, outros custos diretos e depreciação.  ...
+                                           ^^^^^^^^^^^37Offset 16530, length 7, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...o e  deduzidos da depreciação acumulada e foram ajustados pela revisão do custo atribuí...
+                                           ^^^^^^^38Offset 17813, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^39Offset 17990, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.7.  Fornecedores   As co...
+                                           ^^40Offset 18112, length 22, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: adquiridos
+...ções pela aquisição de bens ou serviços que  foram  adquiridos  no  curso  normal  dos  negócios,  sen...
+                                           ^^^^^^^^^^^^^^^^^^^^^^41Offset 18171, length 20, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: classificadas
+...dos  no  curso  normal  dos  negócios,  sendo  classificadas  como  passivos  circulantes  se  o  pa...
+                                           ^^^^^^^^^^^^^^^^^^^^42Offset 18875, length 11, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...pagar atreladas à variação do preço das commodities é ajustado pela cotação da  commodity  ...
+                                           ^^^^^^^^^^^43Offset 18948, length 17, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...ão da  commodity  no  mercado  físico,  em  contrapartida  do  custo  das  mercadorias  e  produt...
+                                           ^^^^^^^^^^^^^^^^^44Offset 19667, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em virtude de’ é uma expressão prolixa. É preferível dizer “por”
+Suggestion: por
+...igação presente (legal ou  constituída) em virtude de eventos passados, é provável que seja n...
+                                           ^^^^^^^^^^^^^45Offset 19854, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ma estimativa confiável  do valor dessa obrigação. Quando a Companhia espera que o valor ...
+                                           ^^^^^^^^^46Offset 20381, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^47Offset 20558, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.9.    Provisões   Provis...
+                                           ^^48Offset 21217, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...cia no ordenamento jurídico, bem como a avaliação dos advogados externos.  As provisões s...
+                                           ^^^^^^^^^49Offset 21296, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...rovisões são revisadas e ajustadas para levar em conta alterações nas circunstâncias,  tais  c...
+                                           ^^^^^^^^^^^^^^50Offset 21426, length 70, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...l,  conclusões  de  inspeções  fiscais  ou  exposições  adicionais identificadas com base em novos assuntos ou decisões de tribunais.   A Companhia te...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^51Offset 21549, length 14, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘a natureza das’ é uma expressão prolixa. É preferível dizer “as”
+Suggestion: as
+...tribunais.   A Companhia tendo por base a natureza das ações nas quais está envolvida, e suste...
+                                           ^^^^^^^^^^^^^^52Offset 22181, length 19, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: classificados
+...ara a gestão destes ativos financeiros, sendo classificados  conforme segue:   (cid:120)  Ativos fi...
+                                           ^^^^^^^^^^^^^^^^^^^53Offset 22224, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...do classificados  conforme segue:   (cid:120)  Ativos financeiros mensurados a custo...
+                                           ^^^^54Offset 22293, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...surados a custo amortizado (“CA”);  (cid:120)  Ativos financeiros mensurados a valor...
+                                           ^^^^55Offset 22344, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...os financeiros mensurados a valor justo por meio de outros resultados   abrangentes (“VJORA...
+                                           ^^^^^^^^^^^56Offset 22504, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...classificados nesta modalidade; e   (cid:120)  Ativos financeiros mensurados a valor...
+                                           ^^^^57Offset 22760, length 11, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...nstrumentos financeiros e instrumentos  financeiros derivativos.                           ...
+                                           ^^^^^^^^^^^58Offset 22905, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^59Offset 23082, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.10.    Instrumentos fina...
+                                           ^^60Offset 23131, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...ação   2.10.    Instrumentos financeiros--Continuação   (i)  Ativos financeiros--C...
+                                           ^^61Offset 23170, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...s--Continuação   (i)  Ativos financeiros--Continuação   Para que um ativo financei...
+                                           ^^62Offset 23431, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...l em aberto. Esta avaliação é executada em nível de  instrumento.   O modelo de negócios...
+                                           ^^^^^^^^63Offset 24203, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+... que  pode ser da seguinte forma:   (cid:120)  Ao custo amortizado   Devem ser mensu...
+                                           ^^^^64Offset 24360, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “em”.
+Suggestion: em
+...s:   a)  O ativo financeiro for mantido dentro de modelo de negócios cujo objetivo seja  ...
+                                           ^^^^^^^^^65Offset 24565, length 13, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Especificadas
+...financeiro que derem origem, em datas   especificadas, a fluxos de caixa que constituam, excl...
+                                           ^^^^^^^^^^^^^66Offset 24707, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...e o valor do principal em aberto.   (cid:120)  Ao valor justo por meio do resultado ...
+                                           ^^^^67Offset 24895, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...o ao custo amortizado ou ao valor justo por meio de  outros resultados abrangentes.        ...
+                                           ^^^^^^^^^^^68Offset 25062, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^69Offset 25239, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.10.    Instrumentos fina...
+                                           ^^70Offset 25288, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...ação   2.10.    Instrumentos financeiros--Continuação   (i)  Ativos financeiros--C...
+                                           ^^71Offset 25327, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...s--Continuação   (i)  Ativos financeiros--Continuação   Redução do valor recuperáv...
+                                           ^^72Offset 26273, length 43, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: empréstimos, financiamentos e instrumentos; empréstimos e financiamentos, e instrumentos
+...a fornecedores, outras  contas a pagar, empréstimos e financiamentos e instrumentos financeiros derivativos.   Mensuração s...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^73Offset 26475, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...lassificados em  duas categorias:   (cid:120)  Passivos financeiros ao custo amortiz...
+                                           ^^^^74Offset 27021, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...etiva.   O custo amortizado é calculado levando em consideração qualquer deságio ou ágio  na aquisição ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^75Offset 27403, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^76Offset 27580, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.10.    Instrumentos fina...
+                                           ^^77Offset 27629, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...ação   2.10.    Instrumentos financeiros--Continuação   (ii) Passivos financeiros-...
+                                           ^^78Offset 27670, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...-Continuação   (ii) Passivos financeiros--Continuação   (cid:120)  Passivos financ...
+                                           ^^79Offset 27690, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...Passivos financeiros--Continuação   (cid:120)  Passivos financeiros ao valor justo p...
+                                           ^^^^80Offset 27869, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...passivos  financeiros para negociação e passivos financeiros designados no reconheciment...
+                                           ^^^^^^^^81Offset 27878, length 11, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... financeiros para negociação e passivos financeiros designados no reconhecimento  inicial a...
+                                           ^^^^^^^^^^^82Offset 28125, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ou  perdas decorrentes das variações no valor justo são reconhecidos no resultado.   ...
+                                           ^^^^^83Offset 28131, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...rdas decorrentes das variações no valor justo são reconhecidos no resultado.   O pass...
+                                           ^^^^^84Offset 28671, length 40, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja administrado e cujo desempenho, seja
+...ou passivos financeiros,  ou ambos, que seja administrado e cujo desempenho seja avaliado com base  no seu valor justo, ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^85Offset 28751, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+... avaliado com base  no seu valor justo, de acordo com a gestão de risco ou a estratégia de  inv...
+                                           ^^^^^^^^^^^^^^^86Offset 28987, length 11, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Derivativos
+...te de um contrato contendo um ou mais   derivativos embutidos, e a IFRS 9 (CPC 48) permitir...
+                                           ^^^^^^^^^^^87Offset 29065, length 12, Rule ID: PT_CLICHE_REPLACE
+Message: ‘como um todo’ é uma frase-feita. É preferível dizer “todo”, “na totalidade” ou “APAGAR”
+Suggestion: todo; na totalidade; APAGAR
+... 48) permitir que o contrato combinado  como um todo seja designado ao valor justo por meio ...
+                                           ^^^^^^^^^^^^88Offset 29891, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^89Offset 30068, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.10.    Instrumentos fina...
+                                           ^^90Offset 30117, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...ação   2.10.    Instrumentos financeiros--Continuação   (iii) Instrumentos finance...
+                                           ^^91Offset 30286, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...a instrumentos financeiros derivativos, como por exemplo, contratos  de moeda a termo, contratos...
+                                           ^^^^^^^^^^^^^^^^92Offset 30366, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...termo, contratos de commodity a termo e contratos futuros em bolsa (CBOT),  para proteger...
+                                           ^^^^^^^^^93Offset 30676, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...s a valor  justo  e  as  variações  no  valor  justo  são  registradas  no  resultado...
+                                           ^^^^^94Offset 30683, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...or  justo  e  as  variações  no  valor  justo  são  registradas  no  resultado.  Os  ...
+                                           ^^^^^95Offset 31104, length 18, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: recebido
+...ata de reporte.   Valor justo é o preço que seria recebido pela venda de um ativo ou pago pela tra...
+                                           ^^^^^^^^^^^^^^^^^^96Offset 31403, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...ou transferir o passivo ocorrerá:   (cid:120)  No mercado principal para o ativo ou ...
+                                           ^^^^97Offset 31463, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...incipal para o ativo ou passivo; e  (cid:120)  Na  ausência  de  um  mercado  princi...
+                                           ^^^^98Offset 31517, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ência  de  um  mercado  principal,  no  mercado  mais  vantajoso  para  o  ativo  ou  o...
+                                           ^^^^^^^99Offset 31967, length 20, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considera; consideres
+... valor justo de um ativo não financeiro leva em consideração a capacidade  do participante do mercad...
+                                           ^^^^^^^^^^^^^^^^^^^^100Offset 32170, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...articipante do mercado que utilizaria o ativo em seu  melhor uso.                    ...
+                                           ^^^^^101Offset 32320, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^102Offset 32497, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.11.  Valor justo--Contin...
+                                           ^^103Offset 32531, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...tábeis--Continuação   2.11.  Valor justo--Continuação   A Companhia utiliza técnic...
+                                           ^^104Offset 32589, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: apropriadas nas
+...Companhia utiliza técnicas de avaliação que são apropriadas nas circunstâncias e para as  quais haja da...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^105Offset 32783, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...áveis relevantes e minimizando o uso de dados não observáveis.   Todos  os  ativos e ...
+                                           ^^^^^106Offset 32947, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “na”.
+Suggestion: na
+...nstrações financeiras são categorizados dentro da hierarquia de valor justo descrita a  s...
+                                           ^^^^^^^^^107Offset 33086, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...que seja significativa à mensuração do  valor justo como um todo:   (cid:120)  Nível ...
+                                           ^^^^^108Offset 33092, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ja significativa à mensuração do  valor justo como um todo:   (cid:120)  Nível  1  - ...
+                                           ^^^^^109Offset 33098, length 12, Rule ID: PT_CLICHE_REPLACE
+Message: ‘como um todo’ é uma frase-feita. É preferível dizer “todo”, “na totalidade” ou “APAGAR”
+Suggestion: todo; na totalidade; APAGAR
+...nificativa à mensuração do  valor justo como um todo:   (cid:120)  Nível  1  -  preços  cota...
+                                           ^^^^^^^^^^^^110Offset 33118, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...ção do  valor justo como um todo:   (cid:120)  Nível  1  -  preços  cotados  (não  a...
+                                           ^^^^111Offset 33297, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...ter acesso na data de mensuração;   (cid:120)  Nível  2  -  técnicas  de  avaliação ...
+                                           ^^^^112Offset 33494, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...eta ou indiretamente observável; e  (cid:120)  Nível  3  -  técnicas  de  avaliação ...
+                                           ^^^^113Offset 33501, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...indiretamente observável; e  (cid:120)  Nível  3  -  técnicas  de  avaliação  para  a...
+                                           ^^^^^114Offset 33575, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ão  para  as  quais  a  informação  de  nível  mais  baixo  e   significativa para me...
+                                           ^^^^^115Offset 33599, length 13, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Significativa
+...informação  de  nível  mais  baixo  e   significativa para mensuração do valor justo não este...
+                                           ^^^^^^^^^^^^^116Offset 33971, length 12, Rule ID: PT_CLICHE_REPLACE
+Message: ‘como um todo’ é uma frase-feita. É preferível dizer “todo”, “na totalidade” ou “APAGAR”
+Suggestion: todo; na totalidade; APAGAR
+...icativa para  mensuração do valor justo como um todo) no fim de cada período de divulgação. ...
+                                           ^^^^^^^^^^^^117Offset 34427, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^118Offset 34604, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.12. Reconhecimento da re...
+                                           ^^119Offset 35513, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...mpanhia avalia as transações de receita de acordo com os critérios específicos para  determinar ...
+                                           ^^^^^^^^^^^^^^^^120Offset 35590, length 6, Rule ID: AGENTE_BR
+Message: Substitua «agente» por “a gente”.
+Suggestion: a gente
+...s para  determinar se está atuando como agente ou principal e, ao final, concluiu que ...
+                                           ^^^^^^121Offset 36108, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...responsabilidade sobre as mercadorias e produtos vendidos.   Receita de juros   Para tod...
+                                           ^^^^^^^^122Offset 36499, length 16, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘período de tempo’ é um pleonasmo. É preferível dizer “período” ou “tempo”
+Suggestion: período; tempo
+...mada do instrumento financeiro ou em um período de tempo  mais curto, quando aplicável, ao valor...
+                                           ^^^^^^^^^^^^^^^^123Offset 36823, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^124Offset 37000, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.13. Tributos   Imposto d...
+                                           ^^125Offset 38787, length 37, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: ativos, passivos e seus valores; ativos e passivos, e seus valores
+... do balanço entre as bases fiscais  de  ativos  e  passivos  e  seus  valores  contábeis.  Impostos  diferidos  são  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^126Offset 39179, length 13, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘mais provável’ é um pleonasmo. É preferível dizer “provável”
+Suggestion: provável
+...ado e baixado na extensão em que não  é mais provável que lucros tributáveis estarão disponív...
+                                           ^^^^^^^^^^^^^127Offset 39298, length 11, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: seja
+... ou parte do  ativo tributário diferido venha a ser utilizado. Ativos fiscais diferidos bai...
+                                           ^^^^^^^^^^^128Offset 39393, length 5, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...s são revisados  a cada data do balanço e são reconhecidos na extensão em que se torn...
+                                           ^^^^^129Offset 39661, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^130Offset 39838, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.13. Tributos--Continuaçã...
+                                           ^^131Offset 39868, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+... contábeis--Continuação   2.13. Tributos--Continuação   Impostos sobre vendas   Re...
+                                           ^^132Offset 41818, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...or justo menos os custos na venda ou o  valor  em  uso.  Na  avaliação  do  valor  em...
+                                           ^^^^^133Offset 42039, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...lita uma  avaliação atual de mercado do valor da moeda no tempo e os riscos específic...
+                                           ^^^^^134Offset 42289, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^135Offset 42466, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.14.  Redução ao valor re...
+                                           ^^136Offset 42564, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...vos tangíveis e intangíveis (impairment)--Continuação   Para a data do balanço, a ...
+                                           ^^137Offset 43084, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...go prazo são atualizados monetariamente e, portanto,  estão  ajustados  pelo  seu  valor  p...
+                                           ^^^^^^^^^^^138Offset 43451, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+..., o ajuste a valor presente é calculado levando em consideração  os fluxos de caixa contratuais e a tax...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^139Offset 44041, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+... método indireto, e estão apresentadas  de acordo com o pronunciamento técnico CPC 03 (R2) (IAS...
+                                           ^^^^^^^^^^^^^^^140Offset 44423, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...rno e outros,  bem  como a parcela  da  riqueza  não distribuída.    Essa  demonstração...
+                                           ^^^^^^^141Offset 44570, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...a  legislação  societária brasileira, e de acordo com os critérios definidos no Pronunciamento T...
+                                           ^^^^^^^^^^^^^^^^142Offset 44878, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^143Offset 45055, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.18. Subvenções govername...
+                                           ^^144Offset 45443, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... sistemática em relação aos custos cujo benefício objetiva compensar.    2.19. Classifica...
+                                           ^^^^^^^^^145Offset 45720, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...lassificado no circulante quando:   (cid:120)  Espera-se  que  seja  realizado,  ou ...
+                                           ^^^^146Offset 45873, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...do ciclo operacional da entidade;   (cid:120)  Está mantido essencialmente com o pro...
+                                           ^^^^147Offset 45947, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+... com o propósito de ser negociado;  (cid:120)  Espera-se que seja realizado até 12 m...
+                                           ^^^^148Offset 46027, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...12 meses após a data do balanço; e  (cid:120)  É caixa ou equivalente de caixa (conf...
+                                           ^^^^149Offset 46151, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...CPC 03  (R2) Demonstração dos Fluxos de Caixa), a menos que sua troca ou uso para liq...
+                                           ^^^^^150Offset 46290, length 15, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘Todos os demais’ é um pleonasmo. É preferível dizer “os demais”
+Suggestion: Os demais
+...nos 12 meses após a data do balanço.    Todos os demais ativos são classificados como não circu...
+                                           ^^^^^^^^^^^^^^^151Offset 46409, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...lassificado no circulante quando:   (cid:120)  Espera-se que seja liquidado durante ...
+                                           ^^^^152Offset 46498, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...lo operacional normal da entidade;  (cid:120)  Está mantido essencialmente para a fi...
+                                           ^^^^153Offset 46574, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...ara a finalidade de ser negociado;  (cid:120)  Deve ser liquidado no período de até ...
+                                           ^^^^154Offset 46658, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 120
+...12 meses após a data do balanço; e  (cid:120)  A entidade não tem direito incondicio...
+                                           ^^^^155Offset 46756, length 5, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Menos
+... a liquidação do passivo durante pelo   menos 12 meses após a data do balanço.   Os t...
+                                           ^^^^^156Offset 46989, length 15, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘todos os demais’ é um pleonasmo. É preferível dizer “os demais”
+Suggestion: os demais
+... classificação. A Companhia  classifica todos os demais passivos no não circulante.            ...
+                                           ^^^^^^^^^^^^^^^157Offset 47165, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^158Offset 47342, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.20. Lucro por ação   O l...
+                                           ^^159Offset 47907, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...s  a  quantidade  média  ponderada  de  ações  ordinárias que seriam emitidas na conv...
+                                           ^^^^^160Offset 47914, length 10, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...uantidade  média  ponderada  de  ações  ordinárias que seriam emitidas na conversão de tod...
+                                           ^^^^^^^^^^161Offset 47925, length 19, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: emitidas
+...média  ponderada  de  ações  ordinárias que seriam emitidas na conversão de todas as ações ordinári...
+                                           ^^^^^^^^^^^^^^^^^^^162Offset 47970, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...eriam emitidas na conversão de todas as ações ordinárias potenciais diluídas  em açõe...
+                                           ^^^^^163Offset 47976, length 10, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...emitidas na conversão de todas as ações ordinárias potenciais diluídas  em ações ordinária...
+                                           ^^^^^^^^^^164Offset 48011, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ções ordinárias potenciais diluídas  em ações ordinárias.     Os  instrumentos  de  p...
+                                           ^^^^^165Offset 48017, length 10, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...rdinárias potenciais diluídas  em ações ordinárias.     Os  instrumentos  de  patrimônio  ...
+                                           ^^^^^^^^^^166Offset 48824, length 3, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...   Atualização do CPC 38, CPC 40 (R1) E CPC 48 (Deliberação CVM Nº 854/2020)    A d...
+                                           ^^^167Offset 48848, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+..., CPC 40 (R1) E CPC 48 (Deliberação CVM Nº 854/2020)    A deliberação CVM 854/2020...
+                                           ^^168Offset 49013, length 3, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ciamentos Técnicos CPC 38 CPC 40 (R1) e CPC 48, emitidos pelo  CPC, em decorrência ...
+                                           ^^^169Offset 49456, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^170Offset 49633, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...resumo das principais práticas contábeis--Continuação   2.22.   Novas normas contá...
+                                           ^^171Offset 49679, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...inuação   2.22.   Novas normas contábeis--Continuação   Atualização do CPC 26/IAS ...
+                                           ^^172Offset 50269, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...tualização do IFRS 16 E Deliberação CVM Nº 859/2020     Em maio de 2020, o IASB ap...
+                                           ^^173Offset 50572, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+... de  2020, a CVM publicou a Deliberação nº 859/2020 que aprova a revisão do CPC 06...
+                                           ^^174Offset 51476, length 7, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...nistração fez os seguintes  julgamentos que têm efeito mais significativo sobre os valo...
+                                           ^^^^^^^175Offset 51806, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^176Offset 51989, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...vas e premissas contábeis significativas--Continuação   A Companhia valoriza as co...
+                                           ^^177Offset 52173, length 11, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ontas a pagar a fornecedores a fixar de commodities pelo  valor justo na data de reporte, s...
+                                           ^^^^^^^^^^^178Offset 52272, length 14, Rule ID: CONTRA_CAPA
+Message: Substitua por “contrapartida”.
+Suggestion: contrapartida
+...variações do valor justo registradas em contra partida ao  custo das mercadorias e produtos ve...
+                                           ^^^^^^^^^^^^^^179Offset 53015, length 30, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: registradas, em contrapartida
+... valor  justo,  tendo  suas  variações  registradas  em  contrapartida  do  custo  das  mercadorias e produtos...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^180Offset 53969, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores significativa-  men...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^181Offset 54691, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^182Offset 54874, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...vas e premissas contábeis significativas--Continuação   Tributos sobre o lucro   E...
+                                           ^^183Offset 55448, length 20, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considera; consideres
+...e renda corrente e diferido a Companhia leva em consideração o  impacto de incertezas relativas as p...
+                                           ^^^^^^^^^^^^^^^^^^^^184Offset 55494, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativas às
+...m consideração o  impacto de incertezas relativas as posições fiscais tomadas. A Companhia a...
+                                           ^^^^^^^^^^^^185Offset 56507, length 14, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...e nível de lucros tributáveis futuros,  juntamente com estratégias de planejamento fiscal futu...
+                                           ^^^^^^^^^^^^^^186Offset 57600, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^187Offset 58120, length 10, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Fechamento
+... instituição financeira, pendentes de   fechamento de contratos de câmbio na data de encer...
+                                           ^^^^^^^^^^188Offset 58619, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...embro de 2019 e  100,2% do CDI em 31 de dezembro de 2018).    5.  Contas a receber de cl...
+                                           ^^^^^^^^189Offset 59879, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^190Offset 60029, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...rma)   5.   Contas a receber de clientes--Continuação   A Vencer   Vencidos     De...
+                                           ^^191Offset 61338, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^192Offset 62751, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...te compensação com impostos a  pagar ou através de pedidos de ressarcimento em caixa.     ...
+                                           ^^^^^^^^^^193Offset 62966, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^194Offset 63184, length 24, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: justo, em contrapartida
+...ados  devidamente  ajustados  a  valor  justo  em  contrapartida do resultado.   Os estoques de insumos,...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^195Offset 63571, length 7, Rule ID: A_WORD
+Message: Possível erro de concordância de género.
+Suggestion: o valor
+...nsivos  Biodiesel  Outros   Commodities a valor justo  Grãos  Óleo e farelo   Total   2...
+                                           ^^^^^^^196Offset 64120, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...demonstrações financeiras foram obtidas por meio de fontes públicas independentes, e são co...
+                                           ^^^^^^^^^^^197Offset 64163, length 5, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+... meio de fontes públicas independentes, e são como  segue:    2020   2019   2018   Va...
+                                           ^^^^^198Offset 64973, length 3, Rule ID: PLURAL_IN_UNITS_OF_MEASURE
+Message: As abreviaturas de unidades de medida padrão não tem plural.
+Suggestion: kg
+...00.069   (*) Em milhares de sacas de 60 kgs.  (**) Em milhares de toneladas.       ...
+                                           ^^^199Offset 65210, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^200Offset 66290, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^201Offset 67917, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...em 31/12/2018    Saldo em 31/12/2019    Saldo em 31/12/2020   10.804  16.554  24.895 ...
+                                           ^^^^^202Offset 70410, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^203Offset 70543, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...icado de outra forma)   9.   Imobilizado--Continuação   a)  Imobilizado em andamen...
+                                           ^^204Offset 70773, length 27, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: ,, ampliação e reforma; , e ampliação, e reforma
+...ovos  depósitos  para  grãos  e  insumos,  e  ampliação  e  reforma  da  planta  fabril  de  Cruz  Alta  pa...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^205Offset 72379, length 6, Rule ID: IRREGULAR_PAST_PARTICIPLES
+Message: Com o verbo ‘irser’ deve utilizar-se o particípio passado irregular.
+Suggestion: fixo
+...o ativo  entregue até a data em que for fixado, podendo ser realizado a qualquer momen...
+                                           ^^^^^^206Offset 72461, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: valorizadas
+...omento, por decisão do  produtor rural, sendo valorizadas ao valor justo, conforme descrito na No...
+                                           ^^^^^^^^^^^^^^^^^207Offset 72482, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...o  produtor rural, sendo valorizadas ao valor justo, conforme descrito na Nota 8. Por...
+                                           ^^^^^208Offset 72782, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^209Offset 73270, length 5, Rule ID: A_WORD
+Message: Possível erro de concordância de género.
+Suggestion: o set
+...1   129.466   91.459   109.799   jan/21 a set/35  5,6% a.a.   18.563   125.009   14.6...
+                                           ^^^^^210Offset 73336, length 5, Rule ID: A_WORD
+Message: Possível erro de concordância de género.
+Suggestion: o jun
+...63   125.009   14.695   35.033   jan/21 a jun/21  5,96% a.a   82.758   abr/21 a set/2...
+                                           ^^^^^211Offset 73374, length 5, Rule ID: A_WORD
+Message: Possível erro de concordância de género.
+Suggestion: o set
+...1 a jun/21  5,96% a.a   82.758   abr/21 a set/22   4,20%  a.a.   98.320   -   -   65....
+                                           ^^^^^212Offset 73948, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^213Offset 74097, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...orma)   11. Empréstimos e financiamentos--Continuação   As garantias da Companhia ...
+                                           ^^214Offset 74965, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^215Offset 75558, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: eles respectivamente riscam
+...seus  instrumentos  financeiros,  sendo eles respectivamente risco de mercado, risco de crédito e risco de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^216Offset 75616, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...te risco de mercado, risco de crédito e risco de liquidez, sendo tais riscos  mitigad...
+                                           ^^^^^217Offset 76995, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...      -    12.  Instrumentos financeiros--Continuação                             ...
+                                           ^^218Offset 77160, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^219Offset 77319, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ixa e equivalentes de caixa - Incluem o caixa, os saldos em conta corrente e em aplic...
+                                           ^^^^^220Offset 78095, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...stradas pelo método do custo amortizado de acordo com as condições contratuais.   Outros ativos ...
+                                           ^^^^^^^^^^^^^^^^221Offset 78220, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e serão
+...tes de outras transações com terceiros, e que serão  convertidos em caixa, além de saldo de...
+                                           ^^^^^^^^^^^222Offset 78381, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e serão
+... saldo decorrentes de outras transações e que serão liquidadas em caixa.   Instrumentos  fi...
+                                           ^^^^^^^^^^^223Offset 78955, length 11, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ções  de  compra  e  venda  futura  de  commodities  através  de  contratos a termo junto a...
+                                           ^^^^^^^^^^^224Offset 78968, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...pra  e  venda  futura  de  commodities  através  de  contratos a termo junto a produtores r...
+                                           ^^^^^^^^^^^225Offset 78981, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...  futura  de  commodities  através  de  contratos a termo junto a produtores rurais e cli...
+                                           ^^^^^^^^^226Offset 79218, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...iros, cujos  riscos  são administrados  através de estratégias de posições financeiras e s...
+                                           ^^^^^^^^^^227Offset 79394, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...mercado (risco de preço de commodities, risco cambial, risco  de juros), risco de cré...
+                                           ^^^^^228Offset 79409, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...de preço de commodities, risco cambial, risco  de juros), risco de crédito e risco de...
+                                           ^^^^^229Offset 79427, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ities, risco cambial, risco  de juros), risco de crédito e risco de liquidez.   A  ge...
+                                           ^^^^^230Offset 79446, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...l, risco  de juros), risco de crédito e risco de liquidez.   A  gestão  de  risco  gl...
+                                           ^^^^^231Offset 79508, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...  gestão  de  risco  global,  definida  através  de  política  interna  da  Companhia,  con...
+                                           ^^^^^^^^^^^232Offset 79943, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^233Offset 80079, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...do de outra forma)   13. Gestão de risco--Continuação   O  quadro  a  seguir  suma...
+                                           ^^234Offset 81461, length 18, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+... flutuações  decorrentes  de  fatores,  como  por  exemplo,  mudanças  nas  condições  meteorológi...
+                                           ^^^^^^^^^^^^^^^^^^235Offset 81661, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...sultantes de crescimento populacional e mudanças de padrões de vida e produção  global d...
+                                           ^^^^^^^^236Offset 81831, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+... exposição  ao  preço  de  commodities  através  de  contratos  de  futuros  negociados  em...
+                                           ^^^^^^^^^^^237Offset 81999, length 7, Rule ID: A_WORD
+Message: Possível erro de concordância de género.
+Suggestion: o preço
+...omo contratos de compra e venda a termo a preço fixo com o objetivo  de reduzir o risco...
+                                           ^^^^^^^238Offset 82012, length 18, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+... de compra e venda a termo a preço fixo com o objetivo  de reduzir o risco de preço advindo de flu...
+                                           ^^^^^^^^^^^^^^^^^^239Offset 82050, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...o com o objetivo  de reduzir o risco de preço advindo de flutuações de mercado em com...
+                                           ^^^^^240Offset 82092, length 11, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...eço advindo de flutuações de mercado em commodities agrícolas.    Os  resultados  dessas  e...
+                                           ^^^^^^^^^^^241Offset 82663, length 4, Rule ID: UNITS_OF_MEASURE_SPACING
+Message: Deve dar um espaço entre o valor e a unidade de medida: “60 kg”
+Suggestion: 60 kg
+...sições físicas (em milhares de sacas de 60kg):                                      ...
+                                           ^^^^242Offset 82794, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^243Offset 82930, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...do de outra forma)   13. Gestão de risco--Continuação   Estoques  Contas a receber...
+                                           ^^244Offset 83689, length 29, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: registrada, em contrapartida
+... risco  de  preço  das  commodities  é  registrada  em  contrapartida ao custo das mercadorias e produtos ven...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^245Offset 83868, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...e  dezembro de 2019 e R$34.480 em 31 de dezembro de 2018).   Análise de sensibilidade do...
+                                           ^^^^^^^^246Offset 84360, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^247Offset 84496, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...do de outra forma)   13. Gestão de risco--Continuação   Soja   Instrumentos   Saca...
+                                           ^^248Offset 86512, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^249Offset 86648, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...do de outra forma)   13. Gestão de risco--Continuação   Trigo   Instrumentos   Sac...
+                                           ^^250Offset 88199, length 4, Rule ID: UNITS_OF_MEASURE_SPACING
+Message: Deve dar um espaço entre o valor e a unidade de medida: “60 kg”
+Suggestion: 60 kg
+...farelo **   *   em milhares de sacas de 60kg  ** em milhares de toneladas           ...
+                                           ^^^^251Offset 88523, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^252Offset 90672, length 21, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 5,20
+...        5,20         56.462             5,20             5,20             5,20    (33.107)  (121.115)...
+                                           ^^^^^^^^^^^^^^^^^^^^^253Offset 90763, length 21, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 6,50
+... (121.115)  73.388   Cotação            6,50             6,50             6,50             6,50      ...
+                                           ^^^^^^^^^^^^^^^^^^^^^254Offset 90797, length 21, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 6,50
+...      6,50             6,50             6,50             6,50             6,50             6,50    Ef...
+                                           ^^^^^^^^^^^^^^^^^^^^^255Offset 90831, length 21, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 6,50
+...      6,50             6,50             6,50             6,50    Efeito        10.771           31.33...
+                                           ^^^^^^^^^^^^^^^^^^^^^256Offset 90992, length 21, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 7,80
+...  (30.278)  18.347   Cotação            7,80             7,80             7,80             7,80      ...
+                                           ^^^^^^^^^^^^^^^^^^^^^257Offset 91026, length 21, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 7,80
+...      7,80             7,80             7,80             7,80             7,80             7,80    Ef...
+                                           ^^^^^^^^^^^^^^^^^^^^^258Offset 91060, length 21, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 7,80
+...      7,80             7,80             7,80             7,80    Efeito         21.541           62.6...
+                                           ^^^^^^^^^^^^^^^^^^^^^259Offset 91281, length 10, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 3,90
+...5)  (14.105)  8.270  30.278  (18.313)   3,90  3,90  3,90  3,90  3,90  3,90     2,60    2,6...
+                                           ^^^^^^^^^^260Offset 91293, length 10, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 3,90
+...  8.270  30.278  (18.313)   3,90  3,90  3,90  3,90  3,90  3,90     2,60    2,60    2,60   ...
+                                           ^^^^^^^^^^261Offset 91305, length 10, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 3,90
+...278  (18.313)   3,90  3,90  3,90  3,90  3,90  3,90     2,60    2,60    2,60    2,60    2,6...
+                                           ^^^^^^^^^^262Offset 91320, length 12, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 2,60
+... 3,90  3,90  3,90  3,90  3,90  3,90     2,60    2,60    2,60    2,60    2,60    2,60   Cotaç...
+                                           ^^^^^^^^^^^^263Offset 91336, length 12, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 2,60
+...0  3,90  3,90  3,90     2,60    2,60    2,60    2,60    2,60    2,60   Cotação  Efeito  (21....
+                                           ^^^^^^^^^^^^264Offset 91352, length 12, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 2,60
+...,90     2,60    2,60    2,60    2,60    2,60    2,60   Cotação  Efeito  (21.526)  (62.616)  ...
+                                           ^^^^^^^^^^^^265Offset 91633, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^266Offset 91769, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...do de outra forma)   13. Gestão de risco--Continuação   ii)  Riscos de taxa de jur...
+                                           ^^267Offset 93047, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...  equivalentes  de  caixa,  fluxos  de  caixa  contratuais  decorrentes de ativos fin...
+                                           ^^^^^268Offset 93539, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...ando a qualidade do crédito do cliente, levando em consideração sua  posição financeira, experiência pa...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^269Offset 93588, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘experiência passada’ é uma expressão prolixa. É preferível dizer “experiência”
+Suggestion: experiência
+...m consideração sua  posição financeira, experiência passada e outros fatores. Os limites de riscos ...
+                                           ^^^^^^^^^^^^^^^^^^^270Offset 94257, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^271Offset 94393, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...do de outra forma)   13. Gestão de risco--Continuação   (iii) Risco de crédito--Co...
+                                           ^^272Offset 94431, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...co--Continuação   (iii) Risco de crédito--Continuação   Contas a receber de client...
+                                           ^^273Offset 94782, length 18, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...rdas  de  crédito  são  contabilizadas  levando  em  conta  o  fator  de  risco  individual  de  c...
+                                           ^^^^^^^^^^^^^^^^^^274Offset 95383, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...ssociadas com seus passivos financeiros que são liquidados com pagamentos em  caixa ou com outro ativo...
+                                           ^^^^^^^^^^^^^^^^^^^^^^275Offset 95773, length 8, Rule ID: INFORMALITIES
+Message: Possível linguagem informal. Considere as alternativas.
+Suggestion: de modo a; interessar-se
+...sadas,  disponíveis a qualquer momento, a fim de que a Companhia não quebre os limites o...
+                                           ^^^^^^^^276Offset 95925, length 20, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considera; consideres
+... suas linhas de crédito. Essa previsão  leva em consideração os planos de financiamento da dívida da...
+                                           ^^^^^^^^^^^^^^^^^^^^277Offset 96154, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...ncias regulatórias externas ou legais – como por exemplo, restrições de moeda.   A Companhia adm...
+                                           ^^^^^^^^^^^^^^^^278Offset 96550, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados em
+...eiros  não  derivativos  da  Companhia  que  são  liquidados  em  uma  base  líquida,  por  faixas  de  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^279Offset 97124, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^280Offset 97260, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...do de outra forma)   13. Gestão de risco--Continuação   (iv) Risco de liquidez--Co...
+                                           ^^281Offset 97298, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...co--Continuação   (iv) Risco de liquidez--Continuação   2020   Acima  de um  ano  ...
+                                           ^^282Offset 98084, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ao mesmo tempo,
+...ontinuar  em regime operacional normal, ao mesmo tempo em que maximiza o retorno aos acionista...
+                                           ^^^^^^^^^^^^^^283Offset 98471, length 12, Rule ID: PT_CLICHE_REPLACE
+Message: ‘por sua vez’ é uma frase-feita. É preferível dizer “,” ou “no que lhe concerne”
+Suggestion: ,; no que lhe concerne
+...al do  capital total. A dívida líquida, por  sua vez, corresponde ao total de empréstimos (i...
+                                           ^^^^^^^^^^^^284Offset 99174, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^285Offset 99310, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...do de outra forma)   13. Gestão de risco--Continuação   (v) Gestão de capital--Con...
+                                           ^^286Offset 99347, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...sco--Continuação   (v) Gestão de capital--Continuação   2020   2019   2018   Empré...
+                                           ^^287Offset 99920, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...sentada  pelo  patrimônio  líquido)  e  capital  de  terceiros  (correspondente  ao  pa...
+                                           ^^^^^^^288Offset 101109, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^289Offset 103079, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^290Offset 104078, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+... Expectativa de despesa de IRPJ e CSLL, de acordo com a alíquota vigente   (86.851)   (42.897) ...
+                                           ^^^^^^^^^^^^^^^291Offset 104673, length 3, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 4%
+...5.311   18  (5.368)   (6.580)  13.985   -4%   -4%   6%                             ...
+                                           ^^^292Offset 104679, length 3, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 4%
+...  18  (5.368)   (6.580)  13.985   -4%   -4%   6%                                   ...
+                                           ^^^293Offset 104868, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^294Offset 105027, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+.... Imposto de renda e contribuição social--Continuação   O imposto de renda e a con...
+                                           ^^295Offset 105752, length 13, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘mais provável’ é um pleonasmo. É preferível dizer “provável”
+Suggestion: provável
+...nal de cada exercício e  quando não for mais provável a geração de lucros tributáveis futuros...
+                                           ^^^^^^^^^^^^^296Offset 106960, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^297Offset 107103, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...utra forma)   19. Provisão para litígios--Continuação   A movimentação da provisão...
+                                           ^^298Offset 108846, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... de dezembro de 2019, R$31.794 em 31 de dezembro de 2018).                              ...
+                                           ^^^^^^^^299Offset 108997, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^300Offset 109137, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...e outra forma)   20. Partes relacionadas--Continuação   Alienação de terras   Em  ...
+                                           ^^301Offset 109592, length 3, Rule ID: PERCENT_WITHOUT_SPACE
+Message: Escreva a percentagem sem espaços (estilo padrão).
+Suggestion: 6%
+...as anuais  indexado ao índice IGPM mais 6 % a.a. Os saldos em aberto no encerrament...
+                                           ^^^302Offset 109710, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...s pelo valor atualizado e classificados de acordo com o prazo de vencimento.   Em 31 de dezembr...
+                                           ^^^^^^^^^^^^^^^303Offset 109862, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... de dezembro de  2019, R$5.698 em 31 de dezembro de 2018).   Operações da atividade prin...
+                                           ^^^^^^^^304Offset 109986, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “nas”.
+Suggestion: nas
+... de vendas de insumos e compra de grãos dentro das operações  normais  da  atividade,  rea...
+                                           ^^^^^^^^^^305Offset 111288, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^306Offset 111428, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...e outra forma)   20. Partes relacionadas--Continuação   2020   Demonstração do res...
+                                           ^^307Offset 112150, length 8, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tipos de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categorias de”
+Suggestion: APAGAR; categorias de
+...efício  pós-emprego ou quaisquer outros tipos de remuneração.   21. Patrimônio líquido  ...
+                                           ^^^^^^^^308Offset 112352, length 11, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “nos”.
+Suggestion: Nos
+...dinárias,  todas  sem  valor  nominal.  Dentro  dos  limites  autorizados  no  Estatuto  e ...
+                                           ^^^^^^^^^^^309Offset 112780, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...  dezembro de 2019 e  R$55.500 em 31 de dezembro de 2018), e está divido em 400 milhões ...
+                                           ^^^^^^^^310Offset 113123, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^311Offset 113262, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...de outra forma)   21. Patrimônio líquido--Continuação   31 de dezembro de 2018  AG...
+                                           ^^312Offset 113640, length 2, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: De
+...juste de avaliação patrimonial   Quant. de ações  (mil)   Total   55.500  44.500  ...
+                                           ^^313Offset 114067, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... de dezembro de 2019 e R$6.742 em 31 de dezembro de 2018).   Reserva de lucros   Reserva...
+                                           ^^^^^^^^314Offset 114416, length 12, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...ão houve constituição da reserva legal, uma  vez que o resultado dos respectivos exercícios ...
+                                           ^^^^^^^^^^^^315Offset 114665, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...ara incentivos fiscais está constituída de acordo com o estabelecido no artigo 195-A da  Lei da...
+                                           ^^^^^^^^^^^^^^^316Offset 115617, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^317Offset 115756, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...de outra forma)   21. Patrimônio líquido--Continuação   Dividendos   De acordo com...
+                                           ^^318Offset 115785, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: Conforme o; Segundo o; Consoante o
+...nio líquido--Continuação   Dividendos   De acordo com o Estatuto Social, o dividendo mínimo obr...
+                                           ^^^^^^^^^^^^^^^319Offset 116095, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinados à
+...0,  2019  e  2018  foram  integralmente destinados a constituição da reserva para incentivos...
+                                           ^^^^^^^^^^^^320Offset 116551, length 12, Rule ID: À_VERBO_DE
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a contar
+...adicional  no  montante  de  R$11.800,  à  conta  de  reservas  de  lucros.    Conforme dete...
+                                           ^^^^^^^^^^^^321Offset 117681, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^322Offset 118125, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... subvenção  federal  tem  natureza  de  subvenção para custeio.   Incentivos fiscais esta...
+                                           ^^^^^^^^^323Offset 118547, length 27, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: recolher, em contrapartida
+... registrados  na  rubrica  de  ICMS  a  recolher  em  contrapartida ao resultado, na rubrica de impostos so...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^324Offset 119135, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...ICMS são decorrentes dos convênios ICMS nº 100 de 1997 e nº 52 de 1991,  com respa...
+                                           ^^325Offset 119152, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...tes dos convênios ICMS nº 100 de 1997 e nº 52 de 1991,  com respaldo na Lei Comple...
+                                           ^^326Offset 119201, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...1991,  com respaldo na Lei Complementar nº 160/2017, que consideram que os incenti...
+                                           ^^327Offset 119270, length 4, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ue os incentivos fiscais relativos  ao  ICMS  são subvenções para  investimentos,  d...
+                                           ^^^^328Offset 120031, length 8, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...postos  e  contribuições  a  recuperar  e  foram  registrados  nos  respectivos  anos  d...
+                                           ^^^^^^^^329Offset 120568, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^330Offset 120714, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...a forma)   23. Subvenções governamentais--Continuação   Conforme determina o artig...
+                                           ^^331Offset 120934, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...  valores  subvencionados.  Entretanto, uma vez que em determinados exercícios a Companhia ...
+                                           ^^^^^^^^^^^332Offset 121284, length 15, Rule ID: AUXILIARY_VERB_INFINITIVE
+Message: Verbos auxiliares devem ser seguidos de formas verbais no infinitivo ou no gerúndio.
+Suggestion: ; deverá, recompor
+...artigo 30 da Lei 12.973/14, a Companhia deverá recompor a reserva para  incentivos fiscais em e...
+                                           ^^^^^^^^^^^^^^^333Offset 121741, length 27, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: recuperar, em contrapartida
+...egistrados na rubrica de PIS e COFINS a recuperar  em contrapartida ao resultado, na rubrica de impostos so...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^334Offset 123237, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^335Offset 123382, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...ra forma)   24. Informações por segmento--Continuação   (ii)  Grãos de soja, milho...
+                                           ^^336Offset 123584, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ridos  de  terceiros,  bem  como,  dos  grãos  originados  nas  operações  de  “CPR”....
+                                           ^^^^^337Offset 125305, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^338Offset 125450, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...ra forma)   24. Informações por segmento--Continuação   Receita por cliente   O mo...
+                                           ^^339Offset 127352, length 2, Rule ID: DOUBLE_PUNCTUATION
+Message: Pontuação duplicada
+Suggestion: -; —
+...xplicativas às demonstrações financeiras--Continuação  31 de dezembro de 2020, 201...
+                                           ^^

@@ -1,0 +1,32 @@
+68Offset 82, length 8, Rule ID: AO90_MONTHS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os meses e as estações do ano deixam de ser capitalizados.
+Suggestion: dezembro
+...s às Demonstrações Contábeis   Em 31 de Dezembro de 2015 e 2014   (Em milhares de reais)...
+                                           ^^^^^^^^69Offset 1228, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...das e estão apresentadas em reais (R$), que é a moeda  do principal ambiente econômic...
+                                           ^^^^^70Offset 1575, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...no processo de  aplicação das políticas contábeis. Aquelas áreas que requerem maior nível...
+                                           ^^^^^^^^^71Offset 2940, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...  operações, atualizados monetariamente de acordo com as regras legais, e representam créditos  ...
+                                           ^^^^^^^^^^^^^^^^72Offset 5182, length 6, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Saldos
+...ta Federal pedidos de restituição dos   saldos negativos de IRPJ. Estes créditos estão...
+                                           ^^^^^^73Offset 5369, length 6, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Saldos
+...ta Federal pedidos de restituição dos   saldos negativos de CSLL. Estes créditos estão...
+                                           ^^^^^^74Offset 5546, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativa à
+...sultado, refere-se ao registro da baixa relativa  a desistência do recurso administrativo. ...
+                                           ^^^^^^^^^^^75Offset 6312, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...85, para adequação ao artigo 199 da lei nº 6.404/76.    b)  Dividendos   Aos acion...
+                                           ^^

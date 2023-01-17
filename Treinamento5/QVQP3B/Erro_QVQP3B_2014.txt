@@ -1,0 +1,58 @@
+39Offset 82, length 8, Rule ID: AO90_MONTHS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os meses e as estações do ano deixam de ser capitalizados.
+Suggestion: dezembro
+...s às Demonstrações Contábeis   Em 31 de Dezembro de 2013 e 2012   (Em milhares de reais)...
+                                           ^^^^^^^^40Offset 556, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...emonstrações contábeis foram elaboradas de acordo com as práticas contábeis adotadas no Brasil, ...
+                                           ^^^^^^^^^^^^^^^^41Offset 1058, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+... e  estão apresentadas em  reais  (R$), que é a moeda do principal  ambiente econômic...
+                                           ^^^^^42Offset 1604, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ntes  de  caixa  incluem  dinheiro  em  caixa,  depósitos  bancários  e  aplicações  ...
+                                           ^^^^^43Offset 2894, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...  de caixa futuro. Ver nota explicativa nº 6.   e)  Passivo circulante   São demon...
+                                           ^^44Offset 3973, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ação  e  no  registro  de  estimativas  contábeis.  Ativos  e  passivos  sujeitos  a  est...
+                                           ^^^^^^^^^45Offset 4140, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores diferentes  dos est...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^46Offset 4760, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...governo e outros, bem como a parcela da riqueza não distribuída.    4 -   Pronunciament...
+                                           ^^^^^^^47Offset 4956, length 3, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...tos contábeis CPC 33 (R1), CPC 18 (R2), CPC 19 (R2), CPC 36 (R3), CPC 45 e CPC 46  ...
+                                           ^^^48Offset 4969, length 3, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... CPC 33 (R1), CPC 18 (R2), CPC 19 (R2), CPC 36 (R3), CPC 45 e CPC 46  passaram  a  ...
+                                           ^^^49Offset 4982, length 3, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... CPC 18 (R2), CPC 19 (R2), CPC 36 (R3), CPC 45 e CPC 46  passaram  a  vigorar  em  ...
+                                           ^^^50Offset 4991, length 3, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...R2), CPC 19 (R2), CPC 36 (R3), CPC 45 e CPC 46  passaram  a  vigorar  em  períodos ...
+                                           ^^^51Offset 7273, length 9, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Negativos
+...pedidos  de  restituição  dos  saldos   negativos de IRPJ. Estes créditos estão sendo atu...
+                                           ^^^^^^^^^52Offset 7474, length 9, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Negativos
+...pedidos  de  restituição  dos  saldos   negativos de CSLL. Estes créditos estão sendo atu...
+                                           ^^^^^^^^^53Offset 7944, length 11, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Recebimento
+...erda no montante de R$ 152, devido ao   recebimento de restituições durante os exercícios d...
+                                           ^^^^^^^^^^^54Offset 9363, length 12, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...nceiros da Companhia foram determinados por meio  de informações disponíveis no mercado e me...
+                                           ^^^^^^^^^^^^

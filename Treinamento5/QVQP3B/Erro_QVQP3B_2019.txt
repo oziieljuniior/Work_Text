@@ -1,0 +1,122 @@
+114Offset 1025, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...emonstrações contábeis foram preparadas de acordo com as práticas contábeis adotadas no Brasil, ...
+                                           ^^^^^^^^^^^^^^^^115Offset 1956, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensurados pelo
+...m exceção dos instrumentos  financeiros que são mensurados pelo valor justo.   c)  Moeda funcional e de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^116Offset 2114, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...adas e estão apresentadas em Real (R$), que é a moeda do principal  ambiente econômic...
+                                           ^^^^^117Offset 2898, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores  diferentes  dos...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^118Offset 4308, length 8, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: aluguéis
+...ro  relacionado  com  o  pagamento  de  alugueis.      ICPC 22/IFRIC 23 – Incerteza sob...
+                                           ^^^^^^^^119Offset 4606, length 13, Rule ID: IRREGULAR_PAST_PARTICIPLES
+Message: A forma correta deste particípio é aceites.
+Suggestion: foram aceites
+...osto onde as posições fiscais ainda não foram aceitas pelas  autoridades tributárias.     Ap...
+                                           ^^^^^^^^^^^^^120Offset 4797, length 3, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...9 – Negócios em conjunto – R2), IAS 12 (CPC 32 – Tributos sobre o lucro) e IAS 23 (...
+                                           ^^^121Offset 4840, length 3, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... 32 – Tributos sobre o lucro) e IAS 23 (CPC 20 – custos  dos empréstimos – R1)   A ...
+                                           ^^^122Offset 4928, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: e, no entanto
+...nhia avaliou os reflexos destas normas, e no entanto, não espera impacto relevante sobre as ...
+                                           ^^^^^^^^^^^^123Offset 5538, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...iros inicialmente na data da negociação na qual a Companhia  se torna uma das partes da...
+                                           ^^^^^^^124Offset 6131, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...uivalentes de caixa abrangem saldos de  caixa e investimentos financeiros com vencime...
+                                           ^^^^^125Offset 6312, length 6, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...nsignificante de  alteração  no  valor  e  são  utilizadas  na  gestão  das  obrigaçõe...
+                                           ^^^^^^126Offset 8119, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...são preços cotados incluídos no Nível 1 e que são observáveis para o ativo  ou passivo, s...
+                                           ^^^^^^^^^127Offset 8409, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+... operações,  atualizados monetariamente de acordo com as regras legais, e representam créditos f...
+                                           ^^^^^^^^^^^^^^^^128Offset 10076, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...lo método indireto e estão apresentadas de  acordo com o CPC 03 (R2).                           ...
+                                           ^^^^^^^^^^^^^^^^129Offset 10501, length 4, Rule ID: PERCENT_WITHOUT_SPACE
+Message: Escreva a percentagem sem espaços (estilo padrão).
+Suggestion: 95%
+...a. Em 2018, a remuneração  média foi de 95 % do CDI. A seguir está apresentada a com...
+                                           ^^^^130Offset 10728, length 2, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: De
+...    BNY Mellon    Itaú   2018    Quant. de Cotas   2017    Quant. de Cotas     Val...
+                                           ^^131Offset 10731, length 5, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘cota’ e ‘quota’.
+Suggestion: Quotas
+... BNY Mellon    Itaú   2018    Quant. de Cotas   2017    Quant. de Cotas     Valor    ...
+                                           ^^^^^132Offset 10754, length 2, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: De
+...018    Quant. de Cotas   2017    Quant. de Cotas     Valor     Valor   474,27  16....
+                                           ^^133Offset 10757, length 5, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘cota’ e ‘quota’.
+Suggestion: Quotas
+...    Quant. de Cotas   2017    Quant. de Cotas     Valor     Valor   474,27  16.156,12...
+                                           ^^^^^134Offset 12984, length 8, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 0,00084
+...018   (150)  (107)   186.262  196.262   -0,00084  -0,00055   7.  Partes Relacionadas   A...
+                                           ^^^^^^^^135Offset 13045, length 22, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+...7.  Partes Relacionadas   A  Companhia  não  efetuou  qualquer  remuneração  a  diretores,  administra...
+                                           ^^^^^^^^^^^^^^^^^^^^^^136Offset 13505, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... societárias, R$ 43 (R$ 42 em 2017) de  despesas com contribuições e associações diversa...
+                                           ^^^^^^^^137Offset 13577, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ociações diversas e R$ 9 (R$ 9 em 2017) despesas de serviços do sistema  financeiro e R$...
+                                           ^^^^^^^^138Offset 13642, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...istema  financeiro e R$ 3 de despesa de serviços jurídicos.   9.  Receitas financeiras  ...
+                                           ^^^^^^^^139Offset 14352, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...  riscos  apropriados, e para monitorar riscos e aderência aos limites.   Riscos de cr...
+                                           ^^^^^^140Offset 14361, length 9, Rule ID: PORTUGUESE_WRONG_WORD_IN_CONTEXT
+Message: Considere “adesão”, i.e. apoio com presença física, em vez de ‘aderência’, i.e. propriedade física de ser aderente?
+Suggestion: adesão
+... apropriados, e para monitorar riscos e aderência aos limites.   Riscos de crédito   Risc...
+                                           ^^^^^^^^^141Offset 15113, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...ssociadas com seus passivos financeiros que são liquidados com pagamentos à vista ou  com outro ativo ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^142Offset 15284, length 13, Rule ID: COLOCACAO_ADVERBIO
+Message: Esta frase poderia soar melhor com o verbo antes de sempre.
+Suggestion: tenha sempre 
+...e garantir,  o  máximo  possível,  que  sempre  tenha  liquidez  suficiente  para  cumprir  c...
+                                           ^^^^^^^^^^^^^143Offset 16624, length 8, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...enário  provável,  para  cada  cenário  e  foram  calculadas  as  receitas  financeiras ...
+                                           ^^^^^^^^144Offset 16703, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...anceiras ou despesas financeiras não se levando em consideração a incidência de tributos. Dessa forma, ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^145Offset 16912, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+... financeiras  R$ 72 em 31/12/2018 (Nota nº 4)   Fator de  risco   Cenário  prováve...
+                                           ^^

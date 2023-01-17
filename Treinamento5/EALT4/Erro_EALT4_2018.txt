@@ -1,0 +1,514 @@
+830Offset 0, length 11, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+Electro Aço Altona S/A  Notas explicativas às Demon...
+^^^^^^^^^^^831Offset 216, length 11, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: ELECTRO AÇO
+... 1.   Informações sobre a Companhia   A ELECTRO AÇO ALTONA S/A é uma Companhia aberta com s...
+                                           ^^^^^^^^^^^832Offset 644, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: tituladas como
+...ndo em dois núcleos de peças fornecidas que são tituladas como “repetitivas”, quando são feitas em sér...
+                                           ^^^^^^^^^^^^^^^^^^^^^^833Offset 770, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...tos,  partes,  peças  e  conjuntos  de  peças,  para  as  empresas  montadoras  de  e...
+                                           ^^^^^834Offset 1814, length 25, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...monstração  financeira  foi  elaborada  levando  em  consideração  diversas  bases  de  avaliação  utiliz...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^835Offset 2511, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores significativamente ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^836Offset 2948, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...legislação societária, previstas na Lei nº 6.404/76 com alterações da Lei nº 11.63...
+                                           ^^837Offset 2982, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...a Lei nº 6.404/76 com alterações da Lei nº 11.638/07 e Lei nº  11.941/09, e os pro...
+                                           ^^838Offset 2997, length 3, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...76 com alterações da Lei nº 11.638/07 e Lei nº  11.941/09, e os pronunciamentos con...
+                                           ^^^839Offset 3001, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...om alterações da Lei nº 11.638/07 e Lei nº  11.941/09, e os pronunciamentos contáb...
+                                           ^^840Offset 3203, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+... Valores Mobiliários (“CVM”) e que está em conformidade com as  normas internacionais de relatórios...
+                                           ^^^^^^^^^^^^^^^^^^^841Offset 3379, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+... (“IASB”).   17                         Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^842Offset 4064, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: troca, ou seja
+... menos que haja restrições quando à sua troca ou seja utilizado para liquidar um  passivo por...
+                                           ^^^^^^^^^^^^^843Offset 4171, length 15, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘Todos os demais’ é um pleonasmo. É preferível dizer “os demais”
+Suggestion: Os demais
+...12 meses após o período de divulgação.  Todos os demais ativos são classificados como não circu...
+                                           ^^^^^^^^^^^^^^^844Offset 4630, length 15, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘todos os demais’ é um pleonasmo. É preferível dizer “os demais”
+Suggestion: os demais
+...de  divulgação.  A Companhia classifica todos os demais passivos no não circulante.    Os ativo...
+                                           ^^^^^^^^^^^^^^^845Offset 4867, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...anceira está apresentada em Reais (R$), que é a moeda funcional da Companhia. As transa...
+                                           ^^^^^^^846Offset 5597, length 5, Rule ID: QUANDO_POSSA_SER
+Message: Substitua por “puder”.
+Suggestion: puder
+...gerados  para  a  Companhia  e  quando  possa  ser  mensurada  de  forma  confiável. ...
+                                           ^^^^^847Offset 5942, length 6, Rule ID: AGENTE_BR
+Message: Substitua «agente» por “a gente”.
+Suggestion: a gente
+...os para determinar se está atuando como agente ou principal e, ao final, concluiu que ...
+                                           ^^^^^^848Offset 6482, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...   18                                   Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^849Offset 6809, length 33, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: ativos, passivos e seus valores; ativos e passivos, e seus valores
+...ta do balanço entre as bases fiscais de ativos e passivos e  seus valores contábeis e são mensurados com base nas...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^850Offset 6853, length 5, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...os e passivos e  seus valores contábeis e são mensurados com base nas taxas de impost...
+                                           ^^^^^851Offset 7551, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...scais, hipótese em que o  imposto sobre vendas é reconhecido como parte do custo de aq...
+                                           ^^^^^^852Offset 8173, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...de Qualquer Natureza – ISS: 2% a 5%  •  Imposto sobre Produtos Industrializados – IPI: ...
+                                           ^^^^^^^853Offset 8262, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... a 15%  •  Instituto Nacional do Seguro Social – INSS: 1 - 2,5%   2.5   Instrumentos f...
+                                           ^^^^^^854Offset 9047, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...financeiros mantidos para negociação e  ativos financeiros designados no reconheciment...
+                                           ^^^^^^855Offset 9054, length 11, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...iros mantidos para negociação e  ativos financeiros designados no reconhecimento inicial ao...
+                                           ^^^^^^^^^^^856Offset 9264, length 6, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+... objetivo  de  venda  no  curto  prazo  e  são  apresentados no balanço patrimonial ao...
+                                           ^^^^^^857Offset 9786, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...rável.  O custo  amortizado é calculado levando em consideração qualquer desconto ou “prêmio” na  aquis...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^858Offset 9995, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...ha  de   19                             Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^859Offset 10173, length 7, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Receita
+...xceto quando indicado de outra forma)   receita  financeira  na  demonstração  de  resu...
+                                           ^^^^^^^860Offset 10499, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...direitos de receber  fluxos de caixa do ativo se expirarem, ou quando a Companhia tra...
+                                           ^^^^^861Offset 10646, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...uma obrigação de pagar integralmente os fluxos de caixa recebidos a um terceiro por fo...
+                                           ^^^^^^862Offset 10656, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ção de pagar integralmente os fluxos de caixa recebidos a um terceiro por força contr...
+                                           ^^^^^863Offset 10765, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...stancialmente os riscos e benefícios do ativo ou o controle sobre o ativo.    Redução...
+                                           ^^^^^864Offset 10793, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...nefícios do ativo ou o controle sobre o ativo.    Redução do valor recuperável de ati...
+                                           ^^^^^865Offset 12179, length 6, Rule ID: FRAGMENT_TWO_ARTICLES
+Message: Possível fragmento.
+Suggestion: pelo; o; pelo, o
+...(i)   Matéria prima: custo de aquisição pelo o custo médio; e  (ii)   Produtos acabado...
+                                           ^^^^^^866Offset 12244, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...i)   Produtos acabados e em elaboração: custo dos materiais diretos, mão de obra e um...
+                                           ^^^^^867Offset 12273, length 11, Rule ID: INFORMALITIES
+Message: Esta é uma expressão oral. Reveja.
+Suggestion: trabalhadores
+...laboração: custo dos materiais diretos, mão de obra e uma parcela proporcional das  despesa...
+                                           ^^^^^^^^^^^868Offset 12807, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...go prazo são atualizados monetariamente e, portanto, estão ajustados pelo seu  valor presen...
+                                           ^^^^^^^^^^^869Offset 13117, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...ro e   20                               Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^870Offset 13295, length 12, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Determinação
+...xceto quando indicado de outra forma)   determinação de relevância, o ajuste a valor present...
+                                           ^^^^^^^^^^^^871Offset 13361, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+..., o ajuste a valor presente é calculado levando em consideração os fluxos de caixa  contratuais e a tax...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^872Offset 14693, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ação do resultado no exercício em que o ativo  for baixado.   A depreciação é calcula...
+                                           ^^^^^873Offset 16136, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...                                        Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^874Offset 16524, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...o valor justo do bem arrendado ou, pelo valor presente dos  pagamentos.  Sobre  o  cu...
+                                           ^^^^^875Offset 16798, length 10, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de forma a’ é uma expressão prolixa. É preferível dizer “para”
+Suggestion: para
+...e  arrendamento  mercantis  financeiros de forma a apresentar a taxa de juros constante so...
+                                           ^^^^^^^^^^876Offset 17660, length 22, Rule ID: COLOCACAO_ADVERBIO
+Message: Esta frase poderia soar melhor com o verbo antes de necessariamente.
+Suggestion: requer necessariamente 
+...ução  ou  produção  de  um  ativo  que  necessariamente requer um tempo significativo para ser concluí...
+                                           ^^^^^^^^^^^^^^^^^^^^^^877Offset 18416, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... sistemática em relação aos custos cujo benefício  objetiva  compensar.  Quando  o  benef...
+                                           ^^^^^^^^^878Offset 18655, length 31, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou assistência é reconhecido, ou
+...do correspondente ativo.   O empréstimo ou assistência é reconhecido ou mensurado inicialmente a valor justo. A...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^879Offset 18896, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...mpréstimo é  subsequentemente mensurado de acordo com a política contábil.   2.13  Perda por re...
+                                           ^^^^^^^^^^^^^^^880Offset 19076, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...nte o valor contábil líquido dos ativos com o objetivo de avaliar eventos ou mudanças  nas circun...
+                                           ^^^^^^^^^^^^^^^^^881Offset 19421, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...rovisão para desvalorização ajustando o valor contábil líquido ao valor recuperável. ...
+                                           ^^^^^882Offset 19447, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...o ajustando o valor contábil líquido ao valor recuperável.   O valor recuperável de u...
+                                           ^^^^^883Offset 19600, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...sendo o maior entre o  valor em uso e o valor líquido de venda. Na estimativa do valo...
+                                           ^^^^^884Offset 20134, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...as, ajustado por despesas atribuíveis à venda do ativo, ou, quando não há  contrato d...
+                                           ^^^^^885Offset 20181, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...o ativo, ou, quando não há  contrato de venda firme, com base no preço de mercado de ...
+                                           ^^^^^886Offset 20336, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...melhantes.   22                         Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^887Offset 20766, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...fício assistência médica a funcionários em nível executivo. Esses benefícios são  financ...
+                                           ^^^^^^^^888Offset 22220, length 19, Rule ID: PARONYM_ABRENUNCIO_1
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: dos ativos súpera
+...os, ou, de um ativo quando o  montante  dos  ativos  supera  o  valor  das  obrigações  do  plano. ...
+                                           ^^^^^^^^^^^^^^^^^^^889Offset 22256, length 10, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...te  dos  ativos  supera  o  valor  das  obrigações  do  plano.  Nesta  última  hipótese,  ...
+                                           ^^^^^^^^^^890Offset 22272, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... supera  o  valor  das  obrigações  do  plano.  Nesta  última  hipótese,  o  ativo  s...
+                                           ^^^^^891Offset 23619, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... e uma estimativa confiável do valor da obrigação possa ser feita. Quando a Companhia esp...
+                                           ^^^^^^^^^892Offset 24313, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...entidade:  23                           Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^893Offset 24721, length 23, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incentivados
+...ões e o número aproximado de empregados que serão  incentivados  financeiramente  a  se  demitir,  (iv)...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^894Offset 24995, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...o, seja ao começar a  implantação desse plano ou ao anunciar as suas principais carac...
+                                           ^^^^^895Offset 25064, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...principais características para aqueles afetados pela reestruturação.   Provisão para ri...
+                                           ^^^^^^^^896Offset 25078, length 14, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...acterísticas para aqueles afetados pela reestruturação.   Provisão para riscos tributários, cí...
+                                           ^^^^^^^^^^^^^^897Offset 25754, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...ia no ordenamento jurídico, bem  como a avaliação dos advogados externos. As provisões sã...
+                                           ^^^^^^^^^898Offset 25832, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...rovisões são revisadas e ajustadas para levar em conta alterações  nas circunstâncias, tais co...
+                                           ^^^^^^^^^^^^^^899Offset 25952, length 69, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais  identificadas com base em novos assuntos ou decisões de tribunais. Ainda, quando da...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^900Offset 27333, length 15, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: permitida
+...º de janeiro de 2018 ou após essa data, sendo permitida a aplicação antecipada. Exceto para con...
+                                           ^^^^^^^^^^^^^^^901Offset 28267, length 15, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: permitida
+...dos a partir de  1º de janeiro de 2018, sendo permitida adoção antecipada. A Companhia planeja ...
+                                           ^^^^^^^^^^^^^^^902Offset 28283, length 6, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+... 1º de janeiro de 2018, sendo permitida adoção antecipada. A Companhia planeja adotar ...
+                                           ^^^^^^903Offset 28415, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...m vigor.   24                           Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^904Offset 29755, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...unidade geradora de caixa  excede o seu valor recuperável, o qual é o maior entre o v...
+                                           ^^^^^905Offset 29799, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...r recuperável, o qual é o maior entre o valor justo menos custos de venda e o valor e...
+                                           ^^^^^906Offset 29837, length 5, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...o valor justo menos custos de venda e o valor em uso.  O cálculo do valor justo menos...
+                                           ^^^^^907Offset 31732, length 15, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...vel  de  lucros  tributáveis  futuros,  juntamente  com  estratégias  de  planejamento fiscal f...
+                                           ^^^^^^^^^^^^^^^908Offset 32565, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...nanceiros.   25                         Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^909Offset 33093, length 9, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...cia no ordenamento jurídico, bem como a avaliação dos advogados externos.   As  provisões...
+                                           ^^^^^^^^^910Offset 33180, length 16, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...es  são  revisadas  e  ajustadas  para  levar  em  conta  alterações  nas  circunstâncias,  tais...
+                                           ^^^^^^^^^^^^^^^^911Offset 33315, length 76, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...l,  conclusões  de  inspeções  fiscais  ou  exposições  adicionais  identificadas  com  base  em  novos  assuntos ou decisões de tribunais.   A liquidação d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^912Offset 33456, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores significativamente ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^913Offset 34363, length 14, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 36.729
+...  13.869  23.879  37.748  (275)  (744)  36.729  36.729  -   Decomposição das contas a receber ...
+                                           ^^^^^^^^^^^^^^914Offset 34763, length 7, Rule ID: CURRENCY
+Message: O símbolos de euro é colocado depois do valor: “1.506 €”.
+Suggestion: 1.506 €
+...17   US$ 5.413  R$ 3,3074  R$ 17.904    € 1.506  R$ 3,9672  R$ 5.975   31/12/2016  16.0...
+                                           ^^^^^^^915Offset 34846, length 14, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: 31.320
+...16.065  16.836  32.901  (237)  (1.344)  31.320  31.320  -   31/12/2016   US$ 3.959  R$ 3,2585 ...
+                                           ^^^^^^^^^^^^^^916Offset 34914, length 7, Rule ID: CURRENCY
+Message: O símbolos de euro é colocado depois do valor: “1.145 €”.
+Suggestion: 1.145 €
+...16   US$ 3.959  R$ 3,2585  R$ 12.900    € 1.145  R$ 3,4374  R$ 3.936   Total a Receber ...
+                                           ^^^^^^^917Offset 35089, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...                                        Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^918Offset 36216, length 14, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: é registrada; são registradas
+...1.200)  31.672   Provisão  para  perda  é  registradas  para  operações  destinadas  ao  merca...
+                                           ^^^^^^^^^^^^^^919Offset 37012, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...                                        Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^920Offset 37955, length 9, Rule ID: DEPOIS_DE_APÓS
+Message: Substitua por “após”.
+Suggestion: Após
+...m  corrigidos da forma prevista em lei. Depois de realizar os cálculos, a Companhia ajuiz...
+                                           ^^^^^^^^^921Offset 38471, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...robrás já são de direito da  Companhia, e, portanto, foram reconhecidas como um ganho no ex...
+                                           ^^^^^^^^^^^922Offset 39087, length 11, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...o crédito é de sua propriedade e não da Electro Aço Altona S/A. Com relação  ao saldo ainda...
+                                           ^^^^^^^^^^^923Offset 39904, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+... a Companhia.   28                      Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^924Offset 41916, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...                                        Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^925Offset 43401, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...                                        Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^926Offset 45071, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...                                        Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^927Offset 46892, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...o processos trabalhistas no montante de aproximadamente R$  515, para os quais não foi constitu...
+                                           ^^^^^^^^^^^^^^^928Offset 48176, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...                                        Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^929Offset 48986, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...  Catarinense – PRODEC, programa criado com o objetivo de fomentar o crescimento da indústria cat...
+                                           ^^^^^^^^^^^^^^^^^930Offset 49449, length 7, Rule ID: PT_WEASELWORD_REPLACE
+Message: ‘até 60%’ é uma expressão ambígua e evasiva. Reconsidere o seu uso, de acordo com o objetivo do seu texto.
+Suggestion: 59%? 20%? 0%?
+... crédito  é  utilizado  para  compensar até 60% do acréscimo de imposto apresentado pel...
+                                           ^^^^^^^931Offset 49509, length 15, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: concedido
+... de imposto apresentado pela Companhia, sendo concedido prazo de 120 meses  para fruição do cré...
+                                           ^^^^^^^^^^^^^^^932Offset 49673, length 3, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Não
+...ndo semestre de 2016, sendo  que a Cia. não pode mais utilizar o benefício, somente...
+                                           ^^^933Offset 49797, length 26, Rule ID: COLOCAÇÃO_ADVÉRBIO
+Message: Ter em conta a colocação do advérbio.
+Suggestion: são mensalmente devolvidos
+... tabela abaixo. Os  créditos utilizados mensalmente são devolvidos após 48 meses, podendo o prazo total de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^934Offset 50799, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...                                        Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^935Offset 51080, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...mercado  em  20  de  novembro  de 2017  através  de  fato relevante, a  Companhia migrou do...
+                                           ^^^^^^^^^^^936Offset 51201, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...ção Fiscal, instituído pela Lei Federal nº 9.964/2000, para o PERT - Programa Espe...
+                                           ^^937Offset 51302, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...ção Tributária, criado pela Lei Federal nº 13.496/2017 pelo fato deste novo progra...
+                                           ^^938Offset 51639, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...ida remanescente do PERT está ocorrendo através de quitação  inicial  de  adesão  no  mont...
+                                           ^^^^^^^^^^939Offset 53356, length 14, Rule ID: PARONYM_ACIDULA_1
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: na sua íntegra
+...inal do lucro de 2017, está demonstrado na sua integra na proposta  da Administração para AGO/...
+                                           ^^^^^^^^^^^^^^940Offset 54377, length 2, Rule ID: NUMBER_ABREVIATION
+Message: As abreviaturas para número são: “n.o” ou “núm.”
+Suggestion: n.º; núm.
+...cipações, nos termos do art. 193 da Lei nº 6.404/76, até o limite de 20% do capita...
+                                           ^^941Offset 54502, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...s   Página 34                           Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^942Offset 56831, length 14, Rule ID: SUBSTANTIVO_PLURAL_E_CHAVE
+Message: Utilize a forma composta.
+Suggestion: pessoas-chave
+...outros. A Companhia não pagou  a  suas  pessoas  chave  da  administração,  remuneração  em  o...
+                                           ^^^^^^^^^^^^^^943Offset 57630, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...                                        Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^944Offset 58910, length 2, Rule ID: SI_UNITS_CASE
+Message: Unidades do Sistema Internacional iguais ou inferiores a “kilo” são escritas com minúsculas.
+Suggestion: cS
+...$  2.538  (R$  1.163  em  31/12/2016) e CS diferido de R$ 1.074 (R$ 579 em 31/12/2...
+                                           ^^945Offset 60518, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...                                        Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^946Offset 61391, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “em”.
+Suggestion: em
+...r os seus ativos e passivos financeiros dentro de limites estabelecidos pela Administraçã...
+                                           ^^^^^^^^^947Offset 61896, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...tinuamente as taxas de juros de mercado com o objetivo de avaliar  a eventual necessidade de se p...
+                                           ^^^^^^^^^^^^^^^^^948Offset 63630, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...ndexador.   Página 37                   Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^949Offset 65878, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...                                        Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^950Offset 66346, length 14, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Reestruturação
+...   Outras despesas   Transferência ref. reestruturação ocupacional (Nota 22)  Total das despes...
+                                           ^^^^^^^^^^^^^^951Offset 66456, length 11, Rule ID: INFORMALITIES
+Message: Esta é uma expressão oral. Reveja.
+Suggestion: Trabalhadores
+...m vendas  Comissões  Fretes  Materiais  Mão de obra  Serviços de terceiros  Outras despesas...
+                                           ^^^^^^^^^^^952Offset 66529, length 14, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Reestruturação
+...s  Outras despesas   Transferência ref. reestruturação ocupacional (Nota 22)  Total das despes...
+                                           ^^^^^^^^^^^^^^953Offset 66625, length 11, Rule ID: INFORMALITIES
+Message: Esta é uma expressão oral. Reveja.
+Suggestion: Trabalhadores
+...   Despesas administrativas  Materiais  Mão de obra  Locação de equipamentos  Honorários co...
+                                           ^^^^^^^^^^^954Offset 66747, length 14, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Reestruturação
+...os  Outras despesas  Transferência ref. reestruturação ocupacional (Nota 22)  Total das despes...
+                                           ^^^^^^^^^^^^^^955Offset 67998, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...                                        Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^956Offset 68183, length 24, Rule ID: PORTUGUESE_WORD_REPEAT_RULE
+Message: Possível erro de escrita: você repetiu uma palavra
+Suggestion: despesas
+...uando indicado de outra forma)   Outras despesas        Despesas extraordinárias (a)         Outras desp...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^957Offset 68243, length 8, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...esas extraordinárias (a)         Outras despesas (b)         Contratos de aval e fiança ...
+                                           ^^^^^^^^958Offset 68580, length 9, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Referente
+...eitos acumulados com a adesão do PERT   referente as reduções de juros/multas/encargos.  ...
+                                           ^^^^^^^^^959Offset 68784, length 10, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativo à
+...) da alienação de terrenos, em especial relativo a venda de parte do terreno de Barra Velh...
+                                           ^^^^^^^^^^960Offset 70365, length 24, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘nacional e internacional’ é uma expressão prolixa. É preferível dizer “(inter)nacional”
+Suggestion: (inter)nacional
+... receita líquida, localizado no mercado nacional e internacional, mais  especificamente na América do No...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^961Offset 70520, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...                                        Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^962Offset 72386, length 7, Rule ID: REPEATED_WORDS_3X
+Message: Para melhorar o texto, procure variar mais os termos utilizados.
+...erenciais adquirirão o direito de voto, direito esse que perderão  quando forem distrib...
+                                           ^^^^^^^963Offset 72541, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...                                        Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^964Offset 73498, length 10, Rule ID: UPPERCASE_SENTENCE_START
+Message: Esta frase não inicia com um letra maiúscula
+Suggestion: Importação
+... importação   Seguro de transporte ref. importação de  mercadorias   Conforme valor  NFs/F...
+                                           ^^^^^^^^^^965Offset 74386, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: Electro Aço
+...ssos auditores.   Página 42             Electro Aço Altona S/A  Notas explicativas às Demon...
+                                           ^^^^^^^^^^^^966Offset 74736, length 12, Rule ID: HOMONYM_ASSO_10
+Message: Esta palavra refere-se a um tipo de fivela. Se pretende referir-se à ação de emocionar, deve utilizar a forma com ‘s’.
+Suggestion: ELECTRO AÇO
+...s  do  Conselho  de  Administração  da  ELECTRO  AÇO  ALTONA  S.A.,  para  apreciação  dos  ...
+                                           ^^^^^^^^^^^^
