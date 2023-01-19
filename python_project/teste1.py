@@ -8,7 +8,7 @@ import shutil
 data = pd.read_excel('C:/Users/Riallen/Documents/Att/Cias não financeiras - 12-12-2022.xlsx')
 consulta = data['ticker'].to_list()
 t1 = len(consulta)
-for emp in range(57,t1):
+for emp in range(98,t1):
     path = "C:/Users/Riallen/Documents/Att/Data/" + consulta[emp]
     os.makedirs(path)
     
