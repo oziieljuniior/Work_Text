@@ -1,0 +1,125 @@
+74Offset 1100, length 38, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: liquidação, custódia e tratamento; liquidação e custódia, e tratamento
+...informações  cadastrais,  serviços  de  liquidação  e  custódia  e  tratamento  de  dados,  provedores  de serviços de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^75Offset 1473, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...viduais e consolidadas foram preparadas de acordo com  os pronunciamentos, as interpretações e as...
+                                           ^^^^^^^^^^^^^^^^^76Offset 2110, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...idadas foram preparadas em Reais (R$),  que é a moeda funcional da Companhia. A moeda f...
+                                           ^^^^^^^77Offset 2322, length 8, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+... apresentadas  em  milhares  de  reais  e  foram  arredondas  para  o  milhar  mais  pró...
+                                           ^^^^^^^^78Offset 2980, length 5, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+... da  controladora e de suas controladas e são incluídas a partir da data em que o con...
+                                           ^^^^^79Offset 3884, length 48, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: extraordinários, as transações e provisões; extraordinários e as transações, e provisões
+...s no resultado.  Os  ganhos  e  perdas  extraordinários  e  as  transações  e  provisões  que  envolvem  ativos  permanentes são...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^80Offset 4298, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...o do resultado  (“VJR”), ao valor justo por meio de outros resultados abrangentes (“VJORA”)...
+                                           ^^^^^^^^^^^81Offset 4792, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...re um ativo financeiro em uma transação na qual substancialmente todos  os  riscos  e  ...
+                                           ^^^^^^^82Offset 4936, length 17, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: criada
+... transferidos.  Qualquer  participação  que  seja  criada  ou  retida  pela  Companhia  em  tais ...
+                                           ^^^^^^^^^^^^^^^^^83Offset 5934, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...mantido dentro de um modelo de negócios com o objetivo de coletar fluxos   de caixa contratuais; ...
+                                           ^^^^^^^^^^^^^^^^^84Offset 9586, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consideram
+...do  linear  com  base  nas  taxas  que  levam  em  consideração a vida útil estimada dos bens. Os gasto...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^85Offset 12068, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+... como  despesa financeira e apropriados de acordo com o prazo remanescente dos contratos. A  ta...
+                                           ^^^^^^^^^^^^^^^86Offset 14460, length 34, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: Normas, interpretações e revisões; Normas e interpretações, e revisões
+...020  (Em milhares de Reais)   4.  Novas Normas e interpretações e revisões   4.1.  Novos pronunciamentos, intepret...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^87Offset 16533, length 7, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: igual à
+...37 (em 2019), que possuem rentabilidade igual a taxa SELIC.   6.  Contas a receber   Pa...
+                                           ^^^^^^^88Offset 21682, length 9, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: foi (7,17%); foram 7,17%
+...ropriação mensal dos juros financeiros, foi 7,17%.    9.1.  Direito de uso do ativo de ar...
+                                           ^^^^^^^^^89Offset 23742, length 7, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Empreed
+...sas transações:   Descrição   WHPH Part.Empreed.S.A.   Controladora   Consolidado   31/...
+                                           ^^^^^^^90Offset 23750, length 1, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  S
+...sações:   Descrição   WHPH Part.Empreed.S.A.   Controladora   Consolidado   31/12...
+                                           ^91Offset 25564, length 13, Rule ID: PT_CLICHE_REPLACE
+Message: ‘com direito a’ é uma frase-feita. É preferível dizer “REFORMULAR”
+Suggestion: REFORMULAR
+...nominal  subscritas  e  integralizadas, com direito a voto.   Em  Assembleia  realizada  em  ...
+                                           ^^^^^^^^^^^^^92Offset 26107, length 9, Rule ID: QUE_SUBJ_VS_INF_PESS
+Message: Esta perífrase pode ser simplificada.
+Suggestion: haver
+...ra  distribuição  de  dividendos,  sem  que  haja  prejuízo  no  percentual  de  particip...
+                                           ^^^^^^^^^93Offset 26464, length 7, Rule ID: UM_MIL_BR
+Message: Substitua «um mil» por “mil”.
+Suggestion: mil
+...o  milhões,  seiscentos  e  noventa  e  um  mil,  quatrocentos  e  vinte  e  cinco  rea...
+                                           ^^^^^^^94Offset 26850, length 13, Rule ID: PT_CLICHE_REPLACE
+Message: ‘com direito a’ é uma frase-feita. É preferível dizer “REFORMULAR”
+Suggestion: REFORMULAR
+...nárias  nominativas, sem valor nominal, com direito a voto, o mesmo número de ações antes da ...
+                                           ^^^^^^^^^^^^^95Offset 32064, length 6, Rule ID: CONCORDANCIA_COM_NUCLEO_DO_SUJEITO_V2
+Message: O verbo concorda com o núcleo do sujeito.
+Suggestion: veio; viera
+...resultados. Grande parte dos resultados vieram  das  operações  de  day-trade  no  mer...
+                                           ^^^^^^96Offset 32120, length 31, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: ações, futuros e operações; ações e futuros, e operações
+...rações  de  day-trade  no  mercado  de  ações  e  futuros  e  operações  estruturadas  de  arbitragem.  A  Comp...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^97Offset 32237, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...não considera como resultado recorrente devido a variação e imprevisibilidade do mercado...
+                                           ^^^^^^^^98Offset 32687, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: Conforme; Segundo; Consoante
+...cais diferidos sobre esses prejuízos.   Em conformidade com a legislação em vigor, as declarações d...
+                                           ^^^^^^^^^^^^^^^^^^^99Offset 33558, length 10, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Diferença
+...     Reconciliação para despesas efetiva:Diferença de alíquotas sobre resultados de subsid...
+                                           ^^^^^^^^^^100Offset 34543, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...o fornecido para a Diretoria Executiva, que é a principal tomadora de decisões  opera...
+                                           ^^^^^101Offset 35666, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...ormação a respeito do tema, e avaliará, de acordo com a  evolução  do  mesmo,  a  necessidade  ...
+                                           ^^^^^^^^^^^^^^^102Offset 35805, length 10, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de forma a’ é uma expressão prolixa. É preferível dizer “para”
+Suggestion: para
+...lteração  das  projeções e estimativas, de forma a deixar seus acionistas e o mercado info...
+                                           ^^^^^^^^^^103Offset 36530, length 13, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: agora
+... Takion  Technology S.A., por conta de, neste momento, as atividades não fazerem parte do cor...
+                                           ^^^^^^^^^^^^^104Offset 36855, length 15, Rule ID: AUXILIARY_VERB_INFINITIVE
+Message: Verbos auxiliares devem ser seguidos de formas verbais no infinitivo ou no gerúndio.
+Suggestion: possam utilizar; possam a utilizar; possam utilizando; possam, utiliza
+...  ferramentas  para  que  investidores  possam  utiliza-lo.  Foram  aprovados  os  termos  da  ...
+                                           ^^^^^^^^^^^^^^^

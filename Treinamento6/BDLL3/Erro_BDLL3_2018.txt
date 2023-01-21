@@ -1,0 +1,377 @@
+365Offset 2009, length 31, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: Bens, Empresas e Corretora; Bens e Empresas, e Corretora
+...s - SP.   Bardella  Administradora  de  Bens  e  Empresas  e  Corretora  de  Seguros  Ltda.,  controlada,  atua...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^366Offset 3387, length 34, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: ,, a retomada e renegociação; , e a retomada, e renegociação
+...ineração,  indústrias  em  geral,  etc.),  e  a  retomada  e  renegociação  para  retomar  os  contratos  anterior...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^367Offset 4457, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...unting Standards  Board (IASB) e também de acordo com as práticas contábeis adotadas no Brasil (...
+                                           ^^^^^^^^^^^^^^^^368Offset 5933, length 8, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: contínua
+...  premissas  são  revisadas  de  forma  continua.  As  revisões  das  estimativas  são  ...
+                                           ^^^^^^^^369Offset 8844, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis para
+...os preços cotados incluídos no Nível 1, que são observáveis para o ativo  ou passivo, diretamente (preço...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^370Offset 9840, length 33, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: investimentos, títulos e valores; investimentos e títulos, e valores
+...valor  justo,  das  propriedades  para  investimentos e títulos e valores mobiliários.   3  Principais políticas ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^371Offset 10360, length 6, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...e  seu  envolvimento  com  a  entidade  e  tem  a  habilidade  de  afetar  esses  reto...
+                                           ^^^^^^372Offset 13380, length 26, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensurados pelo
+...  Ativos  e  passivos  não  monetários  que  são  mensurados  pelo  valor  justo  em  moeda  estrangeira  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^373Offset 13589, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensurados com
+... foi  determinado. Itens não monetários que são mensurados com base no custo histórico em moeda  estra...
+                                           ^^^^^^^^^^^^^^^^^^^^^^374Offset 16182, length 7, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: serem
+...penas na extensão dos custos incorridos que são prováveis de serem recuperados.   As de...
+                                           ^^^^^^^375Offset 17920, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...e um ativo financeiro  em uma transação na qual substancialmente todos os riscos e bene...
+                                           ^^^^^^^376Offset 18056, length 17, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: criada
+... transferidos.  Qualquer  participação  que  seja  criada  ou retida  pela Companhia e  suas  con...
+                                           ^^^^^^^^^^^^^^^^^377Offset 20667, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+...s  resultados  abrangentes e acumuladas dentro do patrimônio líquido como ajustes de aval...
+                                           ^^^^^^^^^378Offset 22418, length 18, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não geram nenhum; não geram nenhuma; não, geram qualquer
+... de dividendos é discricionário, e elas não geram qualquer obrigação de entregar caixa ou outro  a...
+                                           ^^^^^^^^^^^^^^^^^^379Offset 23963, length 6, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...não  excedem  os  valores  de  mercado  e  são  constituídas  provisões  para  perdas ...
+                                           ^^^^^^380Offset 24275, length 6, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...imonial,  conforme  CPC  18  (IAS  28)  e  são  contabilizados  no  balanço  patrimoni...
+                                           ^^^^^^381Offset 24701, length 26, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: são inicialmente mensuradas; é inicialmente mensurada
+...is  e  edificações,  quando  aplicável, são inicialmente mensurada pelo custo e subsequentemente ao valor ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^382Offset 24795, length 22, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘alterações posteriores’ é um pleonasmo. É preferível dizer “alterações”
+Suggestion: alterações
+...te ao valor justo, sendo que  quaisquer alterações posteriores no valor justo são reconhecidas no resu...
+                                           ^^^^^^^^^^^^^^^^^^^^^^383Offset 27199, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘a não ser que’ é uma expressão prolixa. É preferível dizer “exceto se”
+Suggestion: exceto se
+... estimada do bem e o prazo do contrato, a não ser que seja certo  que a Companhia e suas cont...
+                                           ^^^^^^^^^^^^^384Offset 29175, length 12, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...endem  os  saldos  de  ágio adquiridos  por  meio de combinação de negócios que têm como fun...
+                                           ^^^^^^^^^^^^385Offset 29433, length 5, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...inida estão representados por softwares e são amortizados  pelo tempo remanescente es...
+                                           ^^^^^386Offset 30343, length 9, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...urados  pelo  custo  amortizado  tanto  em  nível  individual  como  em  nível  coletivo....
+                                           ^^^^^^^^^387Offset 30372, length 9, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...do  tanto  em  nível  individual  como  em  nível  coletivo.  Todos  os  ativos  individu...
+                                           ^^^^^^^^^388Offset 31533, length 11, Rule ID: À_VERBO_DE
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a taxar
+...aixa  futuros  estimados,  descontados  à  taxa  de  juros  efetiva  original  do  ativo.  ...
+                                           ^^^^^^^^^^^389Offset 31732, length 12, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: não haver
+...nhia  e  suas  controladas  consideram  que  não  há  expectativas  razoáveis de recuperação...
+                                           ^^^^^^^^^^^^390Offset 35214, length 4, Rule ID: PROFANITY
+Message: Esta palavra é de baixo calão. Considere as alternativas.
+Suggestion: #¿$?%!¡
+...da UGC (ou  grupo de UGCs) de forma pro rata.   Uma  perda  por  redução  ao  valor ...
+                                           ^^^^391Offset 35778, length 5, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...suradas  em  uma  base  não  descontada e são incorridas como despesas conforme o ser...
+                                           ^^^^^392Offset 36223, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em virtude de’ é uma expressão prolixa. É preferível dizer “por”
+Suggestion: por
+...egal ou construtiva de pagar esse valor em virtude de serviço passado prestado  pelo empregad...
+                                           ^^^^^^^^^^^^^393Offset 38160, length 39, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: nem o prejuízo ou lucro tributável, nem
+... combinação de negócios e que não afete nem o prejuízo ou lucro  tributável nem o resultado contábil;  •  Diferenças  t...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^394Offset 38401, length 16, Rule ID: SER_CAPAZ_DE_CONSEGUIR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: consigam
+...nsão que a Companhia e suas controladas sejam  capaz  de  controlar  o  momento  da  reversão  d...
+                                           ^^^^^^^^^^^^^^^^395Offset 38993, length 5, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...são  revisados  a  cada data de balanço e são reduzidos na extensão em que sua realiz...
+                                           ^^^^^396Offset 39052, length 13, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘mais provável’ é um pleonasmo. É preferível dizer “provável”
+Suggestion: provável
+...extensão em que sua realização não seja mais provável.   Ativos e passivos fiscais diferidos ...
+                                           ^^^^^^^^^^^^^397Offset 39258, length 22, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: decretadas
+...vertidas,  baseando-se  nas  alíquotas  que  foram  decretadas até a data do balanço.                 ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^398Offset 40441, length 15, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mecânica
+...financeiras  incluem  dois  segmentos,  sendo  mecânica  correspondente  à  fabricação  de  equ...
+                                           ^^^^^^^^^^^^^^^399Offset 40512, length 29, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: encomenda, aços e serviços; encomenda e aços, e serviços
+...  à  fabricação  de  equipamentos  sob  encomenda  e  aços e serviços representado pela laminação de metais e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^400Offset 42549, length 27, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: Bens, Empresas e Corretora; Bens e Empresas, e Corretora
+...trial Ltda.  Bardella Administradora de Bens e Empresas e Corretora de Seguros Ltda.   Os percentuais de pa...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^401Offset 42671, length 11, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘porcentagem’ e ‘percentagem’.
+Suggestion: Percentagem
+...rem-se ao controle direto e indireto.   Porcentagem de  participação   31/12/2017      31/1...
+                                           ^^^^^^^^^^^402Offset 44985, length 9, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Clientes
+...31/12/201631/12/201731/12/2016Circulante:Clientes no país contratos de serviços e constru...
+                                           ^^^^^^^^^403Offset 46057, length 9, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Clientes
+... 167.835                  Não circulante:Clientes no país contratos de serviços e constru...
+                                           ^^^^^^^^^404Offset 48813, length 14, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: obrigando
+...  durante  a  execução  dos  projetos,  o  que  obriga  a  Companhia  e  suas  controladas  a ...
+                                           ^^^^^^^^^^^^^^405Offset 52643, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: Conforme o; Segundo o; Consoante o
+...es negativas  de contribuição social.   De acordo com o CPC 32 - Tributos sobre o Lucro, a Comp...
+                                           ^^^^^^^^^^^^^^^406Offset 53833, length 8, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Imposto
+...31/12/201631/12/201731/12/2016Circulante:Imposto de renda e contribuição social         ...
+                                           ^^^^^^^^407Offset 54948, length 5, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : ICMS
+...                   12.993 Não Circulante:ICMS s/aquisição imobilizado                ...
+                                           ^^^^^408Offset 56371, length 20, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mantidos
+...aferro  Indústria  e  Comércio  Ltda.,  que  foram  mantidos  no  ativo  por  não  serem  compensáve...
+                                           ^^^^^^^^^^^^^^^^^^^^409Offset 57873, length 7, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Ajuste
+... diferidos passivo, sendo assim composto:Ajuste em propriedade para investimento(44.384...
+                                           ^^^^^^^410Offset 59116, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...s nas projeções dos  lucros tributáveis levando em consideração premissas financeiras e de negócios con...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^411Offset 62122, length 8, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Corrente
+...         17.496                 24.516 .Corrente                         -              ...
+                                           ^^^^^^^^412Offset 62232, length 8, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Diferido
+...        (3.907)                   (311).Diferido                13.880                 1...
+                                           ^^^^^^^^413Offset 67201, length 6, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...  empréstimos  para  capital  de  giro  e  são  contratados  entre  100% e 110% da tax...
+                                           ^^^^^^414Offset 67842, length 14, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: incluindo
+... contratos  com  os  clientes  finais,  o  que  inclui  adiantamentos e valores em contas a re...
+                                           ^^^^^^^^^^^^^^415Offset 68128, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...mo destinatários  finais, são efetuadas de acordo com os parâmetros fixados nos contratos com os...
+                                           ^^^^^^^^^^^^^^^^416Offset 68203, length 12, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: incluindo
+... nos contratos com os clientes finais,  o que inclui adiantamentos e valores em contas a rec...
+                                           ^^^^^^^^^^^^417Offset 70070, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...entre  as partes é cobrada mensalmente, de acordo com o rateio de custos efetivos. Os aluguéis ...
+                                           ^^^^^^^^^^^^^^^418Offset 70852, length 3, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Met
+...anteReceitasDespesas   e custosIMMA Ind.Met.Mec.Amazônia Ltda.                    1...
+                                           ^^^419Offset 70856, length 3, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Mec
+...ReceitasDespesas   e custosIMMA Ind.Met.Mec.Amazônia Ltda.                    1.312...
+                                           ^^^420Offset 70860, length 8, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Amazônia
+...itasDespesas   e custosIMMA Ind.Met.Mec.Amazônia Ltda.                    1.312         ...
+                                           ^^^^^^^^421Offset 71409, length 11, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Industriais
+...        3.481 ControladoraBarefame Inst.Industriais Ltda.50.019                 30.841     ...
+                                           ^^^^^^^^^^^422Offset 73039, length 3, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Met
+...anteReceitasDespesas   e custosIMMA Ind.Met.Mec.Amazônia Ltda.                    1...
+                                           ^^^423Offset 73043, length 3, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Mec
+...ReceitasDespesas   e custosIMMA Ind.Met.Mec.Amazônia Ltda.                    1.041...
+                                           ^^^424Offset 73047, length 8, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Amazônia
+...itasDespesas   e custosIMMA Ind.Met.Mec.Amazônia Ltda.                    1.041         ...
+                                           ^^^^^^^^425Offset 77300, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Saldo
+...    730                 695 Movimentação:Saldo inicial:207.043          2.439         ...
+                                           ^^^^^^426Offset 77314, length 8, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 207.043
+...          695 Movimentação:Saldo inicial:207.043          2.439             229.933     ...
+                                           ^^^^^^^^427Offset 78563, length 4, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Inds
+...ormações das Investidas   Barefame Inst.Inds. Ltda.Bardella Adm. Bens e Empr. E Cor....
+                                           ^^^^428Offset 78574, length 8, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Bardella
+...s Investidas   Barefame Inst.Inds. Ltda.Bardella Adm. Bens e Empr. E Cor. Seguros Ltda.E...
+                                           ^^^^^^^^429Offset 78621, length 6, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Energo
+...a Adm. Bens e Empr. E Cor. Seguros Ltda.Energo Agro Industrial Ltda.Duraferro Ind. e C...
+                                           ^^^^^^430Offset 78649, length 9, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Duraferro
+...eguros Ltda.Energo Agro Industrial Ltda.Duraferro Ind. e Comércio Ltda.IMMA - Ind. Metalú...
+                                           ^^^^^^^^^431Offset 78732, length 9, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Planihold
+...Metalúrgica e Mecânica da Amazônia Ltda.Planihold S.A.Sub totalProvisão p/perdas investim...
+                                           ^^^^^^^^^432Offset 83081, length 8, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Bardella
+...          344 Barefame Inst. Inds. Ltda.Bardella Adm. Bens e Empr. e Cor.Seg Ltda.Energo...
+                                           ^^^^^^^^433Offset 83123, length 6, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Energo
+...rdella Adm. Bens e Empr. e Cor.Seg Ltda.Energo Agro Industrial Ltda.Barefame Inst. Ind...
+                                           ^^^^^^434Offset 83151, length 8, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Barefame
+...or.Seg Ltda.Energo Agro Industrial Ltda.Barefame Inst. Inds. Ltda.Bardella Adm. Bens e E...
+                                           ^^^^^^^^435Offset 83177, length 8, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Bardella
+...dustrial Ltda.Barefame Inst. Inds. Ltda.Bardella Adm. Bens e Empr. e Cor.Seg Ltda.Energo...
+                                           ^^^^^^^^436Offset 83219, length 6, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Energo
+...rdella Adm. Bens e Empr. e Cor.Seg Ltda.Energo Agro Industrial Ltda.                  ...
+                                           ^^^^^^437Offset 85778, length 9, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Duraferro
+...MMA - Ind. Met. e Mec. da Amazonia Ltda.Duraferro Ind.e Comércio Ltda.Planihold S/A.IMMA ...
+                                           ^^^^^^^^^438Offset 85808, length 9, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Planihold
+...onia Ltda.Duraferro Ind.e Comércio Ltda.Planihold S/A.IMMA - Ind. Met. e Mec. da Amazonia...
+                                           ^^^^^^^^^439Offset 85863, length 9, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Duraferro
+...MMA - Ind. Met. e Mec. da Amazonia Ltda.Duraferro Ind.e Comércio Ltda.Planihold S/A.31/12...
+                                           ^^^^^^^^^440Offset 85893, length 9, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Planihold
+...onia Ltda.Duraferro Ind.e Comércio Ltda.Planihold S/A.31/12/2016Taxa anual depreciação Cu...
+                                           ^^^^^^^^^441Offset 99998, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: 40%
+...io Ltda. pelo valor total de  R$15.000, sendo 40% adquirida pela Bardella S.A. Indústria ...
+                                           ^^^^^^^^^442Offset 100140, length 27, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: Bens, Empresas e Corretora; Bens e Empresas, e Corretora
+...a controlada Bardella Administradora de Bens e Empresas e Corretora de  Seguros Ltda. pelo valor de R$5.000...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^443Offset 101892, length 6, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Prazos
+...quido23.912           26.488           .Prazos de vida útilSaldo em 31/12/2016Aquisiçõ...
+                                           ^^^^^^444Offset 103983, length 14, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : IndexadorTaxa
+...tivos, usuais de mercado.    Imobilizado:IndexadorTaxa média anual de juros em 12/2017Vencimen...
+                                           ^^^^^^^^^^^^^^445Offset 104740, length 14, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Financiamento
+...567               30.192 Capital de Giro:Financiamento a Exportação (**)FIXO14,93% aa15/10/201...
+                                           ^^^^^^^^^^^^^^446Offset 115064, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : .
+...                       4.324 Tributárias:.Federal                                 ...
+                                           ^^447Offset 115066, length 7, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Federal
+...                     4.324 Tributárias:.Federal                                    116 ...
+                                           ^^^^^^^448Offset 115197, length 9, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Municipal
+...                                   116 .Municipal                                    153 ...
+                                           ^^^^^^^^^449Offset 115927, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : .
+...                       5.739 Tributárias:.Federal                                 ...
+                                           ^^450Offset 115929, length 7, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Federal
+...                     5.739 Tributárias:.Federal                                    651 ...
+                                           ^^^^^^^451Offset 116091, length 9, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Municipal
+...                                   116 .Municipal                                    153 ...
+                                           ^^^^^^^^^452Offset 128595, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...istração desses instrumentos é efetuada por meio de estratégias operacionais, visando  liqu...
+                                           ^^^^^^^^^^^453Offset 131475, length 40, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: empréstimos, financiamento e aplicações; empréstimos e financiamento, e aplicações
+...dos  por  essa  hierarquia os saldos de empréstimos e financiamento e aplicações financeiras.   Instrumentos financeiros...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^454Offset 138153, length 58, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de instituições financeiras depositárias de recursos, ou
+... de  inadimplência de suas contrapartes ou de instituições financeiras depositárias de recursos ou de  investimentos  financeiros.  Para  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^455Offset 138514, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Entretanto, as
+...permanente  das  posições  em  aberto.  Entretanto  as  respectivas  situações  atuais  dos  f...
+                                           ^^^^^^^^^^^^^^456Offset 139805, length 25, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...adas  com  seus  passivos  financeiros  que  são  liquidados  com  pagamentos  em  caixa  ou  com  outro ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^457Offset 142145, length 16, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou produzidas, ou
+...Risco de preço das mercadorias vendidas ou produzidas ou dos insumos adquiridos  Decorre da poss...
+                                           ^^^^^^^^^^^^^^^^458Offset 142944, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; categoria de
+...financeiros.  Visando à mitigação desse tipo de risco, a Companhia e suas controladas b...
+                                           ^^^^^^^

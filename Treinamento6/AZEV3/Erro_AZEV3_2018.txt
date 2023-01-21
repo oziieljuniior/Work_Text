@@ -1,0 +1,292 @@
+278Offset 2397, length 7, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...imento Imobiliário - Projeto II  Ltda.  Azevedo & Travassos Desenvolvimento Imobiliário...
+                                           ^^^^^^^279Offset 3228, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...ncial diminuição da  Carteira de Obras, uma vez que as obras contratadas foram se encerrand...
+                                           ^^^^^^^^^^^280Offset 3517, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Em contrapartida,
+...diante da crise econômica brasileira.   Em contrapartida a esta situação temporária, é important...
+                                           ^^^^^^^^^^^^^^^^281Offset 4422, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e vem
+... Formalizado o parcelamento já acordado e que vem sendo cumprido, do crédito de  aproxima...
+                                           ^^^^^^^^^282Offset 4463, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+... que vem sendo cumprido, do crédito de  aproximadamente R$ 2.674 (saldo em 31 de dezembro de 17...
+                                           ^^^^^^^^^^^^^^^283Offset 7208, length 1, Rule ID: INTERNET_ABBREVIATIONS
+Message: Linguagem de Internet. Escreva por extenso.
+... (CPRB) a partir de dezembro de 2015;   n)  Prosseguir com ação judicial contra o...
+                                           ^284Offset 7313, length 10, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativa à
+...ação de alíquota do ISS de   3% para 5% relativa a obra do viaduto no Município de Cubatão...
+                                           ^^^^^^^^^^285Offset 8256, length 1, Rule ID: INTERNET_ABBREVIATIONS
+Message: Linguagem de Internet. Escreva por extenso.
+...o do direito creditório da Companhia;   q)  Ajuizar ação judicial objetivando a e...
+                                           ^286Offset 8849, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...viduais e consolidadas foram preparadas de acordo com as  práticas contábeis adotadas no Brasil,...
+                                           ^^^^^^^^^^^^^^^^287Offset 8974, length 30, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: Ações, normas e procedimentos; Ações e normas, e procedimentos
+...ões contidas na Lei das  Sociedades por Ações e normas e procedimentos contábeis emitidos pela Comissão de  Va...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^288Offset 10995, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e estão
+...íveis em um montante conhecido de caixa e que estão sujeitos a um  insignificante risco de ...
+                                           ^^^^^^^^^^^289Offset 13266, length 26, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou passivos financeiros, ou
+... parte de um grupo gerenciado de ativos ou passivos financeiros ou   ambos;   •  Seu desempenho for avalia...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^290Offset 13360, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...o for avaliado com base no valor justo, de acordo com a estratégia  documentada de gerenciament...
+                                           ^^^^^^^^^^^^^^^291Offset 14303, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...perável. O custo amortizado é calculado levando em consideração qualquer  desconto ou prêmio na aquisiç...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^292Offset 18963, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+... os custos de empréstimos capitalizados de  acordo com a política contábil da Companhia e suas c...
+                                           ^^^^^^^^^^^^^^^^293Offset 19770, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...ado prospectivamente.   Ativos mantidos por meio de arrendamento financeiro são depreciados...
+                                           ^^^^^^^^^^^294Offset 20137, length 34, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou perdas resultantes na venda, ou
+...uso contínuo do ativo. Quaisquer ganhos ou perdas resultantes na  venda ou baixa do ativo (calculado como sendo a ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^295Offset 20418, length 28, Rule ID: COLOCAÇÃO_ADVÉRBIO
+Message: Ter em conta a colocação do advérbio.
+Suggestion: são separadamente mensurados
+...angível   Ativos intangíveis adquiridos separadamente são mensurados no reconhecimento inicial ao  custo de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^296Offset 21031, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...ntábil for recuperável, principalmente, por meio de uma venda e quando essa venda for  prat...
+                                           ^^^^^^^^^^^297Offset 21464, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...tamente pela Companhia ou indiretamente através  de suas controladas. O controle é obtido q...
+                                           ^^^^^^^^^^^298Offset 21681, length 19, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: Consegue; Consigas; Pode; Possas
+...eu envolvimento com a   investida;   •  Tem a capacidade de usar esse poder para afetar seus retorn...
+                                           ^^^^^^^^^^^^^^^^^^^299Offset 22130, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: la, na prática
+...de voto forem suficientes para capacitá-la na  prática a conduzir as atividades relevantes da ...
+                                           ^^^^^^^^^^^^^^300Offset 22446, length 12, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em termos de’ é uma expressão prolixa. É preferível dizer “em”, “como”, “a”, “o”, “as” ou “os”
+Suggestion: em; como; a; o; as; os
+...A dimensão da participação da Companhia em termos de direitos de voto em relação à  dimensão...
+                                           ^^^^^^^^^^^^301Offset 24575, length 27, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou despesas tributáveis, ou
+...ão do resultado, porque exclui receitas ou  despesas tributáveis ou dedutíveis em outros exercícios, além d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^302Offset 26157, length 85, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou passivos não são reconhecidos sobre diferenças temporárias resultantes de ágio, ou
+...tilizadas. Os impostos diferidos ativos ou passivos não são reconhecidos sobre  diferenças temporárias resultantes de ágio ou de reconhecimento inicial (exceto para ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^303Offset 26535, length 13, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘mais provável’ é um pleonasmo. É preferível dizer “provável”
+Suggestion: provável
+...al de cada exercício e,  quando não for mais provável que lucros tributáveis futuros estarão ...
+                                           ^^^^^^^^^^^^^304Offset 26718, length 19, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: recuperado
+...é ajustado pelo montante que se  espera que seja recuperado.    Impostos diferidos ativos e passivo...
+                                           ^^^^^^^^^^^^^^^^^^^305Offset 26832, length 8, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...s pelas alíquotas aplicáveis no período no  qual se espera que o passivo seja liquidado ...
+                                           ^^^^^^^^306Offset 26865, length 30, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja liquidado ou o ativo, seja
+...eríodo no  qual se espera que o passivo seja liquidado ou o ativo seja realizado, com base nas alíquotas  prev...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^307Offset 30320, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...O ajuste ao valor presente é calculado  levando em consideração os fluxos de caixa contratuais e a taxa...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^308Offset 30628, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...om o   27     intuito de reconhecê-los em conformidade com o regime de competência. Posteriormente...
+                                           ^^^^^^^^^^^^^^^^^^^309Offset 33094, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+... as despesas das operações são apuradas em conformidade com o regime  contábil de competência de ex...
+                                           ^^^^^^^^^^^^^^^^^^^310Offset 33162, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...  contábil de competência de exercício, levando em consideração o registro das receitas de  serviços pr...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^311Offset 33234, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...ro das receitas de  serviços prestados, de acordo com o estágio de conclusão do contrato, tendo...
+                                           ^^^^^^^^^^^^^^^312Offset 35009, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...do indireto e estão sendo  apresentadas de acordo com o pronunciamento CPC 03 (R2) – Demonstraç...
+                                           ^^^^^^^^^^^^^^^313Offset 35198, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...valor adicionado está sendo apresentada de acordo com o  pronunciamento CPC 09 – Demonstração d...
+                                           ^^^^^^^^^^^^^^^314Offset 36624, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; Categoria de
+... financeiras  Banco do Brasil  Outros   Tipo de  aplicação   CDB-DI   Caixas e bancos  ...
+                                           ^^^^^^^315Offset 37391, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+... 31 de dezembro de  2016 (consolidado), aproximadamente R$ 6.323 e R$ 650, respectivamente, ref...
+                                           ^^^^^^^^^^^^^^^316Offset 37529, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+... Concessionária VLT Carioca S.A., (VLT) na qual a ATE  cumpriu o desafio de concluir a ...
+                                           ^^^^^^^317Offset 37721, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a ATE
+...o 2016. Entretanto, a VLT ficou devendo à ATE  pelas obras realizadas no segundo seme...
+                                           ^^^^^318Offset 39697, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Em virtude de’ é uma expressão prolixa. É preferível dizer “por”
+Suggestion: Por
+...  1.126  1.307  20.041  1.335  21.376   Em virtude de ainda não se ter uma previsão de concre...
+                                           ^^^^^^^^^^^^^319Offset 40262, length 2, Rule ID: SI_UNITS_EXPONENT
+Message: Os expoentes devem estar em sobrescrito.
+Suggestion: m²
+...imobilizado o lote 1 (terreno de 55.568 m2 e construção) no valor de R$ 12.048,  p...
+                                           ^^320Offset 40714, length 17, Rule ID: REFLEXIVE_VERB_SE_AGREEMENT
+Message: O verbo aqui concorda com o objecto portanto deve utilizar o verbo no plural.
+Suggestion: tratai-se despesas; tratam-se despesas; trateis-se despesas
+...31 de dezembro de 2016) no  consolidado trata-se despesas de seguros a apropriar R$ 527 e custos ...
+                                           ^^^^^^^^^^^^^^^^^321Offset 44447, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...da., um  lote de 3.922m2, por R$ 1.050, através de instrumento particular de confissão de ...
+                                           ^^^^^^^^^^322Offset 46748, length 12, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: incluindo
+...ção do pessoal-chave da  Administração, o que inclui o Conselho de Administração, Conselho F...
+                                           ^^^^^^^^^^^^323Offset 48481, length 3, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (-
+...mobilizado:   Edifícios e benfeitorias  ( - ) Depreciação acumulada  Máquinas e equ...
+                                           ^^^324Offset 48535, length 3, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (-
+...ção acumulada  Máquinas e equipamentos  ( - ) Depreciação acumulada  Outros  ( - ) ...
+                                           ^^^325Offset 48572, length 3, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (-
+...s  ( - ) Depreciação acumulada  Outros  ( - ) Depreciação acumulada  Terrenos   Rea...
+                                           ^^^326Offset 48649, length 3, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (-
+...   Reavaliação de terrenos e edifícios  ( - ) Depreciação acumulada  Total   31/12/...
+                                           ^^^327Offset 49039, length 3, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (-
+...80)  12.335   Edifícios e benfeitorias  ( - ) Depreciação acumulada  Máquinas e equ...
+                                           ^^^328Offset 49093, length 3, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (-
+...ção acumulada  Máquinas e equipamentos  ( - ) Depreciação acumulada  Veículos  ( - ...
+                                           ^^^329Offset 49132, length 3, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (-
+... ( - ) Depreciação acumulada  Veículos  ( - ) Depreciação acumulada  Outros  ( - ) ...
+                                           ^^^330Offset 49169, length 3, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (-
+...s  ( - ) Depreciação acumulada  Outros  ( - ) Depreciação acumulada  Terrenos   Rea...
+                                           ^^^331Offset 49246, length 3, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (-
+...   Reavaliação de terrenos e edifícios  ( - ) Depreciação acumulada  Total   31/12/...
+                                           ^^^332Offset 49985, length 16, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: usufrua
+...a entende  que passa a ser provável que venha a usufruir dos benefícios econômicos associados a ...
+                                           ^^^^^^^^^^^^^^^^333Offset 50644, length 3, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (-
+...ansferências    31/12/2017   Softwares  ( - ) Amortização acumulada  Total   3.482 ...
+                                           ^^^334Offset 54191, length 8, Rule ID: TIME_FORMAT
+Message: Em expressões de horas, utilize dois pontos.
+Suggestion: 04:01:18; 04 h 01 min 18 s
+...s  Contrato mutuo (Sinalta) de 20.12 vc 04.01.18  Outras   Total   38  7.380  360  1.500...
+                                           ^^^^^^^^335Offset 54989, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+... Reserva legal   Deverá ser constituída em conformidade com a Lei das Sociedades por Ações e o  Est...
+                                           ^^^^^^^^^^^^^^^^^^^336Offset 55901, length 11, Rule ID: PORTUGUESE_ADDRESSES
+Message: Se é um código postal português, deve ser escrito antes da localidade postal
+...ho a dezembro de 2017  Outros  Prejuízo fiscal 2015  Imposto de renda e contribuição social...
+                                           ^^^^^^^^^^^337Offset 56885, length 3, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (-
+...iços   Deduções de produtos e serviços  ( - ) Impostos sobre produtos e serviços   ...
+                                           ^^^338Offset 57528, length 3, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (-
+...ções contratadas de terceiros  Revenda  ( - ) Apropriação custos de contratos  Outr...
+                                           ^^^339Offset 57675, length 3, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (-
+...gos  Serviços contratados de terceiros  ( - ) Apropriação custos de contratos  Outr...
+                                           ^^^340Offset 59449, length 23, Rule ID: DATE_FUTURE_VERB_PAST
+Message: A data apresentada está no futuro, mas o verbo associado está no passado.
+...o prazo máximo  ficou estabelecido para 28 de fevereiro de 2050. O valor da parcela está sendo  calcula...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^341Offset 59734, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “ser maior que”.
+Suggestion: ser maior que
+...bre a receita bruta da Companhia vier a ser maior do que o valor  da parcela, calculado conforme...
+                                           ^^^^^^^^^^^^^^^^342Offset 60075, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativos à
+...precatórios oriundos de ações judiciais relativos a desapropriação de  terreno promovido pe...
+                                           ^^^^^^^^^^^343Offset 62510, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: pois, envolvem
+...ibutárias, que não estão provisionadas, pois envolvem risco de perda classificada  pela Admin...
+                                           ^^^^^^^^^^^^^344Offset 63348, length 20, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considera; consideres
+...ilidade subsidiária. A  provisão destes leva em consideração a evolução dos processos e o histórico ...
+                                           ^^^^^^^^^^^^^^^^^^^^345Offset 63513, length 16, Rule ID: GENERAL_PRONOMIAL_COLOCATIONS
+Message: Certos pronomes relativos, conjunções subordinativas e advérbios devem ser seguidos de próclise.
+Suggestion: que se referem
+...as possuem processos de natureza cível, que   referem-se principalmente a questões indenizatória...
+                                           ^^^^^^^^^^^^^^^^346Offset 63662, length 20, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considera; consideres
+...to de contratos. A provisão desse risco leva em consideração à  evolução dos processos e o histórico...
+                                           ^^^^^^^^^^^^^^^^^^^^347Offset 64241, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...ibuição social diferidos   A Companhia, de acordo com o CPC 32 – Impostos sobre o lucro (IAS 12...
+                                           ^^^^^^^^^^^^^^^348Offset 64831, length 18, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: modifiquem
+... quando  existirem fatos relevantes que venham a modificar as premissas de tais projeções.   A Com...
+                                           ^^^^^^^^^^^^^^^^^^349Offset 67389, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na medida em que’ é uma expressão prolixa. É preferível dizer “enquanto”
+Suggestion: enquanto
+...precedente tende a ser aplicado ao ISS, na medida em que tal imposto não constitui  faturamento ...
+                                           ^^^^^^^^^^^^^^^^350Offset 68693, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: agora
+...ulgamento pela 2ª Instância, não sendo, neste  momento, possível a mensuração do benefício pat...
+                                           ^^^^^^^^^^^^^^351Offset 69066, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: trâmite
+...a contra o DER, processo nº  203/83, em tramite perante a 4ª Vara da Fazenda Pública de...
+                                           ^^^^^^^

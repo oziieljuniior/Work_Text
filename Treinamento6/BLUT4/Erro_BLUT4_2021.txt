@@ -1,0 +1,65 @@
+181Offset 2430, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...ntificadas como consolidado, preparadas de acordo com as práticas contábeis  adotadas no Brasil ...
+                                           ^^^^^^^^^^^^^^^^182Offset 3812, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+... consolidadas são apresentadas em Real, que é a  moeda funcional da Companhia.    2.1.3...
+                                           ^^^^^^^183Offset 4651, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+...anceiras  individuais  e  consolidadas  dentro  do  próximo exercício financeiro estão inc...
+                                           ^^^^^^^^^^184Offset 6387, length 4, Rule ID: PROFANITY
+Message: Esta palavra é de baixo calão. Considere as alternativas.
+Suggestion: #¿$?%!¡
+...as  variações  monetárias (em base “pro rata” dia), quando aplicável.   3.3.  Propri...
+                                           ^^^^185Offset 7476, length 75, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja possível estimar os valores de forma confiável e cuja liquidação, seja
+...resultante de  eventos passados, em que seja possível estimar os valores de forma confiável e cuja liquidação  seja  provável  considerando  a  melhor  est...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^186Offset 8286, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a receber esperado sobre o lucro, ou
+...sto  corrente  é  o  imposto  a  pagar  ou  a  receber  esperado  sobre  o  lucro  ou  prejuízo  tributável do exercício, a t...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^187Offset 8485, length 44, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: individuais, consolidadas e qualquer ajuste; individuais e consolidadas, e qualquer ajuste
+...esentação das demonstrações financeiras individuais e consolidadas e qualquer ajuste aos  impostos a pagar.                 ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^188Offset 10611, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...a partir de 01.01.2020)   Requerimentos com o objetivo de facilitar para os arrendatários a conta...
+                                           ^^^^^^^^^^^^^^^^^189Offset 15611, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...ado contabilmente em fevereiro de 2018, em contrapartida a conta de resultado a época. Desde  en...
+                                           ^^^^^^^^^^^^^^^^190Offset 18073, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...izado num projeto cujo objetivo é venda através de fracionamento da área em chácaras   de ...
+                                           ^^^^^^^^^^191Offset 28152, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...  de  juros  efetiva  e  correspondem,  aproximadamente, ao seu valor de mercado.   A Companhia...
+                                           ^^^^^^^^^^^^^^^192Offset 28321, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não possui nenhum; não possui nenhuma; não, possui quaisquer
+...ou quaisquer  outros ativos de riscos e não possui quaisquer operações de “swap”, atividade de hedge...
+                                           ^^^^^^^^^^^^^^^^^^^^193Offset 30748, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: Conforme a; Segundo a; Consoante a
+...estados pelos auditores independentes   De acordo com a Instrução CVM nº 381, a administradora ...
+                                           ^^^^^^^^^^^^^^^194Offset 31087, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: Conforme; Segundo; Consoante
+...  externa.   21. Partes relacionadas    Em conformidade com a Deliberação CVM nº 642 da CVM e o Pro...
+                                           ^^^^^^^^^^^^^^^^^^^195Offset 31302, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...a regularmente  informa a CVM e BOVESPA em conformidade com o artigo 11 da Instrução CVM nº 358/200...
+                                           ^^^^^^^^^^^^^^^^^^^196Offset 31869, length 13, Rule ID: PT_CLICHE_REPLACE
+Message: ‘com direito a’ é uma frase-feita. É preferível dizer “REFORMULAR”
+Suggestion: REFORMULAR
+...tualmente 51,24 %  das ações ordinárias com direito a voto.   Composição  acionária  da  cont...
+                                           ^^^^^^^^^^^^^

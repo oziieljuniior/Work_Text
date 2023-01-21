@@ -1,0 +1,45 @@
+85Offset 674, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...emonstrações contábeis são apresentadas de acordo com as práticas contábeis adotadas no Brasil, ...
+                                           ^^^^^^^^^^^^^^^^86Offset 2475, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...  de 9% sobre o lucro líquido ajustado, de acordo com a legislação vigente.    f)  Os  demais  ...
+                                           ^^^^^^^^^^^^^^^87Offset 4640, length 6, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘quota’ e ‘cota’.
+Suggestion: cotas
+...ompanhia na Newrealty é de 99,9999% das quotas sociais.    IOL – Itapecerica On Line T...
+                                           ^^^^^^88Offset 5349, length 10, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘sub judice’ é uma expressão prolixa. É preferível dizer “em apreço” ou “em julgamento”
+Suggestion: em apreço; em julgamento
+...os  de  empréstimos que  se  encontram  sub judice,  atualizados  monetariamente  com  bas...
+                                           ^^^^^^^^^^89Offset 6398, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...de R$ 10.234.863,41. Nestas condições e em conformidade com o artigo 189 da Lei 6.404/76, fica  inv...
+                                           ^^^^^^^^^^^^^^^^^^^90Offset 8881, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...registrados no ativo e passivo equivale aproximadamente  ao seu valor de mercado. A Cia. não ma...
+                                           ^^^^^^^^^^^^^^^91Offset 11411, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...im como outros, encontram-se prescritos e  ou foram considerados inconstitucionais, v...
+                                           ^^^^^92Offset 12203, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+... consistente  sobre  a  atual  posição  dentro  do  judiciário  e  mesmo sobre seu possíve...
+                                           ^^^^^^^^^^93Offset 14651, length 7, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: serem
+...  nossos  assessores jurídicos entendem que são valores efetivamente devidos e sem poss...
+                                           ^^^^^^^94Offset 14993, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: Conforme; Segundo; Consoante
+...a  REFIS.   18 - PARTES RELACIONADAS    Em conformidade com a Deliberação CVM nº 642 da CVM e o Pro...
+                                           ^^^^^^^^^^^^^^^^^^^95Offset 15803, length 13, Rule ID: PT_CLICHE_REPLACE
+Message: ‘com direito a’ é uma frase-feita. É preferível dizer “REFORMULAR”
+Suggestion: REFORMULAR
+...tualmente 55,22 %  das ações ordinárias com direito a voto.                           Compos...
+                                           ^^^^^^^^^^^^^

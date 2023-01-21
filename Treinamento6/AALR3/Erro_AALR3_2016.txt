@@ -1,0 +1,651 @@
+1Offset 1258, length 21, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: correlatos, em geral
+...res,  conjuntos  para  diagnósticos  e  correlatos  em  geral;  (ii) consultoria,  assessoria,  curso...
+                                           ^^^^^^^^^^^^^^^^^^^^^2Offset 2095, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...  Grupo CO  São Judas Tadeu  Cedimagem  Pró Imagem  Sabedotti  Grupo CSD  CDI  UMDI...
+                                           ^^^3Offset 3077, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...   CDB  Nuclear  Nuclear  Nuclear  CDI  Pro Imagem  Pro Imagem  Pro Imagem  Pro Ima...
+                                           ^^^4Offset 3089, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...ear  Nuclear  Nuclear  CDI  Pro Imagem  Pro Imagem  Pro Imagem  Pro Imagem  Sonogra...
+                                           ^^^5Offset 3101, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...  Nuclear  CDI  Pro Imagem  Pro Imagem  Pro Imagem  Pro Imagem  Sonograff  ECO  UMD...
+                                           ^^^6Offset 3113, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...DI  Pro Imagem  Pro Imagem  Pro Imagem  Pro Imagem  Sonograff  ECO  UMDI  Gold Imag...
+                                           ^^^7Offset 3337, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...nter  Centro de Diagnóstico por Imagem  Pró Imagem Exames Complementares (Taubaté) ...
+                                           ^^^8Offset 3381, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...Imagem Exames Complementares (Taubaté)  Pró Ressonância Ltda. (Taubaté)  Pró Imagem...
+                                           ^^^9Offset 3414, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...baté)  Pró Ressonância Ltda. (Taubaté)  Pró Imagem Ltda. (Pinda)  Pró R M Diagnósti...
+                                           ^^^10Offset 3440, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...a. (Taubaté)  Pró Imagem Ltda. (Pinda)  Pró R M Diagnósticos Avançados Ltda. (Pinda...
+                                           ^^^11Offset 4978, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...nanceiras consolidadas foram elaboradas em conformidade com  as  Normas  Internacionais  de  Relató...
+                                           ^^^^^^^^^^^^^^^^^^^12Offset 6672, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...es  financeiras consolidadas preparadas de acordo com as IFRSs e as práticas contábeis  adotadas...
+                                           ^^^^^^^^^^^^^^^^13Offset 6868, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...ções financeiras individuais preparadas de acordo com as IFRSs e as  práticas  contábeis  adotad...
+                                           ^^^^^^^^^^^^^^^^14Offset 7526, length 20, Rule ID: COLOCAÇÃO_ADVÉRBIO
+Message: Ter em conta a colocação do advérbio.
+Suggestion: é geralmente baseado
+...ontábeis a seguir.    O custo histórico geralmente é baseado no valor justo das contraprestações pag...
+                                           ^^^^^^^^^^^^^^^^^^^^15Offset 7649, length 20, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: recebido
+...serviços.    Valor  justo  é  o  preço  que  seria  recebido  pela  venda  de  um  ativo  ou  pago  ...
+                                           ^^^^^^^^^^^^^^^^^^^^16Offset 8001, length 20, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considera; consideres
+... justo  de um ativo ou passivo, o Grupo leva em consideração as características do ativo ou  passivo...
+                                           ^^^^^^^^^^^^^^^^^^^^17Offset 8050, length 141, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou passivo no caso de os participantes do mercado levarem essas características em consideração na precificação do ativo, ou
+...onsideração as características do ativo ou  passivo  no  caso  de  os  participantes  do  mercado  levarem  essas  características  em  consideração  na  precificação  do  ativo  ou  passivo  na  data  de  mensuração.  O ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^18Offset 8429, length 19, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: inseridas
+...ações  de  pagamento  baseadas em ações que estão inseridas no escopo da IFRS 2 - Pagamentos Basead...
+                                           ^^^^^^^^^^^^^^^^^^^19Offset 8567, length 20, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: inseridas
+...)), operações de arrendamento mercantil que  estão inseridas no escopo da IAS 17 - Arrendamentos (eq...
+                                           ^^^^^^^^^^^^^^^^^^^^20Offset 8736, length 12, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: sejam valores; seja valor
+...laridades  ao  valor  justo,  mas  não  sejam  valor  justo,  como  valor  líquido  realizáv...
+                                           ^^^^^^^^^^^^21Offset 10057, length 8, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...da  do  principal  ambiente  econômico  no  qual a Companhia atua (“a moeda funcional”)....
+                                           ^^^^^^^^22Offset 10175, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...estão  apresentadas  em  reais  -  R$,  que  é  a  moeda  funcional  e,  também,  a  moed...
+                                           ^^^^^^^^^23Offset 11784, length 3, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...onhecido  na demonstração do resultado  e é calculado pela diferença  entre:  (i)  ...
+                                           ^^^24Offset 13199, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...te  pela  Companhia  ou  indiretamente, por meio de suas controladas.   Controladas  são  t...
+                                           ^^^^^^^^^^^25Offset 13607, length 17, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consegue; consigas; pode; possas
+... controle é obtido quando a  Companhia  tem  o  poder  de  controlar  as  políticas  financeiras ...
+                                           ^^^^^^^^^^^^^^^^^26Offset 14157, length 20, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: calculado pela
+... negócios é mensurada pelo valor justo, que é calculado pela soma dos  valores justos dos ativos tra...
+                                           ^^^^^^^^^^^^^^^^^^^^27Offset 16455, length 34, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: móveis, utensílios e equipamentos; móveis e utensílios, e equipamentos
+...dificações, imobilizações em andamento, móveis e utensílios e equipamentos estão  demonstrados  ao  valor  de  cus...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^28Offset 17624, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...do prospectivamente.    Ativos mantidos por meio de arrendamento financeiro são depreciados...
+                                           ^^^^^^^^^^^29Offset 18019, length 22, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou perdas na venda, ou
+...uso contínuo do ativo. Quaisquer ganhos ou perdas  na venda ou baixa de um item do imobilizado são det...
+                                           ^^^^^^^^^^^^^^^^^^^^^^30Offset 18182, length 6, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...enda  e  o  valor  contábil  do  ativo  e  são  reconhecidos  no  resultado.   Redução...
+                                           ^^^^^^31Offset 18819, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: o
+...ivo  ultrapassa  seu valor recuperável, que é o maior entre o preço líquido de venda e ...
+                                           ^^^^^^^32Offset 19875, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...  categorias:  (i)  pelo  valor  justo  por meio de resultado; (ii) mantidos até o vencimen...
+                                           ^^^^^^^^^^^33Offset 20069, length 3, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+... e do propósito dos  ativos financeiros e é determinada no reconhecimento inicial. ...
+                                           ^^^34Offset 20132, length 66, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienações normais de ativos financeiros são reconhecidas, ou
+...nhecimento inicial. Todas as aquisições ou  alienações normais  de ativos  financeiros são reconhecidas ou baixadas  com  base na  data de negocia...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^35Offset 20375, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+...ceiros que requerem a entrega de ativos dentro do prazo  estabelecido  por  meio  de  nor...
+                                           ^^^^^^^^^36Offset 22043, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...o for avaliado com base no valor justo, de acordo com a estratégia  documentada de gerenciament...
+                                           ^^^^^^^^^^^^^^^37Offset 22844, length 15, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incluídos
+... juros auferidos pelo ativo financeiro, sendo incluídos  na rubrica “Outros ganhos e perdas”, n...
+                                           ^^^^^^^^^^^^^^^38Offset 25175, length 36, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou atraso nos pagamentos de juros, ou
+...lação de contrato,  como  inadimplência ou atraso nos pagamentos de juros ou   principal;    17         Centro de I...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^39Offset 30412, length 19, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecido
+...r  e  o  ganho  ou  a  perda  acumulado que foi reconhecido em “Outros resultados abrangentes” e ac...
+                                           ^^^^^^^^^^^^^^^^^^^40Offset 33193, length 21, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecido
+...surados pelo maior valor entre o valor  que seria reconhecido de acordo com o CPC 25 - Provisões, Pas...
+                                           ^^^^^^^^^^^^^^^^^^^^^41Offset 33215, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...or entre o valor  que seria reconhecido de acordo com o CPC 25 - Provisões, Passivos Contingent...
+                                           ^^^^^^^^^^^^^^^42Offset 33404, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+... acumulada, quando cabível, reconhecida de acordo com o CPC 30 (R1).   i)  Moeda estrangeira   ...
+                                           ^^^^^^^^^^^^^^^43Offset 34127, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensurados pelo
+...oi determinado. Os itens não monetários que são mensurados pelo custo  histórico  em  uma  moeda  estra...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^44Offset 34647, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘consideradas como’ é uma expressão prolixa. É preferível dizer “APAGAR”
+Suggestion: APAGAR
+... inclusas no custo desses ativos quando consideradas como ajustes aos custos  com juros dos refer...
+                                           ^^^^^^^^^^^^^^^^^45Offset 37619, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+... termos  dos  contratos  de  concessão  dentro  do  alcance  das  normas  mencionadas,  a ...
+                                           ^^^^^^^^^^46Offset 38139, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na medida em que’ é uma expressão prolixa. É preferível dizer “enquanto”
+Suggestion: enquanto
+...Companhia reconhece um ativo financeiro na medida em  que tem o direito contratual incondicional ...
+                                           ^^^^^^^^^^^^^^^^^47Offset 39030, length 1, Rule ID: INTERNET_ABBREVIATIONS
+Message: Linguagem de Internet. Escreva por extenso.
+...magem Diagnósticos S.A. e Controladas   n)  Imposto de renda e contribuição socia...
+                                           ^48Offset 39650, length 36, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: ativos, passivos e seus valores; ativos e passivos, e seus valores
+...e diferenças entre as bases fiscais dos ativos e  passivos  e  seus  valores  contábeis  e  sobre  prejuízos  fiscai...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^49Offset 39847, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e devem
+...nas datas de encerramento  dos balanços e que devem ser aplicadas quando o respectivo impos...
+                                           ^^^^^^^^^^^50Offset 40615, length 1, Rule ID: INTERNET_ABBREVIATIONS
+Message: Linguagem de Internet. Escreva por extenso.
+...erado  das  causas que os questionem.   p)  Reconhecimento da receita   A  receit...
+                                           ^51Offset 41762, length 25, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...timativas  em  resultados  históricos,  levando  em  consideração  o  tipo  de  cliente,  o  tipo de tran...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^52Offset 41815, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; categoria de
+...consideração  o  tipo  de  cliente,  o  tipo de transação e as especificações de cada v...
+                                           ^^^^^^^53Offset 41870, length 1, Rule ID: INTERNET_ABBREVIATIONS
+Message: Linguagem de Internet. Escreva por extenso.
+...ão e as especificações de cada venda.   q)  Demonstração de valor adicionado (“DV...
+                                           ^54Offset 42050, length 4, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...ibuição  durante  determinado  período  e  é  apresentada  pela  Companhia,  conform...
+                                           ^^^^55Offset 43171, length 36, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: ativos, a depreciação e amortização; ativos e a depreciação, e amortização
+... das perdas e da recuperação de valores ativos e a depreciação e amortização)  e  pelo  valor  adicionado  recebido ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^56Offset 46046, length 16, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...es  são  revisadas  e  ajustadas  para  levar  em  conta  alterações  nas   23         Centro d...
+                                           ^^^^^^^^^^^^^^^^57Offset 46225, length 77, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...rição, conclusões de inspeções fiscais  ou  exposições  adicionais  identificadas  com  base  em  novos  assuntos  ou  decisões de tribunais.   (v)   lucros ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^58Offset 46510, length 20, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considera; consideres
+...izada  pela  limite  dos  Administração leva em consideração o histórico de lucros tributáveis, aume...
+                                           ^^^^^^^^^^^^^^^^^^^^59Offset 47956, length 19, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: emitidas
+...exercício  mais  a  quantidade de ações que seriam emitidas no pressuposto do exercício das opções ...
+                                           ^^^^^^^^^^^^^^^^^^^60Offset 48260, length 32, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: colaboradores, em contrapartida
+...strumentos  serviços  de  determinados  colaboradores  em  contrapartida  a  patrimoniais  (opções  de  compra  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^61Offset 48794, length 7, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...e outorga das opções de compra de ações e foram estimados com  base no modelo de valori...
+                                           ^^^^^^^62Offset 50619, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+... ainda não  efetivas:     Modificações à IAS 7 - Necessidade de inclusão de divulgaç...
+                                           ^^^^^63Offset 58742, length 6, Rule ID: FRAGMENT_TWO_ARTICLES
+Message: Possível fragmento.
+Suggestion: uma; na; uma, na
+...ntífica Tecnogama e a Nucleminas, porém uma na Cidade de Belo Horizonte (MG) e a outra...
+                                           ^^^^^^64Offset 59477, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...ngaba são unidades integrantes do Grupo Pró Imagem,  clínicas de diagnósticos por i...
+                                           ^^^65Offset 61688, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...-  SP  (Santa  Casa  Araras,  Hospital  Pró  Saúde), Limeira - SP e Rio Claro - SP ...
+                                           ^^^66Offset 62361, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...   Ecoclínica  UMDI   Sonograff   Grupo Pro  Imagem   Grupo  Nuclear   CDI   Total ...
+                                           ^^^67Offset 65025, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...Ecoclínica   UMDI   Sonograff    Grupo  Pro  Imagem   Grupo  Nuclear   CDI   Total ...
+                                           ^^^68Offset 65727, length 9, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a valores
+...ontraprestações a transferir referem-se à valores a pagar a prazo.   Contrapartidas trans...
+                                           ^^^^^^^^^69Offset 66250, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+... Ecoclínica   UMDI   Sonograff    Grupo Pro  Imagem   Grupo  Nuclear   CDI   Total ...
+                                           ^^^70Offset 71089, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; categoria de
+...do  saldo de clientes que possuem algum tipo de discussão judicial sobre os saldos fatu...
+                                           ^^^^^^^71Offset 73958, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: constituído
+... de  recomposição  de  14,5%  ao  ano,  sendo  constituído  pela  percentagem  de  evolução  físic...
+                                           ^^^^^^^^^^^^^^^^^^72Offset 74700, length 4, Rule ID: EASILY_CONFUSED_RARE_WORDS
+Message: ‘Avo’ é uma porção de algo. Os graus de parentesco escrevem-se “avós” ou “avôs”.
+Suggestion: avós; avôs
+...R$81.863, que será pago através de 1/12 avos. Anualmente, no mês de maio, a base de ...
+                                           ^^^^73Offset 76478, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...o Judas Tadeu   Sonograff Vale do Aço   PRO Imagem Ltda   PRO RM Diagnosticos Avanç...
+                                           ^^^74Offset 76496, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...nograff Vale do Aço   PRO Imagem Ltda   PRO RM Diagnosticos Avançados   PRO Imagem ...
+                                           ^^^75Offset 76528, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+... Ltda   PRO RM Diagnosticos Avançados   PRO Imagem Exames Complem.   PRO Ressonânci...
+                                           ^^^76Offset 76532, length 6, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Imagem,
+...a   PRO RM Diagnosticos Avançados   PRO Imagem Exames Complem.   PRO Ressonância   Eco...
+                                           ^^^^^^77Offset 76557, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...vançados   PRO Imagem Exames Complem.   PRO Ressonância   Ecoclinica S/S   UMDI   N...
+                                           ^^^78Offset 76853, length 14, Rule ID: PARONYM_DIAGNOSTICO_412
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de diagnóstico
+...magem Diagnóstica Ltda  Rede Brasileira de Diagnostico  TKS - Sistemas Hospitalares   SIT - Si...
+                                           ^^^^^^^^^^^^^^79Offset 78107, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...med  São Judas Tadeu  Grupo Gold  UMDI  Pró Imagem  Grupo Nuclear  Grupo CDI  Ecocl...
+                                           ^^^80Offset 80363, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...  Ecoclinica  UMDI   Grupo  PPP  Grupo  PRO (a)  Nuclear (b)  Bahia   Grupo  CDI (c...
+                                           ^^^81Offset 81497, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+... 20.151  1.414   291.669  13.400   (a)  Pró Imagem, Pró R.M. Diagnóstico, Pró Image...
+                                           ^^^82Offset 81509, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...14   291.669  13.400   (a)  Pró Imagem, Pró R.M. Diagnóstico, Pró Imagem Exames, Pr...
+                                           ^^^83Offset 81531, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+... (a)  Pró Imagem, Pró R.M. Diagnóstico, Pró Imagem Exames, Pró Exames.   (b)  Nucle...
+                                           ^^^84Offset 81550, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...ró R.M. Diagnóstico, Pró Imagem Exames, Pró Exames.   (b)  Nuclear Medcenter, Cient...
+                                           ^^^85Offset 82731, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...po  Gold (h)  Ecoclinica  UMDI   Grupo  PRO (a)   Grupo  Nuclear (b)   PPP  Bahia  ...
+                                           ^^^86Offset 84040, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...Ecoclinica  UMDI   Grupo  Grupo  Grupo  PRO (a)  Nuclear (b)  CDI (c)   Ativo   Cir...
+                                           ^^^87Offset 85771, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+... Diagnósticos S.A. e Controladas   (a)  Pró Imagem (CID 10,19% e Mastoclínica 89,81...
+                                           ^^^88Offset 85818, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...gem (CID 10,19% e Mastoclínica 89,81%), Pró R.M. Diagnóstico (CID 12,05% e Mastoclí...
+                                           ^^^89Offset 85875, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...ico (CID 12,05% e Mastoclínica 87,95%), Pró Imagem Exames   (CID 9,08% e Mastoclíni...
+                                           ^^^90Offset 85930, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...es   (CID 9,08% e Mastoclínica 90,92%), Pró Exames (CID 12,60% e Mastoclínica 87,40...
+                                           ^^^91Offset 93143, length 12, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: não haver
+...as  de  caixa,  a  Companhia  concluiu  que  não  há  indicação  de  que  seus  ativos  pode...
+                                           ^^^^^^^^^^^^92Offset 93177, length 18, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: seus ativos podam; seus ativos podem; seus ativos possam
+...luiu  que  não  há  indicação  de  que  seus  ativos  pode  ter  sofrido desvalorização, uma vez q...
+                                           ^^^^^^^^^^^^^^^^^^93Offset 93226, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...vos  pode  ter  sofrido desvalorização, uma vez que não foi identificado fatores indicativo...
+                                           ^^^^^^^^^^^94Offset 93877, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...s  do  Grupo  com  valor  contábil  de  aproximadamente  R$102.474  (R$83.425 em 2014 e R$37.19...
+                                           ^^^^^^^^^^^^^^^95Offset 97447, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+....   O teste de impairment foi realizado de acordo com a norma contábil CPC 01 (R1) - Redução ao...
+                                           ^^^^^^^^^^^^^^^96Offset 99509, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...,8   8    18,2 a 29,4    9,2 a 22,4     Pro Imagem  7  28,8 a 36,5  24,4 a 32,7   C...
+                                           ^^^97Offset 99954, length 11, Rule ID: INFORMALITIES
+Message: Esta é uma expressão oral. Reveja.
+Suggestion: trabalhadores
+...ção de mercado, mix de exames, custo de mão de obra em cada região e diferenças em  outros ...
+                                           ^^^^^^^^^^^98Offset 100207, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: Visto que; Dado que
+... para os próximos anos de 5,27% ao ano. Uma vez que a maior parte dos contratos de  aluguel...
+                                           ^^^^^^^^^^^99Offset 100219, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘a maior parte’ é uma expressão prolixa. É preferível dizer “a maioria”
+Suggestion: a maioria
+...ximos anos de 5,27% ao ano. Uma vez que a maior parte dos contratos de  aluguel, fornecedores...
+                                           ^^^^^^^^^^^^^100Offset 100780, length 6, Rule ID: ERRO_DE_CONCORDNCIA_DO_GÉNERO_MASCULINO_O
+Message: Possível erro de concordância de género.
+Suggestion: a beta; o beto
+...de risco, risco país, risco de  ações e o beta desalavancado do setor. Também é levada...
+                                           ^^^^^^101Offset 100820, length 22, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerada
+...o beta desalavancado do setor. Também é levada em consideração a estrutura de capital  atual  da  Comp...
+                                           ^^^^^^^^^^^^^^^^^^^^^^102Offset 101132, length 16, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘período de tempo’ é um pleonasmo. É preferível dizer “período” ou “tempo”
+Suggestion: período; tempo
+...das as unidades geradoras de caixa.   O período de tempo utilizado para a elaboração do fluxo de...
+                                           ^^^^^^^^^^^^^^^^103Offset 101210, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...oração do fluxo de caixa foi de 10 anos uma vez que  este  é  o  período  utilizado  pela  ...
+                                           ^^^^^^^^^^^104Offset 101743, length 16, Rule ID: SUBSTANTIVO_PLURAL_E_CHAVE
+Message: Utilize a forma composta.
+Suggestion: premissas-chave
+...pactos  decorrentes  de  mudanças  nas  premissas  chave  utilizadas  pela  Administração na ela...
+                                           ^^^^^^^^^^^^^^^^105Offset 105442, length 2, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...Giro (ix)  Capital de Giro (x)  FINAME (xi)   Semestral 03/13 a 09/21  Semestral 0...
+                                           ^^106Offset 109785, length 2, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...são destinados para capital de giro.   (xi)  Contrato de financiamento FINAME conc...
+                                           ^^107Offset 112570, length 5, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: norte
+...te em reais a US$ 1.000,00 (mil Dólares Norte-Americanos).   (b)  Conversibilidade em...
+                                           ^^^^^108Offset 112622, length 42, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou conferência de direito de subscrever, ou
+...anos).   (b)  Conversibilidade em ações ou conferência de direito de subscrever ou comprar ações da  Companhia  (i)  condi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^109Offset 113747, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou não seu direito de subscrever as Ações do Bônus anteriormente, ou
+...  tempo suficiente para decidir exercer ou não seu direito de subscrever as Ações do Bônus  anteriormente ou concomitantemente à ocorrência de tal E...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^110Offset 118255, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Contudo, por
+... alíquota  de  5%  sobre a sua receita. Contudo por entender que a alíquota a ser recolhida...
+                                           ^^^^^^^^^^^111Offset 120065, length 12, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+..., visando equalizar os passivos fiscais por  meio de um sistema especial de pagamento e de p...
+                                           ^^^^^^^^^^^^112Offset 121807, length 8, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Serviços
+...e Diagnósticos (Rio Claro)  Setra Prest.Serviços  Sonograff  Nuclear Medcenter  UMDI  Pr...
+                                           ^^^^^^^^113Offset 121853, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...os  Sonograff  Nuclear Medcenter  UMDI  Pró - Imagem   Outras   Total   Circulante ...
+                                           ^^^114Offset 122666, length 8, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Serviços
+...e Diagnósticos (Rio Claro)  Setra Prest.Serviços  Sonograff  Nuclear Medcenter  UMDI  Pr...
+                                           ^^^^^^^^115Offset 122712, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...os  Sonograff  Nuclear Medcenter  UMDI  Pró - Imagem   Outras   Total   Circulante ...
+                                           ^^^116Offset 126863, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativas à
+...ncialmente, aos riscos de futuras lides relativas a  interpretação  da  legislação  trabalh...
+                                           ^^^^^^^^^^^117Offset 128995, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...o  valor  do  risco  atualizado  é  de  aproximadamente  R$10.694, com valor de depósito judici...
+                                           ^^^^^^^^^^^^^^^118Offset 130634, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+... que  prescreveram durante o exercício, uma vez que o fato gerador do risco ocorreu há mais...
+                                           ^^^^^^^^^^^119Offset 133444, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...ratação de empresas médicas é regular e de acordo com a  legislação vigente, havendo inclusive,...
+                                           ^^^^^^^^^^^^^^^120Offset 136997, length 37, Rule ID: COLOCACAO_ADVERBIOS_LUGAR
+Message: O ritmo desta frase resultaria mais natural se colocar o advérbio depois do objeto.
+Suggestion: 950.000 ações nominativas na data
+...eiro  de  Castro  Asseff  que  possuía  na  data  950.000  ações  nominativas,  sendo  201.939  ações  ordinárias  e ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^121Offset 137289, length 11, Rule ID: PT_CLICHE_REPLACE
+Message: ‘por sua vez’ é uma frase-feita. É preferível dizer “,” ou “no que lhe concerne”
+Suggestion: ,; no que lhe concerne
+...s preferenciais classe “A”. A Companhia por sua vez efetuou a  compra das ações do acionist...
+                                           ^^^^^^^^^^^122Offset 137431, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...raria.   No dia 12 de novembro de 2014, por meio de Instrumento Particular de compra e vend...
+                                           ^^^^^^^^^^^123Offset 137766, length 12, Rule ID: PT_CLICHE_REPLACE
+Message: ‘por sua vez’ é uma frase-feita. É preferível dizer “,” ou “no que lhe concerne”
+Suggestion: ,; no que lhe concerne
+...tirando assim da Companhia. A Companhia por  sua vez, efetuou a compra das ações do acionist...
+                                           ^^^^^^^^^^^^124Offset 139234, length 15, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretando
+...hia  aos  ex-sócios  destas  empresas,  acarretando  em  um  aumento  de  capital social na Com...
+                                           ^^^^^^^^^^^^^^^125Offset 142543, length 14, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘A NATUREZA DOS’ é uma expressão prolixa. É preferível dizer “os”
+Suggestion: Os
+....019)  275.898   21.  INFORMAÇÕES SOBRE A NATUREZA DOS CUSTOS E DESPESAS RECONHECIDOS   NA DEM...
+                                           ^^^^^^^^^^^^^^126Offset 150033, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...os  CDI Vitória  São Judas Tadeu  Umdi  Pro Imagem  Outros  Total   Mútuos  Notas d...
+                                           ^^^127Offset 151575, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...ico  São Judas Tadeu  Umdi  Cientifica  Pro Ressonância  Pro Imagem  Geraldo Mol St...
+                                           ^^^128Offset 151592, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...deu  Umdi  Cientifica  Pro Ressonância  Pro Imagem  Geraldo Mol Starling Filho  Rog...
+                                           ^^^129Offset 153843, length 45, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: financeira, administrativo e operacional; financeira e administrativo, e operacional
+... de consultoria e assessoria contábil,  financeira  e  administrativo  e  operacional  com  as  controladoras  Companhia  e  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^130Offset 154146, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: definido pela
+...são por  um  verificador  independente  que  é  definido  pela  SESAB  e  contratado  pela  RBD.  O  p...
+                                           ^^^^^^^^^^^^^^^^^^^^^^131Offset 154987, length 6, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+... são  cobrados  por  exame  realizado,  e  são  remunerados  pela  Tabela  AMB92,  par...
+                                           ^^^^^^132Offset 155908, length 8, Rule ID: ERRO_DE_CONCORDNCIA_DO_GÉNERO_MASCULINO_O
+Message: Possível erro de concordância de género.
+Suggestion: a Pátria; o pátrio
+...ejamento  e  assessoria  financeira com o Pátria Assessoria Financeira Ltda., visando a ...
+                                           ^^^^^^^^133Offset 156344, length 19, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: adequado
+...entual outro modelo contratual jurídico que  seja  adequado  a  formalizar  as  Transações,  combin...
+                                           ^^^^^^^^^^^^^^^^^^^134Offset 157567, length 6, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...rados  por  consultores  independentes  e  são  atualizados  monetariamente  com  base...
+                                           ^^^^^^135Offset 157979, length 8, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: aluguéis
+... a Companhia possui um saldo a pagar de alugueis com partes relacionadas  registrado no ...
+                                           ^^^^^^^^136Offset 159063, length 15, Rule ID: PP_OBJ_IND
+Message: Na linguagem formal, é preferível usar o pronome pessoal no dativo.
+Suggestion: pertencem-lhe
+...ital para assegurar que as empresas que pertencem a ele possam  continuar com suas atividades n...
+                                           ^^^^^^^^^^^^^^^137Offset 159126, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ao mesmo tempo,
+... continuar com suas atividades normais, ao mesmo tempo em que maximiza o retorno a todas  as p...
+                                           ^^^^^^^^^^^^^^138Offset 162861, length 40, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: domésticos, estrangeiros e monitora; domésticos e estrangeiros, e monitora
+... o  acesso  aos  mercados  financeiros  domésticos  e  estrangeiros  e  monitora e administra os riscos financeiros rela...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^139Offset 162972, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...iros relacionados às operações do Grupo por meio de  relatórios  de  riscos  internos  que ...
+                                           ^^^^^^^^^^^140Offset 164609, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...de  taxa  de  câmbio  são administradas de acordo com os parâmetros estabelecidos pela Companhia...
+                                           ^^^^^^^^^^^^^^^^141Offset 166158, length 17, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...os  passivos”,  quando  ocorre  perda,  em  contrapartida ao resultado financeiro.    74         ...
+                                           ^^^^^^^^^^^^^^^^^142Offset 167379, length 17, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...nhecidos  em  “receitas  financeiras”,  em  contrapartida  de  “Instrumentos  financeiros  passiv...
+                                           ^^^^^^^^^^^^^^^^^143Offset 169725, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...está exposto ao risco de taxa de juros, uma vez que suas controladas e coligadas  obtêm emp...
+                                           ^^^^^^^^^^^144Offset 170993, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e é
+...sultados  adversos  para  a  Companhia  e  que  é  referenciada  por  fonte  externa  ind...
+                                           ^^^^^^^^^145Offset 171806, length 13, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘mais provável’ é um pleonasmo. É preferível dizer “provável”
+Suggestion: provável
+...ia  e  suas  controladas,  com  cenário mais provável (cenário base), segundo avaliação efetu...
+                                           ^^^^^^^^^^^^^146Offset 173558, length 31, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: financeiras, Títulos e valores; financeiras e Títulos, e valores
+... a 7,09%  TJLP + 2,5% a 6%   Aplicações financeiras e Títulos e valores mobiliários  Indexador:  95% a 98% CDI ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^147Offset 174342, length 21, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerou
+...  dólar.  A  análise  de  sensibilidade levou em consideração a exposição ativa ou passiva líquida do...
+                                           ^^^^^^^^^^^^^^^^^^^^^148Offset 177218, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Na medida em que’ é uma expressão prolixa. É preferível dizer “enquanto”
+Suggestion: Enquanto
+...uxos de caixa dos juros e do principal. Na medida em  que  os  fluxos  de  juros  são  pós-fixado...
+                                           ^^^^^^^^^^^^^^^^^149Offset 179613, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...a  ou  nenhuma  atividade  de   mercado e que são significantes para definição do valor j...
+                                           ^^^^^^^^^150Offset 183081, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; categoria de
+...ocessos de produção da mesma natureza,  tipo de cliente, fornecedores e processo logíst...
+                                           ^^^^^^^151Offset 184093, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...ses  da data de assinatura do contrato, que é 28 de novembro de 2014. Em 31 de dezemb...
+                                           ^^^^^152Offset 184517, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, em geral
+...uéis possuem duração entre 1 e 18 anos, e em geral sofrem correção anual com base no IGP-M...
+                                           ^^^^^^^^^^153Offset 185944, length 6, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+... são  cobrados  por  exame  realizado,  e  são  remunerados  pela  Tabela  AMB92,  par...
+                                           ^^^^^^154Offset 187550, length 36, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou reembolso das quantias devidas, ou
+...a cobertura de seguro para pagamento  e/ou reembolso das quantias devidas ou a pagar a terceiros a título de reparaç...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^155Offset 193060, length 9, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a valores
+...ontraprestações a transferir referem-se à valores a pagar a prazo.   A Companhia contrato...
+                                           ^^^^^^^^^156Offset 193238, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+... e passivos assumidos a valores justos, de acordo com o CPC 15 (R1)  -  Combinação  de  negócio...
+                                           ^^^^^^^^^^^^^^^157Offset 193862, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...a  explicativa nº 12 - Intangível,  que de acordo com as alocações iniciais identificadas pelos ...
+                                           ^^^^^^^^^^^^^^^^158Offset 194500, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: Conforme o; Segundo o; Consoante o
+...Descumprimento de cláusula contratual   De acordo com o contrato de empréstimo entre o Internat...
+                                           ^^^^^^^^^^^^^^^159Offset 194901, length 3, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...olidada, a ser calculado sobre uma base pro forma: (i) índice de liquidez corrente ...
+                                           ^^^160Offset 195274, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...uidez corrente (conforme item i acima), de acordo com a cláusula 7.02 do contrato de  empréstim...
+                                           ^^^^^^^^^^^^^^^161Offset 195728, length 10, Rule ID: PT_WEASELWORD_REPLACE
+Message: ‘claramente’ é uma expressão ambígua e evasiva. Reconsidere o seu uso, de acordo com o objetivo do seu texto.
+Suggestion: A premissa é inegavelmente verdadeira?
+...esse  balanço.  A  cláusula 7.01 afirma claramente que a dívida só se torna vencida no mom...
+                                           ^^^^^^^^^^162Offset 196024, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+...oladas   parâmetro previsto no contrato dentro do período previsto na cláusula na 7.02 (c...
+                                           ^^^^^^^^^163Offset 196648, length 9, Rule ID: QUE_SUBJ_VS_INF_PESS
+Message: Esta perífrase pode ser simplificada.
+Suggestion: haver
+...contratos  vigentes  nos  termos,  sem  que  haja,  portanto,  qualquer  emissão  de  açõ...
+                                           ^^^^^^^^^164Offset 196934, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...  Plano de Opção  Atual  no montante de aproximadamente  R$11.000, o qual  está de  acordo  com...
+                                           ^^^^^^^^^^^^^^^165Offset 196969, length 15, Rule ID: ESTAR_DE_ACORDO
+Message: Substitua por
+Suggestion: concorda; concordes; correspondas; corresponde; valida; valides; confirma; confirmes
+...e de aproximadamente  R$11.000, o qual  está de  acordo  com o valor justo apurado por empresa ...
+                                           ^^^^^^^^^^^^^^^166Offset 197585, length 8, Rule ID: ERRO_DE_CONCORDNCIA_DO_GÉNERO_MASCULINO_O
+Message: Possível erro de concordância de género.
+Suggestion: a Pátria; o pátrio
+...lanejamento e assessoria financeira com o Pátria Assessoria Financeira Ltda.   Oferta Pú...
+                                           ^^^^^^^^167Offset 197701, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...  de  agosto  de  2016,  foi  aprovada  através  de  Assembleia  Geral  Extraordinária  a  ...
+                                           ^^^^^^^^^^^168Offset 197819, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+...  aumento  de  capital  da  Companhia,  dentro  do  limite  de  capital  autorizado previs...
+                                           ^^^^^^^^^^169Offset 198125, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...corrência da oferta a companhia aprovou por meio de ata de assembleia o aumento do  capital...
+                                           ^^^^^^^^^^^170Offset 198733, length 14, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: emitida
+...national  Finance  Corporation  (EUA),  sendo  emitida  para  esse  contrato  bônus  de  subsc...
+                                           ^^^^^^^^^^^^^^171Offset 199774, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tem como objetivo’ é uma expressão prolixa. É preferível dizer “visa”, “pretende” ou “procura”
+Suggestion: visa; pretende; procura
+...são.    O Programa de Recompra de Ações tem como objetivo a aquisição de ações de emissão da  Com...
+                                           ^^^^^^^^^^^^^^^^^172Offset 201447, length 2, Rule ID: AS_PONTUAL_BR
+Message: Substitua «as» por “às” se estiver fazendo indicação pontual de hora.
+Suggestion: às
+...  as   duas primeiras de R$768, cada, e as duas restantes de R$ 384, cada;     Um...
+                                           ^^173Offset 201741, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...  passivos  assumidos a valores justos, de acordo com o CPC 15 (R1) - Combinação de negócios.  ...
+                                           ^^^^^^^^^^^^^^^

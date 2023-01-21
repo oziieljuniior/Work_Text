@@ -1,0 +1,165 @@
+100Offset 687, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinada à
+...to  Imobiliário  –  Projeto  I  Ltda.,  destinada  a  construção  de  apartamentos  para  co...
+                                           ^^^^^^^^^^^^101Offset 2953, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...obiliários  em  terrenos  disponíveis  (aproximadamente 100.000 m2) de sua propriedade, na cida...
+                                           ^^^^^^^^^^^^^^^102Offset 2977, length 2, Rule ID: SI_UNITS_EXPONENT
+Message: Os expoentes devem estar em sobrescrito.
+Suggestion: m²
+...  disponíveis  (aproximadamente 100.000 m2) de sua propriedade, na cidade de São P...
+                                           ^^103Offset 4396, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+... individuais da controladora preparadas de acordo com  as práticas contábeis adotadas no Brasil, ...
+                                           ^^^^^^^^^^^^^^^^^104Offset 6226, length 20, Rule ID: COLOCAÇÃO_ADVÉRBIO
+Message: Ter em conta a colocação do advérbio.
+Suggestion: é geralmente baseado
+... como base de valor. O custo histórico  geralmente é baseado no valor justo das contraprestações pag...
+                                           ^^^^^^^^^^^^^^^^^^^^105Offset 7149, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: o
+...conhecidas  pelo  seu  valor  nominal,  que  é  o  valor  líquido de realização esperado,...
+                                           ^^^^^^^^^106Offset 7604, length 13, Rule ID: SER_CAPAZ_DE_CONSEGUIR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: conseguirá
+...ia  objetiva  de  que  a  Companhia não será capaz de cobrar todos os valores devidos de acor...
+                                           ^^^^^^^^^^^^^107Offset 7642, length 10, Rule ID: DEVE_DE
+Message: Substitua por “devidos”.
+Suggestion: devidos
+...o será capaz de cobrar todos os valores devidos de acordo com os  prazos originais das Con...
+                                           ^^^^^^^^^^108Offset 9023, length 12, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘enquanto que’ é um pleonasmo. É preferível dizer “enquanto”
+Suggestion: enquanto
+...de ou  de vida útil, são capitalizados, enquanto que os demais gastos são registrados no  re...
+                                           ^^^^^^^^^^^^109Offset 9185, length 21, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consideram
+...ngo da vida útil do ativo, a taxas  que levam em consideração a vida útil estimada dos bens, conforme...
+                                           ^^^^^^^^^^^^^^^^^^^^^110Offset 12248, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...damento  são  reconhecidas no resultado de acordo com as medições efetuadas mensalmente e  conse...
+                                           ^^^^^^^^^^^^^^^^111Offset 12330, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...mente e  consequentemente no exercício, e ou evolução das obras.   •  Destinação dos...
+                                           ^^^^112Offset 13997, length 3, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...istribuição durante determinado período e é apresentada pela  Companhia,  conforme ...
+                                           ^^^113Offset 14603, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; Categoria de
+... E EQUIVALENTES DE CAIXA   Instituição  Tipo de aplicação  Remuneração média mensal em ...
+                                           ^^^^^^^114Offset 17438, length 2, Rule ID: SI_UNITS_EXPONENT
+Message: Os expoentes devem estar em sobrescrito.
+Suggestion: m²
+...e no ativo imobilizado o lote 1 (55.568 m2) onde esta localizada a sede  da compan...
+                                           ^^115Offset 17447, length 4, Rule ID: CONFUSÃO_ESTA_ESTÁ
+Message: Possível confusão de termos.
+Suggestion: está
+...o imobilizado o lote 1 (55.568 m2) onde esta localizada a sede  da companhia.   (b) ...
+                                           ^^^^116Offset 17491, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Em virtude de’ é uma expressão prolixa. É preferível dizer “por”
+Suggestion: Por
+... localizada a sede  da companhia.   (b) Em virtude de ainda não se ter uma previsão de concre...
+                                           ^^^^^^^^^^^^^117Offset 21795, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...tda,  um lote de 9.154m2, por R$ 1.500, através de instrumento particular de confissão  de...
+                                           ^^^^^^^^^^118Offset 22197, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...m  lote  de  3.922m2,  por  R$  1.050,  através  de  instrumento  particular  de  confissão...
+                                           ^^^^^^^^^^^119Offset 27937, length 18, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: usufrua
+...nde  que  passa  a  ser  provável  que  venha  a  usufruir  dos  benefícios  econômicos  associado...
+                                           ^^^^^^^^^^^^^^^^^^120Offset 28334, length 19, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: avaliados
+...resa tem imóveis no valor de R$ 22.099, que foram avaliados por R$ 72.639,  através  de  laudo  de ...
+                                           ^^^^^^^^^^^^^^^^^^^121Offset 28370, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...99, que foram avaliados por R$ 72.639,  através  de  laudo  de  avaliação  feito  por  empr...
+                                           ^^^^^^^^^^^122Offset 31375, length 27, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: cofins, pis e migração; cofins e pis, e migração
+...          (NOVO  REFIS),  débitos  do  cofins  e  pis  e  migração  de  débitos  já  objeto  de  ParceIame...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^123Offset 31643, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...dor do NOVO REFIS está sendo amortizado de acordo com a Lei 11.941/09,  acrescido  de  atualiza...
+                                           ^^^^^^^^^^^^^^^124Offset 32115, length 5, Rule ID: YEAR_NUMBER_FORMAT
+Message: Nos anos os números não devem ser separados.
+Suggestion: 2014
+...TRIMONIO LIQUIDO   Capital social   Ano 2.014 2.015 2.016 2.017 2.018 2.019  2013 - -...
+                                           ^^^^^125Offset 32961, length 3, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: hum!; hum?; hum!?
+...o passará a ser representada por 1.000 (hum mil) ações.    15                      ...
+                                           ^^^126Offset 37183, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...riais e estão assim distribuídos:   (cid:1) Apropriação  das  receitas  e  despesa...
+                                           ^^127Offset 38597, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...riais e estão assim distribuídos:   (cid:1)  Apropriação  das  receitas  e  despes...
+                                           ^^128Offset 40227, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativos à
+...precatórios oriundos de ações judiciais relativos a desapropriação de  terreno  promovido  ...
+                                           ^^^^^^^^^^^129Offset 40653, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: trâmite
+...tra  o  DER  processo  nº  203/83,  em  tramite  perante  a  4a.  Vara  da  Fazenda Púb...
+                                           ^^^^^^^130Offset 43126, length 19, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: provisionadas, pois
+...íveis e  tributárias,  que  não  estão  provisionadas  pois  envolvem  risco  de  perda  classifica...
+                                           ^^^^^^^^^^^^^^^^^^^131Offset 44044, length 22, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considera; consideres
+...ade  subsidiária.  A  provisão  destes  leva  em  consideração  a  evolução  dos  processos  e  o  his...
+                                           ^^^^^^^^^^^^^^^^^^^^^^132Offset 44229, length 15, Rule ID: GENERAL_PRONOMIAL_COLOCATIONS
+Message: Certos pronomes relativos, conjunções subordinativas e advérbios devem ser seguidos de próclise.
+Suggestion: que se referem
+...ssuem  processos  de  natureza  cível,  que  referem-se  principalmente  à  questões  indenizat...
+                                           ^^^^^^^^^^^^^^^133Offset 44324, length 9, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: cláusulas
+...órias,  regressivas  e  discussões  de  clausulas e cumprimento de contratos. A provisão ...
+                                           ^^^^^^^^^134Offset 44385, length 20, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considera; consideres
+...to de contratos. A provisão desse risco leva em consideração  a evolução dos processos e o histórico...
+                                           ^^^^^^^^^^^^^^^^^^^^135Offset 46158, length 33, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: os prejuízos fiscais passiva; os prejuízos fiscais passivar; os prejuízos fiscais passivara; os prejuízos fiscais passivaras; os prejuízos fiscais passivarei; os prejuízos fiscais passivares; os prejuízos fiscais passivaria; os prejuízos fiscais passivarias; os prejuízos fiscais passivará; os prejuízos fiscais passivarás; os prejuízos fiscais passivas; os prejuízos fiscais passivasse; os prejuízos fiscais passivasses; os prejuízos fiscais passivaste; os prejuízos fiscais passivava; os prejuízos fiscais passivavas; os prejuízos fiscais passive; os prejuízos fiscais passivei; os prejuízos fiscais passives; os prejuízos fiscais passivo; os prejuízos fiscais passivou
+... contribuição  social  diferida  sobre  os  prejuízos  fiscais  passiveis  de  compensação  nos próximos 10 anos,...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^136Offset 48362, length 8, Rule ID: PARONYM_DIVIDA_612
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: a dívida
+...o Mercantil   Em 31 de dezembro de 2013 a divida a valor presente reconhecida contabilme...
+                                           ^^^^^^^^137Offset 49755, length 20, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: o processo acredita
+... Contudo,  os  advogados que patrocinam o processo acreditam ser possível a reforma da decisão,  ant...
+                                           ^^^^^^^^^^^^^^^^^^^^138Offset 50093, length 13, Rule ID: SIMPLIFICAR_CONVERTER_PARA_VERBO_INFINITIVO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: para ser
+...ado o retorno dos  autos a 1ª instância para que seja proferida nova decisão.  O valor perici...
+                                           ^^^^^^^^^^^^^139Offset 51310, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: trâmite
+...da contra o DER, processo nº 203/83, em tramite perante a 4ª Vara  da Fazenda Pública d...
+                                           ^^^^^^^140Offset 51564, length 10, Rule ID: PARONYM_OFICIO_227
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de ofício
+...ta  que,  nada  obstante  a  expedição  de  Oficio  Requisitório,  em  1999,  requisitando...
+                                           ^^^^^^^^^^

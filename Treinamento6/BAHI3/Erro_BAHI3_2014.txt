@@ -1,0 +1,161 @@
+76Offset 3264, length 24, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...ção patrimonial  ao seu  valor justo, e levando em  consideração o seu valor líquido  de impostos a base...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^77Offset 4939, length 25, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...o  é  calculada  pelo  método  linear,  levando  em  consideração  a   vida útil-econômica dos bens, conf...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^78Offset 5151, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...nte o valor contábil líquido dos ativos com o objetivo de avaliar  eventos  ou  mudanças  nas  ci...
+                                           ^^^^^^^^^^^^^^^^^79Offset 6347, length 10, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: para
+...lucro tributável às alíquotas vigentes, sendo para o imposto de renda  15%,  mais  adicion...
+                                           ^^^^^^^^^^80Offset 7628, length 15, Rule ID: CONTRA_CAPA
+Message: Substitua por “contrapartida”.
+Suggestion: contrapartida
+...de  encerramento  do  exercício,  cuja  contra  partida  é  conta  de  Ajuste  de  Avaliação  P...
+                                           ^^^^^^^^^^^^^^^81Offset 11353, length 6, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘quota’ e ‘cota’.
+Suggestion: CotaS
+...OTA 7. OUTROS INVESTIMENTOS EM AÇÕES OU QUOTAS DE CAPITAL   Demonstramos a seguir os i...
+                                           ^^^^^^82Offset 12161, length 8, Rule ID: INFORMALITIES
+Message: Possível linguagem informal. Considere as alternativas.
+Suggestion: de modo a; interessar-se
+...da uma reversão no valor de R$ 959 mil, a fim de ajustar o valor líquido  contábil recup...
+                                           ^^^^^^^^83Offset 15294, length 5, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: mútuo
+...da de um mútuo. O prazo de pagamento do mutuo é por  tempo indeterminado e incidiu en...
+                                           ^^^^^84Offset 15485, length 5, Rule ID: YEAR_NUMBER_FORMAT
+Message: Nos anos os números não devem ser separados.
+Suggestion: 2012
+...ho de 2012. A partir de 01 de agosto de 2.012, de  acordo com a Ata de Reunião de Dir...
+                                           ^^^^^85Offset 15492, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...012. A partir de 01 de agosto de 2.012, de  acordo com a Ata de Reunião de Diretoria da mesma da...
+                                           ^^^^^^^^^^^^^^^^86Offset 18444, length 10, Rule ID: PARONYM_DIVIDA_612
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de dívidas
+...ora  fez a consolidação de parcelamento de dividas em 29/06/2011, para pagamento em180 mes...
+                                           ^^^^^^^^^^87Offset 18676, length 11, Rule ID: PARONYM_DIVIDA_612
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de dívidas
+...fez  a  consolidação  de  parcelamento  de  dividas  em  28/07/2011,  para  pagamento  em  ...
+                                           ^^^^^^^^^^^88Offset 19866, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...CAIS   a)  CONTROLADA  :  A Bahema S/A, através de sua controlada Bahema Participações S/A...
+                                           ^^^^^^^^^^89Offset 21068, length 10, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: expostas à
+...s, a Companhia e suas controladas estão expostas a flutuação cambial , à  variação  da  co...
+                                           ^^^^^^^^^^90Offset 21700, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: negociados na
+...a estrangeira – TavexAlgodonera S/A  –  que  são  negociados  na  Bolsa  de  Valores  de  Madrid  e  den...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^91Offset 23252, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...o  lucro líquido do exercício, ajustado de acordo com o artigo 202, da Lei nº 6.404/76.   De ac...
+                                           ^^^^^^^^^^^^^^^92Offset 24226, length 10, Rule ID: À_VERBO_DE
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a contar
+...real) por ação de emissão da Companhia, à conta de Reserva  Estatutária  para  Investiment...
+                                           ^^^^^^^^^^93Offset 25646, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinadas à
+...r de mercado das aplicações financeiras destinadas a venda líquida  dos efeitos tributários,...
+                                           ^^^^^^^^^^^^94Offset 25958, length 6, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 9.74%
+...o Social (9%)   0    0    0    5.630    -9.74%   1.519    -100,00%   (380)   (137)   -...
+                                           ^^^^^^95Offset 25976, length 8, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 100,00%
+...   0    0    5.630    -9.74%   1.519    -100,00%   (380)   (137)   -100,00%   -100,00%  ...
+                                           ^^^^^^^^96Offset 26003, length 8, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 100,00%
+...%   1.519    -100,00%   (380)   (137)   -100,00%   -100,00%   TOTAIS   5.082    6.633   ...
+                                           ^^^^^^^^97Offset 26014, length 8, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 100,00%
+...  -100,00%   (380)   (137)   -100,00%   -100,00%   TOTAIS   5.082    6.633       CONTROL...
+                                           ^^^^^^^^98Offset 26439, length 6, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 9.73%
+... 8.580    (2.145)   (772)   5.663       -9.73%   -9.73%   -9.73%   NOTA 16. PLANO DE S...
+                                           ^^^^^^99Offset 26448, length 6, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 9.73%
+... (2.145)   (772)   5.663       -9.73%   -9.73%   -9.73%   NOTA 16. PLANO DE SUPLEMENTA...
+                                           ^^^^^^100Offset 26457, length 6, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 9.73%
+...  (772)   5.663       -9.73%   -9.73%   -9.73%   NOTA 16. PLANO DE SUPLEMENTAÇÃO DE AP...
+                                           ^^^^^^101Offset 26874, length 11, Rule ID: IRREGULAR_PAST_PARTICIPLES
+Message: A forma correta deste particípio é aceites.
+Suggestion: são aceites
+...“contribuição definida”. Desde 1997 não são aceitos novos participantes para o  Plano A. Em...
+                                           ^^^^^^^^^^^102Offset 29108, length 5, Rule ID: YEAR_NUMBER_FORMAT
+Message: Nos anos os números não devem ser separados.
+Suggestion: 2013
+...uarial apresentado em 31 de dezembro de 2.013. Bahema            Participações  S/A.,...
+                                           ^^^^^103Offset 29339, length 5, Rule ID: YEAR_NUMBER_FORMAT
+Message: Nos anos os números não devem ser separados.
+Suggestion: 2008
+...ção  nº  26,  de  29  de  setembro  de  2.008,  do  Conselho  de  Gestão  Previdência...
+                                           ^^^^^104Offset 29971, length 5, Rule ID: YEAR_NUMBER_FORMAT
+Message: Nos anos os números não devem ser separados.
+Suggestion: 2013
+...da pela IN 1.422  de 19 de  dezembro de 2.013 e em  12 de novembro de 2.013 foi publi...
+                                           ^^^^^105Offset 30001, length 5, Rule ID: YEAR_NUMBER_FORMAT
+Message: Nos anos os números não devem ser separados.
+Suggestion: 2013
+...zembro de 2.013 e em  12 de novembro de 2.013 foi publicada a Medida Provisória  627 ...
+                                           ^^^^^106Offset 30976, length 12, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: não haver
+...orrente  da  referida  MP,  concluímos  que  não  há  efeitos  relevantes  em  suas  operaçõ...
+                                           ^^^^^^^^^^^^107Offset 31078, length 5, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: em; de
+...strações financeiras do exercício findo em de dezembro de 2.013. A Bahema S/A e  sua ...
+                                           ^^^^^108Offset 31096, length 5, Rule ID: YEAR_NUMBER_FORMAT
+Message: Nos anos os números não devem ser separados.
+Suggestion: 2013
+...as do exercício findo em de dezembro de 2.013. A Bahema S/A e  sua controlada Bahema ...
+                                           ^^^^^109Offset 31248, length 16, Rule ID: SIMPLIFICAR_CONVERTER_PARA_VERBO_INFINITIVO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: para poder
+...texto da  referida  Medida  Provisória  para  que  possa  decidir  sobre  sua  adoção  antecipad...
+                                           ^^^^^^^^^^^^^^^^110Offset 31307, length 11, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “nos”.
+Suggestion: nos
+...ecidir  sobre  sua  adoção  antecipada  dentro  dos  prazos  estabelecidos pela referida no...
+                                           ^^^^^^^^^^^111Offset 31666, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do cálculo
+...e Dezembro de 2013:   A)  Demonstrativo do calculo do IRPJ acumulados em 31/12/2013:   IMP...
+                                           ^^^^^^^^^^112Offset 32651, length 11, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (Recuperar
+...al paga até  o mês  (=) IRPJ a Recolher ( Recuperar )   0   627  6.072   9   0   9    4.158...
+                                           ^^^^^^^^^^^113Offset 33066, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do cálculo
+... 285    314    (29)   B)  Demonstrativo do calculo da CSLL acumulados em 31/12/2013:   CON...
+                                           ^^^^^^^^^^114Offset 33658, length 11, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (Recuperar
+...ensal pago até  o mês  (=) CSLL a Pagar ( Recuperar )   (R$ MIL)   BAHEMA PARTICIPAÇÕES S/A...
+                                           ^^^^^^^^^^^115Offset 35762, length 12, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 085.910.178
+...                                     CPF:085.910.178-97   As notas explicativas da Administr...
+                                           ^^^^^^^^^^^^

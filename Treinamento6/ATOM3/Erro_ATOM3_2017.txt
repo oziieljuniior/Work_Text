@@ -1,0 +1,21 @@
+52Offset 7287, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...contábeis da Companhia foram elaboradas de acordo com as práticas contábeis adotadas no  Brasil,...
+                                           ^^^^^^^^^^^^^^^^53Offset 8433, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “nos”.
+Suggestion: nos
+...cendas ou com expectativa de realização dentro dos próximos 12  meses  são  classificados ...
+                                           ^^^^^^^^^^54Offset 9071, length 20, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: adquiridos
+...res são obrigações a pagar por serviços que foram adquiridos de fornecedores no  curso ordinário dos...
+                                           ^^^^^^^^^^^^^^^^^^^^55Offset 10630, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: avaliados pelo
+...dores  e  outros  passivos circulantes, que são avaliados pelo custo amortizado.  d) Valor justo: Os v...
+                                           ^^^^^^^^^^^^^^^^^^^^^^56Offset 12944, length 8, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘um outro’ é um pleonasmo. É preferível dizer “outro”
+Suggestion: outro
+...do em 62.696.683 ações, e em 24/07/2016 um outro grupamento  na proporção de 3 para 1, r...
+                                           ^^^^^^^^

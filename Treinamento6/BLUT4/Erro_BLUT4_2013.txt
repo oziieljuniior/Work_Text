@@ -1,0 +1,105 @@
+22Offset 593, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...emonstrações contábeis são apresentadas de acordo com as práticas contábeis adotadas no Brasil, ...
+                                           ^^^^^^^^^^^^^^^^23Offset 1318, length 44, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: transações, outros eventos e circunstâncias; transações e outros eventos, e circunstâncias
+...  líquido  da  Companhia, decorrente de transações e outros eventos e circunstâncias não originadas dos sócios.   3.  PRINCI...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^24Offset 2517, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...  de 9% sobre o lucro líquido ajustado, de acordo com a legislação vigente.    f)  Os  demais  ...
+                                           ^^^^^^^^^^^^^^^25Offset 3467, length 6, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘quota’ e ‘cota’.
+Suggestion: cotas
+...hia  na  Newrealty  é  de  99,90%  das  quotas  sociais.  Até  o  presente  momento es...
+                                           ^^^^^^26Offset 4038, length 8, Rule ID: PARONYM_ACIDULA_1
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: a título
+... milhões, setecentos e vinte mil reais) a titulo  de entrada e o saldo de R$ 4.280.000,0...
+                                           ^^^^^^^^27Offset 4479, length 4, Rule ID: ETC_USAGE
+Message: Deve-se utilizar a vírgula antes de ‘etc.’.
+Suggestion: , etc
+...  considerando as benfeitorias, culturas etc.   IOL – Itapecerica On Line Telecomuni...
+                                           ^^^^28Offset 5196, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: Conforme o; Segundo o; Consoante o
+...411.608   929.128.363   b)  Dividendos: De acordo com o previsto no Estatuto Social da Companhi...
+                                           ^^^^^^^^^^^^^^^29Offset 6539, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...registrados no ativo e passivo equivale aproximadamente  ao  seu  valor  de  mercado.  A  Cia. ...
+                                           ^^^^^^^^^^^^^^^30Offset 8853, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...im como outros, encontram-se prescritos e  ou foram considerados inconstitucionais, v...
+                                           ^^^^^31Offset 9575, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+... consistente  sobre  a  atual  posição  dentro  do  judiciário  e  mesmo sobre seu possíve...
+                                           ^^^^^^^^^^32Offset 10674, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: notícia
+...a  Fazenda  recorreu e ainda não se tem noticia sobre quando será julgada. Nesta ação, ...
+                                           ^^^^^^^33Offset 12651, length 8, Rule ID: PARONYM_INICIO_169
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: o início
+...o  de  Lei  vem  sendo  discutido desde o inicio de 2010.  Sobre o reenquadramento, foi ...
+                                           ^^^^^^^^34Offset 14109, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...ndatário  que  efetuou  um  replantio á aproximadamente 4 anos, devendo efetuar o primeiro cort...
+                                           ^^^^^^^^^^^^^^^35Offset 15136, length 19, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: desenvolver
+...eucalipto  em  Pirapora  e  até  mesmo  vir  a  desenvolver um projeto de bambu. Por ora, foram con...
+                                           ^^^^^^^^^^^^^^^^^^^36Offset 15509, length 19, Rule ID: DE_MANEIRA_A_QUE
+Message: Substitua por “de maneira que”.
+Suggestion: de maneira que
+...mentação  do  Novo  Código  Florestal,  de  maneira  a  que  o  projeto  esteja  perfeitamente  em ...
+                                           ^^^^^^^^^^^^^^^^^^^37Offset 15679, length 11, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: seja
+...plantação do projeto de eucalipto, caso venha a ser viabilizado  nos estudos econômico e fi...
+                                           ^^^^^^^^^^^38Offset 16177, length 6, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: início
+...uando deverá ocorrer o primeiro corte e inicio de sua comercialização.  Após o período...
+                                           ^^^^^^39Offset 16509, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+... José dos Campos   Conforme  divulgado  através  de  Fato  Relevante  de  30  de  agosto  d...
+                                           ^^^^^^^^^^^40Offset 16604, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...012,  a  Indústrias  J.B.Duarte  S.A.,  através  de  sua  controlada  Newrealty  Empreendim...
+                                           ^^^^^^^^^^^41Offset 16981, length 4, Rule ID: ESTA_ESTÁ
+Message: Substitua por “está”.
+Suggestion: está
+...ínculos com terceiros.  Na  negociação  esta  incluída  o  projeto  piloto  de  50  ...
+                                           ^^^^42Offset 17570, length 4, Rule ID: ETC_USAGE
+Message: Deve-se utilizar a vírgula antes de ‘etc.’.
+Suggestion: , etc
+...do a propriedade, benfeitorias, culturas etc.   A Newrealty Empreendimentos Imobiliá...
+                                           ^^^^43Offset 17829, length 9, Rule ID: PARONYM_ACIDULA_1
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: a título
+...es,  setecentos  e  vinte  mil  reais)  a  titulo  de  entrada  já  foram  pagos  e  o  s...
+                                           ^^^^^^^^^44Offset 18884, length 19, Rule ID: ESTAR_DE_ACORDO
+Message: Substitua por
+Suggestion: concordasse; correspondesse; validasse; confirmasse
+...eniente  inicia-lo  sem  que  este  já  estivesse de acordo com a nova legislação.     11. PARTES R...
+                                           ^^^^^^^^^^^^^^^^^^^45Offset 18957, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: Conforme; Segundo; Consoante
+...gislação.     11. PARTES RELACIONADAS   Em conformidade com a Deliberação CVM nº 642 da CVM e o Pro...
+                                           ^^^^^^^^^^^^^^^^^^^46Offset 20726, length 13, Rule ID: PT_CLICHE_REPLACE
+Message: ‘com direito a’ é uma frase-feita. É preferível dizer “REFORMULAR”
+Suggestion: REFORMULAR
+...e  31/12/2012, 100.000 ações ordinárias com direito a voto.    Diretoria – O Sr. Laodse de Ab...
+                                           ^^^^^^^^^^^^^47Offset 20894, length 13, Rule ID: PT_CLICHE_REPLACE
+Message: ‘com direito a’ é uma frase-feita. É preferível dizer “REFORMULAR”
+Suggestion: REFORMULAR
+...anhia, detendo 100.000 ações ordinárias com direito a voto.    Saldo das contas envolvendo pa...
+                                           ^^^^^^^^^^^^^

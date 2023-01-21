@@ -1,0 +1,148 @@
+48Offset 585, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...emonstrações contábeis são apresentadas de acordo com as práticas contábeis adotadas  no Brasil,...
+                                           ^^^^^^^^^^^^^^^^49Offset 1323, length 49, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: transações, outros eventos e circunstâncias; transações e outros eventos, e circunstâncias
+...íquido  da  Companhia,  decorrente  de  transações  e  outros  eventos  e  circunstâncias  não  originadas  dos  sócios.   3.  PR...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^50Offset 2345, length 20, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: o lucro não foi; o lucro não fora
+... renda  e  contribuição  social  sobre  o  lucro  não  foram  constituídas em razão de ajustes ao lu...
+                                           ^^^^^^^^^^^^^^^^^^^^51Offset 2421, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...m razão de ajustes ao lucro tributável, através de adições e ou exclusões,  que resultaram...
+                                           ^^^^^^^^^^52Offset 2440, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...ao lucro tributável, através de adições e ou exclusões,  que resultaram em prejuízo ...
+                                           ^^^^53Offset 3537, length 6, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘quota’ e ‘cota’.
+Suggestion: cotas
+...ompanhia na Newrealty é de 99,9999% das quotas sociais. Até o  presente  momento  essa...
+                                           ^^^^^^54Offset 4741, length 4, Rule ID: ETC_USAGE
+Message: Deve-se utilizar a vírgula antes de ‘etc.’.
+Suggestion: , etc
+...) considerando as benfeitorias, culturas etc.  Em  reunião  do  Conselho  de  Admini...
+                                           ^^^^55Offset 4973, length 6, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘quota’ e ‘cota’.
+Suggestion: Cotas
+...  de  Compra  e Venda  e  Recompra  de  Quotas  Sociais  celebrado  em  13  de feverei...
+                                           ^^^^^^56Offset 6417, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...do lucro líquido do exercício, ajustado de acordo com o artigo 202 da  Lei  6.404/76.  O  saldo...
+                                           ^^^^^^^^^^^^^^^57Offset 6754, length 15, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘resultado final’ é um pleonasmo. É preferível dizer “resultado”
+Suggestion: resultado
+...e os atribuídos às ações  ordinárias. O resultado final de 2013 mostra um lucro de R$ 2.353 mil...
+                                           ^^^^^^^^^^^^^^^58Offset 7764, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...rados  no  ativo  e  passivo  equivale  aproximadamente  ao  seu  valor  de  mercado.  A  Cia. ...
+                                           ^^^^^^^^^^^^^^^59Offset 9247, length 32, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: seus assessores jurídicos têm
+...  reservas.  A  Companhia  através  de  seus  assessores  jurídicos  tem  envidado  esforços  na  tentativa  de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^60Offset 10359, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...fundamento legítimo, assim como outros, encontram-se prescritos e ou foram considera...
+                                           ^^^^61Offset 11140, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+...  consistente  sobre  a  atual  posição dentro  do  judiciário e mesmo sobre seu possível ...
+                                           ^^^^^^^^^^62Offset 12915, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: notícia
+...s a Fazenda recorreu e ainda não se tem noticia sobre quando será julgada.  Nesta ação,...
+                                           ^^^^^^^63Offset 14627, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...mi popular em área a ser desmembrada de aproximadamente  40.000 m², e embora os representantes ...
+                                           ^^^^^^^^^^^^^^^64Offset 14961, length 8, Rule ID: PARONYM_INICIO_169
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: o início
+...rojeto de Lei vem sendo discutido desde o inicio de 2010. Com a  nova  gestão  municipal...
+                                           ^^^^^^^^65Offset 15076, length 15, Rule ID: TER_PARTICIPIO-PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: encontra
+... janeiro  de  2013,  o  nosso  projeto  tem  encontrado  o  apoio  necessário  e  decisivo  par...
+                                           ^^^^^^^^^^^^^^^66Offset 15467, length 29, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: o presente momento não tem
+...ida alteração de rural para urbana, até o presente momento  não temos nenhuma resposta oficial positiva.  Até...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^67Offset 15698, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Porém, no
+...ojeto, nenhuma ação definitiva ocorreu. Porém no inicio  do  atual  exercício  de  2014,...
+                                           ^^^^^^^^68Offset 15707, length 6, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: início
+...nhuma ação definitiva ocorreu. Porém no inicio  do  atual  exercício  de  2014,  o  ex...
+                                           ^^^^^^69Offset 16239, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...pal de 12 de fevereiro de 2014, ocasião na qual, o Projeto de  Lei foi aprovado pelo le...
+                                           ^^^^^^^70Offset 18161, length 14, Rule ID: QUE_SUBJ_VS_INF_PESS
+Message: Esta perífrase pode ser simplificada.
+Suggestion: se poder
+...concluir  o  corte  remanescente  para  que  se  possa  efetuar  um  novo  replantio  na  part...
+                                           ^^^^^^^^^^^^^^71Offset 18912, length 9, Rule ID: PARONYM_ANALISE_363
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: a análise
+... eucalipto. Por outro lado,  aguardamos a analise dos resultados do projeto piloto do bam...
+                                           ^^^^^^^^^72Offset 19099, length 17, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: desenvolver
+...to  eucalipto  em  Pirapora e até mesmo vir a desenvolver um projeto de bambu. Quando concluirmos...
+                                           ^^^^^^^^^^^^^^^^^73Offset 20058, length 19, Rule ID: DE_MANEIRA_A_QUE
+Message: Substitua por “de maneira que”.
+Suggestion: de maneira que
+...sa  área  no  Novo  Código  Florestal,  de  maneira  a  que  o  projeto  esteja  perfeitamente  em ...
+                                           ^^^^^^^^^^^^^^^^^^^74Offset 20454, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...e de 30 de agosto de 2012, consiste em, através de sua controlada Newrealty  Empreendiment...
+                                           ^^^^^^^^^^75Offset 22271, length 4, Rule ID: ETC_USAGE
+Message: Deve-se utilizar a vírgula antes de ‘etc.’.
+Suggestion: , etc
+...uras de  telhados (vigas, caibros, ripas etc.), moveis, utensílios domésticos, fibra...
+                                           ^^^^76Offset 22475, length 4, Rule ID: ESTA_ESTÁ
+Message: Substitua por “está”.
+Suggestion: está
+...  uma  primeira  fase;  g)  A  cultura  esta  amparada  em  Lei  especifica  já  san...
+                                           ^^^^77Offset 22500, length 10, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: específica
+...)  A  cultura  esta  amparada  em  Lei  especifica  já  sancionada pela Presidência da Rep...
+                                           ^^^^^^^^^^78Offset 22544, length 12, Rule ID: PARONYM_REPUBLICA_543
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: da república
+...cifica  já  sancionada pela Presidência da Republica, tendo inclusive diversos estudos já re...
+                                           ^^^^^^^^^^^^79Offset 23299, length 5, Rule ID: ETC_USAGE
+Message: Deve-se utilizar a vírgula antes de ‘etc.’.
+Suggestion: , etc
+...a  propriedade,  benfeitorias,  culturas  etc.   A Newrealty Empreendimentos Imobiliá...
+                                           ^^^^^80Offset 25009, length 10, Rule ID: DATE_FUTURE_VERB_PAST
+Message: A data apresentada está no futuro, mas o verbo associado está no passado.
+...ado  e       colocado em nosso site em 15/06/2103; b) prazo de preferência iniciou-se em ...
+                                           ^^^^^^^^^^81Offset 25256, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: Conforme; Segundo; Consoante
+...9/09/2013.    12. PARTES RELACIONADAS   Em conformidade com a Deliberação CVM nº 642 da CVM e o Pro...
+                                           ^^^^^^^^^^^^^^^^^^^82Offset 25902, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘considerada como’ é uma expressão prolixa. É preferível dizer “APAGAR”
+Suggestion: APAGAR
+...relação a esta  empresa, não está sendo considerada como parte relacionada, pois que o investime...
+                                           ^^^^^^^^^^^^^^^^83Offset 27067, length 13, Rule ID: PT_CLICHE_REPLACE
+Message: ‘com direito a’ é uma frase-feita. É preferível dizer “REFORMULAR”
+Suggestion: REFORMULAR
+...l de 31/12/2013, 1.765 ações ordinárias com direito a voto.    Diretoria – O Sr. Laodse de Ab...
+                                           ^^^^^^^^^^^^^84Offset 27233, length 13, Rule ID: PT_CLICHE_REPLACE
+Message: ‘com direito a’ é uma frase-feita. É preferível dizer “REFORMULAR”
+Suggestion: REFORMULAR
+...mpanhia, detendo 1.746 ações ordinárias com direito a voto.    Saldo das contas envolvendo pa...
+                                           ^^^^^^^^^^^^^

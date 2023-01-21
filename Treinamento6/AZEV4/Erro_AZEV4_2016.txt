@@ -1,0 +1,164 @@
+189Offset 772, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinada à
+...to  Imobiliário  –  Projeto  I  Ltda.,  destinada  a  construção  de  apartamentos  para  co...
+                                           ^^^^^^^^^^^^190Offset 3560, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+... Viabilizar  a  terrenos  disponíveis  (aproximadamente  100.000  m2)  de  sua  propriedade,  n...
+                                           ^^^^^^^^^^^^^^^191Offset 3586, length 2, Rule ID: SI_UNITS_EXPONENT
+Message: Os expoentes devem estar em sobrescrito.
+Suggestion: m²
+...disponíveis  (aproximadamente  100.000  m2)  de  sua  propriedade,  na  área  urba...
+                                           ^^192Offset 5062, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+... individuais da controladora preparadas de acordo com as  práticas contábeis adotadas no Brasil,...
+                                           ^^^^^^^^^^^^^^^^193Offset 5614, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+... em  2014,  as  demonstrações separadas de acordo com o IFRS passaram a permitir o uso do métod...
+                                           ^^^^^^^^^^^^^^^194Offset 6870, length 20, Rule ID: COLOCAÇÃO_ADVÉRBIO
+Message: Ter em conta a colocação do advérbio.
+Suggestion: é geralmente baseado
+... base  de  valor.  O  custo  histórico  geralmente é baseado no valor justo das contraprestações pag...
+                                           ^^^^^^^^^^^^^^^^^^^^195Offset 7793, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: o
+...ão reconhecidas pelo seu valor nominal, que é o valor líquido de  realização  esperado,...
+                                           ^^^^^^^196Offset 8409, length 13, Rule ID: SER_CAPAZ_DE_CONSEGUIR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: conseguirá
+...idência objetiva de que a Companhia não será capaz de cobrar todos os  valores devidos de aco...
+                                           ^^^^^^^^^^^^^197Offset 8448, length 10, Rule ID: DEVE_DE
+Message: Substitua por “devidos”.
+Suggestion: devidos
+... será capaz de cobrar todos os  valores devidos de acordo com os prazos originais das Cont...
+                                           ^^^^^^^^^^198Offset 9947, length 21, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consideram
+...ngo da vida útil do ativo, a taxas que  levam em consideração a vida útil estimada dos bens, conforme...
+                                           ^^^^^^^^^^^^^^^^^^^^^199Offset 13128, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...  e  no  consequentemente no exercício, e ou evolução das obras.   •  Destinação dos...
+                                           ^^^^200Offset 15391, length 4, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...ibuição  durante  determinado  período  e  é  apresentada  pela  Companhia,  conform...
+                                           ^^^^201Offset 16074, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; Categoria de
+... E EQUIVALENTES DE CAIXA   Instituição  Tipo de aplicação  Remuneração média mensal em ...
+                                           ^^^^^^^202Offset 18364, length 2, Rule ID: SI_UNITS_EXPONENT
+Message: Os expoentes devem estar em sobrescrito.
+Suggestion: m²
+...e no ativo imobilizado o lote 1 (55.568 m2) onde esta localizada a sede da  compan...
+                                           ^^203Offset 18373, length 4, Rule ID: CONFUSÃO_ESTA_ESTÁ
+Message: Possível confusão de termos.
+Suggestion: está
+...o imobilizado o lote 1 (55.568 m2) onde esta localizada a sede da  companhia.    Em ...
+                                           ^^^^204Offset 18414, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Em virtude de’ é uma expressão prolixa. É preferível dizer “por”
+Suggestion: Por
+...sta localizada a sede da  companhia.    Em virtude de ainda não se ter uma previsão de concre...
+                                           ^^^^^^^^^^^^^205Offset 22664, length 4, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 426
+...  421  11  -  -  2014  (426)  -  -  11  -426  EM 2015 a ATDI-II e ATDI-III ainda não...
+                                           ^^^^206Offset 24121, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...da.,  um lote de 3.922m2, por R$ 1.050, através de instrumento particular de confissão de ...
+                                           ^^^^^^^^^^207Offset 26054, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+... e  base  de  cálculo  negativo  CSLL,  através  de    Instrumento  Particular  de  Cessão ...
+                                           ^^^^^^^^^^^208Offset 26858, length 12, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: incluindo
+...ção do pessoal-chave da  Administração, o que inclui o Conselho de Administração, Conselho F...
+                                           ^^^^^^^^^^^^209Offset 31801, length 18, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: usufrua
+...nde  que  passa  a  ser  provável  que  venha  a  usufruir  dos  benefícios  econômicos  associado...
+                                           ^^^^^^^^^^^^^^^^^^210Offset 34916, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: No
+...                                  (a)  Dentro  do  valor  de  impostos  a  recolher,  par...
+                                           ^^^^^^^^^^211Offset 35647, length 5, Rule ID: YEAR_NUMBER_FORMAT
+Message: Nos anos os números não devem ser separados.
+Suggestion: 2016
+...urto prazo  Parcelas a longo prazo  Ano 2.016 2.017 2.018 2.019 2.020  30/09/2015 2.0...
+                                           ^^^^^212Offset 38382, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: agora
+...íquido.  Este   reforço  é  essencial,  neste  momento,  de  escassez   de  crédito pelo merca...
+                                           ^^^^^^^^^^^^^^213Offset 44586, length 10, Rule ID: DATE_FUTURE_VERB_PAST
+Message: A data apresentada está no futuro, mas o verbo associado está no passado.
+...azo  máximo  ficou  estabelecido  para  28/02/2050.  O  valor  da  parcela  será  calculad...
+                                           ^^^^^^^^^^214Offset 44882, length 19, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “ser maior que”.
+Suggestion: ser maior que
+...Receita  Bruta  da  Companhia  vier  a  ser  maior  do  que  o  valor  da  parcela,  calculado  con...
+                                           ^^^^^^^^^^^^^^^^^^^215Offset 45241, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativos à
+...tórios  oriundos  de  ações  judiciais  relativos  a  desapropriação  de  terreno promovido ...
+                                           ^^^^^^^^^^^^216Offset 45537, length 5, Rule ID: HOURS_ABREVIATION
+Message: Se é uma indicação horária, não é pontuada.
+Suggestion: 20 h
+...31  de  dezembro  de  2014).  Vide nota 20 h.4   d)  Provisão para Contingências - Aç...
+                                           ^^^^^217Offset 47755, length 19, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: provisionadas, pois
+...íveis e  tributárias,  que  não  estão  provisionadas  pois  envolvem  risco  de  perda  classifica...
+                                           ^^^^^^^^^^^^^^^^^^^218Offset 48897, length 22, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considera; consideres
+...ade  subsidiária.  A  provisão  destes  leva  em  consideração  a  evolução  dos  processos  e  o  his...
+                                           ^^^^^^^^^^^^^^^^^^^^^^219Offset 49082, length 15, Rule ID: GENERAL_PRONOMIAL_COLOCATIONS
+Message: Certos pronomes relativos, conjunções subordinativas e advérbios devem ser seguidos de próclise.
+Suggestion: que se referem
+...ssuem  processos  de  natureza  cível,  que  referem-se  principalmente  à    questões  indeniz...
+                                           ^^^^^^^^^^^^^^^220Offset 49179, length 9, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: cláusulas
+...órias,  regressivas  e  discussões  de  clausulas e cumprimento de contratos. A provisão ...
+                                           ^^^^^^^^^221Offset 49240, length 20, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considera; consideres
+...to de contratos. A provisão desse risco leva em consideração  a evolução dos processos e o histórico...
+                                           ^^^^^^^^^^^^^^^^^^^^222Offset 51610, length 32, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: os prejuízos fiscais passiva; os prejuízos fiscais passivar; os prejuízos fiscais passivara; os prejuízos fiscais passivaras; os prejuízos fiscais passivarei; os prejuízos fiscais passivares; os prejuízos fiscais passivaria; os prejuízos fiscais passivarias; os prejuízos fiscais passivará; os prejuízos fiscais passivarás; os prejuízos fiscais passivas; os prejuízos fiscais passivasse; os prejuízos fiscais passivasses; os prejuízos fiscais passivaste; os prejuízos fiscais passivava; os prejuízos fiscais passivavas; os prejuízos fiscais passive; os prejuízos fiscais passivei; os prejuízos fiscais passives; os prejuízos fiscais passivo; os prejuízos fiscais passivou
+... contribuição  social  diferida  sobre  os  prejuízos  fiscais passiveis de compensação nos próximos 10 anos.   ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^223Offset 54064, length 12, Rule ID: PARONYM_BENEFICIO_43
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: o benefício
+...(ATSA)  e  controlada  ATE.  Estima-se  o  beneficio  patrimonial decorrentes de tais ações,...
+                                           ^^^^^^^^^^^^224Offset 54923, length 10, Rule ID: PARONYM_PERICIA_239
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: na perícia
+...mento em 1ª Instancia,  sendo certo que na pericia realizada nos autos, foi apurado, pelo ...
+                                           ^^^^^^^^^^225Offset 55327, length 11, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de cálculo
+... de  natureza  indenizatória  da  base  de  calculo  da  contribuição  previdenciária  e  a...
+                                           ^^^^^^^^^^^226Offset 55710, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: agora
+...nto  pela  2ª  Instancia,  não  sendo,  neste  momento, possível a mensuração do beneficio pat...
+                                           ^^^^^^^^^^^^^^227Offset 55748, length 12, Rule ID: PARONYM_BENEFICIO_43
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do benefício
+...  neste  momento, possível a mensuração do beneficio patrimonial de ambas as demandas.    h....
+                                           ^^^^^^^^^^^^228Offset 56092, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: trâmite
+...a contra o DER, processo nº 203/83, em  tramite perante a 4ª Vara da Fazenda Pública de...
+                                           ^^^^^^^229Offset 56160, length 10, Rule ID: PARONYM_ANALISE_363
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: da análise
+... Fazenda Pública de São Paulo, em razão da analise de  risco quanto  a  definição  de  seu...
+                                           ^^^^^^^^^^

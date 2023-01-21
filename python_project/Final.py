@@ -1,9 +1,3 @@
-'''
-created: Oziel Ramos
-contat: ozieljr14@gmail.com
-'''
-
-
 #Biblioteca suporte para extração de texto, reconhecimento do texto como string
 from io import StringIO
 
@@ -42,6 +36,11 @@ data_local["A1"] = "Empresas"
 data_local["B1"] = "Qt_Erros"
 indice_excel = 1 
 
+#Configuração da biblioteca para análise textual 
+tool = lt.LanguageTool("pt-BR")
+        
+
+
 #Configurar caminho
 path = askdirectory()
 #path.replace("/","\\")
@@ -54,9 +53,6 @@ print(lista_caminho)
 #Contadores iniciais para análise de erro
 erro_geral = 0
 contador_geral = 0
-
-#Configuração da biblioteca para análise textual 
-tool = lt.LanguageTool("pt-BR")
 
 #Percorre e lista arquivos na pasta geral
 #caminho é a empresa
@@ -107,7 +103,10 @@ for caminho in lista_caminho:
             text = output_string.getvalue()
             print("Extração de texto completa!")
             
+            
+
             #Análise textual
+            print("Analisando erros")
             matches = tool.check(text)
             erros_apontados = len(matches)
             #criação de arquivo txt para relatório local 
@@ -122,6 +121,7 @@ for caminho in lista_caminho:
             print("Relatório criado com sucesso")
             
             contador += 1
+        
         indice_excel += 1
         indice_planilhaA = 'A' + str(indice_excel)
         indice_planilhaB = 'B' + str(indice_excel)
@@ -129,6 +129,7 @@ for caminho in lista_caminho:
         data_local[indice_planilhaB] = erro_local
         print("Planilha local atualizada")
         print("Quantidade de erros localizadas: ", erro_local)
+       
 
         erro_geral = erro_geral + erro_local
         contador_geral += 1
@@ -161,6 +162,8 @@ data_geral['B1'] = qt_total
 excel1.save(path + "/Data_Geral.xlsx")
 
 fim = dt.datetime.now().strftime("%H:%M:%S")
+
+
 print("Consulta finalizada com sucesso")
 print("Processo começou: ", inicio)
 print("Processo finalizou: ", fim)

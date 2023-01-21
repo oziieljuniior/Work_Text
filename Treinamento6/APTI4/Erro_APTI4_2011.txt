@@ -1,0 +1,101 @@
+1Offset 19, length 2, Rule ID: HOMOPHONE_AS_CARD
+Message: Possível confusão de termos. A contração (a+as) escreve-se com acento grave.
+Suggestion: Às
+NOTAS EXPLICATIVAS ÁS DEMONSTRAÇÕES FINANCEIRAS ENCERRADAS EM...
+                   ^^2Offset 148, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tem como objetivo’ é uma expressão prolixa. É preferível dizer “visa”, “pretende” ou “procura”
+Suggestion: visa; pretende; procura
+... -   CONTEXTO OPERACIONAL   A Companhia tem como objetivo preponderante a siderurgia, além da ind...
+                                           ^^^^^^^^^^^^^^^^^3Offset 1113, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...m elaboradas e estão sendo apresentadas de acordo com as  práticas contábeis adotadas no Brasil,...
+                                           ^^^^^^^^^^^^^^^^4Offset 1699, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...m elaboradas e estão sendo apresentadas de acordo com o  International  Financial  Reporting  S...
+                                           ^^^^^^^^^^^^^^^5Offset 2177, length 25, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consideraram
+...ão  da  Companhia.  Essas  estimativas  levaram  em  consideração  experiências  de  eventos  passados e ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^6Offset 3803, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...oladores ..............        6  Lucro liquido consolidado ..............................
+                                           ^^^^^^^7Offset 4897, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+... não foram ajustados a  valor presente, uma vez que seus prazos são compatíveis com o ciclo...
+                                           ^^^^^^^^^^^8Offset 6019, length 8, Rule ID: INFORMALITIES
+Message: Possível linguagem informal. Considere as alternativas.
+Suggestion: De modo a; Interessar-se
+...g)         Imobilizado e Intangível:    A fim de se obter o valor justo (de mercado) de ...
+                                           ^^^^^^^^9Offset 6328, length 22, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: mil, em contrapartida
+...itiva)  correspondente  de  R$  47.498  mil  em  contrapartida  no  Patrimônio  Líquido,  na  rubrica ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^10Offset 7467, length 14, Rule ID: GENERAL_PRONOMIAL_COLOCATIONS
+Message: Certos pronomes relativos, conjunções subordinativas e advérbios devem ser seguidos de próclise.
+Suggestion: que se referem
+...s reclassificados do ativo imobilizado, que referem-se aos direitos de  uso de software e do a...
+                                           ^^^^^^^^^^^^^^11Offset 8767, length 10, Rule ID: QUE_VERBO_A_VERBOINFINITIVO
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: a versar
+...) processos judiciais e administrativos que versam sobre a matéria fiscal, avaliados  pelo...
+                                           ^^^^^^^^^^12Offset 8999, length 1, Rule ID: INTERROGATIVES_PUNTUATION
+Message: Se é uma interrogação, deve terminar com “?”, caso contrário, as orações deve ser separadas por vírgulas.
+Suggestion: ?
+...sível  no  montante  de  R$  59.602  mil.  Em  observância  ao  disposto  no  CPC...
+                                           ^13Offset 10220, length 10, Rule ID: QUE_VERBO_A_VERBOINFINITIVO
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: a versar
+... 36 (trinta e seis) processos judiciais que versam sobre matéria cível, avaliados pelos as...
+                                           ^^^^^^^^^^14Offset 13321, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...nanceiras consolidadas foram preparadas de acordo com os princípios de consolidação  previstos  ...
+                                           ^^^^^^^^^^^^^^^^15Offset 18210, length 5, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘cota’ e ‘quota’.
+Suggestion: Quotas
+... Incorp.  Planej. Ltda.    Número Ações/Cotas (000)   Participação na Controlada   Pa...
+                                           ^^^^^16Offset 19737, length 29, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: registradas, em contrapartida
+...R$ 32.050 em Propriedades Rurais, ambas registradas em  contrapartida no Patrimônio, rubrica Ajuste de Avalia...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^17Offset 19993, length 8, Rule ID: INFORMALITIES
+Message: Possível linguagem informal. Considere as alternativas.
+Suggestion: de modo a; interessar-se
+...plicação de testes de recuperabilidade, a fim de se identificar eventuais  desvalorizaçõ...
+                                           ^^^^^^^^18Offset 20310, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: as próprias ações cosipam
+...nstituição Financeira tem como garantia as próprias ações COSIPA, alienadas à Aliperti S/A e penhor  mer...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^19Offset 20450, length 10, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘sub judice’ é uma expressão prolixa. É preferível dizer “em apreço” ou “em julgamento”
+Suggestion: em apreço; em julgamento
+...$ 39.532 mil)   O saldo encontra-se em “sub judice“. A Companhia, através de Laudo Pericia...
+                                           ^^^^^^^^^^20Offset 20476, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...contra-se em “sub judice“. A Companhia, através de Laudo Pericial, está atualizando  seu v...
+                                           ^^^^^^^^^^21Offset 20672, length 20, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: foram reclassificados; foi reclassificado; fora reclassificado
+...A partir do exercício de 2009 os saldos foram reclassificado para o Passivo Circulante, em  observân...
+                                           ^^^^^^^^^^^^^^^^^^^^22Offset 21022, length 1, Rule ID: LOOSE_ACCENTS
+Message: Caratere incorreto. Utilize antes o apóstrofe ou reveja a acentuação.
+Suggestion: ’; 
+...ja-Flor  II,  Beija-Flor  III,  Olhos  D`Água,  Olhos  D`Água  II,  Rocinha  Dess...
+                                           ^23Offset 21038, length 1, Rule ID: LOOSE_ACCENTS
+Message: Caratere incorreto. Utilize antes o apóstrofe ou reveja a acentuação.
+Suggestion: ’; 
+...ija-Flor  III,  Olhos  D`Água,  Olhos  D`Água  II,  Rocinha  Dessio  Domingues,  ...
+                                           ^24Offset 22025, length 13, Rule ID: PARONYM_PRINCIPIO_259
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: ao princípio
+...síveis,  no  entanto,  em  atendimento  ao  Principio  Contábil  da  Prudência,  a  empresa  ...
+                                           ^^^^^^^^^^^^^25Offset 22134, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...lor em exercícios anteriores. .     (cid:1)  Saldos devedores Banco Contas Garanti...
+                                           ^^

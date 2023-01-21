@@ -1,0 +1,81 @@
+32Offset 2982, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...o de 2015, foi publicado fato relevante no qual a Inepar Telecomunicações S.A. – Em Rec...
+                                           ^^^^^^^33Offset 7666, length 54, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: participações, empreendimentos e seus principais; participações e empreendimentos, e seus principais
+...e:   (i)  a  WHPH  é  uma  empresa  de  participações  e  empreendimentos  e  seus  principais  negócios  incluem  compra e venda de p...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^34Offset 7822, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: pública
+...as e investimentos em títulos da dívida publica e operações de  day trade no mercado fi...
+                                           ^^^^^^^35Offset 8347, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+...formulação dos administradores;   (iii) dentro do prazo de 30 (trinta) dias a contar da d...
+                                           ^^^^^^^^^36Offset 8707, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...alienação de controle da Inepar Telecom de acordo com o Artigo 254-A da Lei das S.A., nos termo...
+                                           ^^^^^^^^^^^^^^^37Offset 10682, length 17, Rule ID: GENERAL_PRONOMIAL_COLOCATIONS
+Message: Certos pronomes relativos, conjunções subordinativas e advérbios devem ser seguidos de próclise.
+Suggestion: ainda se encontra
+...Recuperação Judicial. O referido pedido ainda encontra-se pendente de decisão judicial.          ...
+                                           ^^^^^^^^^^^^^^^^^38Offset 10783, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...            Em 25 de setembro de 2015, com o objetivo de proceder a reorganização societária da ...
+                                           ^^^^^^^^^^^^^^^^^39Offset 10801, length 10, Rule ID: CRASE_CONFUSION
+Message: Esta palavra rege-se com a preposição “a”.
+Suggestion: proceder à
+... de setembro de 2015, com o objetivo de proceder a reorganização societária da Companhia, ...
+                                           ^^^^^^^^^^40Offset 12397, length 1, Rule ID: LOOSE_ACCENTS
+Message: Caratere incorreto. Utilize antes o apóstrofe ou reveja a acentuação.
+Suggestion: ’; 
+...  ações  da  emissora,  acatará  as  OTA´s  (Ordens  de  Transferência de Ativos)...
+                                           ^41Offset 12545, length 1, Rule ID: LOOSE_ACCENTS
+Message: Caratere incorreto. Utilize antes o apóstrofe ou reveja a acentuação.
+Suggestion: ’; 
+...válidos até o  seu  vencimento.  As  OTA´s  emitidas  a  partir  de  14  de  outu...
+                                           ^42Offset 15029, length 18, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: distribua
+...da Companhia e eventuais dividendos que venha a distribuir.    Os  administradores  da  Companhia...
+                                           ^^^^^^^^^^^^^^^^^^43Offset 16050, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: pública
+... (a) investimentos em títulos da dívida publica e operações de  day trade no mercado fi...
+                                           ^^^^^^^44Offset 16839, length 15, Rule ID: GENERAL_PRONOMIAL_COLOCATIONS
+Message: Certos pronomes relativos, conjunções subordinativas e advérbios devem ser seguidos de próclise.
+Suggestion: quais se optou
+...e  uma  das  principais  razões  pelas  quais  optou-se  pela  mudança  de  nome  empresarial  ...
+                                           ^^^^^^^^^^^^^^^45Offset 17306, length 21, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: paralisada
+...es benefícios:   Ativar  a  Companhia  que  está  paralisada  por  quase  15  anos,  sem  ativos  e ...
+                                           ^^^^^^^^^^^^^^^^^^^^^46Offset 18403, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...nanceiras da Companhia foram elaboradas de acordo com as práticas contábeis adotadas no  Brasil,...
+                                           ^^^^^^^^^^^^^^^^47Offset 19699, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “nos”.
+Suggestion: nos
+...cendas ou com expectativa de realização dentro dos próximos 12  meses  são  classificados ...
+                                           ^^^^^^^^^^48Offset 20339, length 20, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: adquiridos
+...res são obrigações a pagar por serviços que foram adquiridos de fornecedores no  curso ordinário dos...
+                                           ^^^^^^^^^^^^^^^^^^^^49Offset 21508, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: avaliados pelo
+...dores  e  outros  passivos circulantes, que são avaliados pelo custo amortizado.  c) Valor justo: Os v...
+                                           ^^^^^^^^^^^^^^^^^^^^^^50Offset 23270, length 8, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘quatorze’ e ‘catorze’.
+Suggestion: catorze
+...enta  e  quatro  mil  e  novecentas  e  quatorze)  ações  ordinárias nominativas, sem va...
+                                           ^^^^^^^^51Offset 23332, length 13, Rule ID: PT_CLICHE_REPLACE
+Message: ‘com direito a’ é uma frase-feita. É preferível dizer “REFORMULAR”
+Suggestion: REFORMULAR
+...nárias nominativas, sem valor nominal e com direito a voto (313.484.914 em 2014).            ...
+                                           ^^^^^^^^^^^^^

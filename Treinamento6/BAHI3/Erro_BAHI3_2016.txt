@@ -1,0 +1,165 @@
+144Offset 779, length 5, Rule ID: YEAR_NUMBER_FORMAT
+Message: Nos anos os números não devem ser separados.
+Suggestion: 2016
+...retoria realizada em 17 de fevereiro de 2.016   As principais práticas contábeis apli...
+                                           ^^^^^145Offset 1979, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...DO   Os demonstrativos foram elaborados de acordo com as normas da legislação societária e  cons...
+                                           ^^^^^^^^^^^^^^^^146Offset 2223, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...ação patrimonial  ao seu valor justo, e levando em consideração o seu valor líquido de impostos a base ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^147Offset 3805, length 25, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...o  é  calculada  pelo  método  linear,  levando  em  consideração a vida útil-econômica dos bens, conform...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^148Offset 4014, length 18, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...nte o valor contábil líquido dos ativos com o objetivo  de  avaliar  eventos  ou  mudanças  nas  c...
+                                           ^^^^^^^^^^^^^^^^^^149Offset 5242, length 10, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: para
+...lucro tributável às alíquotas vigentes, sendo para o imposto  de  renda  15%,  mais  adici...
+                                           ^^^^^^^^^^150Offset 6805, length 14, Rule ID: CONTRA_CAPA
+Message: Substitua por “contrapartida”.
+Suggestion: contrapartida
+...ncerramento do  exercício de 2015, cuja contra partida é conta de Ajuste de Avaliação Patrimon...
+                                           ^^^^^^^^^^^^^^151Offset 8557, length 6, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 7.469
+...52   19.868  8.739  1.913  51  30.571   -7.469  8.529  221  0  1.281   0  2.282  28  7...
+                                           ^^^^^^152Offset 8655, length 6, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘quota’ e ‘cota’.
+Suggestion: CotaS
+...OTA 6. OUTROS INVESTIMENTOS EM AÇÕES OU QUOTAS DE CAPITAL   Demonstramos a seguir os i...
+                                           ^^^^^^153Offset 9134, length 6, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 2.058
+...   62   200    5    5.372.042   6.226   -2.058   60    -    -     Página 5 de 14   As ...
+                                           ^^^^^^154Offset 9493, length 3, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 62
+...  Total dos Investimentos   -     200   -62   5   -     -62   5.372.242   4.171   E...
+                                           ^^^155Offset 9509, length 3, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 62
+...stimentos   -     200   -62   5   -     -62   5.372.242   4.171   Em  04/11/2014,  ...
+                                           ^^^156Offset 10932, length 2, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 8
+...    10%  10%  10%  20%   Líquido   31   -8   NOTA 8. IMPOSTOS TAXAS E CONTRIBUIÇÕE...
+                                           ^^157Offset 13200, length 11, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “nos”.
+Suggestion: nos
+...suas  parcelas,  o  que  tem  ocorrido  dentro  dos  preceitos da legislação em vigor   Ent...
+                                           ^^^^^^^^^^^158Offset 13296, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...to, a  Companhia recebeu em 19/01/2015, por meio de sua Caixa Postal do portal  e-  CAC  da...
+                                           ^^^^^^^^^^^159Offset 13982, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+... a    quitação    do    parcelamento    e,  portanto,  a  inexistência  de  quaisquer  parce...
+                                           ^^^^^^^^^^^^160Offset 16147, length 6, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 6.677
+...96/2014   -   -   -   -   5.941   736   -6.677   0   (R$ MIL)   DESCRIÇÃO   31/12/15  ...
+                                           ^^^^^^161Offset 16325, length 6, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 1.320
+...cício   Saldo Final   2.983   -   274   -1.320    1.937   -   3.196    112       -325 ...
+                                           ^^^^^^162Offset 16366, length 4, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 325
+...1.320    1.937   -   3.196    112       -325   2.983   Página 8 de 14   As notas exp...
+                                           ^^^^163Offset 17250, length 6, Rule ID: IRREGULAR_PAST_PARTICIPLES
+Message: Com o verbo ‘ser’ deve utilizar-se o particípio passado irregular.
+Suggestion: fixa
+...l,  além  de  verba  honorária  a  ser  fixada  entre  10%  a  20%.  Esta  ação  foi  ...
+                                           ^^^^^^164Offset 17454, length 10, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: exposta à
+...e  seus  negócios,  a  Companhia  está  exposta  a  flutuação  cambial,  à  variação  da  ...
+                                           ^^^^^^^^^^165Offset 20864, length 4, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 675
+...  26.395    33    3.314   1.447   844   -675   31.358   NOTA 13. AJUSTE DE AVALIAÇÃO...
+                                           ^^^^166Offset 20996, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinadas à
+...r de mercado das aplicações financeiras destinadas a  venda líquida dos efeitos tributários,...
+                                           ^^^^^^^^^^^^167Offset 21369, length 4, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 320
+...ribuição Social (9%)   TOTAIS   1.280   -320   -115   845   595    -149   -53   393 ...
+                                           ^^^^168Offset 21376, length 4, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 115
+...o Social (9%)   TOTAIS   1.280   -320   -115   845   595    -149   -53   393   Págin...
+                                           ^^^^169Offset 21396, length 4, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 149
+...IS   1.280   -320   -115   845   595    -149   -53   393   Página 10 de 14   As nota...
+                                           ^^^^170Offset 21403, length 3, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 53
+...280   -320   -115   845   595    -149   -53   393   Página 10 de 14   As notas expl...
+                                           ^^^171Offset 21895, length 11, Rule ID: IRREGULAR_PAST_PARTICIPLES
+Message: A forma correta deste particípio é aceites.
+Suggestion: são aceites
+...“contribuição definida”. Desde 1997 não são aceitos novos participantes para o Plano A.  Em...
+                                           ^^^^^^^^^^^172Offset 23031, length 6, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 5.899
+...R$ MIL)   2015   2014                   -5.899                                   4.994...
+                                           ^^^^^^173Offset 23094, length 6, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 7.261
+...                  4.994                 -7.261                  4.753                 ...
+                                           ^^^^^^174Offset 23361, length 5, Rule ID: YEAR_NUMBER_FORMAT
+Message: Nos anos os números não devem ser separados.
+Suggestion: 2508
+...                                       -2.508  -243  (Despesas) / receitas reconhecid...
+                                           ^^^^^175Offset 23477, length 6, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 1.095
+...                                        -1.095                    -208   Reconheciment...
+                                           ^^^^^^176Offset 23629, length 6, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 1.205
+...                                        -1.205            -2.508  (PASSIVO) / ATIVO AT...
+                                           ^^^^^^177Offset 23838, length 4, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 905
+... 1.846                                  -905   RESULTADO  O custo do serviço corrent...
+                                           ^^^^178Offset 24056, length 4, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 432
+...   0         676                        -432                        99              ...
+                                           ^^^^179Offset 25942, length 10, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: não haver
+...to corrente da referida Lei, concluímos que não há efeitos relevantes em suas operações  e...
+                                           ^^^^^^^^^^180Offset 26780, length 4, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 229
+...atrimonial – Negativa  Outras Adições   -229   -   16  162  -  2.555   1.529   1.412...
+                                           ^^^^181Offset 28435, length 3, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 67
+...r)   BAHEMA S/A   31/12/15   31/12/14   -67   -  16  -  2.555  2.571   4.698  -  22...
+                                           ^^^182Offset 29205, length 4, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 446
+...erido   CSLL  diferida   Total   446    -446   0   162         608        -162   -60...
+                                           ^^^^183Offset 29239, length 4, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 162
+...46    -446   0   162         608        -162   -608   0   0   NOTA 17. OUTRAS DESPES...
+                                           ^^^^184Offset 29246, length 4, Rule ID: DASH_ENUMERATION_SPACE_RULE
+Message: Em diálogos, deve dar espaço depois do travessão.
+Suggestion: — 608
+...446   0   162         608        -162   -608   0   0   NOTA 17. OUTRAS DESPESAS E OU...
+                                           ^^^^

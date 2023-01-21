@@ -1,0 +1,33 @@
+57Offset 1413, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: No
+...ndo passivo inferior a R$ 500.000,00.   Dentro do contexto do Plano de Recuperação Judici...
+                                           ^^^^^^^^^58Offset 4245, length 15, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: excluída
+...te  afastada  do  antigo  controlador,  sendo  excluída  irrevogavelmente  do  polo  passivo  d...
+                                           ^^^^^^^^^^^^^^^59Offset 5646, length 23, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não assumiu nenhum; não assumiu nenhuma; não, assumiu quaisquer
+...portante  ressaltar  que  a  companhia  não  assumiu  quaisquer  passivos  referentes  ao  contrato de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^60Offset 9706, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...rmediárias financeiras foram elaboradas de acordo com os  Pronunciamentos,  Interpretações  e  O...
+                                           ^^^^^^^^^^^^^^^^61Offset 11708, length 24, Rule ID: COLOCACAO_ADVERBIOS_LUGAR
+Message: O ritmo desta frase resultaria mais natural se colocar o advérbio depois do objeto.
+Suggestion: 12 meses nos próximos
+...  liquidação  é  provável  que  ocorra  nos  próximos  12  meses.  Caso  contrário,  são  demonstrados c...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^62Offset 13170, length 31, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: receitas, despesas e custo; receitas e despesas, e custo
+...cio,  assim  como  reconhecimento  das  receitas  e  despesas  e  custo,  independentemente de seu efetivo rece...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^63Offset 15629, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: avaliados pelo
+...ecedores e outros passivos circulantes, que são avaliados pelo custo amortizado.  d) Valor  justo:  Os...
+                                           ^^^^^^^^^^^^^^^^^^^^^^64Offset 23585, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...e  R$  245  no  4º  trimestre  de 2017, em contrapartida nas contas de resultados em “Provisão p...
+                                           ^^^^^^^^^^^^^^^^

@@ -1,0 +1,37 @@
+1Offset 4109, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...rgia S.A.    Em 23 de novembro de 2020, por meio de Assembleia Geral Extraordinária, foram ...
+                                           ^^^^^^^^^^^2Offset 4938, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: sem, contudo
+...de outras  fontes de energia incluindo, sem contudo se limitar, fontes renováveis como a so...
+                                           ^^^^^^^^^^^3Offset 6970, length 16, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: permitida
+...com mandato unificado de 2 (dois) anos, sendo  permitida a reeleição.   (vi)  Autorizar  a  real...
+                                           ^^^^^^^^^^^^^^^^4Offset 8134, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...mpanhia foram preparadas e apresentadas de acordo com  as  práticas  contábeis  adotadas  no  Bra...
+                                           ^^^^^^^^^^^^^^^^^5Offset 8863, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...das e estão apresentadas em Reais (R$), que é a  moeda  funcional e de apresentação da ...
+                                           ^^^^^^^6Offset 10858, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...s devem  ser revisadas e ajustadas para levar em conta alterações nas circunstâncias, tais com...
+                                           ^^^^^^^^^^^^^^7Offset 12917, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+... 2020, a Companhia não mantém operações e ou acordos com partes  relacionadas, não h...
+                                           ^^^^8Offset 12975, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...artes  relacionadas, não havendo saldos e ou transações contábeis. Durante o período...
+                                           ^^^^9Offset 14040, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...lor apurado para as ações da AES Tietê, de acordo com o  Laudo de Avaliação das Ações da AES Ti...
+                                           ^^^^^^^^^^^^^^^

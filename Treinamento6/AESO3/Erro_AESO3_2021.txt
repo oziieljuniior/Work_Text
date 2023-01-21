@@ -1,0 +1,75 @@
+1Offset 5263, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : PIS
+... com o caixa das atividades operacionais:PIS e COFINS sobre receita financeira102   ...
+                                           ^^^^2Offset 7736, length 5, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...               (88)                  4. VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA56 ...
+                                           ^^^^^3Offset 7926, length 5, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...                116                  5. VALOR ADICIONADO TOTAL A DISTRIBUIR(35)      ...
+                                           ^^^^^4Offset 11182, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: Para; Visando
+...significativos esforços em seu combate. Com o objetivo de avaliar,  monitorar e aplicar todas as ...
+                                           ^^^^^^^^^^^^^^^^^5Offset 13804, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Como forma de’ é uma expressão prolixa. É preferível dizer “para”
+Suggestion: Para
+...se  no  pressuposto  de  continuidade.  Como forma de mitigar seu risco de liquidez, a Compan...
+                                           ^^^^^^^^^^^^^6Offset 14452, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+... estão  apresentadas  em  Reais  (R$),  que  é  a  moeda  funcional  da  Companhia.  A  m...
+                                           ^^^^^^^^^7Offset 17699, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...rovisões são revisadas e ajustadas para levar em conta alterações nas  circunstâncias, tais co...
+                                           ^^^^^^^^^^^^^^8Offset 18337, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...ibuição social correntes são calculadas de acordo com a legislação  tributária vigente. O impos...
+                                           ^^^^^^^^^^^^^^^9Offset 19542, length 37, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: realizadas, os créditos e prejuízos; realizadas e os créditos, e prejuízos
+...ue as diferenças temporárias possam ser realizadas  e os créditos e prejuízos tributários possam ser utilizados.   A ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^10Offset 20229, length 11, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: não haver
+...2)/IFRS 16 e CPC 47/IFRS 15, e concluiu que não  há impactos em suas demonstrações contábei...
+                                           ^^^^^^^^^^^11Offset 24014, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Na
+...La) Composição dos tributos no resultado:Na rubrica de tributos sobre o lucro:Corre...
+                                           ^^^12Offset 24051, length 10, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Correntes
+...ado:Na rubrica de tributos sobre o lucro:Correntes-                -                (1)   ...
+                                           ^^^^^^^^^^13Offset 24327, length 10, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Resultado
+...tração do cálculo dos tributos - despesa:Resultado antes dos tributos               (41)  ...
+                                           ^^^^^^^^^^14Offset 26315, length 15, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘todos os demais’ é um pleonasmo. É preferível dizer “os demais”
+Suggestion: os demais
+...ral, este entendimento será aplicado  a todos os demais processos que discutem a mesma matéria....
+                                           ^^^^^^^^^^^^^^^15Offset 26441, length 33, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: seus assessores jurídicos entendem
+... a  Companhia, com base  na  opinião de seus assessores jurídicos entende que  este processo será  concluído até ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^16Offset 32472, length 3, Rule ID: FORMAL_PRA_PARA
+Message: Será que quis dizer “para”?
+Suggestion: para
+... justo por meio do resultadoDisponíveis pra vendaTotal1.898        1.898        1.9...
+                                           ^^^17Offset 37256, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Como forma de’ é uma expressão prolixa. É preferível dizer “para”
+Suggestion: Para
+... de caixa por não apresentar operações. Como forma de mitigar seu risco de  liquidez,  a  Com...
+                                           ^^^^^^^^^^^^^18Offset 37421, length 10, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de forma a’ é uma expressão prolixa. É preferível dizer “para”
+Suggestion: para
+... determinação de saldo mínimo de caixa, de forma a assegurar a disponibilidade de recursos...
+                                           ^^^^^^^^^^19Offset 39386, length 6, Rule ID: IRREGULAR_PAST_PARTICIPLES
+Message: Com o verbo ‘ser’ deve utilizar-se o particípio passado irregular.
+Suggestion: fixa
+...de para o próximo exercício social será fixada oportunamente, observado o  disposto no...
+                                           ^^^^^^

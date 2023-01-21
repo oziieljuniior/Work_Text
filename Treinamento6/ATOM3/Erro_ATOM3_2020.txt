@@ -1,0 +1,37 @@
+65Offset 1125, length 38, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: liquidação, custódia e tratamento; liquidação e custódia, e tratamento
+...informações  cadastrais,  serviços  de  liquidação  e  custódia  e  tratamento  de  dados,  provedores  de  serviços  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^66Offset 1805, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...rmediárias financeiras foram elaboradas de acordo com os  Pronunciamentos,  Interpretações  e  O...
+                                           ^^^^^^^^^^^^^^^^67Offset 4236, length 24, Rule ID: COLOCACAO_ADVERBIOS_LUGAR
+Message: O ritmo desta frase resultaria mais natural se colocar o advérbio depois do objeto.
+Suggestion: 12 meses nos próximos
+...  liquidação  é  provável  que  ocorra  nos  próximos  12  meses.  Caso  contrário,  são  demonstrados c...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^68Offset 6331, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...m submetidos as depreciações calculadas de acordo  com as vidas úteis estimadas dos respectivos b...
+                                           ^^^^^^^^^^^^^^^^^69Offset 7804, length 31, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: receitas, despesas e custo; receitas e despesas, e custo
+...cio,  assim  como  reconhecimento  das  receitas  e  despesas  e  custo,  independentemente de seu efetivo rece...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^70Offset 8289, length 7, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: igual à
+... D0 (no dia), que possuem rentabilidade igual a taxa SELIC.  Valores de renda variável ...
+                                           ^^^^^^^71Offset 10178, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: avaliados pelo
+...ecedores e outros passivos circulantes, que são avaliados pelo custo amortizado.  d) Valor  justo:  Os...
+                                           ^^^^^^^^^^^^^^^^^^^^^^72Offset 16315, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...ereiro  de  2019  e  após  esta  data,  através  de  fluxo  financeiro  nas  próprias  comp...
+                                           ^^^^^^^^^^^73Offset 25103, length 8, Rule ID: O_FACTO_DA_ACÇÂO
+Message: Nesta expressão não deve utilizar a contração.
+Suggestion: antes de o
+...         2.200                (=) Lucro antes do IR e CS2.061             52       2.113...
+                                           ^^^^^^^^

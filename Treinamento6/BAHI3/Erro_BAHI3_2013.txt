@@ -1,0 +1,125 @@
+45Offset 2765, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: Conforme; Segundo; Consoante
+...ssaltamos:   a) APURAÇÃO DO RESULTADO   Em conformidade com a Lei n° 11.638/07, buscamos elaborar o...
+                                           ^^^^^^^^^^^^^^^^^^^46Offset 2841, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...07, buscamos elaborar os demonstrativos de acordo com as  normas de consolidação da legislação s...
+                                           ^^^^^^^^^^^^^^^^47Offset 3112, length 25, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...patrimonial  ao  seu  valor  justo,  e  levando  em  consideração  o  seu  valor  líquido  de  impostos  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^48Offset 4811, length 25, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...o  é  calculada  pelo  método  linear,  levando  em  consideração  a   vida útil-econômica dos bens, conf...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^49Offset 5079, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...nte o valor contábil líquido dos ativos com o objetivo de avaliar  eventos ou mudanças nas circun...
+                                           ^^^^^^^^^^^^^^^^^50Offset 6214, length 10, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: para
+...lucro tributável às alíquotas vigentes, sendo para o imposto de renda  15%,  mais  adicion...
+                                           ^^^^^^^^^^51Offset 7579, length 14, Rule ID: CONTRA_CAPA
+Message: Substitua por “contrapartida”.
+Suggestion: contrapartida
+...atas de encerramento do exercício, cuja contra partida é conta de  Ajuste de Avaliação Patrimo...
+                                           ^^^^^^^^^^^^^^52Offset 9836, length 6, Rule ID: SUBSTANTIVOS_USADOS_COMO_ADJETIVOS_INVARIAVEIS_V2
+Message: Os substantivos usados como adjetivos mantêm-se invariáveis.
+Suggestion: Renda
+...cipações S/A – Fundos de  Investimentos Rendas Variáveis   Quantidades  Cotas   Valore...
+                                           ^^^^^^53Offset 12654, length 6, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘quota’ e ‘cota’.
+Suggestion: CotaS
+...OTA 7. OUTROS INVESTIMENTOS EM AÇÕES OU QUOTAS DE CAPITAL   Demonstramos a seguir os i...
+                                           ^^^^^^54Offset 16807, length 5, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: mútuo
+...da de um mútuo. O prazo de pagamento do mutuo é por  tempo  indeterminado  e  incidiu...
+                                           ^^^^^55Offset 17011, length 5, Rule ID: YEAR_NUMBER_FORMAT
+Message: Nos anos os números não devem ser separados.
+Suggestion: 2012
+...ho de 2012. A partir de 01 de agosto de 2.012,  de acordo com a Ata de Reunião de Dir...
+                                           ^^^^^56Offset 17019, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...12. A partir de 01 de agosto de 2.012,  de acordo com a Ata de Reunião de Diretoria da mesma da...
+                                           ^^^^^^^^^^^^^^^57Offset 17188, length 10, Rule ID: PARONYM_DIVIDA_612
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: sua dívida
+...ros  e juros. A controladora  amortizou sua divida em R$ 15.300  Mil em novembro de 2012 c...
+                                           ^^^^^^^^^^58Offset 18762, length 10, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (Processo
+...her  FGTS a recolher  Cofins a Recolher ( Processo )  IOF a recolher  Tributos na fonte a ...
+                                           ^^^^^^^^^^59Offset 20251, length 11, Rule ID: PARONYM_DIVIDA_612
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de dívidas
+...fez  a  consolidação  de  parcelamento  de  dividas  em  29/06/2011,  para  pagamento  em18...
+                                           ^^^^^^^^^^^60Offset 20508, length 11, Rule ID: PARONYM_DIVIDA_612
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de dívidas
+...fez  a  consolidação  de  parcelamento  de  dividas  em  28/07/2011, para pagamento em 180 ...
+                                           ^^^^^^^^^^^61Offset 20734, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...abilização das dívidas  foram efetuadas de acordo com as condições legais estabelecidas nos prog...
+                                           ^^^^^^^^^^^^^^^^62Offset 21644, length 10, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: expostas à
+...s, a Companhia e suas controladas estão expostas a flutuação cambial ,  à variação da cota...
+                                           ^^^^^^^^^^63Offset 22314, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: negociados na
+...a estrangeira – Tavex Algodonera  S/A – que são negociados na Bolsa de Valores de Madrid e denominado...
+                                           ^^^^^^^^^^^^^^^^^^^^^64Offset 23893, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...o  lucro líquido do exercício, ajustado de acordo com o artigo 202, da Lei nº 6.404/76.   De ac...
+                                           ^^^^^^^^^^^^^^^65Offset 26076, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinadas à
+...r de mercado das aplicações financeiras destinadas a venda líquida  dos efeitos tributários,...
+                                           ^^^^^^^^^^^^66Offset 27211, length 11, Rule ID: IRREGULAR_PAST_PARTICIPLES
+Message: A forma correta deste particípio é aceites.
+Suggestion: são aceites
+...“contribuição definida”. Desde 1997 não são aceitos novos participantes para o  Plano A.  E...
+                                           ^^^^^^^^^^^67Offset 30072, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do cálculo
+...e dezembro de 2012:   A)  Demonstrativo do calculo do IRPJ acumulados em 31/12/2012:      ...
+                                           ^^^^^^^^^^68Offset 30984, length 11, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (Recuperar
+...sal paga até o mês  (=) IRPJ a Recolher ( Recuperar )   66    22   17   0   259   299    0 ...
+                                           ^^^^^^^^^^^69Offset 31526, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do cálculo
+...                     B)  Demonstrativo do calculo da CSLL acumulados em 31/12/2012:      ...
+                                           ^^^^^^^^^^70Offset 32367, length 11, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (Recuperar
+...mensal pago até o mês  (=) CSLL a Pagar ( Recuperar )   66    22   0   259   281    0   0  ...
+                                           ^^^^^^^^^^^71Offset 34139, length 5, Rule ID: YEAR_NUMBER_FORMAT
+Message: Nos anos os números não devem ser separados.
+Suggestion: 2013
+... Em reunião realizada em 21 de março de 2.013, o Conselho de Administração por unanim...
+                                           ^^^^^72Offset 34327, length 11, Rule ID: À_VERBO_DE
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a contar
+... em 31/12/12, no valor de R$ 2.048 mil, à  conta de Reserva Estatutária para Investimentos....
+                                           ^^^^^^^^^^^73Offset 34474, length 12, Rule ID: À_VERBO_DE
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a contar
+...  montante  total  de  R$  5.996  mil,  à  conta  de  Reserva  Estatutária para Investimento...
+                                           ^^^^^^^^^^^^74Offset 34609, length 5, Rule ID: YEAR_NUMBER_FORMAT
+Message: Nos anos os números não devem ser separados.
+Suggestion: 2013
+...na posição acionária de 28 de  março de 2.013, à razão de R$ 1,00 por ação, com pagam...
+                                           ^^^^^75Offset 34693, length 5, Rule ID: YEAR_NUMBER_FORMAT
+Message: Nos anos os números não devem ser separados.
+Suggestion: 2013
+...mento a ser realizado em 12 de abril de 2.013.   __________________________  Edson Ca...
+                                           ^^^^^

@@ -1,0 +1,144 @@
+1Offset 2489, length 8, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...rBrew International B.V. (“IIBV”) e a   Anheuser-Busch InBev (“ABI”), respectivamente.  ...
+                                           ^^^^^^^^2Offset 2660, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...e emitidas em 28 de fevereiro  de 2013  devido a alteração efetuada nas notas explicativ...
+                                           ^^^^^^^^3Offset 3970, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...des Anônimas ("Incorporação de Ações"); na qual todas as ações emitidas e em circulação...
+                                           ^^^^^^^4Offset 7138, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: importantes para
+...críticas, as  estimativas e julgamentos que são importantes para o entendimento dos seus resultados: est...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^5Offset 7238, length 38, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: diferidos, classificação e mensuração; diferidos e classificação, e mensuração
+... estimativa de  realização dos impostos diferidos e classificação e mensuração dos instrumentos financeiros. Vide  Not...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^6Offset 7467, length 8, Rule ID: INFORMALITIES
+Message: Possível linguagem informal. Considere as alternativas.
+Suggestion: de modo a; interessar-se
+...pre que um fato gerador tenha ocorrido, a fim de determinar se o valor contábil excede o...
+                                           ^^^^^^^^7Offset 8167, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...conhecidas na data de negociação - data na qual a  Companhia se compromete a comprar ou...
+                                           ^^^^^^^8Offset 8349, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: designados
+...oníveis para venda são não derivativos, que são designados nessa categoria ou  que não são classif...
+                                           ^^^^^^^^^^^^^^^^^^9Offset 10037, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘a não ser que’ é uma expressão prolixa. É preferível dizer “exceto se”
+Suggestion: exceto se
+...iados inicialmente por seu valor justo, a não ser que este não  possa ser avaliado com segura...
+                                           ^^^^^^^^^^^^^10Offset 10095, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: sendo, portanto
+... não  possa ser avaliado com segurança, sendo portanto mantido o custo de aquisição. As variaç...
+                                           ^^^^^^^^^^^^^^11Offset 10154, length 12, Rule ID: OLD_SPELLING_U
+Message: O trema deixou de ser utilizado em Português com o Acordo de 1945.
+Suggestion: subsequentes
+...ido o custo de aquisição. As variações  subseqüentes em seu valor justo são reconhecidas dir...
+                                           ^^^^^^^^^^^^12Offset 10334, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecidas no
+...perda para redução ao valor recuperável que são  reconhecidas no resultado do exercício.   Quando da ven...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^13Offset 12651, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...u valor justo. O valor justo é  o valor no qual um ativo pode ser realizado e um passiv...
+                                           ^^^^^^^14Offset 13552, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘a não ser que’ é uma expressão prolixa. É preferível dizer “exceto se”
+Suggestion: exceto se
+...ando o método de taxa de juros efetiva, a não ser que o recebimento seja  duvidoso. Despesas ...
+                                           ^^^^^^^^^^^^^15Offset 13930, length 14, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: equivalentes à
+...idendos são declarados.   (f)   Caixa e equivalentes a caixa   O caixa e os equivalentes a cai...
+                                           ^^^^^^^^^^^^^^16Offset 13966, length 14, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: equivalentes à
+...a e equivalentes a caixa   O caixa e os equivalentes a caixa compreendem os saldos de caixa, o...
+                                           ^^^^^^^^^^^^^^17Offset 15484, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘a não ser que’ é uma expressão prolixa. É preferível dizer “exceto se”
+Suggestion: exceto se
+...reconhecidos no resultado do exercício, a não ser que estejam  relacionados a itens reconheci...
+                                           ^^^^^^^^^^^^^18Offset 16323, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: Conforme o; Segundo o; Consoante o
+... relacionado a exercícios anteriores.   De acordo com o CPC 32 - "Imposto de Renda", o imposto ...
+                                           ^^^^^^^^^^^^^^^19Offset 18897, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...a funcional e de apresentação é o real, de acordo  com as normas descritas no CPC 2 - "Efeitos na...
+                                           ^^^^^^^^^^^^^^^^^20Offset 21169, length 37, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou permitido por outras normas CPC, ou
+...plicá-lo quando seu uso já é  requerido ou permitido por outras normas CPC ou US GAAP. A norma é aplicável a partir d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^21Offset 21864, length 1, Rule ID: INTERJECTIONS_PUNTUATION
+Message: Se é uma exclamação, deve terminar com “!”, caso contrário, as orações deve ser separadas por vírgulas.
+Suggestion: !
+...s que permanecerão no patrimônio líquido. A alteração da  norma é aplicável a par...
+                                           ^22Offset 22128, length 14, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: equivalentes à
+...tivo  sobre a Companhia.    4   Caixa e equivalentes a caixa   (i)  O saldo refere-se, em sua ...
+                                           ^^^^^^^^^^^^^^23Offset 22323, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e estão
+...íveis em um montante conhecido de caixa e que estão sujeitos a um  insignificante risco de ...
+                                           ^^^^^^^^^^^24Offset 24068, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...para venda e avaliado pelo valor  justo de acordo com o CPC 38.    O valor justo apurado foi ba...
+                                           ^^^^^^^^^^^^^^^25Offset 25218, length 16, Rule ID: TODOS_FOLLOWED_BY_NOUN_PLURAL
+Message: Se ‘ordinárias’ é um substantivo, ‘todas’ no plural exige um segundo artigo.
+Suggestion: todas as ordinárias
+...tado por 249.061.302 ações nominativas, todas ordinárias e sem valor nominal.   Conforme determi...
+                                           ^^^^^^^^^^^^^^^^26Offset 27038, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: dedutíveis para
+...na Taxa de Juros de Longo Prazo (TJLP), que são dedutíveis para  fins de imposto de renda e, quando dis...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^27Offset 30925, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...ros inerentes aos mercados de  capitais no qual a InBev executa suas operações. A polít...
+                                           ^^^^^^^28Offset 31771, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...o, câmbio e juros) devem ser protegidos por meio de contratação de instrumentos derivativos...
+                                           ^^^^^^^^^^^29Offset 33926, length 8, Rule ID: INFORMALITIES
+Message: Possível linguagem informal. Considere as alternativas.
+Suggestion: De modo a; Interessar-se
+...e negócios.    (c)   Risco de crédito   A fim de minimizar o risco de crédito de seus in...
+                                           ^^^^^^^^30Offset 35334, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+... 10% em seu  preço de mercado, seria de aproximadamente R$ 127.466 em 31 de dezembro de 2012.  ...
+                                           ^^^^^^^^^^^^^^^31Offset 35552, length 9, Rule ID: REDUNDANCY_JUNTO_COM
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+... caixa e  investimentos de curto prazo, junto com os instrumentos derivativos e acesso a ...
+                                           ^^^^^^^^^32Offset 36324, length 18, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...contratação de instrumentos financeiros com o  objetivo de proteção é feita pela análise periódica...
+                                           ^^^^^^^^^^^^^^^^^^33Offset 36947, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; categoria de
+...cação de instrumentos financeiros   por tipo de mensuração do valor justo   De acordo c...
+                                           ^^^^^^^34Offset 36983, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: Conforme o; Segundo o; Consoante o
+...por tipo de mensuração do valor justo   De acordo com o CPC 40 - "Instrumentos Financeiros: Evi...
+                                           ^^^^^^^^^^^^^^^35Offset 38948, length 18, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...do à Companhia em 10 de julho de 2013 e com  o objetivo de ilustrar os efeitos na posição patrimon...
+                                           ^^^^^^^^^^^^^^^^^^36Offset 39847, length 15, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Entretanto, esta
+...ia entre entidades sob  controle comum. Entretanto esta contribuição foi registrada em uma base...
+                                           ^^^^^^^^^^^^^^^

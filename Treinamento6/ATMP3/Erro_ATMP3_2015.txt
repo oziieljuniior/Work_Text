@@ -1,0 +1,604 @@
+2551Offset 2293, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...tua em toda a cadeia de  relacionamento por meio de soluções remotas e presenciais.   A  Co...
+                                           ^^^^^^^^^^^2552Offset 2990, length 11, Rule ID: PT_CLICHE_REPLACE
+Message: ‘por sua vez’ é uma frase-feita. É preferível dizer “,” ou “no que lhe concerne”
+Suggestion: ,; no que lhe concerne
+...ua nas seguintes linhas de serviços que por sua vez estão divididas em três  segmentos oper...
+                                           ^^^^^^^^^^^2553Offset 3081, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...acionais:   Contact Center & BPO:   (cid:1)  Relacionamento com clientes  (cid:1) ...
+                                           ^^2554Offset 3119, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...id:1)  Relacionamento com clientes  (cid:1)  Relacionamento por meio de mídias soc...
+                                           ^^2555Offset 3139, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...o com clientes  (cid:1)  Relacionamento por meio de mídias sociais  (cid:1)  Cobrança  (cid...
+                                           ^^^^^^^^^^^2556Offset 3171, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...namento por meio de mídias sociais  (cid:1)  Cobrança  (cid:1)  Lyfe cycle managem...
+                                           ^^2557Offset 3190, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+... mídias sociais  (cid:1)  Cobrança  (cid:1)  Lyfe cycle management   Tecnologia & ...
+                                           ^^2558Offset 3206, length 10, Rule ID: PT_SIMPLE_REPLACE
+Message: ‘management’ é um estrangeirismo. Em Português é mais comum usar: gestão.
+Suggestion: gestão
+... (cid:1)  Cobrança  (cid:1)  Lyfe cycle management   Tecnologia & Informação:   (cid:1)  F...
+                                           ^^^^^^^^^^2559Offset 3250, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...gement   Tecnologia & Informação:   (cid:1)  Fábrica de software  (cid:1)  Gestão ...
+                                           ^^2560Offset 3280, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...ão:   (cid:1)  Fábrica de software  (cid:1)  Gestão de ambiente de tecnologia da i...
+                                           ^^2561Offset 3359, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...a informação e comunicação (“TIC”)  (cid:1)  Parcerias em revendas de soluções / i...
+                                           ^^2562Offset 3416, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+... revendas de soluções / integrador  (cid:1)  Integrador  e  revendedor  de  soluçõ...
+                                           ^^2563Offset 3552, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...ientes (“CRM”)   Trade Marketing:   (cid:1)  Presencial  (cid:1)  Treinamento  (ci...
+                                           ^^2564Offset 3573, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...e Marketing:   (cid:1)  Presencial  (cid:1)  Treinamento  (cid:1)  Marketing promo...
+                                           ^^2565Offset 3595, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...  Presencial  (cid:1)  Treinamento  (cid:1)  Marketing promocional e de incentivo ...
+                                           ^^2566Offset 3642, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...rketing promocional e de incentivo  (cid:1)  Vendas   Atualmente  a  Companhia  op...
+                                           ^^2567Offset 4889, length 8, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...on Argentina S.A.  Stratton Chaco S.A.  Stratton Nea S.A.  Contact center  Brasil  Conta...
+                                           ^^^^^^^^2568Offset 9692, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...tender as demandas de contact center da Oi S.A. e  suas  controladas  e  coligadas...
+                                           ^^2569Offset 9773, length 5, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: norte
+...s  (anteriormente  denominada  Telemar  Norte  Leste  S.A.),  concessionária  de  ser...
+                                           ^^^^^2570Offset 11761, length 32, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: Colômbia, Peru e atividades; Colômbia e Peru, e atividades
+...atina,  com  operações  na  Argentina,  Colômbia  e  Peru  e  atividades  comerciais  offshore  nos  Estados  Un...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^2571Offset 14283, length 24, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não acarretou nenhum; não acarretou nenhuma; não, acarretou qualquer
+...re  as  subsidiárias.  A  incorporação  não  acarretou  qualquer  variação  patrimonial  na  Companhia. ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^2572Offset 14868, length 17, Rule ID: ESTAR_DE_ACORDO
+Message: Substitua por
+Suggestion: concordam; correspondem; validam; confirmam
+...monstrações  financeiras  consolidadas  estão  de  acordo  com  as  práticas  contábeis  adotadas...
+                                           ^^^^^^^^^^^^^^^^^2573Offset 15015, length 39, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: ), os pronunciamentos e interpretações; ) e os pronunciamentos, e interpretações
+...missão  de  Valores  Mobiliários  (“CVM”) e os pronunciamentos e interpretações do Comitê de Pronunciamentos Contábeis ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^2574Offset 15959, length 12, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘enquanto que’ é um pleonasmo. É preferível dizer “enquanto”
+Suggestion: enquanto
+...  método  de  equivalência patrimonial, enquanto que para fins de IFRS seria custo ou valor ...
+                                           ^^^^^^^^^^^^2575Offset 16159, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...ASB em 2014, as demonstrações separadas de acordo com as IFRS’s, passaram a permitir o  uso  do ...
+                                           ^^^^^^^^^^^^^^^^2576Offset 17052, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...iduais da controladora passaram a estar em conformidade com as IFRS’s a partir desse  exercício.   ...
+                                           ^^^^^^^^^^^^^^^^^^^2577Offset 18137, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...ão dos seguintes itens materiais:   (cid:1)  Instrumentos financeiros derivativos ...
+                                           ^^2578Offset 18232, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...ivos mensurados pelo valor justo;   (cid:1)  Contraprestação contingente oriunda d...
+                                           ^^2579Offset 18322, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...ção de participação societária; e   (cid:1)  Obrigação decorrente de pagamento bas...
+                                           ^^2580Offset 20051, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...o quando indicado de outra forma)   (cid:1)  Ativos e passivos não monetários são ...
+                                           ^^2581Offset 20145, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...pela taxa histórica da transação;   (cid:1)  Ativos  e  passivos  monetários  são ...
+                                           ^^2582Offset 20258, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...âmbio  do  final  do   exercício;   (cid:1)  Contas de resultado são convertidas p...
+                                           ^^2583Offset 20383, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...  mensal das taxas de cada mês; e   (cid:1)  Os  efeitos  acumulados  de  ganho  o...
+                                           ^^2584Offset 22493, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for menor que”.
+Suggestion: for menor que
+...umidos, líquidos). Se a contraprestação for menor do que o                         CONTAX PARTI...
+                                           ^^^^^^^^^^^^^^^^2585Offset 23644, length 12, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘a forma como’ é uma expressão prolixa. É preferível dizer “como”
+Suggestion: como
+...s.  Os  segmentos operacionais refletem a forma como a Administração da Companhia revisa  as...
+                                           ^^^^^^^^^^^^2586Offset 24479, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e estão
+...is  em  um  montante conhecido de caixa e que estão sujeitos a um risco insignificante de m...
+                                           ^^^^^^^^^^^2587Offset 25148, length 20, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: classificados
+...e  foram  adquiridos  ou  contratados,  sendo  classificados  nas  seguintes  categorias:  aplicaçõe...
+                                           ^^^^^^^^^^^^^^^^^^^^2588Offset 27550, length 10, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de forma a’ é uma expressão prolixa. É preferível dizer “para”
+Suggestion: para
+...tuar depósitos recursais e/ou judiciais de forma a dar continuidade  a sua estratégia de d...
+                                           ^^^^^^^^^^2589Offset 27585, length 20, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘estratégia de defesa’ é uma expressão prolixa. É preferível dizer “estratégia defensiva”
+Suggestion: estratégia defensiva
+...iais de forma a dar continuidade  a sua estratégia de defesa. Tais valores são corrigidos monetariam...
+                                           ^^^^^^^^^^^^^^^^^^^^2590Offset 30781, length 5, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+... da venda com o valor contábil residual e são reconhecidos na  demonstração do result...
+                                           ^^^^^2591Offset 30970, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e geram
+...veis,  sob  o  controle  da   Companhia e que geram benefícios econômicos futuros.   Os  at...
+                                           ^^^^^^^^^^^2592Offset 33026, length 20, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: calculados
+...ão  social  sobre  o  lucro  (“CSLL”),  que  são  calculados  mensalmente com base  no lucro tributá...
+                                           ^^^^^^^^^^^^^^^^^^^^2593Offset 36710, length 71, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...s,  conclusões  de  inspeções  fiscais  ou  exposições  adicionais  identificadas com base em novos assuntos ou decisões de tribunais.   4.16  Arrendam...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^2594Offset 37538, length 29, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: imobilizado, em contrapartida
+...til  financeiro  são  reconhecidos  no  imobilizado  em contrapartida ao passivo pelo menor montante entre o ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^2595Offset 37999, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+... passivo  são  apropriados ao resultado de acordo com a duração do contrato.  Os  contratos  de...
+                                           ^^^^^^^^^^^^^^^2596Offset 38541, length 22, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: plano, em contrapartida
+... o  período  de  serviço  exigido  pelo plano em contrapartida ao patrimônio líquido.   A despesa acum...
+                                           ^^^^^^^^^^^^^^^^^^^^^^2597Offset 40569, length 21, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: emitidas
+...édia  ponderada  de  ações  ordinárias  que  seriam  emitidas  na  conversão  de  todas  as  ações  o...
+                                           ^^^^^^^^^^^^^^^^^^^^^2598Offset 40749, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...do: o resultado das operações é apurado em conformidade com o   regime contábil de competência do e...
+                                           ^^^^^^^^^^^^^^^^^^^2599Offset 41333, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...serviços são faturados e/ ou estimados  de acordo com a sua natureza, a saber:   (cid:1)  Servi...
+                                           ^^^^^^^^^^^^^^^2600Offset 41378, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...ordo com a sua natureza, a saber:   (cid:1)  Serviços de telemarketing e atendimen...
+                                           ^^2601Offset 41595, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...PAs”) disponibilizada ao cliente.   (cid:1)  Serviços  de  recuperação  de  crédit...
+                                           ^^2602Offset 41904, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...perado  a  receita é reconhecida.   (cid:1)  Serviço  de  desenvolvimento  de  sof...
+                                           ^^2603Offset 43001, length 58, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou projeto visando à produção de produtos novos, ou
+...  desenvolvimento  envolvem  um  plano  ou  projeto  visando  à  produção  de  produtos  novos  ou  substancialmente  aprimorados.  Os  ga...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^2604Offset 43994, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...s despesas operacionais são registrados de acordo com  o  regime  de  competência  estão  repres...
+                                           ^^^^^^^^^^^^^^^^2605Offset 45823, length 8, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+... julgamentos  nos  seguintes  assuntos  que  têm  efeito  significativo  sobre  os  valo...
+                                           ^^^^^^^^2606Offset 45926, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...os nas demonstrações financeiras:   (cid:1)  valor justo de instrumentos financeir...
+                                           ^^2607Offset 45990, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...rumentos financeiros, vide nota 6;  (cid:1)  contas a receber de clientes e receit...
+                                           ^^2608Offset 46085, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...o de serviços, vide notas 10 e 26;  (cid:1)  perdas estimadas em créditos de liqui...
+                                           ^^2609Offset 46162, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...liquidação duvidosa, vide nota 10;  (cid:1)  perda por redução ao valor recuperáve...
+                                           ^^2610Offset 46238, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...perável de impostos, vide nota 13;  (cid:1)  vida útil dos bens do ativo imobiliza...
+                                           ^^2611Offset 46349, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...l definida, vide   notas 16 e 17;   (cid:1)  provisão para riscos tributários trab...
+                                           ^^2612Offset 46429, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...abalhistas e cíveis, vide nota 24;  (cid:1)  transações com pagamento baseado em a...
+                                           ^^2613Offset 46496, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...to baseado em ações, vide nota 32;  (cid:1)  perdas por redução a valor recuperáve...
+                                           ^^2614Offset 47181, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+..., apresentados para fins de comparação, com o objetivo de melhor  refletir  o  entendimento  da  ...
+                                           ^^^^^^^^^^^^^^^^^2615Offset 47560, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “na”.
+Suggestion: na
+...udiciais  anteriormente  classificados  dentro  da  rubrica  de  despesas  antecipadas,  n...
+                                           ^^^^^^^^^^2616Offset 51807, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...ado os quais são gerenciados ativamente em conformidade com a Política de Gestão  de Risco Financei...
+                                           ^^^^^^^^^^^^^^^^^^^2617Offset 52912, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...Companhia para cada risco identificado, de acordo com as  diretrizes emanadas do Conselho de Adm...
+                                           ^^^^^^^^^^^^^^^^2618Offset 53127, length 17, Rule ID: GENERAL_PRONOMIAL_COLOCATIONS
+Message: Certos pronomes relativos, conjunções subordinativas e advérbios devem ser seguidos de próclise.
+Suggestion: Ainda se destaca
+...inanceiros incorridos pela Companhia.   Ainda  destaca-se  da  Política  de  Riscos  a  vedação  ...
+                                           ^^^^^^^^^^^^^^^^^2619Offset 54741, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...ia utiliza as seguintes métricas:   (cid:1)  Cash  Flow  at  Risk  (“CFaR”),  o  q...
+                                           ^^2620Offset 56929, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+... dá  conforme apresentado abaixo:   (cid:1)  O  risco  de  crédito  relacionado  à...
+                                           ^^2621Offset 57256, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...nto  dos  acordos  pelas  contrapartes  e,  portanto,  não  vem  exigindo garantias colatera...
+                                           ^^^^^^^^^^^^2622Offset 57901, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...o quando indicado de outra forma)   (cid:1)  O  risco  de  crédito  de  depósitos ...
+                                           ^^2623Offset 58923, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sofrer
+...uele  pelo  qual  a  Companhia  poderá  vir  a  sofrer  perdas  econômicas decorrentes de alte...
+                                           ^^^^^^^^^^^^^^2624Offset 59349, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...ecessidade  de contratação de operações com o objetivo de proteção contra a volatilidade dessas t...
+                                           ^^^^^^^^^^^^^^^^^2625Offset 60029, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: e, por outro lado
+...o do endividamento pós-fixado se  eleva e por outro lado, o custo do endividamento pré-fixado se...
+                                           ^^^^^^^^^^^^^^^^2626Offset 62617, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tem como objetivo’ é uma expressão prolixa. É preferível dizer “visa”, “pretende” ou “procura”
+Suggestion: visa; pretende; procura
+...o das obrigações.   A Política de Risco tem como objetivo proteger o resultado da Companhia desta...
+                                           ^^^^^^^^^^^^^^^^^2627Offset 65655, length 6, Rule ID: ERRO_DE_CONCORDNCIA_DO_GÉNERO_MASCULINO_O
+Message: Possível erro de concordância de género.
+Suggestion: a taxa
+...e dezembro de 2014, o qual indicava com o taxa  provável a paridade do US$ para o R$ e...
+                                           ^^^^^^2628Offset 72551, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...e envolve os seguintes aspectos:    (cid:1)  O valor justo é  a quantia pela qual ...
+                                           ^^2629Offset 72745, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+... transação  sem  favorecimento; e   (cid:1)  Hierarquização  em  três  níveis  par...
+                                           ^^2630Offset 73356, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...lor  justo  apresentada a seguir:   (cid:1)  Nível  1  —  Preços  cotados  (não  a...
+                                           ^^2631Offset 73468, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+... idênticos  em   mercados ativos;   (cid:1)  Nível 2 — Preços cotados em mercados ...
+                                           ^^2632Offset 73706, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...s quais inputs são observáveis; e   (cid:1)  Nível 3 — Instrumentos cujos inputs s...
+                                           ^^2633Offset 73893, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...entos  financeiros  ativos  e  passivos em conformidade com a hierarquia de valorização:           ...
+                                           ^^^^^^^^^^^^^^^^^^^2634Offset 77602, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; categoria de
+...servam  primariamente  a  divisão  por  tipo de serviço e suas características (nota ex...
+                                           ^^^^^^^2635Offset 80525, length 41, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: descontado, os resultados e premissas; descontado e os resultados, e premissas
+...da  pelo  método  do  fluxo  de  caixa  descontado  e  os  resultados e premissas destes testes estão apresentados na not...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^2636Offset 87314, length 2, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...ndo indicado de outra forma)   Cliente  Oi  Vivo  Santander  8.  CAIXA E EQUIVALEN...
+                                           ^^2637Offset 90824, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+... principalmente pelas empresas do grupo Oi S.A, conforme apresentado detalhadament...
+                                           ^^2638Offset 97029, length 12, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...role  da  Ability  para  a  Companhia,  por  meio de uma cisão parcial de ativos, bem como a...
+                                           ^^^^^^^^^^^^2639Offset 98524, length 21, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: aprovados
+...ou  estudos  técnicos  de  viabilidade  que  foram  aprovados  pelos  órgãos de Administração e pelo ...
+                                           ^^^^^^^^^^^^^^^^^^^^^2640Offset 98752, length 24, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: relacionadas
+...  viabilidade  consideram  estimativas  que  estão  relacionadas  ao  desempenho  da  Companhia,  assim ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^2641Offset 100808, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: ser
+...sta estimativa a Administração acredita que é provável que  os  impostos  diferidos  ...
+                                           ^^^^^2642Offset 112311, length 21, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: definidas
+...ias ponderadas anuais de  depreciação,  que  foram  definidas  com  base  na  vida  útil  econômica  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^2643Offset 123062, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; Categoria de
+...os títulos emitidos e ainda vigentes:   Tipo de  emissão  Série  Data de  emissão  Venc...
+                                           ^^^^^^^2644Offset 123271, length 1, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  V
+...axa média  efetiva de  juros a.a.  P.M .V.A.  (i)  Circulante  Não  circulante  3...
+                                           ^2645Offset 126287, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...sas  adotadas foram as seguintes:   (cid:1)  Valor das debêntures atualizado no fi...
+                                           ^^2646Offset 126352, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+... atualizado no final do exercício;  (cid:1)  Preço de exercício do bônus de subscr...
+                                           ^^2647Offset 126413, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...io do bônus de subscrição da ação;  (cid:1)  Quantidade de ações com direito a sub...
+                                           ^^2648Offset 126438, length 13, Rule ID: PT_CLICHE_REPLACE
+Message: ‘com direito a’ é uma frase-feita. É preferível dizer “REFORMULAR”
+Suggestion: REFORMULAR
+... da ação;  (cid:1)  Quantidade de ações com direito a subscrição;  (cid:1)  Prazo de vencimen...
+                                           ^^^^^^^^^^^^^2649Offset 126469, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...de ações com direito a subscrição;  (cid:1)  Prazo de vencimento das debêntures;  ...
+                                           ^^2650Offset 126515, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...razo de vencimento das debêntures;  (cid:1)  Período de volatilidade;  (cid:1)  Ta...
+                                           ^^2651Offset 126550, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+... (cid:1)  Período de volatilidade;  (cid:1)  Taxa de volatilidade;  (cid:1)  Valor...
+                                           ^^2652Offset 126582, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...e;  (cid:1)  Taxa de volatilidade;  (cid:1)  Valor para atualização da opção.   As...
+                                           ^^2653Offset 126813, length 26, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou notificação judicial, ou
+...e vencidas, independentemente  de aviso ou notificação judicial ou extrajudicial, a saber:   (cid:1)  Pedi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^2654Offset 126870, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...dicial ou extrajudicial, a saber:   (cid:1)  Pedido  de  recuperação  judicial  ou...
+                                           ^^2655Offset 126910, length 49, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou extrajudicial formulado pela Companhia, ou
+...:1)  Pedido  de  recuperação  judicial  ou  extrajudicial  formulado  pela  Companhia  ou  por  qualquer  uma  de  suas  controla...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^2656Offset 127079, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...diferimento do respectivo pedido;   (cid:1)  Liquidação  ou  dissolução  da  Compa...
+                                           ^^2657Offset 127096, length 33, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou dissolução da Companhia, ou
+...spectivo pedido;   (cid:1)  Liquidação  ou  dissolução  da  Companhia  ou  de  qualquer  uma  de  suas   controla...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^2658Offset 127191, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...e  suas   controladas relevantes;   (cid:1)  Cancelamento,  revogação  ou  rescisã...
+                                           ^^2659Offset 127344, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...sem a observância de seus termos;   (cid:1)  Sentença  transitada  em  julgado  pr...
+                                           ^^2660Offset 128003, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...erente às emissões de debêntures;   (cid:1)  Não  pagamento  de  quaisquer  valore...
+                                           ^^2661Offset 128178, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...as úteis contados da data devida;   (cid:1)  Vencimento  antecipado  em  razão  de...
+                                           ^^2662Offset 128737, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+... dias contados de sua ocorrência;   (cid:1)  Protesto de títulos contra a Companhi...
+                                           ^^2663Offset 129122, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...ias contados de sua ocorrência; e   (cid:1)  Transformação  da  forma  societária ...
+                                           ^^2664Offset 130580, length 41, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: depreciação, amortização e diminuído; depreciação e amortização, e diminuído
+...rejuízo)  operacional,  adicionado  da  depreciação  e  amortização  e  diminuído  do  resultado  financeiro,  apurados  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^2665Offset 138129, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+... PROSOFT, a Companhia ofereceu  fianças por meio de Instituições Financeiras.   BNDES – PSI...
+                                           ^^^^^^^^^^^2666Offset 139320, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: Por; Através de
+...rço de 2015.    Capital de giro - Peru: Por meio de suas subsidiárias indiretas Allus Peru ...
+                                           ^^^^^^^^^^^2667Offset 140695, length 10, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de forma a’ é uma expressão prolixa. É preferível dizer “para”
+Suggestion: para
+...ustentação do Investimento a Companhia, de forma a evitar a aceleração das  dívidas contra...
+                                           ^^^^^^^^^^2668Offset 141352, length 38, Rule ID: ENUMERATIONS_AND_AND
+Message: Sempre que possível, deve utilizar só um ‘e’ nas enumerações. Caso contrário, segmente a frase com pontuação ou considere utilizar a ‘Oxford Comma’.
+Suggestion: depreciação, amortização e diminuído; depreciação e amortização, e diminuído
+...o (prejuízo) operacional, adicionado da depreciação e  amortização e diminuído do resultado financeiro, apurados de fo...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^2669Offset 144112, length 2, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...s é constituído pelas empresas do grupo Oi  S.A, conforme apresentado detalhadamen...
+                                           ^^2670Offset 148042, length 7, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...rios estão segregados conforme a seguir e foram  registrados no passivo circulante e nã...
+                                           ^^^^^^^2671Offset 151792, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...dade operacional da Companhia a  expõe, por meio de  ações impetradas  por  colaboradores  ...
+                                           ^^^^^^^^^^^2672Offset 154589, length 5, Rule ID: ERRO_DE_CONCORDNCIA_DO_GÉNERO_MASCULINO_O
+Message: Possível erro de concordância de género.
+Suggestion: A FAP
+...Fator Acidentário de Prevenção (“FAP”). O FAP tem como base a  dicotomia “bonus - mal...
+                                           ^^^^^2673Offset 157985, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretou
+...ibilidade de  êxito neste pleito, o que acarretou na reversão do valor total provisionado no...
+                                           ^^^^^^^^^^^^2674Offset 159761, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...rídicos está classificada como possível e, portanto, nenhuma provisão foi constituída. Em  ...
+                                           ^^^^^^^^^^^2675Offset 161800, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...ção  pelo  município de Belo Horizonte, com o objetivo de apurar se parte das atividades realizad...
+                                           ^^^^^^^^^^^^^^^^^2676Offset 175579, length 1, Rule ID: INTERJECTIONS_PUNTUATION
+Message: Se é uma exclamação, deve terminar com “!”, caso contrário, as orações deve ser separadas por vírgulas.
+Suggestion: !
+...rencial”),  o   que for maior entre eles.                                        ...
+                                           ^2677Offset 176508, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na medida em que’ é uma expressão prolixa. É preferível dizer “enquanto”
+Suggestion: enquanto
+...o aos titulares de ações preferenciais, na medida em que os dividendos de ações  preferenciais  ...
+                                           ^^^^^^^^^^^^^^^^2678Offset 177933, length 6, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: pois, o
+...2013 a reserva legal não foi acrescida, pois o saldo da reserva de  capital acrescido ...
+                                           ^^^^^^2679Offset 189532, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; categoria de
+...s preferenciais emitidas  Numerador por tipo de ação:  Ações ordinárias  Ações preferen...
+                                           ^^^^^^^2680Offset 190426, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘têm como objetivo’ é uma expressão prolixa. É preferível dizer “visam”, “pretendem” ou “procuram”
+Suggestion: visam; pretendem; procuram
+... opções de compra de ações da Companhia têm como objetivo a outorga de opção para  subscrição  UN...
+                                           ^^^^^^^^^^^^^^^^^2681Offset 190988, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não criam nenhum; não criam nenhuma; não, criam qualquer
+...de  natureza  exclusivamente  civil  e  não  criam  qualquer  obrigação  de  natureza  trabalhista  ...
+                                           ^^^^^^^^^^^^^^^^^^^^2682Offset 196511, length 2, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...o curso normal de suas  operações.   A  OI  S.A.  e  suas  subsidiárias  são  cons...
+                                           ^^2683Offset 197277, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...            7.780              (6.365)  Oi Fixa  Oi Móvel  Oi S.A.                ...
+                                           ^^2684Offset 197286, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...   7.780              (6.365)  Oi Fixa  Oi Móvel  Oi S.A.                        5...
+                                           ^^2685Offset 197296, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...            (6.365)  Oi Fixa  Oi Móvel  Oi S.A.                        5.992      ...
+                                           ^^2686Offset 198409, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: Conforme o; Segundo o; Consoante o
+...0 (3.307)  39.584  7.780  (7.436)  (i)  De acordo com o contrato de prestação de serviços firma...
+                                           ^^^^^^^^^^^^^^^2687Offset 198475, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...e prestação de serviços firmado entre a Oi Fixa e a Contax, foi definido que  açõe...
+                                           ^^2688Offset 198654, length 27, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: registrado, em contrapartida
+...de  daquela entidade, cujo montante foi registrado em contrapartida de “Créditos a receber”. O montante de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^2689Offset 200229, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...ncia trabalhista de responsabilidade da Oi Fixa é de R$7.780 (R$7.780 em 31 de dez...
+                                           ^^2690Offset 200655, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...eita  com  vendas  Custo dos  serviços  Oi Fixa  Oi Internet  Oi M óvel  Oi S.A.  ...
+                                           ^^2691Offset 200664, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...  vendas  Custo dos  serviços  Oi Fixa  Oi Internet  Oi M óvel  Oi S.A.  1.029.931...
+                                           ^^2692Offset 200677, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...to dos  serviços  Oi Fixa  Oi Internet  Oi M óvel  Oi S.A.  1.029.931  (28.658)   ...
+                                           ^^2693Offset 200688, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...viços  Oi Fixa  Oi Internet  Oi M óvel  Oi S.A.  1.029.931  (28.658)              ...
+                                           ^^2694Offset 201781, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+... negócios e das  bases  acionárias  da  Oi  S.A.  e  da  Portugal  Telecom,  houve...
+                                           ^^2695Offset 202161, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...mpanhia  presta  diversos  serviços  à  Oi  S.A.  e  suas  subsidiárias.  As  oper...
+                                           ^^2696Offset 202214, length 2, Rule ID: INFORMALITIES
+Message: Linguagem informal. Considere as alternativas.
+...suas  subsidiárias.  As  operações  da  Oi  S.A. e de suas subsidiárias incluem te...
+                                           ^^2697Offset 202550, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...o esforços de retenção e cobrança.   A  Oi  S.A.  e  suas  subsidiárias,  por  sua...
+                                           ^^2698Offset 202954, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...rações  da  Companhia.  Na hipótese, da Oi S.A. e suas subsidiárias se tornem inca...
+                                           ^^2699Offset 207908, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...ção atípica na receita auferida junto a Oi S.A.   A  Administração  tem  observado...
+                                           ^^2700Offset 208082, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...quentemente na receita auferida junto à Oi S.A., dentro dos  limites  previstos  c...
+                                           ^^2701Offset 208091, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “nos”.
+Suggestion: nos
+...te na receita auferida junto à Oi S.A., dentro dos  limites  previstos  contratualmente,  ...
+                                           ^^^^^^^^^^2702Offset 208404, length 2, Rule ID: INTERJECTIONS_PUNTUATION
+Message: As interjeições devem ser finalizadas com pontos de exclamação ou interrogação.
+Suggestion: Oi!; Oi?; Oi!?
+...edução de  faturamento nas operações da Oi S.A. por meio da busca de novos negócio...
+                                           ^^

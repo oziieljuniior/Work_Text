@@ -1,0 +1,45 @@
+96Offset 1401, length 12, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘enquanto que’ é um pleonasmo. É preferível dizer “enquanto”
+Suggestion: enquanto
+... método  de  equivalência  patrimonial, enquanto que para fins de IFRS seria custo ou valor ...
+                                           ^^^^^^^^^^^^97Offset 3322, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+... consolidadas são apresentadas em Real, que é a moeda  funcional da Companhia e sua con...
+                                           ^^^^^^^98Offset 3377, length 5, Rule ID: E_É_SÃO_FOI_FORAM_SENDO_SIDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo; sido; e
+...funcional da Companhia e sua controlada e são apresentadas em milhares, exceto quando...
+                                           ^^^^^99Offset 4619, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...  de 9% sobre o lucro líquido ajustado, de acordo com a legislação vigente.    f)  Os  demais  ...
+                                           ^^^^^^^^^^^^^^^100Offset 7063, length 10, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘sub judice’ é uma expressão prolixa. É preferível dizer “em apreço” ou “em julgamento”
+Suggestion: em apreço; em julgamento
+...os  de  empréstimos que  se  encontram  sub judice,  atualizados  monetariamente  com  bas...
+                                           ^^^^^^^^^^101Offset 10328, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...registrados no ativo e passivo equivale aproximadamente  ao  seu  valor  de  mercado.  A  Cia. ...
+                                           ^^^^^^^^^^^^^^^102Offset 12909, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...im como outros, encontram-se prescritos e  ou foram considerados inconstitucionais, v...
+                                           ^^^^^103Offset 13671, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+... consistente  sobre  a  atual  posição  dentro  do  judiciário  e  mesmo sobre seu possíve...
+                                           ^^^^^^^^^^104Offset 15563, length 7, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: serem
+...  nossos  assessores jurídicos entendem que são valores efetivamente devidos e sem poss...
+                                           ^^^^^^^105Offset 16111, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: Conforme; Segundo; Consoante
+...Federal.    18 - PARTES RELACIONADAS    Em conformidade com a Deliberação CVM nº 642 da CVM e o Pro...
+                                           ^^^^^^^^^^^^^^^^^^^106Offset 16921, length 13, Rule ID: PT_CLICHE_REPLACE
+Message: ‘com direito a’ é uma frase-feita. É preferível dizer “REFORMULAR”
+Suggestion: REFORMULAR
+...tualmente 55,22 %  das ações ordinárias com direito a voto.   Composição Acionária da Control...
+                                           ^^^^^^^^^^^^^

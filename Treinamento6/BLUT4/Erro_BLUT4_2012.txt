@@ -1,0 +1,84 @@
+1Offset 2392, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+... de 9% sobre o lucro líquido ajustado,  de acordo com a legislação vigente.                    ...
+                                           ^^^^^^^^^^^^^^^2Offset 2827, length 22, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Até o presente momento’ é uma expressão prolixa. É preferível dizer “até o momento”
+Suggestion: Até o momento
+...realty é de 99,99% das quotas sociais.  Até o presente momento essa Empresa não possui atividade opera...
+                                           ^^^^^^^^^^^^^^^^^^^^^^3Offset 4806, length 9, Rule ID: PARONYM_OFICIO_227
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do ofício
+...1, face ao resultado negativo em função do OFICIO/CVM/SEP/GEA-5/nº   009/2011, não haverá...
+                                           ^^^^^^^^^4Offset 5216, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...rados  no  ativo  e  passivo  equivale  aproximadamente  ao  seu  valor  de  mercado.  A  Cia. ...
+                                           ^^^^^^^^^^^^^^^5Offset 5838, length 17, Rule ID: SENTENCE_FRAGMENT
+Message: Se não é uma transcrição de discurso oral, “Considerando que” no início de uma frase requer uma segunda oração. Talvez uma vírgula, ponto de interrogação ou de exclamação estejam em falta, ou a frase está incompleta e deve ser ligada à frase que a precede ou à seguinte.
+...77  (R$  54.738.669,31  em  31/12/10).  Considerando  que  através  da  publicação  da  Ata  de  ...
+                                           ^^^^^^^^^^^^^^^^^6Offset 7489, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...mento legítimo, assim  como  outros,  encontram-se  prescritos  e  ou  foram  conside...
+                                           ^^^^^7Offset 8330, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+... consistente  sobre  a  atual  posição  dentro do judiciário e mesmo sobre seu possível j...
+                                           ^^^^^^^^^8Offset 9369, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: notícia
+...enda  recorreu  e  ainda  não  se  tem  noticia  sobre  quando  será  julgada.  Nesta  ...
+                                           ^^^^^^^9Offset 9821, length 22, Rule ID: COLOCACAO_ADVERBIOS_LUGAR
+Message: O ritmo desta frase resultaria mais natural se colocar o advérbio depois do objeto.
+Suggestion: 24 meses nos próximos
+...gamento em 2ª Instância é de que ocorra nos próximos  24 meses.   10.   PROJETOS EM DESENVOLVIMENTO   ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^10Offset 11399, length 8, Rule ID: PARONYM_INICIO_169
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: o início
+...to  de  Lei  vem  sendo discutido desde o inicio de 2010.  Sobre o reenquadramento, foi ...
+                                           ^^^^^^^^11Offset 11599, length 22, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘até o presente momento’ é uma expressão prolixa. É preferível dizer “até o momento”
+Suggestion: até o momento
+...esforços,  tentando  aquela  alteração, até o presente momento não teve nenhuma resposta oficial posit...
+                                           ^^^^^^^^^^^^^^^^^^^^^^12Offset 13406, length 19, Rule ID: DE_MANEIRA_A_QUE
+Message: Substitua por “de maneira que”.
+Suggestion: de maneira que
+...ente  legislação  florestal  aprovada,  de  maneira  a  que  o  projeto  esteja  perfeitamente  em ...
+                                           ^^^^^^^^^^^^^^^^^^^13Offset 13971, length 6, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: início
+...deverá  ocorrer  o  primeiro  corte  e  inicio  de  sua  comercialização.  Após  o  pe...
+                                           ^^^^^^14Offset 15414, length 12, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e serão
+...s com ampla possibilidade de exploração e  que serão utilizadas também como viveiro, para fu...
+                                           ^^^^^^^^^^^^15Offset 15901, length 1, Rule ID: INTERROGATIVES_PUNTUATION
+Message: Se é uma interrogação, deve terminar com “?”, caso contrário, as orações deve ser separadas por vírgulas.
+Suggestion: ?
+...de 30  anos sem necessidade de reposição.  Como  pode  ser  observada,  a  pereni...
+                                           ^16Offset 16183, length 8, Rule ID: PARONYM_INICIO_169
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: O início
+...pós o período de maturação da cultura.  O inicio do plantio poderá ainda demandar alguns...
+                                           ^^^^^^^^17Offset 16367, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: Conforme; Segundo; Consoante
+...ietários.   11.   PARTES RELACIONADAS   Em conformidade com a Deliberação CVM nº 642 da CVM e o Pro...
+                                           ^^^^^^^^^^^^^^^^^^^18Offset 16602, length 21, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...ularmente  informa  a  CVM  e  BOVESPA  em  conformidade  com a Instrução CVM nº 358/2022, artigo 11º...
+                                           ^^^^^^^^^^^^^^^^^^^^^19Offset 17004, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘considerada como’ é uma expressão prolixa. É preferível dizer “APAGAR”
+Suggestion: APAGAR
+... relação a esta empresa, não está sendo considerada como parte relacionada, pois  que o investim...
+                                           ^^^^^^^^^^^^^^^^20Offset 17274, length 13, Rule ID: PT_CLICHE_REPLACE
+Message: ‘com direito a’ é uma frase-feita. É preferível dizer “REFORMULAR”
+Suggestion: REFORMULAR
+...l, possui 196.719.739 ações ordinárias  com direito a voto.               Composição Acionár...
+                                           ^^^^^^^^^^^^^21Offset 18140, length 15, Rule ID: PT_CLICHE_REPLACE
+Message: ‘com direito a’ é uma frase-feita. É preferível dizer “REFORMULAR”
+Suggestion: REFORMULAR
+...etentora  de  7.525  ações  ordinárias  com  direito  a  voto  (237.525 em 31/12/10).    Direto...
+                                           ^^^^^^^^^^^^^^^

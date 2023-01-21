@@ -1,0 +1,80 @@
+107Offset 1528, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...elaboradas e estão sendo   apresentadas de acordo com as práticas contábeis adotadas no Brasil a...
+                                           ^^^^^^^^^^^^^^^^108Offset 2272, length 12, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Demonstração
+...trações financeiras consolidadas.   2.3.Demonstração do valor adicionado (DVA)   A apresenta...
+                                           ^^^^^^^^^^^^109Offset 3641, length 15, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+...ares.  Os  resultados  efetivos  podem  ser  diferentes  destas  estimativas  e  premissas.  A ...
+                                           ^^^^^^^^^^^^^^^110Offset 5631, length 21, Rule ID: COLOCACAO_ADVERBIOS_LUGAR
+Message: O ritmo desta frase resultaria mais natural se colocar o advérbio depois do objeto.
+Suggestion: 12 meses nos próximos
+...o ou   liquidação é provável que ocorra nos próximos 12 meses. Caso contrário, são demonstrados como ...
+                                           ^^^^^^^^^^^^^^^^^^^^^111Offset 6152, length 34, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou fornecimento de produtos, ou
+...os negócios, utilização   na  produção  ou  fornecimento  de  produtos  ou  serviços  ou  para  propósitos  admini...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^112Offset 8420, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...)   Refere-se à renegociação de dívidas por meio de instrumento de “Confissão de Dívida” fi...
+                                           ^^^^^^^^^^^113Offset 8521, length 13, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e estavam
+...10/2014 no   montante de R$ 39.154 mil, e que estavam sujeitas a atualização monetária a part...
+                                           ^^^^^^^^^^^^^114Offset 9277, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: DESTINADOS à
+...5  (em milhares de reais)   5 – IMÓVEIS DESTINADOS A VENDA   Representados  por  terreno  ad...
+                                           ^^^^^^^^^^^^115Offset 12340, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: fiscais, pois
+...nhia reverteu a totalidade dos créditos fiscais pois restaram controversos   a recuperação d...
+                                           ^^^^^^^^^^^^116Offset 15401, length 8, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: serem
+...ossos  assessores  jurídicos  entendem  que  são  valores  efetivamente  devidos  e  sem...
+                                           ^^^^^^^^117Offset 17940, length 36, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: seus assessores jurídicos não obtiveram
+...pós as reservas. A Companhia através de seus assessores jurídicos não obteve até o momento, sucesso em   suas  tenta...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^118Offset 18581, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+...ado  o   Aumento  de  Capital  Social,  dentro  do  limite  de  Capital  Autorizado,  apro...
+                                           ^^^^^^^^^^119Offset 19871, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: Conforme o; Segundo o; Consoante o
+...   371.647   557.477   b) Dividendos    De acordo com o previsto no Estatuto Social da Companhi...
+                                           ^^^^^^^^^^^^^^^120Offset 20004, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+... lucro líquido do   exercício, ajustado de acordo com o artigo 202 da Lei 6.404/76. O saldo rem...
+                                           ^^^^^^^^^^^^^^^121Offset 22167, length 4, Rule ID: UNITS_OF_MEASURE_SPACING
+Message: Deve dar um espaço entre o valor e a unidade de medida: “15 Em”
+Suggestion: 15 Em
+...  Despesas31/12/1631/12/1531/12/1631/12/15Em milhares de ReaisContratação de terceir...
+                                           ^^^^122Offset 24964, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...registrados no ativo e passivo equivale aproximadamente ao seu valor   de mercado. A Companhia ...
+                                           ^^^^^^^^^^^^^^^123Offset 25077, length 14, Rule ID: INVALID_DATE
+Message: O mês de 31 só tem 30 dias.
+...entos financeiros não contabilizados em 31 de setembro de 2016.   19 - INFORMAÇÕES RELEVANTES ...
+                                           ^^^^^^^^^^^^^^124Offset 26904, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+... regularmente informa a CVM e BOVESPA   em conformidade com o artigo 11 da Instrução CVM nº 358/200...
+                                           ^^^^^^^^^^^^^^^^^^^125Offset 27284, length 1, Rule ID: INTERJECTIONS_PUNTUATION
+Message: Se é uma exclamação, deve terminar com “!”, caso contrário, as orações deve ser separadas por vírgulas.
+Suggestion: !
+...ue se referem as suas condições e termos.                                        ...
+                                           ^126Offset 27671, length 13, Rule ID: PT_CLICHE_REPLACE
+Message: ‘com direito a’ é uma frase-feita. É preferível dizer “REFORMULAR”
+Suggestion: REFORMULAR
+...tualmente 55,22 %  das ações ordinárias com direito a voto.   Composição  Acionária  da  Cont...
+                                           ^^^^^^^^^^^^^

@@ -1,0 +1,113 @@
+51Offset 147, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tem como objetivo’ é uma expressão prolixa. É preferível dizer “visa”, “pretende” ou “procura”
+Suggestion: visa; pretende; procura
+... -   CONTEXTO OPERACIONAL   A Companhia tem como objetivo preponderante a siderurgia, além da ind...
+                                           ^^^^^^^^^^^^^^^^^52Offset 1275, length 15, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+...tanto  os  resultados  efetivos  podem  ser  diferentes  destas  estimativas  e  premissas.   A...
+                                           ^^^^^^^^^^^^^^^53Offset 1388, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...nanceiras consolidadas foram preparadas de acordo com os princípios de consolidação previstos  n...
+                                           ^^^^^^^^^^^^^^^^54Offset 2324, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observados
+... Conselho  Federal  de  Contabilidade,  sendo  observados  pela  Companhia,  com  exceção  dos  i...
+                                           ^^^^^^^^^^^^^^^^^55Offset 5381, length 9, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: evidência
+...ação duvidosa é estabelecida quando há  evidencia  objetiva  que  a  empresa  não  será  ...
+                                           ^^^^^^^^^56Offset 5424, length 15, Rule ID: SER_CAPAZ_DE_CONSEGUIR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: conseguirá
+...dencia  objetiva  que  a  empresa  não  será  capaz  de  cobrar  todos  os  valores  devidos  d...
+                                           ^^^^^^^^^^^^^^^57Offset 5469, length 11, Rule ID: DEVE_DE
+Message: Substitua por “devidos”.
+Suggestion: devidos
+... capaz  de  cobrar  todos  os  valores  devidos  de  acordo  com  os  prazos  originais das...
+                                           ^^^^^^^^^^^58Offset 6968, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: considerado
+...dorado Comércio de Ferro e Aço  Ltda.,  sendo  considerado  o  valor  venal  dos  imóveis  por  es...
+                                           ^^^^^^^^^^^^^^^^^^59Offset 7290, length 17, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...idos  ajustes  em  seus  Imobilizados,  em  contrapartida  nos  Patrimônios  Líquidos,  rubrica  ...
+                                           ^^^^^^^^^^^^^^^^^60Offset 8059, length 30, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: reconhecida, em contrapartida
+...o  2011,  cuja  variação  (ganho)  foi  reconhecida  em  contrapartida no Patrimônio Líquido, rubrica de Ajust...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^61Offset 8789, length 15, Rule ID: GENERAL_PRONOMIAL_COLOCATIONS
+Message: Certos pronomes relativos, conjunções subordinativas e advérbios devem ser seguidos de próclise.
+Suggestion: que se referem
+...classificados  do  ativo  imobilizado,  que  referem-se  aos  direitos  de  uso  de  software, ...
+                                           ^^^^^^^^^^^^^^^62Offset 10057, length 10, Rule ID: QUE_VERBO_A_VERBOINFINITIVO
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: a versar
+...) processos judiciais e administrativos que versam sobre a matéria fiscal, avaliados pelos...
+                                           ^^^^^^^^^^63Offset 10283, length 1, Rule ID: INTERROGATIVES_PUNTUATION
+Message: Se é uma interrogação, deve terminar com “?”, caso contrário, as orações deve ser separadas por vírgulas.
+Suggestion: ?
+...te de R$ 47.579 mil (63.668 mil em 2011).  Em observância ao disposto no CPC 25, ...
+                                           ^64Offset 11500, length 10, Rule ID: QUE_VERBO_A_VERBOINFINITIVO
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: a versar
+... 22  (vinte e dois) processos judiciais que versam sobre matéria cível, avaliados pelos as...
+                                           ^^^^^^^^^^65Offset 12579, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: Conforme; Segundo; Consoante
+...valor nominal.     Direito das Ações   Em conformidade com o estatuto, legislação societária e nor...
+                                           ^^^^^^^^^^^^^^^^^^^66Offset 20649, length 5, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Renda
+...nício do Período  Equivalência Patrimonial  Imp.Renda e Contr.Social Diferidos   2012...
+                                           ^^^^^67Offset 20663, length 6, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  Social
+...do  Equivalência Patrimonial  Imp.Renda e Contr.Social Diferidos   2012  138.890  5.17...
+                                           ^^^^^^68Offset 21064, length 5, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘cota’ e ‘quota’.
+Suggestion: Quotas
+....   RMCA Incorp.  Planej. Ltda.    Número Ações/Cotas (000)   Participação na Control...
+                                           ^^^^^69Offset 22939, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: as próprias ações cosipam
+...nstituição Financeira tem como garantia as próprias ações COSIPA, alienadas à Aliperti S/A e penhor merc...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^70Offset 23294, length 37, Rule ID: SER_ADJECTIVE_AGREEMENT
+Message: Erro de concordância de género.
+Suggestion: sendo necessária qualquer atualização
+... histórico da obrigação no Balanço  não sendo necessário qualquer atualização monetária.     O  Instrumento  Particul...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^71Offset 23673, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...-se  em  “sub  judice“.  A  Companhia,  através  de  Laudo  Pericial,  está  atualizando  s...
+                                           ^^^^^^^^^^^72Offset 24497, length 1, Rule ID: LOOSE_ACCENTS
+Message: Caratere incorreto. Utilize antes o apóstrofe ou reveja a acentuação.
+Suggestion: ’; 
+...ija-Flor II,  Beija-Flor  III,  Olhos  D`Água,  Olhos  D`Água  II,  Rocinha  Dess...
+                                           ^73Offset 24513, length 1, Rule ID: LOOSE_ACCENTS
+Message: Caratere incorreto. Utilize antes o apóstrofe ou reveja a acentuação.
+Suggestion: ’; 
+...ija-Flor  III,  Olhos  D`Água,  Olhos  D`Água  II,  Rocinha  Dessio  Domingues,  ...
+                                           ^74Offset 25040, length 11, Rule ID: PARONYM_PERICIA_239
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: por perícia
+...a dívida, comprovada em Laudo elaborado por pericia contratada em exercícios anteriores, so...
+                                           ^^^^^^^^^^^75Offset 25377, length 12, Rule ID: PARONYM_PRINCIPIO_259
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: ao princípio
+...o possíveis, no entanto, em atendimento ao Principio Contábil da Prudência, a empresa provis...
+                                           ^^^^^^^^^^^^76Offset 25741, length 10, Rule ID: PARONYM_ABRENUNCIO_1
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: em última
+... a  qual  já  obteve  ganho  de  causa  em  ultima  instância  (sentença  transitado  em  ...
+                                           ^^^^^^^^^^77Offset 27473, length 8, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (7.173
+...troladora   Consolidado   2012  36.207  (  7.173)  29.034   2011  35.192  ( 7.194)  27.9...
+                                           ^^^^^^^^78Offset 27507, length 7, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (7.194
+....207  (  7.173)  29.034   2011  35.192  ( 7.194)  27.998   2012  94.375  (14.607)  79.7...
+                                           ^^^^^^^

@@ -1,0 +1,33 @@
+1Offset 670, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tem como objetivo’ é uma expressão prolixa. É preferível dizer “visa”, “pretende” ou “procura”
+Suggestion: visa; pretende; procura
+... 1301, parte,  CEP 80410-180. A empresa tem como objetivo investir em empresas com operações liga...
+                                           ^^^^^^^^^^^^^^^^^2Offset 1134, length 20, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...ciedade foram elaboradas e apresentadas em conformidade  com as práticas contábeis adotadas no Brasi...
+                                           ^^^^^^^^^^^^^^^^^^^^3Offset 2228, length 11, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “nos”.
+Suggestion: nos
+...  ou  com  expectativa  de  realização  dentro  dos  próximos  12  meses  são  classificado...
+                                           ^^^^^^^^^^^4Offset 3139, length 20, Rule ID: QUE_SER_ESTAR_PARTPASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: adquiridos
+...res são obrigações a pagar por serviços que foram adquiridos  de  fornecedores  no  curso  ordinário...
+                                           ^^^^^^^^^^^^^^^^^^^^5Offset 4475, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: avaliados pelo
+...ecedores e outros passivos circulantes, que são avaliados pelo custo amortizado.  d) Valor justo: Os v...
+                                           ^^^^^^^^^^^^^^^^^^^^^^6Offset 6269, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...va  5).  Os  títulos  foram  recebidos  através  de  mútuo  de  igual  valor  com  a  contr...
+                                           ^^^^^^^^^^^7Offset 6955, length 8, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘quatorze’ e ‘catorze’.
+Suggestion: catorze
+...enta  e  quatro  mil  e  novecentas  e  quatorze)  ações  ordinárias nominativas, sem va...
+                                           ^^^^^^^^8Offset 7017, length 13, Rule ID: PT_CLICHE_REPLACE
+Message: ‘com direito a’ é uma frase-feita. É preferível dizer “REFORMULAR”
+Suggestion: REFORMULAR
+...nárias nominativas, sem valor nominal e com direito a voto.                                  ...
+                                           ^^^^^^^^^^^^^

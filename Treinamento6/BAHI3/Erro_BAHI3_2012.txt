@@ -1,0 +1,85 @@
+24Offset 3360, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...iação patrimonial ao seu valor justo, e levando em consideração o seu  valor  líquido  de  impostos  a ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^25Offset 5083, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...ilizado é calculada pelo método linear, levando em consideração a   vida útil-econômica dos bens, confo...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^26Offset 6163, length 10, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: para
+...lucro tributável às alíquotas vigentes, sendo para o imposto de  renda  15%,  mais  adicio...
+                                           ^^^^^^^^^^27Offset 7449, length 14, Rule ID: CONTRA_CAPA
+Message: Substitua por “contrapartida”.
+Suggestion: contrapartida
+...atas de encerramento do exercício, cuja contra partida é conta  de  Ajuste  de  Avaliação  Pat...
+                                           ^^^^^^^^^^^^^^28Offset 9012, length 6, Rule ID: SUBSTANTIVOS_USADOS_COMO_ADJETIVOS_INVARIAVEIS_V2
+Message: Os substantivos usados como adjetivos mantêm-se invariáveis.
+Suggestion: Renda
+...cipações S/A – Fundos de  Investimentos Rendas Variáveis   Quantidades  Cotas   Valore...
+                                           ^^^^^^29Offset 11694, length 6, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘quota’ e ‘cota’.
+Suggestion: CotaS
+...OTA 7. OUTROS INVESTIMENTOS EM AÇÕES OU QUOTAS DE CAPITAL   Demonstramos  a  seguir  o...
+                                           ^^^^^^30Offset 14929, length 5, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: mútuo
+...da de um mútuo. O prazo de pagamento do mutuo é por  tempo  indeterminado  e  incide ...
+                                           ^^^^^31Offset 15234, length 4, Rule ID: ESTA_ESTÁ
+Message: Substitua por “está”.
+Suggestion: está
+...STOS TAXAS E CONTRIBUIÇÕES   Este grupo esta composto das seguintes contas:   As not...
+                                           ^^^^32Offset 16193, length 10, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (Processo
+...her  FGTS a recolher  Cofins a Recolher ( Processo )  IOF a recolher  Tributos na fonte a ...
+                                           ^^^^^^^^^^33Offset 17443, length 10, Rule ID: PARONYM_DIVIDA_612
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de dívidas
+...dora fez a consolidação de parcelamento de dividas  em 29/06/2011, para 180 meses, sendo q...
+                                           ^^^^^^^^^^34Offset 17663, length 10, Rule ID: PARONYM_DIVIDA_612
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de dívidas
+... fez  a  consolidação  de  parcelamento de dividas em 28/07/2011, para 180 meses, sendo qu...
+                                           ^^^^^^^^^^35Offset 17791, length 1, Rule ID: SENTENCE_WHITESPACE
+Message: Adicionar um espaço entre as frases
+Suggestion:  A
+.../2011  no  valor  de  R$  5.380  mil.  .A  mensuração  e  a  contabilização  das ...
+                                           ^36Offset 19552, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: negociados na
+...a estrangeira – Tavex Algodonera  S/A – que são negociados na Bolsa de Valores de Madrid e denominado...
+                                           ^^^^^^^^^^^^^^^^^^^^^37Offset 21112, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...do lucro líquido do exercício, ajustado de acordo com o artigo 202, da Lei nº 6.404/76.   Nos t...
+                                           ^^^^^^^^^^^^^^^38Offset 22748, length 13, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinadas à
+... mercado  das  aplicações  financeiras  destinadas  a  venda  líquida dos efeitos tributários...
+                                           ^^^^^^^^^^^^^39Offset 23782, length 11, Rule ID: IRREGULAR_PAST_PARTICIPLES
+Message: A forma correta deste particípio é aceites.
+Suggestion: são aceites
+...“contribuição definida”. Desde 1997 não são aceitos novos  participantes  para  o  Plano A....
+                                           ^^^^^^^^^^^40Offset 26314, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do cálculo
+...e dezembro de 2011:   A)  Demonstrativo do calculo do IRPJ acumulados em 31/12/2011:   IMP...
+                                           ^^^^^^^^^^41Offset 27676, length 11, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (Recuperar
+...sal paga até o mês  (=) IRPJ a Recolher ( Recuperar )   6    0   0   0   0   6   (897)  0  ...
+                                           ^^^^^^^^^^^42Offset 28096, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do cálculo
+... 1.013   828   185    B)  Demonstrativo do calculo do CSLL acumulados em 31/12/2011:    CO...
+                                           ^^^^^^^^^^43Offset 28878, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: em; Per
+...) CSLL compensada  (- ) CSLL compensada em Per/Dcomp  (=) CSLL a Pagar ( Recuperar )  ...
+                                           ^^^^^^44Offset 28909, length 11, Rule ID: PARENTESESE_AND_QUOTES_SPACING
+Message: Espaçamento incorreto.
+Suggestion: (Recuperar
+...mpensada em Per/Dcomp  (=) CSLL a Pagar ( Recuperar )   BAHEMA PARTICIPAÇÕES S/A   BAHEMA S...
+                                           ^^^^^^^^^^^
