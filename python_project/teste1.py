@@ -8,10 +8,9 @@ import shutil
 data = pd.read_excel('C:/Users/Riallen/Documents/Att/Cias não financeiras - 12-12-2022.xlsx')
 consulta = data['ticker'].to_list()
 t1 = len(consulta)
-for emp in range(98,t1):
+for emp in range(533,t1):
     path = "C:/Users/Riallen/Documents/Att/Data/" + consulta[emp]
     os.makedirs(path)
-    
     i = 0
     while i == 0:
         print("Fase 1")
@@ -110,11 +109,8 @@ for emp in range(98,t1):
                                     print(convert_im5,convert_im6)
                                     if convert_im5 == [(1, (1, 44, 99))] and convert_im6 == [(1, (247, 247, 247))]:
                                         print("Fase 8")
-                                        time.sleep(10)
-                                        pyautogui.click(155,540)
-                                        #
-                                        
-                                        
+                                        time.sleep(5)
+                                        pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2023.png', interval = 2)
                                         m = 0
                                         while m <= 11:
                                             cot = 2010 + m
@@ -123,21 +119,19 @@ for emp in range(98,t1):
                                                 n = 0
                                                 print("Ano ", ano)
                                                 time.sleep(3)
-    # =============================================================================
-    #                                             pyautogui.press('pageup')
-    # =============================================================================
-                                                pyautogui.click(133,425)                                            
-                                                time.sleep(3)
-                                                #pyautogui.click((1897,89),interval = 1)
-                                                #time.sleep(1)
-                                                #pyautogui.click((1699,524),interval = 1)
-                                                #pyautogui.press('enter')
-                                                
-                                                
+                                                while n == 0:
+                                                    x = pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2010.png')
+                                                    print(x)
+                                                    if x != None:
+                                                        pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2010.png', interval = 2)
+                                                        n = n + 1
+
+                                                n = 0
                                                 pyautogui.hotkey('ctrl','f')
                                                 pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao ')
                                                 pyautogui.press('enter')
                                                 while n == 0:
+                                                    time.sleep(3)
                                                     x = pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\point.png')
                                                     print(x)
                                                     if x != None:
@@ -168,7 +162,7 @@ for emp in range(98,t1):
                                                         name_pdf = consulta[emp] + "_" + str(cot)
                                                         print(name_pdf)
                                                         pyautogui.write(name_pdf, interval = 0.5)
-                                                        pyautogui.press('enter')
+                                                        pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\salvar.png', interval = 1)
                                                         time.sleep(5)
                                                         pyautogui.click((701,22), interval = 2)
                                                         pyautogui.click(3,365)
@@ -193,21 +187,16 @@ for emp in range(98,t1):
                                                         pyautogui.press('pageup')
                                                         n += 1
                                                         time.sleep(3)
-        
-                                                #/html/body/app-root/app-companies-menu-select/div/app-companies-structured-reports/form/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/p/a
-                                                #/html/body/app-root/app-companies-menu-select/div/app-companies-structured-reports/form/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/p/a
-                                                
                                                 m += 1
                                             
                                             elif cot == 2011:
                                                 n = 0
                                                 print("Ano ", ano)
-                                                pyautogui.click((1257,705), interval = 0.5)
+                                                pyautogui.click((1343,716), interval = 0.5)
                                                 time.sleep(3)
-                                                pyautogui.click(155,540)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2010.png')
                                                 time.sleep(3)
-                                                pyautogui.click(133,412)
-                                                
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2011.png')
                                                 time.sleep(3)
                                                 
                                                 pyautogui.hotkey('ctrl','f')
@@ -245,7 +234,7 @@ for emp in range(98,t1):
                                                         name_pdf = consulta[emp] + "_" + str(cot)
                                                         print(name_pdf)
                                                         pyautogui.write(name_pdf, interval = 0.5)
-                                                        pyautogui.press('enter')
+                                                        pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\salvar.png', interval = 1)
                                                         time.sleep(5)
                                                         pyautogui.click((701,22), interval = 2)
                                                         pyautogui.click(3,365)
@@ -277,12 +266,11 @@ for emp in range(98,t1):
                                             elif cot == 2012:
                                                 n = 0
                                                 print("Ano ", ano)
-                                                pyautogui.click((1257,705), interval = 0.5)
+                                                pyautogui.click((1343,716), interval = 0.5)
                                                 time.sleep(3)
-                                                pyautogui.click(155,540)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2011.png')
                                                 time.sleep(3)
-                                                pyautogui.click(133,381)
-                                                
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2012.png')
                                                 time.sleep(3)
                                                 
                                                 pyautogui.hotkey('ctrl','f')
@@ -319,7 +307,7 @@ for emp in range(98,t1):
                                                         name_pdf = consulta[emp] + "_" + str(cot)
                                                         print(name_pdf)
                                                         pyautogui.write(name_pdf, interval = 0.5)
-                                                        pyautogui.press('enter')
+                                                        pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\salvar.png', interval = 1)
                                                         time.sleep(5)
                                                         pyautogui.click((701,22), interval = 2)
                                                         pyautogui.click(3,365)
@@ -350,12 +338,11 @@ for emp in range(98,t1):
                                             elif cot == 2013:
                                                 n = 0
                                                 print("Ano ", ano)
-                                                pyautogui.click((1257,705), interval = 0.5)
+                                                pyautogui.click((1343,716), interval = 0.5)
                                                 time.sleep(3)
-                                                pyautogui.click(155,540)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2012.png')
                                                 time.sleep(3)
-                                                pyautogui.click(133,359)
-                                                
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2013.png')
                                                 time.sleep(3)
                                                 
                                                 pyautogui.hotkey('ctrl','f')
@@ -392,7 +379,7 @@ for emp in range(98,t1):
                                                         name_pdf = consulta[emp] + "_" + str(cot)
                                                         print(name_pdf)
                                                         pyautogui.write(name_pdf, interval = 0.5)
-                                                        pyautogui.press('enter')
+                                                        pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\salvar.png', interval = 1)
                                                         time.sleep(5)
                                                         pyautogui.click((701,22), interval = 2)
                                                         pyautogui.click(3,365)
@@ -423,12 +410,11 @@ for emp in range(98,t1):
                                             elif cot == 2014:
                                                 n = 0
                                                 print("Ano ", ano)
-                                                pyautogui.click((1257,705), interval = 0.5)
+                                                pyautogui.click((1343,716), interval = 0.5)
                                                 time.sleep(3)
-                                                pyautogui.click(155,540)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2013.png')
                                                 time.sleep(3)
-                                                pyautogui.click(133,335)
-                                                
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2014.png')
                                                 time.sleep(3)
                                                 
                                                 pyautogui.hotkey('ctrl','f')
@@ -465,7 +451,7 @@ for emp in range(98,t1):
                                                         name_pdf = consulta[emp] + "_" + str(cot)
                                                         print(name_pdf)
                                                         pyautogui.write(name_pdf, interval = 0.5)
-                                                        pyautogui.press('enter')
+                                                        pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\salvar.png', interval = 1)
                                                         time.sleep(5)
                                                         pyautogui.click((701,22), interval = 2)
                                                         pyautogui.click(3,365)
@@ -496,13 +482,13 @@ for emp in range(98,t1):
                                             elif cot == 2015:
                                                 n = 0
                                                 print("Ano ", ano)
-                                                pyautogui.click((1257,705), interval = 0.5)
+                                                pyautogui.click((1343,716), interval = 0.5)
                                                 time.sleep(3)
-                                                pyautogui.click(155,540)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2014.png')
                                                 time.sleep(3)
-                                                pyautogui.click(133,310)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2015.png')
+                                                time.sleep(3)
                                                 
-                                                time.sleep(3)
                                                 pyautogui.hotkey('ctrl','f')
                                                 pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                                 pyautogui.press('enter')
@@ -537,7 +523,7 @@ for emp in range(98,t1):
                                                         name_pdf = consulta[emp] + "_" + str(cot)
                                                         print(name_pdf)
                                                         pyautogui.write(name_pdf, interval = 0.5)
-                                                        pyautogui.press('enter')
+                                                        pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\salvar.png', interval = 1)
                                                         time.sleep(5)
                                                         pyautogui.click((701,22), interval = 2)
                                                         pyautogui.click(3,365)
@@ -568,13 +554,13 @@ for emp in range(98,t1):
                                             elif cot == 2016:
                                                 n = 0
                                                 print("Ano ", ano)
-                                                pyautogui.click((1257,705), interval = 0.5)
+                                                pyautogui.click((1343,716), interval = 0.5)
                                                 time.sleep(3)
-                                                pyautogui.click(155,540)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2015.png')
                                                 time.sleep(3)
-                                                pyautogui.click(133,284)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2016.png')
+                                                time.sleep(3)
                                                 
-                                                time.sleep(3)
                                                 pyautogui.hotkey('ctrl','f')
                                                 pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                                 pyautogui.press('enter')
@@ -609,7 +595,7 @@ for emp in range(98,t1):
                                                         name_pdf = consulta[emp] + "_" + str(cot)
                                                         print(name_pdf)
                                                         pyautogui.write(name_pdf, interval = 0.5)
-                                                        pyautogui.press('enter')
+                                                        pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\salvar.png', interval = 1)
                                                         time.sleep(5)
                                                         pyautogui.click((701,22), interval = 2)
                                                         pyautogui.click(3,365)
@@ -639,13 +625,13 @@ for emp in range(98,t1):
                                             elif cot == 2017:
                                                 n = 0
                                                 print("Ano ", ano)
-                                                pyautogui.click((1257,705), interval = 0.5)
+                                                pyautogui.click((1343,716), interval = 0.5)
                                                 time.sleep(3)
-                                                pyautogui.click(155,540)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2016.png')
                                                 time.sleep(3)
-                                                pyautogui.click(133,254)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2017.png')
+                                                time.sleep(3)
                                                 
-                                                time.sleep(3)
                                                 pyautogui.hotkey('ctrl','f')
                                                 pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                                 pyautogui.press('enter')
@@ -680,7 +666,7 @@ for emp in range(98,t1):
                                                         name_pdf = consulta[emp] + "_" + str(cot)
                                                         print(name_pdf)
                                                         pyautogui.write(name_pdf, interval = 0.5)
-                                                        pyautogui.press('enter')
+                                                        pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\salvar.png', interval = 1)
                                                         time.sleep(5)
                                                         pyautogui.click((701,22), interval = 2)
                                                         pyautogui.click(3,365)
@@ -707,13 +693,13 @@ for emp in range(98,t1):
                                             elif cot == 2018:
                                                 n = 0
                                                 print("Ano ", ano)
-                                                pyautogui.click((1257,705), interval = 0.5)
+                                                pyautogui.click((1343,716), interval = 0.5)
                                                 time.sleep(3)
-                                                pyautogui.click(155,540)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2017.png')
                                                 time.sleep(3)
-                                                pyautogui.click(133,229)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2018.png')
+                                                time.sleep(3)
                                                 
-                                                time.sleep(3)
                                                 pyautogui.hotkey('ctrl','f')
                                                 pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                                 pyautogui.press('enter')
@@ -748,7 +734,7 @@ for emp in range(98,t1):
                                                         name_pdf = consulta[emp] + "_" + str(cot)
                                                         print(name_pdf)
                                                         pyautogui.write(name_pdf, interval = 0.5)
-                                                        pyautogui.press('enter')
+                                                        pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\salvar.png', interval = 1)
                                                         time.sleep(5)
                                                         pyautogui.click((701,22), interval = 2)
                                                         pyautogui.click(3,365)
@@ -779,14 +765,13 @@ for emp in range(98,t1):
                                             elif cot == 2019:
                                                 n = 0
                                                 print("Ano ", ano)
-                                                pyautogui.click((1257,705), interval = 0.5)
+                                                pyautogui.click((1343,716), interval = 0.5)
                                                 time.sleep(3)
-                                                pyautogui.click(155,540)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2018.png')
                                                 time.sleep(3)
-                                                pyautogui.click(133,205)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2019.png')
+                                                time.sleep(3)
                                                 
-                                                
-                                                time.sleep(3)
                                                 pyautogui.hotkey('ctrl','f')
                                                 pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                                 pyautogui.press('enter')
@@ -821,7 +806,7 @@ for emp in range(98,t1):
                                                         name_pdf = consulta[emp] + "_" + str(cot)
                                                         print(name_pdf)
                                                         pyautogui.write(name_pdf, interval = 0.5)
-                                                        pyautogui.press('enter')
+                                                        pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\salvar.png', interval = 1)
                                                         time.sleep(5)
                                                         pyautogui.click((701,22), interval = 2)
                                                         pyautogui.click(3,365)
@@ -852,13 +837,13 @@ for emp in range(98,t1):
                                             elif cot == 2020:
                                                 n = 0
                                                 print("Ano ", ano)
-                                                pyautogui.click((1257,705), interval = 0.5)
+                                                pyautogui.click((1343,716), interval = 0.5)
                                                 time.sleep(3)
-                                                pyautogui.click(155,540)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2019.png')
                                                 time.sleep(3)
-                                                pyautogui.click(133,181)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2020.png')
+                                                time.sleep(3)
                                                 
-                                                time.sleep(3)
                                                 pyautogui.hotkey('ctrl','f')
                                                 pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                                 pyautogui.press('enter')
@@ -893,7 +878,7 @@ for emp in range(98,t1):
                                                         name_pdf = consulta[emp] + "_" + str(cot)
                                                         print(name_pdf)
                                                         pyautogui.write(name_pdf, interval = 0.5)
-                                                        pyautogui.press('enter')
+                                                        pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\salvar.png', interval = 1)
                                                         time.sleep(5)
                                                         pyautogui.click((701,22), interval = 2)
                                                         pyautogui.click(3,365)
@@ -924,13 +909,13 @@ for emp in range(98,t1):
                                             elif cot == 2021:
                                                 n = 0
                                                 print("Ano ", ano)
-                                                pyautogui.click((1257,705), interval = 0.5)
+                                                pyautogui.click((1343,716), interval = 0.5)
                                                 time.sleep(3)
-                                                pyautogui.click(155,540)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2020.png')
                                                 time.sleep(3)
-                                                pyautogui.click(133,152)
+                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\2021.png')
+                                                time.sleep(3)
                                                 
-                                                time.sleep(3)
                                                 pyautogui.hotkey('ctrl','f')
                                                 pyautogui.write('Demonstracoes Financeiras Padronizadas - Versao')
                                                 pyautogui.press('enter')
@@ -965,7 +950,7 @@ for emp in range(98,t1):
                                                         name_pdf = consulta[emp] + "_" + str(cot)
                                                         print(name_pdf)
                                                         pyautogui.write(name_pdf, interval = 0.5)
-                                                        pyautogui.press('enter')
+                                                        pyautogui.click('C:\\Users\\Riallen\\Documents\\Att\\Point_Click\\salvar.png', interval = 1)
                                                         time.sleep(5)
                                                         pyautogui.click((701,22), interval = 2)
                                                         pyautogui.click(3,365)

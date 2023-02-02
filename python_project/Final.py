@@ -85,7 +85,7 @@ for caminho in lista_caminho:
             
             #Ajuste para criação de relatório local de cada empresa e ano
             titulo = caminho1.replace(".pdf",".txt")
-            path_relatorio = path1 + "/Erro_" + titulo
+            path_relatorio = 'C:\\Users\\Riallen\\Documents\\Att\\Resultado_Treinamento7\\' + "Erro_" + titulo
             print(path_relatorio)
             
             #Configuração para extração do texto
@@ -112,9 +112,11 @@ for caminho in lista_caminho:
             #criação de arquivo txt para relatório local 
             aperro = open(path_relatorio, 'x', encoding='utf-8')
             for i in range(0, erros_apontados):
-                if matches[i].ruleId != 'WHITESPACE_RULE' and matches[i].ruleId != 'DASH_RULE' and matches[i].ruleId != 'HUNSPELL_RULE' and matches[i].ruleId != 'SPACE_BEFORE_PUNCTUATION' and matches[i].ruleId != 'ORDINAL_ABREVIATION' and matches[i].ruleId != 'SENT_START_NUM' and matches[i].ruleId != 'ROMAN_NUMBERS_CHECKER' and matches[i].ruleId != 'DECIMAL_COMMA' and matches[i].ruleId != 'PT_COMPOUNDS_POST_REFORM' and matches[i].ruleId != 'UNPAIRED_BRACKETS' and matches[i].ruleId != 'PT_BARBARISMS_REPLACE' and matches[i].ruleId != 'PT_BR_SIMPLE_REPLACE' and matches[i].ruleId != 'CHEMICAL_FORMULAS_TYPOGRAPHY' and matches[i].ruleId != 'GENERAL_NUMBER_FORMAT' and matches[i].ruleId != 'GENERAL_NUMBER_AGREEMENT_ERRORS'and matches[i].ruleId != 'PHRASE_REPETITION' and  matches[i].ruleId !='ABREVIATIONS_PUNCTUATION' and matches[i].ruleId != 'COPYRIGHT' and matches[i].ruleId != 'BARBARISMS' and matches[i].ruleId != 'UPPERCASE_AFTER_COMMA' and matches[i].ruleId != 'GENERAL_GENDER_AGREEMENT_ERRORS' and matches[i].ruleId != 'ZERO_IN_DAYS_OF_THE_MONTH' and matches[i].ruleId != 'PORTUGUESE_WORD_REPEAT_RULE' and matches[i].ruleId != 'GENTILICOS_LINGUAS' and matches[i].ruleId != 'LOWERCASE_RARE_WORDS_GEOGRAPHICAL' and matches[i].ruleId != 'UPPERCASE_SENTENCE_START' and matches[i].ruleId != 'REPEATED_WORDS_3X' and matches[i].ruleId != 'SI_UNITS_CASE' and matches[i].ruleId != 'PERCENT_WITHOUT_SPACE' and matches[i].ruleId != 'ARTICLES_PRECEDING_LOCATIONS' and matches[i].ruleId != 'UNPAIRED_BRACKET_SUGGESTIONS' and matches[i].ruleId != 'COMMA_PARENTHESIS_WHITESPACE' and matches[i].ruleId != 'DOUBLE_PUNCTUATION' and matches[i].ruleId != 'A_WORD' and matches[i].ruleId != 'HOMONYM_ASSO_10' and matches[i].ruleId != 'AO90_MONTHS_CASING' and matches[i].ruleId != 'ABREVIATIONS_PUNCTUATION' and matches[i].ruleId != 'NO_SPACE_CLOSING_QUOTE' and matches[i].ruleId != 'CERCA_DE_NR' and matches[i].ruleId != 'NUMBER_ABREVIATION':
+                #PORTUGUESE_WORD_REPEAT_BEGINNING_RULE -> Verificar possibilidade de retirar números do relatório
+                if matches[i].ruleId != 'WHITESPACE_RULE' and matches[i].ruleId != 'DASH_RULE' and matches[i].ruleId != 'HUNSPELL_RULE' and matches[i].ruleId != 'SPACE_BEFORE_PUNCTUATION' and matches[i].ruleId != 'ORDINAL_ABREVIATION' and matches[i].ruleId != 'SENT_START_NUM' and matches[i].ruleId != 'ROMAN_NUMBERS_CHECKER' and matches[i].ruleId != 'DECIMAL_COMMA' and matches[i].ruleId != 'PT_COMPOUNDS_POST_REFORM' and matches[i].ruleId != 'UNPAIRED_BRACKETS' and matches[i].ruleId != 'PT_BARBARISMS_REPLACE' and matches[i].ruleId != 'PT_BR_SIMPLE_REPLACE' and matches[i].ruleId != 'CHEMICAL_FORMULAS_TYPOGRAPHY' and matches[i].ruleId != 'GENERAL_NUMBER_FORMAT' and matches[i].ruleId != 'GENERAL_NUMBER_AGREEMENT_ERRORS'and matches[i].ruleId != 'PHRASE_REPETITION' and  matches[i].ruleId !='ABREVIATIONS_PUNCTUATION' and matches[i].ruleId != 'COPYRIGHT' and matches[i].ruleId != 'BARBARISMS' and matches[i].ruleId != 'UPPERCASE_AFTER_COMMA' and matches[i].ruleId != 'GENERAL_GENDER_AGREEMENT_ERRORS' and matches[i].ruleId != 'ZERO_IN_DAYS_OF_THE_MONTH' and matches[i].ruleId != 'PORTUGUESE_WORD_REPEAT_RULE' and matches[i].ruleId != 'GENTILICOS_LINGUAS' and matches[i].ruleId != 'LOWERCASE_RARE_WORDS_GEOGRAPHICAL' and matches[i].ruleId != 'UPPERCASE_SENTENCE_START' and matches[i].ruleId != 'REPEATED_WORDS_3X' and matches[i].ruleId != 'SI_UNITS_CASE' and matches[i].ruleId != 'PERCENT_WITHOUT_SPACE' and matches[i].ruleId != 'ARTICLES_PRECEDING_LOCATIONS' and matches[i].ruleId != 'UNPAIRED_BRACKET_SUGGESTIONS' and matches[i].ruleId != 'COMMA_PARENTHESIS_WHITESPACE' and matches[i].ruleId != 'DOUBLE_PUNCTUATION' and matches[i].ruleId != 'A_WORD' and matches[i].ruleId != 'HOMONYM_ASSO_10' and matches[i].ruleId != 'AO90_MONTHS_CASING' and matches[i].ruleId != 'ABREVIATIONS_PUNCTUATION' and matches[i].ruleId != 'NO_SPACE_CLOSING_QUOTE' and matches[i].ruleId != 'CERCA_DE_NR' and matches[i].ruleId != 'NUMBER_ABREVIATION' and matches[i].ruleId != 'INFORMALITIES' and matches[i].ruleId != 'ENUMERATIONS_AND_AND' and matches[i].ruleId != 'ARCHAISMS' and matches[i].ruleId != 'INVALID_DATE' and matches[i].ruleId != 'PT_CLICHE_REPLACE' and matches[i].ruleId != 'QUE_SER_ESTAR_PARTPASSADO' and matches[i].ruleId != 'ALTERNATIVE_CONJUNCTIONS_COMMA' and matches[i].ruleId != 'E_É_SÃO_FOI_FORAM_SENDO_SIDO' and matches[i].ruleId != 'QUE_FORAM_FOI_SÃO_É_SENDO' and matches[i].ruleId != 'INTERNET_ABBREVIATIONS' and matches[i].ruleId != 'PORTUGUESE_WORD_REPEAT_BEGINNING' and matches[i].ruleId != 'INTERJECTIONS_PUNTUATION' and matches[i].ruleId !='ERRO_DE_CONCORDNCIA_DO_GÉNERO_MASCULINO_O' and matches[i].ruleId != 'FRAGMENT_TWO_PREPOSTIONS' and matches[i].ruleId != 'ADVERBIOS_MODO_EM_SEQUENCIA' and matches[i].ruleId != 'CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL' and matches[i].ruleId != 'PP_OBJ_IND' and matches[i].ruleId != 'PT_SIMPLE_REPLACE' and matches[i].ruleId != 'REDUNDANT_CONJUNCTIONS' and matches[i].ruleId != 'COLOCAÇÃO_ADVÉRBIO' and matches[i].ruleId != 'INTERROGATIVES_PUNTUATION' and matches[i].ruleId != 'YEAR_NUMBER_FORMAT' and matches[i].ruleId != 'VERB_COMMA_CONJUNCTION' and matches[i].ruleId != 'REDUNDANCY_JUNTO_COM' and matches[i].ruleId != 'PORTUGUESE_WRONG_WORD_IN_CONTEXT' and matches[i].ruleId != 'PT_WEASELWORD_REPLACE' and matches[i].ruleId != 'COLOCACAO_ADVERBIOS_LUGAR' and matches[i].ruleId != 'SENTENCE_WHITESPACE' and matches[i].ruleId != 'DATE_NEW_YEAR' and matches[i].ruleId != 'kWh' and matches[i].ruleId != 'ALÉM_AQUÉM_RECÉM' and matches[i].ruleId != 'PROFANITY' and matches[i].ruleId != 'PARENTESESE_AND_QUOTES_SPACING' and matches[i].ruleId != 'EM_LONGO_PRAZO' and matches[i].ruleId != 'SUBSTANTIVO_PLURAL_E_CHAVE':
                     erro_local = erro_local + 1
                     aperro.write(str(erro_local))
+                    aperro.write('\n')
                     aperro.write(str(matches[i]))
             aperro.close()
             print("Análise realizada com sucesso!")
@@ -129,10 +131,13 @@ for caminho in lista_caminho:
         data_local[indice_planilhaB] = erro_local
         print("Planilha local atualizada")
         print("Quantidade de erros localizadas: ", erro_local)
+
        
 
         erro_geral = erro_geral + erro_local
         contador_geral += 1
+
+    
     else:
         print("*-" * 24)
         print("Fase 2 - Analisando ", len(caminho_pdf))
@@ -147,7 +152,14 @@ for caminho in lista_caminho:
         
         erro_geral = erro_geral + erro_local
         contador_geral += 1
-excel2.save(path + "/Data_Local.xlsx")
+    
+    print("Realizando ajuste de pasta: ", path1)
+    path_saida = 'C:/Users/Riallen/Documents/Att/Saida_Treinamento7/' + caminho
+    print("Para: ", path_saida)
+    os.rename(path1, path_saida)
+
+
+excel2.save('C:\\Users\\Riallen\\Documents\\Att\\Resultado_Treinamento7\\' + "Data_Local.xlsx")
 print("Calculando quantidade total de erros")
 a = []
 data = pd.read_excel(path + "/Data_Local.xlsx")
@@ -159,7 +171,7 @@ for i in range(0,len(data)):
 qt_total = sum(a)
 data_geral['B1'] = qt_total
 
-excel1.save(path + "/Data_Geral.xlsx")
+excel1.save('C:\\Users\\Riallen\\Documents\\Att\\Resultado_Treinamento7\\' + "Data_Geral.xlsx")
 
 fim = dt.datetime.now().strftime("%H:%M:%S")
 
