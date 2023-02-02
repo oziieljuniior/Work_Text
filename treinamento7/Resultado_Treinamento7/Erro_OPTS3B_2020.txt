@@ -1,0 +1,111 @@
+158
+Offset 1204, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...2017,   os   acionistas   representando aproximadamente 90% do capital social, aprovaram a diss...
+                                           ^^^^^^^^^^^^^^^159
+Offset 1458, length 3, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sul
+...solução e liquidação das companhias.  A Sul 116 é uma companhia aberta registrada n...
+                                           ^^^160
+Offset 1874, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...na data base de 28 de fevereiro de 2020 com o objetivo de convocar assembleias de acionistas para...
+                                           ^^^^^^^^^^^^^^^^^161
+Offset 2874, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...m elaboradas e estão sendo apresentadas de acordo com as políticas  contábeis adotadas no Brasil...
+                                           ^^^^^^^^^^^^^^^^162
+Offset 3077, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...nunciamentos Contábeis (CPC), que estão em conformidade com as  normas e procedimentos do Internati...
+                                           ^^^^^^^^^^^^^^^^^^^163
+Offset 3780, length 16, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: afetar; influenciar
+...es ocorridos até esta data que pudessem ter efeito sobre o conteúdo aqui divulgado.  2.3. Moeda ...
+                                           ^^^^^^^^^^^^^^^^164
+Offset 4098, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+... preparação das demonstrações contábeis de acordo com as normas do CPC exige que a Administração...
+                                           ^^^^^^^^^^^^^^^^165
+Offset 4368, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...idação   das   operações   envolvendo   essas   estimativas poderá resultar em valores diferentes dos esti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^166
+Offset 5068, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...do  O resultado das operações é apurado em conformidade com o regime contábil de competência de exe...
+                                           ^^^^^^^^^^^^^^^^^^^167
+Offset 5306, length 20, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mantidos com
+... risco de variação no valor de mercado, que são mantidos com a finalidade de atender a compromissos ...
+                                           ^^^^^^^^^^^^^^^^^^^^168
+Offset 7983, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...lo método indireto e estão apresentadas de acordo  com a Deliberação CVM n° 641, de 7 de outubro...
+                                           ^^^^^^^^^^^^^^^^169
+Offset 10535, length 18, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...rovisões são revisadas e ajustadas para levar   em   conta   alterações   nas   circunstâncias,   ...
+                                           ^^^^^^^^^^^^^^^^^^170
+Offset 13759, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...ral do Brasil e podem  ser compensados, através de PERDCOMP, com qualquer débito de tribut...
+                                           ^^^^^^^^^^171
+Offset 16787, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 415
+...acy S. A. - em liquidação.  As inves(cid:415)das não consolidadas possuem saldos de ...
+                                           ^^^^172
+Offset 16879, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 415
+... a Recuperar como segue:  - Zain Par(cid:415)cipações S.A. – Em liquidação: R$3.018....
+                                           ^^^^173
+Offset 16944, length 4, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 415
+...iquidação: R$3.018.149. - Newtel Par(cid:415)cipações S. A.  – Em liquidação: R$8.35...
+                                           ^^^^174
+Offset 17985, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘a natureza do’ é uma expressão prolixa. É preferível dizer “o”
+Suggestion: o
+...referido período, o que desqualificaria a natureza do pagamento como distribuição de dividend...
+                                           ^^^^^^^^^^^^^175
+Offset 19531, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...cro líquido ajustado de cada exercício, em conformidade com a Lei das Sociedades por Ações e o Esta...
+                                           ^^^^^^^^^^^^^^^^^^^176
+Offset 23498, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...nceiros da Companhia foram determinados por meio de informações disponíveis no mercado e me...
+                                           ^^^^^^^^^^^177
+Offset 25017, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...cuperar  Apresentados ao valor contábil uma vez que não há parâmetros para apuração de seu ...
+                                           ^^^^^^^^^^^178
+Offset 26603, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: Conforme a; Segundo a; Consoante a
+... 15.   REMUNERAÇÃO DOS ADMINISTRADORES  De acordo com a Lei das Sociedades por Ações e com o Es...
+                                           ^^^^^^^^^^^^^^^179
+Offset 27258, length 10, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: não haver
+...29 de abril 36  A administração entende que não há eventos subsequentes além dos divulgado...
+                                           ^^^^^^^^^^

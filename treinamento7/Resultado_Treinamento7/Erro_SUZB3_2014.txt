@@ -1,0 +1,268 @@
+154
+Offset 870, length 1, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...Estados da Bahia, Maranhão e São Paulo. A  comercialização de seus produtos no me...
+                                           ^155
+Offset 939, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...odutos no mercado internacional é feita através de vendas  diretas e, principalmente, por ...
+                                           ^^^^^^^^^^156
+Offset 985, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...s de vendas  diretas e, principalmente, por meio de suas controladas localizadas no exterio...
+                                           ^^^^^^^^^^^157
+Offset 2441, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...ienação  da  participação  da  Suzano,  através  de  sociedade  sob  seu  controle,  no   C...
+                                           ^^^^^^^^^^^158
+Offset 3462, length 18, Rule ID: PARONYM_CIRCUNSTANCIA_54
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: as circunstâncias
+...a  dos  eventos  acima  que  alteraram  as  circunstancias  e  probabilidade  de  recuperação  dos...
+                                           ^^^^^^^^^^^^^^^^^^159
+Offset 16415, length 25, Rule ID: COLOCACAO_ADVERBIO
+Message: Esta frase poderia soar melhor com o verbo antes de necessariamente.
+Suggestion: influiria necessariamente 
+... fixo  em qualquer circunstância, o que necessariamente influiria no número de ações a  serem  emitidas, ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^160
+Offset 17737, length 5, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: em; de
+...a alterações no  passivo não circulante em de 31 de dezembro de 2012 devido à transaç...
+                                           ^^^^^161
+Offset 23258, length 14, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: são resultados; é resultado
+...alor  recuperável,  quando  aplicável,  são  resultado,  quando  incorridos, na rubrica de rec...
+                                           ^^^^^^^^^^^^^^162
+Offset 24869, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...ativo,  o  valor  justo  é  determinado por meio de técnicas de avaliação. Essas técnicas i...
+                                           ^^^^^^^^^^^163
+Offset 29227, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e têm
+...intangíveis adquiridos pela  Companhia  e  que  têm  vidas  úteis  finitas  são  mensurados...
+                                           ^^^^^^^^^^^164
+Offset 30623, length 2, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...idos diretamente no patrimônio líquido. Os  juros  incorridos  sobre  o  passivo  ...
+                                           ^^165
+Offset 31470, length 25, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: calculados com
+... o  imposto  corrente  e  o  diferido,  que  são  calculados  com  base  nos  resultados  tributáveis  (l...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^166
+Offset 32925, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na medida em que’ é uma expressão prolixa. É preferível dizer “enquanto”
+Suggestion: enquanto
+...da data de  relatório e serão reduzidos na medida em que sua realização não seja mais provável. ...
+                                           ^^^^^^^^^^^^^^^^167
+Offset 32966, length 13, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘mais provável’ é um pleonasmo. É preferível dizer “provável”
+Suggestion: provável
+...a medida em que sua realização não seja mais provável.   3.15. Subvenções e assistências gove...
+                                           ^^^^^^^^^^^^^168
+Offset 35721, length 25, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...  é                         calculado  levando  em  consideração  os  fluxos  de  caixa  contratuais  e ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^169
+Offset 36332, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...es contábeis individuais e consolidadas de acordo com  as  normas  IFRS  e  as  normas  CPC  exig...
+                                           ^^^^^^^^^^^^^^^^^170
+Offset 39622, length 14, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: o plano deve; o plano devém
+...a, e as ações necessárias para concluir o plano  devem indicar que é improvável que possa have...
+                                           ^^^^^^^^^^^^^^171
+Offset 39645, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: ser
+...as para concluir o plano  devem indicar que é improvável que possa haver alterações s...
+                                           ^^^^^172
+Offset 47643, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+... prevalecentes  nas datas dos balanços, de acordo com as cotações da BM&FBovespa.    O  valor  j...
+                                           ^^^^^^^^^^^^^^^^173
+Offset 73384, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...elo  valor  justo  estão  apresentados  de  acordo com os níveis definidos a seguir:   •  Nível  ...
+                                           ^^^^^^^^^^^^^^^^^174
+Offset 74195, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis para
+...m mercados ativos incluídos no  Nível 1 que são observáveis para o ativo ou passivo, diretamente (como p...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^175
+Offset 77964, length 4, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Vide’ é uma expressão prolixa. É preferível dizer “veja”
+Suggestion: Veja
+...a créditos de liquidação duvidosa  (1)  Vide Nota 10.   Controladora  Consolidado  3...
+                                           ^^^^176
+Offset 82407, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...  parte  destes  montantes  recolhidos  através  de  compensação  de  créditos  de  imposto...
+                                           ^^^^^^^^^^^177
+Offset 89681, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...9/08,  convertida  na  Lei  11.941/09,  por meio de registros no LALUR e controles auxiliar...
+                                           ^^^^^^^^^^^178
+Offset 94732, length 2, Rule ID: CHILDISH_LANGUAGE
+Message: Linguagem infantil. Considere as alternativas.
+...lusivo Report       Acionistas  Concess ão de  fianças Venda de papel  Venda de pa...
+                                           ^^179
+Offset 107014, length 14, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: incluindo
+...do  pessoal- chave  da  Administração,  o  que  inclui  o  Conselho  de  Administração,  Conse...
+                                           ^^^^^^^^^^^^^^180
+Offset 111142, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerou
+...o  do  valor  justo  dos  seus  ativos  levou  em  consideração todos os custos compreendendo a implant...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^181
+Offset 111920, length 2, Rule ID: SI_UNITS_EXPONENT
+Message: Os expoentes devem estar em sobrescrito.
+Suggestion: m³
+...mento  Médio  Anual  (“IMA”)  de  36,8  m3  /  hectare / ano (mesma produtividade ...
+                                           ^^182
+Offset 112470, length 2, Rule ID: SI_UNITS_EXPONENT
+Message: Os expoentes devem estar em sobrescrito.
+Suggestion: m³
+...líquido médio de venda foi de R$51,79 / m3 (31 de dezembro  de  2012,  R$50,20  / ...
+                                           ^^183
+Offset 112513, length 2, Rule ID: SI_UNITS_EXPONENT
+Message: Os expoentes devem estar em sobrescrito.
+Suggestion: m³
+...(31 de dezembro  de  2012,  R$50,20  /  m3).  A  taxa  de  desconto  utilizada  fo...
+                                           ^^184
+Offset 113360, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...oclimáticos, é realizado monitoramento  através de estações meteorológicas e, nos casos de...
+                                           ^^^^^^^^^^185
+Offset 133039, length 12, Rule ID: CONSISTE_DE_BR
+Message: Consistir é um verbo transitivo indireto e requer a preposição em. Substitua «consiste de» por “consiste em”.
+Suggestion: consiste em
+...a  útil  remanescente.  Sua  aplicação  consiste  de  diversas  etapas.  Primeiro,  projetam...
+                                           ^^^^^^^^^^^^186
+Offset 133150, length 15, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: envolvendo
+...  caixa  que  o  ativo  deverá  gerar,  o  que  envolve  uma  análise  de  dados  financeiros  ...
+                                           ^^^^^^^^^^^^^^^187
+Offset 133457, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘ao longo do tempo’ é uma expressão prolixa. É preferível dizer “temporal” ou “temporalmente”
+Suggestion: temporal; temporalmente
+...retorno que reflita o valor do dinheiro ao longo do tempo e o risco do ativo. O valor justo  será...
+                                           ^^^^^^^^^^^^^^^^^188
+Offset 138328, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...P Paribas no  valor total de US$20.000, com o objetivo de financiar equipamentos importados para ...
+                                           ^^^^^^^^^^^^^^^^^189
+Offset 149967, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...mpanhia  figura  no  polo  passivo  em  aproximadamente  300  processos  administrativos  e  ju...
+                                           ^^^^^^^^^^^^^^^190
+Offset 151534, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...mpanhia  figura  no  polo  passivo  em  aproximadamente  1.617  processos  de  natureza  trabal...
+                                           ^^^^^^^^^^^^^^^191
+Offset 155094, length 3, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sul
+...  •  Programa  de  assistência  médica  Sul  América  Saúde  (unidade  de  Limeira,...
+                                           ^^^192
+Offset 155207, length 3, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sul
+...o custeio de assistência médica junto a Sul América, para o  conjunto  de  ex-funci...
+                                           ^^^193
+Offset 160612, length 6, Rule ID: IRREGULAR_PAST_PARTICIPLES
+Message: Com o verbo ‘ser’ deve utilizar-se o particípio passado irregular.
+Suggestion: fixo
+...gentes até 31 de dezembro de 2012 será  fixado no valor mínimo de R$9,00 por ação.   E...
+                                           ^^^^^^194
+Offset 162485, length 11, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: seja
+...omo  deverão ser provenientes, conforme venha a ser sugerido pelo Comitê de Gestão e  aprov...
+                                           ^^^^^^^^^^^195
+Offset 162603, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+...stração: (i) da emissão de novas ações, dentro  do  limite  do  capital  autorizado  da  C...
+                                           ^^^^^^^^^^196
+Offset 164120, length 6, Rule ID: IRREGULAR_PAST_PARTICIPLES
+Message: Com o verbo ‘irser’ deve utilizar-se o particípio passado irregular.
+Suggestion: fixo
+...Opções.   O  Preço  de  Exercício  foi  fixado,  por  opção,  em  R$15,53  para  o  pr...
+                                           ^^^^^^197
+Offset 166565, length 9, Rule ID: PARONYM_INICIO_169
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: no início
+...  Carência  2a.  Carência  Disponíveis  no inicio do  periodo   Outorgas no  periodo  Exe...
+                                           ^^^^^^^^^198
+Offset 183098, length 25, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...lada  para  cada  data  de  exercício,  levando  em  consideração  o  tempo  remanescente  para  completa...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^199
+Offset 183863, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...ada para cada data de exercício altera  de acordo com o período de aquisição.   Os  valores  co...
+                                           ^^^^^^^^^^^^^^^200
+Offset 184888, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; Categoria de
+...erísticas do contrato Valor do contrato Tipo de imóvel Tipo de contrato  Companhia secu...
+                                           ^^^^^^^201
+Offset 184903, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; Categoria de
+...ntrato Valor do contrato Tipo de imóvel Tipo de contrato  Companhia securitizadora / em...
+                                           ^^^^^^^202
+Offset 202938, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativo à
+...  5.192.292  (a)   Inclui  o  montante  relativo  a  contribuição  social  ao  Instituto  N...
+                                           ^^^^^^^^^^^203
+Offset 207219, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...  terras  em  Jundiapeba/SP  alienados  através  de  leilão em dezembro/2012; e   Imóvel  –...
+                                           ^^^^^^^^^^^204
+Offset 207365, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...a  Companhia  em  São  Paulo,  alienado através de leilão em dezembro/2012.   Em  31  de  ...
+                                           ^^^^^^^^^^205
+Offset 208853, length 3, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sul
+...rmou  contrato  com  a  Ferrovia  Norte Sul S.A. para o transporte ferroviário de 1...
+                                           ^^^206
+Offset 209371, length 14, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: incluindo
+...ontante  aproximado  de  R$  2.973.789  o  que  inclui  o  valor  inicial  contratado  e  adic...
+                                           ^^^^^^^^^^^^^^207
+Offset 209541, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+... residual  desses  compromissos  é  de  aproximadamente  5%  do  valor  contratado.  Os  contra...
+                                           ^^^^^^^^^^^^^^^

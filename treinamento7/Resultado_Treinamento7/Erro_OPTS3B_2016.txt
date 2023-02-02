@@ -1,0 +1,90 @@
+103
+Offset 1020, length 3, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sul
+...wtel Participações S.A. ("Newtel").   A Sul 116 é uma companhia aberta registrada n...
+                                           ^^^104
+Offset 2927, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+... preparação das demonstrações contábeis de acordo com as normas do CPC exige que a Administração...
+                                           ^^^^^^^^^^^^^^^^105
+Offset 3203, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...liquidação  das  operações  envolvendo  essas  estimativas  poderá resultar em valores diferentes dos esti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^106
+Offset 3466, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...o   O resultado das operações é apurado em conformidade com o regime contábil de competência de exe...
+                                           ^^^^^^^^^^^^^^^^^^^107
+Offset 3725, length 20, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mantidos com
+...isco  de  variação no valor de mercado, que são mantidos com a finalidade de atender a compromissos ...
+                                           ^^^^^^^^^^^^^^^^^^^^108
+Offset 6452, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...lo método indireto e estão apresentadas de acordo  com a Deliberação CVM n° 641, de 7 de outubro...
+                                           ^^^^^^^^^^^^^^^^109
+Offset 12293, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...ro líquido ajustado de cada  exercício, em conformidade com a Lei das Sociedades por Ações e o Esta...
+                                           ^^^^^^^^^^^^^^^^^^^110
+Offset 17779, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘a natureza do’ é uma expressão prolixa. É preferível dizer “o”
+Suggestion: o
+...erido período, o que se desqualificaria a natureza do pagamento como distribuição  de dividen...
+                                           ^^^^^^^^^^^^^111
+Offset 18336, length 16, Rule ID: QUE_SUBJ_VS_INF_PESS
+Message: Esta perífrase pode ser simplificada.
+...ginal  de  R$  6.107,  bem  como  para  que  retificasse  o  saldo do prejuízo fiscal e da base ...
+                                           ^^^^^^^^^^^^^^^^112
+Offset 20283, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+... pela União Federal contra  a Companhia com o objetivo de que fosse declarada a indisponibilidade...
+                                           ^^^^^^^^^^^^^^^^^113
+Offset 20341, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...que fosse declarada a indisponibilidade de os seus bens até o montante de R$  97.488,...
+                                           ^^^^^114
+Offset 21160, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...izada  pela  União  Federal  contra a Companhia com o objetivo de exigir supostos débitos de IRPJ...
+                                           ^^^^^^^^^^^^^^^^^115
+Offset 21387, length 9, Rule ID: QUE_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+...tembro  de  2014  a  Companhia informou que havia quitado o débito sub judice, antes do a...
+                                           ^^^^^^^^^116
+Offset 21414, length 10, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘sub judice’ é uma expressão prolixa. É preferível dizer “em apreço” ou “em julgamento”
+Suggestion: em apreço; em julgamento
+...hia informou que havia quitado o débito sub judice, antes do ajuizamento da presente execu...
+                                           ^^^^^^^^^^117
+Offset 21943, length 12, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...os  da  Companhia  foram  determinados  por  meio de informações disponíveis no mercado e me...
+                                           ^^^^^^^^^^^^118
+Offset 23457, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...uperar   Apresentados ao valor contábil uma vez que não há parâmetros para apuração de seu ...
+                                           ^^^^^^^^^^^119
+Offset 25075, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: Conforme a; Segundo a; Consoante a
+... 14.  REMUNERAÇÃO DOS ADMINISTRADORES   De acordo com a Lei das Sociedades por Ações e com o Es...
+                                           ^^^^^^^^^^^^^^^120
+Offset 25853, length 16, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: afetar; influenciar
+...es ocorridos até esta data que pudessem ter efeito sobre o conteúdo aqui  divulgado.   11       ...
+                                           ^^^^^^^^^^^^^^^^

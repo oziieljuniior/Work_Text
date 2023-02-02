@@ -1,0 +1,26 @@
+23
+Offset 142, length 7, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sudeste
+...reais)   1 -  Contexto Operacional   A  Sudeste  S.A.  (“Companhia”),  sociedade  de  c...
+                                           ^^^^^^^24
+Offset 1343, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...s e  estão apresentadas  em reais (R$), que é a  moeda do principal ambiente econômic...
+                                           ^^^^^25
+Offset 2800, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...iclo Anual de Melhorias (2012 – 2014),  no qual o CPC faz pequenas alterações em uma sé...
+                                           ^^^^^^^26
+Offset 2871, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...rações em uma série de pronunciamentos, com o objetivo de  esclarecer as normas atuais e evitar d...
+                                           ^^^^^^^^^^^^^^^^^27
+Offset 7253, length 20, Rule ID: SIMPLIFICAR_VERBO_TER_MAIS_PARTICIPIO_PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: contabilizara; contabilizei; contabilizou
+...  de  2016  e  2015  a  Companhia  não  tinha  contabilizado  ativos  e  passivos  contingentes e nã...
+                                           ^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,30 @@
+1
+Offset 196, length 7, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sudeste
+...mitidos)   1.  Contexto operacional   A Sudeste S.A. (“Companhia”), empresa de capital ...
+                                           ^^^^^^^2
+Offset 1210, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...das e estão apresentadas em reais (R$), que é a moeda do principal ambiente  econômic...
+                                           ^^^^^3
+Offset 4235, length 1, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...calculada com base na alíquota de 9%.   A  Companhia  não  apurou  lucro  tributá...
+                                           ^4
+Offset 5121, length 25, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas  estimativas poderá resultar em valores diferentes dos esti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^5
+Offset 7992, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...stração desses instrumentos é  efetuada por meio de estratégias operacionais e controles in...
+                                           ^^^^^^^^^^^6
+Offset 9726, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: Conforme a; Segundo a; Consoante a
+...  7. Serviços do auditor independente   De acordo com a Instrução CVM nº 381 de 14 de janeiro d...
+                                           ^^^^^^^^^^^^^^^

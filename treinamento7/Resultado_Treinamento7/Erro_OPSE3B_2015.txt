@@ -1,0 +1,21 @@
+19
+Offset 154, length 7, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sudeste
+...tidos)   1 -  Contexto Operacional   A  Sudeste  S.A.  (“Companhia”),  sociedade  de  c...
+                                           ^^^^^^^20
+Offset 1285, length 6, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+... estão  apresentadas  em  reais  (R$),  que  é  a  moeda  do  principal  ambiente econ...
+                                           ^^^^^^21
+Offset 3657, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores diferentes  dos est...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^22
+Offset 7349, length 12, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...nceiros da Companhia foram determinados por meio  de informações disponíveis no mercado e me...
+                                           ^^^^^^^^^^^^

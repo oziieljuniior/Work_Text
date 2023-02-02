@@ -118,6 +118,7 @@ for caminho in lista_caminho:
                     aperro.write(str(erro_local))
                     aperro.write('\n')
                     aperro.write(str(matches[i]))
+                    aperro.write('\n')
             aperro.close()
             print("Análise realizada com sucesso!")
             print("Relatório criado com sucesso")
@@ -162,7 +163,7 @@ for caminho in lista_caminho:
 excel2.save('C:\\Users\\Riallen\\Documents\\Att\\Resultado_Treinamento7\\' + "Data_Local.xlsx")
 print("Calculando quantidade total de erros")
 a = []
-data = pd.read_excel(path + "/Data_Local.xlsx")
+data = pd.read_excel('C:\\Users\\Riallen\\Documents\\Att\\Resultado_Treinamento7\\' + "Data_Local.xlsx")
 #print(len(data))
 #print(data.columns)
 for i in range(0,len(data)):

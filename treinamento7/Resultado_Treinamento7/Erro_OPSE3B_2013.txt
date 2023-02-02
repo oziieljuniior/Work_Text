@@ -1,0 +1,36 @@
+7
+Offset 141, length 7, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sudeste
+... reais)   1.  Contexto Operacional   A  Sudeste  S.A.  (“Companhia”),  sociedade  de  c...
+                                           ^^^^^^^8
+Offset 1191, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...das e estão apresentadas em reais (R$), que é a moeda do principal ambiente  econômic...
+                                           ^^^^^9
+Offset 1354, length 5, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: em
+...ntábeis foi aprovada pela Administração em em 28 de fevereiro de 2013.   3.  Resumo d...
+                                           ^^^^^10
+Offset 2661, length 16, Rule ID: OLD_SPELLING_U
+Message: O trema deixou de ser utilizado em Português com o Acordo de 1945.
+Suggestion: consequentemente
+...ia  não  apurou  lucro  tributável  e,  conseqüentemente,  não  obteve  base  de  calculo  posit...
+                                           ^^^^^^^^^^^^^^^^11
+Offset 2699, length 11, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de cálculo
+...  conseqüentemente,  não  obteve  base  de  calculo  positiva  para  imposto  de  renda e c...
+                                           ^^^^^^^^^^^12
+Offset 3419, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... liquidação  das  transações envolvendo essas estimativas poderá resultar em valores diferentes dos esti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^13
+Offset 7091, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...nceiros da Companhia foram determinados por meio de  informações  disponíveis no mercado e ...
+                                           ^^^^^^^^^^^
