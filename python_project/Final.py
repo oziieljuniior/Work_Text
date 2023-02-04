@@ -77,6 +77,7 @@ for caminho in lista_caminho:
     erro_local = 0
     #Condicional para realizar a captura e análise textual
     if len(caminho_pdf) != 0:
+        caminho_pdf.sort()
         #contador qualquer
         contador = 0
         excel3 = Workbook()
