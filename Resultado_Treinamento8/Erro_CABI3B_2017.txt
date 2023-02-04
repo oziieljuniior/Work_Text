@@ -1,0 +1,54 @@
+Erro: 15
+Offset 1587, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...s da Companhia estão sendo apresentadas em conformidade com as  práticas contábeis adotadas no Bras...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 16
+Offset 1788, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+... (CPC), aprovados pela CVM (BR GAAP), e em conformidade com  as normas internacionais de relatórios...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 17
+Offset 3516, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores  diferentes dos est...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 18
+Offset 3817, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...ão do resultado   O resultado é apurado em conformidade com o regime de competência.   (b)   Caixa ...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 19
+Offset 3951, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na medida em que’ é uma expressão prolixa. É preferível dizer “enquanto”
+Suggestion: enquanto
+...quivalentes de caixa incluem o caixa e, na medida em que haja disponibilidade de recursos,  pode...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 20
+Offset 5526, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquido
+...mbro de 2015 – R$ 25).   6   Patrimônio Liquido   (a)   Capital social   Em Ata de Reun...
+                                           ^^^^^^^
+Erro: 21
+Offset 6417, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinado à
+... destinados ao capital  social e R$ 450 destinado a reserva de capital. O saldo remanescent...
+                                           ^^^^^^^^^^^
+Erro: 22
+Offset 6493, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinado à
+...ldo remanescente no valor de R$ 400 foi destinado a  conta de reserva de capital a integral...
+                                           ^^^^^^^^^^^
+Erro: 23
+Offset 10531, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...ssociadas com seus passivos financeiros que  são liquidados com pagamentos à vista ou com outro ativo f...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^

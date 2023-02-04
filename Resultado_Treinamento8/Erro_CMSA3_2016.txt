@@ -1,0 +1,96 @@
+Erro: 41
+Offset 2186, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...ntação dessas demonstrações financeiras de acordo com as práticas contábeis adotadas no Brasil, ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 42
+Offset 2620, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+... com base em nossa auditoria, conduzida de acordo com as normas brasileiras e internacionais de ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 43
+Offset 2805, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+... a auditoria seja planejada e executada com o objetivo de obter segurança razoável de que as demo...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 44
+Offset 3501, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: apropriados nas
+... planejar os procedimentos de auditoria que são apropriados nas circunstâncias, mas não para fins de ex...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 45
+Offset 4365, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...xa para o exercício findo naquela data, de acordo com as práticas contábeis adotadas no Brasil. ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 46
+Offset 10181, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...onstrações financeiras foram preparadas de acordo com as práticas contábeis adotadas no Brasil, ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 47
+Offset 10935, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores divergentes dos reg...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 48
+Offset 15338, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...s operações, atualizados monetariamente de acordo com as regras legais, e representam créditos f...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 49
+Offset 17719, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...são preços cotados incluídos no Nível 1 e que são observáveis para o ativo ou passivo, se...
+                                           ^^^^^^^^^
+Erro: 50
+Offset 17983, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: significativo para
+...alor justo no nível mais baixo do input que é significativo para a mensuração como um todo.  4.  Aplicaç...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 51
+Offset 19237, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+...es com partes relacionadas  A Companhia não efetuou qualquer remuneração a diretores, administradore...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 52
+Offset 22817, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...istração desses instrumentos é efetuada por meio de estratégias operacionais e controles in...
+                                           ^^^^^^^^^^^
+Erro: 53
+Offset 24495, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...isco operacional vem sendo implementada por meio de várias ações. A primeira está sendo a i...
+                                           ^^^^^^^^^^^
+Erro: 54
+Offset 24653, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na medida em que’ é uma expressão prolixa. É preferível dizer “enquanto”
+Suggestion: enquanto
+...tos têm sido divulgados paulatinamente, na medida em que os processos são concluídos.  Risco de ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 55
+Offset 24723, length 8, Rule ID: O_FACTO_DA_ACÇÂO
+Message: Nesta expressão não deve utilizar a contração.
+Suggestion: risco de a
+...são concluídos.  Risco de liquidez  É o risco da Companhia não dispor de recursos líquid...
+                                           ^^^^^^^^
+Erro: 56
+Offset 25792, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não possui nenhum; não possui nenhuma; não, possui quaisquer
+...monial.  13. Contingências  A Companhia não possui quaisquer processos judiciais ou administrativos ...
+                                           ^^^^^^^^^^^^^^^^^^^^

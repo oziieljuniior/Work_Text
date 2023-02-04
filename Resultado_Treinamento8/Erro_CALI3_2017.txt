@@ -1,0 +1,144 @@
+Erro: 96
+Offset 830, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tem como objetivo’ é uma expressão prolixa. É preferível dizer “visa”, “pretende” ou “procura”
+Suggestion: visa; pretende; procura
+...ndimentos imobiliários. Adicionalmente, tem como objetivo a participação no capital social em  ou...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 97
+Offset 1623, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...iduais e consolidadas, foram preparadas de acordo com as  práticas contábeis adotadas no Brasil,...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 98
+Offset 1924, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...e Valores Mobiliários - CVM, que  estão em conformidade com as “International Financial Reporting S...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 99
+Offset 3029, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...financeiras consolidadas são preparadas em conformidade com os princípios de  consolidação emanados...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 100
+Offset 4310, length 14, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+...nhecimento dessas  estimativas, poderão ser diferentes dos valores reconhecidos nas presentes ...
+                                           ^^^^^^^^^^^^^^
+Erro: 101
+Offset 5607, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...nte o valor contábil líquido dos ativos com o objetivo de avaliar  eventos ou mudanças nas circun...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 102
+Offset 6869, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...ase no  resultado do exercício ajustado de acordo com a legislação fiscal vigente. O imposto de...
+                                           ^^^^^^^^^^^^^^^
+Erro: 103
+Offset 7776, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...os ao  resultado conforme sua execução, em conformidade com o período de competência.   3.9.  Apura...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 104
+Offset 9096, length 26, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘A partir do momento em que’ é uma expressão prolixa. É preferível dizer “desde” ou “quando”
+Suggestion: Desde; Quando
+...para reconhecimento  do resultado:     A partir do momento em que o empreendimento imobiliário lançado nã...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 105
+Offset 12283, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...rovisões são revisadas e ajustadas para levar em conta alterações nas  circunstâncias, tais co...
+                                           ^^^^^^^^^^^^^^
+Erro: 106
+Offset 14515, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...ado são preparadas e estão apresentadas de acordo com a  Deliberação CVM nº 557, de 12 de novem...
+                                           ^^^^^^^^^^^^^^^
+Erro: 107
+Offset 15326, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+... de   Alterações à IFRS 11   Alterações à IAS 1   Consolidação  Contabilizações de Aq...
+                                           ^^^^^
+Erro: 108
+Offset 16185, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...ada ou “Joint Venture” (d)   Alterações à IAS 7  Alterações à IAS 12   Iniciativa de ...
+                                           ^^^^^
+Erro: 109
+Offset 16205, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...e” (d)   Alterações à IAS 7  Alterações à IAS 12   Iniciativa de Divulgação (d)  Reco...
+                                           ^^^^^
+Erro: 110
+Offset 16345, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+... IFRIC 22  Melhorias Anuais  Alterações à IAS 40   Transações com Adiantamentos em Mo...
+                                           ^^^^^
+Erro: 111
+Offset 26682, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+... (835)  13.860   (a)  Em março de 2016, através de contrato particular de compra e venda d...
+                                           ^^^^^^^^^^
+Erro: 112
+Offset 27523, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...a reserva especial.   Em abril de 2016, através de instrumento particular de compra e vend...
+                                           ^^^^^^^^^^
+Erro: 113
+Offset 30396, length 10, Rule ID: DEVE_DE
+Message: Substitua por “devidos”.
+Suggestion: devidos
+... de determinado percentual dos valores  devidos de multa e juros, dependendo do prazo de p...
+                                           ^^^^^^^^^^
+Erro: 114
+Offset 32446, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...cio o processo  de reversão da provisão de acordo com a curva de gastos históricos definidos pe...
+                                           ^^^^^^^^^^^^^^^
+Erro: 115
+Offset 36128, length 16, Rule ID: PHRASAL_VERB_RESIDIR_EM
+Message: Erro de regência. Dependendo do significado, escolha:
+Suggestion: morais em coletivos; morais com coletivos
+...ois tópicos:  (1) indenização por danos morais coletivos; e (2) obrigações de fazer elencadas na...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 116
+Offset 39769, length 11, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: não haver
+...6, a Administração da Companhia avaliou que não  há expectativa de geração de lucro tributá...
+                                           ^^^^^^^^^^^
+Erro: 117
+Offset 45954, length 14, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘A NATUREZA DOS’ é uma expressão prolixa. É preferível dizer “os”
+Suggestion: Os
+... e Controladas   16.  INFORMAÇÕES SOBRE A NATUREZA DOS CUSTOS E DAS DESPESAS   Controladora   ...
+                                           ^^^^^^^^^^^^^^
+Erro: 118
+Offset 47561, length 8, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tipos de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categorias de”
+Suggestion: APAGAR; categorias de
+...licações  em instituições financeiras e tipos de investimentos ofertados no mercado fina...
+                                           ^^^^^^^^
+Erro: 119
+Offset 48980, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...do e os saldos  estão sendo atualizados de acordo com os contratos firmados.   c)  Hierarquia de...
+                                           ^^^^^^^^^^^^^^^^

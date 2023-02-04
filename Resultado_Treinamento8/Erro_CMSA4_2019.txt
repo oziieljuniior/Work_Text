@@ -1,0 +1,150 @@
+Erro: 1
+Offset 1220, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...ixa para o exercício findo nessa data,  de acordo com as práticas contábeis adotadas no Brasil. ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 1329, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...opinião   Nossa auditoria foi conduzida de acordo com as normas brasileiras e internacionais de ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 1423, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...e auditoria. Nossas  responsabilidades, em conformidade com tais normas, estão descritas na seção a...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 1598, length 13, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: em relação à
+...trações contábeis”. Somos independentes em  relação a Companhia, de acordo com os princípios ...
+                                           ^^^^^^^^^^^^^
+Erro: 5
+Offset 1623, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+... independentes em  relação a Companhia, de acordo com os princípios éticos relevantes previstos ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 5139, length 15, Rule ID: ESTAR_DE_ACORDO
+Message: Substitua por
+Suggestion: concordam; correspondem; validam; confirmam
+... aplicável, e se a sua forma e conteúdo estão de acordo com os critérios definidos no  Pronunci...
+                                           ^^^^^^^^^^^^^^^
+Erro: 7
+Offset 5706, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...resentação das demonstrações contábeis  de acordo com as práticas contábeis adotadas no Brasil e...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 6263, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘a não ser que’ é uma expressão prolixa. É preferível dizer “exceto se”
+Suggestion: exceto se
+...laboração das demonstrações  contábeis, a não ser que a administração pretenda liquidar a Com...
+                                           ^^^^^^^^^^^^^
+Erro: 9
+Offset 7101, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...a garantia de que a auditoria realizada de acordo com as normas brasileiras e internacionais de ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 7547, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...  Como parte de uma auditoria realizada de acordo com as normas brasileiras e internacionais de ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 8110, length 14, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “é maior que”.
+Suggestion: é maior que
+...storção relevante resultante  de fraude é maior do que o proveniente de erro, já que a fraude ...
+                                           ^^^^^^^^^^^^^^
+Erro: 12
+Offset 8450, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+... apropriados às circunstâncias, mas não com o objetivo de expressarmos  opinião sobre a eficácia ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 9724, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...ões e os  eventos de maneira compatível com o objetivo de apresentação adequada.   Comunicamo-nos...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 14
+Offset 17821, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...emonstrações contábeis foram preparadas de acordo com as práticas contábeis adotadas no Brasil, ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 15
+Offset 21432, length 8, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: aluguéis
+...nanceiro relacionado com o pagamento de alugueis.  ICPC  22/IFRIC  23  –  Incerteza  sob...
+                                           ^^^^^^^^
+Erro: 16
+Offset 21755, length 13, Rule ID: IRREGULAR_PAST_PARTICIPLES
+Message: A forma correta deste particípio é aceites.
+Suggestion: foram aceites
+...o  onde  as  posições fiscais ainda não foram aceitas pelas autoridades tributárias.   •   • ...
+                                           ^^^^^^^^^^^^^
+Erro: 17
+Offset 22714, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...equivalentes de caixa são classificados em conformidade com seu prazo de realização, sendo  demonst...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 18
+Offset 28524, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...são preços cotados incluídos no Nível 1 e que são observáveis  para o ativo ou passivo, s...
+                                           ^^^^^^^^^
+Erro: 19
+Offset 28792, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: significativo para
+...alor justo no nível mais baixo do input que é significativo para a mensuração como um  todo.   3.8.  Dem...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 20
+Offset 29404, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...lo método indireto e estão apresentadas de  acordo com o CPC 03 (R2).   4.  CAIXA E EQUIVALENTES...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 21
+Offset 30769, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+...S COM PARTES RELACIONADAS   A Companhia não efetuou qualquer remuneração a diretores, administradore...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 22
+Offset 34734, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...sco operacional  vem sendo implementada por meio de várias ações. A primeira está sendo a i...
+                                           ^^^^^^^^^^^
+Erro: 23
+Offset 34893, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na medida em que’ é uma expressão prolixa. É preferível dizer “enquanto”
+Suggestion: enquanto
+...tos têm sido divulgados paulatinamente, na medida em  que os processos são concluídos.   Risco de...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 24
+Offset 35958, length 8, Rule ID: O_FACTO_DA_ACÇÂO
+Message: Nesta expressão não deve utilizar a contração.
+Suggestion: risco de a
+... patrimonial.   Risco de liquidez   É o risco da Companhia não dispor de recursos líquid...
+                                           ^^^^^^^^
+Erro: 25
+Offset 37453, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...anceiras ou despesas financeiras não se levando em consideração a incidência de tributos.    Dessa form...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,60 @@
+Erro: 88
+Offset 745, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...emonstrações contábeis foram elaboradas de acordo com as práticas contábeis adotadas no Brasil, ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 89
+Offset 1240, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...das e estão apresentadas em reais (R$), que é a moeda do  principal ambiente econômic...
+                                           ^^^^^
+Erro: 90
+Offset 3350, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+... operações,  atualizados monetariamente de acordo com as regras legais, e representam créditos f...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 91
+Offset 4203, length 16, Rule ID: OLD_SPELLING_U
+Message: O trema deixou de ser utilizado em Português com o Acordo de 1945.
+Suggestion: consequentemente
+...mpanhia, não apurou lucro tributável e, conseqüentemente, não obteve base de cálculo positiva  p...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 92
+Offset 5044, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar  em  valores  diferentes  dos ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 93
+Offset 6487, length 24, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não realizaram nenhum; não realizaram nenhuma; não, realizaram qualquer
+... 2011, a “Companhia”  e seus acionistas não realizaram  qualquer transação relacionada a contabilização ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 94
+Offset 6636, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+... valores  envolvidos.     A “Companhia” não efetuou qualquer remuneração a diretores, administradore...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 95
+Offset 7715, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...stração desses  instrumentos é efetuada por meio de estratégias operacionais e controles in...
+                                           ^^^^^^^^^^^
+Erro: 96
+Offset 8499, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...pra e venda com base em seu valor justo de  acordo com a estratégia de investimento e gerenciame...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 97
+Offset 9403, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: Conforme a; Segundo a; Consoante a
+...9.  Serviços do auditor independente    De acordo com a Instrução CVM nº 381 de 14 de janeiro d...
+                                           ^^^^^^^^^^^^^^^

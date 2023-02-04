@@ -1,0 +1,48 @@
+Erro: 45
+Offset 1450, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...m preparadas e estão sendo apresentadas de  acordo com as normas internacionais de relatórios fin...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 46
+Offset 1580, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...  Reporting Standards (IFRS) - IAS 1) e de acordo com a deliberação CVM 676/11 que aprovou o  C...
+                                           ^^^^^^^^^^^^^^^
+Erro: 47
+Offset 3032, length 25, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas  estimativas poderá resultar em valores diferentes dos esti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 48
+Offset 3369, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...ão do resultado   O resultado é apurado em conformidade com o regime de competência.   (b)   Caixa ...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 49
+Offset 3503, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na medida em que’ é uma expressão prolixa. É preferível dizer “enquanto”
+Suggestion: enquanto
+...quivalentes de caixa incluem o caixa e, na medida em que haja disponibilidade de  recursos, pode...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 50
+Offset 4852, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquido
+...mbro de 2016 – R$ 25).   6   Patrimônio Liquido   (a)   Capital social   Em Ata de Reun...
+                                           ^^^^^^^
+Erro: 51
+Offset 5915, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinado à
+...al. O saldo remanescente de R$  400 foi destinado a conta de reserva de capital a integrali...
+                                           ^^^^^^^^^^^
+Erro: 52
+Offset 9758, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...sociadas com seus passivos  financeiros que são liquidados com pagamentos à vista ou com outro ativo f...
+                                           ^^^^^^^^^^^^^^^^^^^^^^

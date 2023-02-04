@@ -1,0 +1,90 @@
+Erro: 208
+Offset 2040, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...iduais e consolidadas, foram preparadas de acordo com  as práticas contábeis adotadas no Brasil, ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 209
+Offset 4488, length 14, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+...onhecimento dessas estimativas, poderão ser diferentes dos valores reconhecidos nas  presentes...
+                                           ^^^^^^^^^^^^^^
+Erro: 210
+Offset 12809, length 16, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...es  são  revisadas  e  ajustadas  para  levar  em  conta  alterações  nas  circunstâncias,  tais...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 211
+Offset 15942, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...nunciamento   Descrição    Modificações à IAS 19 – Planos de  Benefícios Definidos: C...
+                                           ^^^^^
+Erro: 212
+Offset 17234, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...ontratuais  em conjunto.   Modificações à IAS 1 / CPC 26 (R1)  – Apresentação das Dem...
+                                           ^^^^^
+Erro: 213
+Offset 17923, length 6, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: as IAS
+...e amortização aceitáveis   Modificações às IAS 16 / CPC 27 –  Ativo Imobilizado e IAS ...
+                                           ^^^^^^
+Erro: 214
+Offset 30116, length 9, Rule ID: PARONYM_INICIO_169
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: no início
+...de 2015 e de 2014 é como segue:   Saldo no inicio do período  Juros  Amortização  Saldo n...
+                                           ^^^^^^^^^
+Erro: 215
+Offset 30606, length 11, Rule ID: CHAMAR_DENOMINAR_DE
+Message: Os verbos ‘chamar’ e ‘denominar’ são pronominais, a redação correta é sem preposição.
+Suggestion: chamado
+... Programa  de  Parcelamento  Especial,  chamado  de  REFIS  IV.  A  opção  pelos  parcelame...
+                                           ^^^^^^^^^^^
+Erro: 216
+Offset 31789, length 11, Rule ID: DEVE_DE
+Message: Substitua por “devidos”.
+Suggestion: devidos
+... determinado  percentual  dos  valores  devidos  de  multa  e  juros,  dependendo  do  praz...
+                                           ^^^^^^^^^^^
+Erro: 217
+Offset 33936, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...cio o  processo de reversão da provisão de acordo com a curva de gastos históricos definidos pe...
+                                           ^^^^^^^^^^^^^^^
+Erro: 218
+Offset 41050, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consideram
+...  do  estudo  técnico  de  viabilidade  levam  em  consideração contratos já assinados, variação de tax...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 219
+Offset 47442, length 14, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘A NATUREZA DOS’ é uma expressão prolixa. É preferível dizer “os”
+Suggestion: Os
+...  (629)    264   16.  INFORMAÇÕES SOBRE A NATUREZA DOS CUSTOS E DAS DESPESAS   Controladora   ...
+                                           ^^^^^^^^^^^^^^
+Erro: 220
+Offset 49183, length 8, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tipos de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categorias de”
+Suggestion: APAGAR; categorias de
+...plicações em instituições financeiras e tipos de investimentos ofertados no  mercado fin...
+                                           ^^^^^^^^
+Erro: 221
+Offset 50540, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...  e  os  saldos estão sendo atualizados de acordo com os contratos firmados.    c)  Hierarquia d...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 222
+Offset 50967, length 27, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis para
+...m mercados ativos incluídos no Nível 1  que  são  observáveis  para  o  ativo  ou  passivo,  diretamente  (...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^

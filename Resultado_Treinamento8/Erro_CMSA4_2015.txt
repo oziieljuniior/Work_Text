@@ -1,0 +1,35 @@
+Erro: 181
+Offset 1797, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores  divergentes  do...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 182
+Offset 2064, length 1, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+... e premissas, pelo menos anualmente.    A emissão das demonstrações financeiras f...
+                                           ^
+Erro: 183
+Offset 5258, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...s operações, atualizados monetariamente de acordo com as regras  legais, e representam créditos ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 184
+Offset 8594, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+...e destes  adiantamentos.    A Companhia não efetuou qualquer remuneração a diretores, administradore...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 185
+Offset 13407, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...istração desses instrumentos é efetuada por meio de estratégias  operacionais e controles i...
+                                           ^^^^^^^^^^^
+Erro: 186
+Offset 14186, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: Conforme a; Segundo a; Consoante a
+...stados pelos auditores independentes    De acordo com a Instrução CVM n° 381 de janeiro de 2003...
+                                           ^^^^^^^^^^^^^^^

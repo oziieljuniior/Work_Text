@@ -1,0 +1,497 @@
+Erro: 158
+Offset 3618, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...anindeua-PA.), equivale ao  montante de aproximadamente R$ 17.000, o que demonstra capacidade s...
+                                           ^^^^^^^^^^^^^^^
+Erro: 159
+Offset 3645, length 15, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: demonstrando
+... montante de aproximadamente R$ 17.000, o que demonstra capacidade suficiente para atender aos ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 160
+Offset 5305, length 5, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+... que requerem maior nível de julgamento e têm maior complexidade,  bem como as áreas ...
+                                           ^^^^^
+Erro: 161
+Offset 5898, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...às demonstrações financeiras separadas, uma vez que ele  passou a permitir a aplicação do m...
+                                           ^^^^^^^^^^^
+Erro: 162
+Offset 6074, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...onstrações separadas, elas também estão em conformidade com as normas  internacionais de relatório ...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 163
+Offset 7058, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...ompanhias  abertas. A DVA foi preparada de acordo com os critérios definidos no Pronunciamento T...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 164
+Offset 8072, length 5, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...ndos de seu envolvimento com a entidade e tem a habilidade de afetar esses retornos e...
+                                           ^^^^^
+Erro: 165
+Offset 10044, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...idos inicialmente na data da negociação na qual a  Companhia e suas controladas se torn...
+                                           ^^^^^^^
+Erro: 166
+Offset 10453, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...e um ativo financeiro em uma transação  na qual essencialmente todos os riscos e benefí...
+                                           ^^^^^^^
+Erro: 167
+Offset 13396, length 16, Rule ID: SER_CAPAZ_DE_CONSEGUIR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: consigam
+...l e condição necessários para que esses sejam capazes de operar da  forma pretendida pela Admini...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 168
+Offset 14373, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+...e os benefícios econômicos incorporados dentro do componente irão fluir para a  Companhia...
+                                           ^^^^^^^^^
+Erro: 169
+Offset 16040, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensurados pelo
+...e patentes e direito  de uso comercial, que são mensurados pelo custo, deduzido da amortização acumulad...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 170
+Offset 16922, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...ecine CWB Cinemat. Ltda., Bombocine CWB Com  de Alim. Ltda., Redecine LEO Cinemat. Ltda...
+                                           ^^^^^^^
+Erro: 171
+Offset 16965, length 4, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...  de Alim. Ltda., Redecine LEO Cinemat. Ltda., Bombocine LEO Com de Alim. Ltda., Red...
+                                           ^^^^
+Erro: 172
+Offset 16986, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...ecine LEO Cinemat. Ltda., Bombocine LEO Com de Alim. Ltda., Redecine FLN  Cinemat. Ltd...
+                                           ^^^^^^
+Erro: 173
+Offset 16999, length 4, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...emat. Ltda., Bombocine LEO Com de Alim. Ltda., Redecine FLN  Cinemat. Ltda., Bomboci...
+                                           ^^^^
+Erro: 174
+Offset 17029, length 4, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+... de Alim. Ltda., Redecine FLN  Cinemat. Ltda., Bombocine FLN Com de Alim. Ltda., Red...
+                                           ^^^^
+Erro: 175
+Offset 17050, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...cine FLN  Cinemat. Ltda., Bombocine FLN Com de Alim. Ltda., Redecine CRT Cinemat. Ltda...
+                                           ^^^^^^
+Erro: 176
+Offset 17063, length 4, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...emat. Ltda., Bombocine FLN Com de Alim. Ltda., Redecine CRT Cinemat. Ltda., Bombocin...
+                                           ^^^^
+Erro: 177
+Offset 17092, length 4, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...m de Alim. Ltda., Redecine CRT Cinemat. Ltda., Bombocine CRT Com  de Alim. Ltda., Re...
+                                           ^^^^
+Erro: 178
+Offset 17113, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...ecine CRT Cinemat. Ltda., Bombocine CRT Com  de Alim. Ltda., Redecine Litoral Cinemat. ...
+                                           ^^^^^^^
+Erro: 179
+Offset 17160, length 4, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+... Alim. Ltda., Redecine Litoral Cinemat. Ltda., Bombocine Litoral Com de Alim. Ltda.,...
+                                           ^^^^
+Erro: 180
+Offset 17185, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...toral Cinemat. Ltda., Bombocine Litoral Com de Alim. Ltda., Redecine SLZ  Cinemat. Ltd...
+                                           ^^^^^^
+Erro: 181
+Offset 17198, length 4, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+.... Ltda., Bombocine Litoral Com de Alim. Ltda., Redecine SLZ  Cinemat. Ltda., Bomboci...
+                                           ^^^^
+Erro: 182
+Offset 17228, length 4, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+... de Alim. Ltda., Redecine SLZ  Cinemat. Ltda., Bombocine SLZ Com de Alim. Ltda., Red...
+                                           ^^^^
+Erro: 183
+Offset 17249, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...cine SLZ  Cinemat. Ltda., Bombocine SLZ Com de Alim. Ltda., Redecine Hortolândia Cinem...
+                                           ^^^^^^
+Erro: 184
+Offset 17262, length 4, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...emat. Ltda., Bombocine SLZ Com de Alim. Ltda., Redecine Hortolândia Cinemat. Ltda., ...
+                                           ^^^^
+Erro: 185
+Offset 17299, length 4, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...m. Ltda., Redecine Hortolândia Cinemat. Ltda., Bombocine  Hortolândia Com de Alim. L...
+                                           ^^^^
+Erro: 186
+Offset 17329, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+... Cinemat. Ltda., Bombocine  Hortolândia Com de Alim. Ltda., Redecine BRA Cinemat. S.A....
+                                           ^^^^^^
+Erro: 187
+Offset 17391, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...decine BRA Cinemat. S.A., Bombocine BRA Com de Alim. S.A. e CCM  Participações Ltda.. ...
+                                           ^^^^^^
+Erro: 188
+Offset 18190, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...dos inicialmente na data de  negociação na qual a Companhia e suas controladas se torna...
+                                           ^^^^^^^
+Erro: 189
+Offset 20333, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...ica de outros resultados  operacionais, levando em consideração os prazos contratuais de cada modalidad...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 190
+Offset 22373, length 9, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...e do devedor, a reestruturação do valor devido  a Companhia sobre condições de que a Comp...
+                                           ^^^^^^^^^
+Erro: 191
+Offset 23692, length 9, Rule ID: À_VERBO_DE
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a taxar
+... fluxos de caixa  estimados descontados à taxa de juros efetiva original do ativo. As per...
+                                           ^^^^^^^^^
+Erro: 192
+Offset 25329, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...do. Essa alocação reflete o menor nível no qual o ágio é monitorado para fins internos ...
+                                           ^^^^^^^
+Erro: 193
+Offset 27170, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...eitas de mídia em tela são reconhecidas de acordo com as inserções de propaganda de nossos  clie...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 194
+Offset 30826, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na medida em que’ é uma expressão prolixa. É preferível dizer “enquanto”
+Suggestion: enquanto
+...nstrações financeiras e serão reduzidos na medida em que sua realização não seja mais provável. ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 195
+Offset 30867, length 13, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘mais provável’ é um pleonasmo. É preferível dizer “provável”
+Suggestion: provável
+...a medida em que sua realização não seja mais provável.   Ao determinar o seu imposto de renda...
+                                           ^^^^^^^^^^^^^
+Erro: 196
+Offset 30953, length 13, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considera; consideres
+...e renda corrente e diferido a Companhia leva em conta o impacto das  incertezas em relação à ...
+                                           ^^^^^^^^^^^^^
+Erro: 197
+Offset 31307, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘experiência passada’ é uma expressão prolixa. É preferível dizer “experiência”
+Suggestion: experiência
+...terpretação da  legislação tributária e experiência passada. Esta avaliação é baseada em estimativa...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 198
+Offset 31814, length 8, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...at. Ltda.  Redecine LEO Cinemat. Ltda.  Redecine FLN Cinemat. Ltda.  Redecine CRT Cinema...
+                                           ^^^^^^^^
+Erro: 199
+Offset 31843, length 8, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...at. Ltda.  Redecine FLN Cinemat. Ltda.  Redecine CRT Cinemat. Ltda.  Redecine Litoral Ci...
+                                           ^^^^^^^^
+Erro: 200
+Offset 31872, length 8, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...at. Ltda.  Redecine CRT Cinemat. Ltda.  Redecine Litoral Cinemat. Ltda.  Redecine SLZ Ci...
+                                           ^^^^^^^^
+Erro: 201
+Offset 31905, length 8, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...Ltda.  Redecine Litoral Cinemat. Ltda.  Redecine SLZ Cinemat. Ltda.  Redecine Hortolândi...
+                                           ^^^^^^^^
+Erro: 202
+Offset 31934, length 8, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...at. Ltda.  Redecine SLZ Cinemat. Ltda.  Redecine Hortolândia Cinemat. Ltda.  Redecine BR...
+                                           ^^^^^^^^
+Erro: 203
+Offset 31971, length 8, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+....  Redecine Hortolândia Cinemat. Ltda.  Redecine BRA Cinemat. S.A.  Empresas do grupo tr...
+                                           ^^^^^^^^
+Erro: 204
+Offset 32075, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...gime de lucro presumido:  Bombocine CWB Com de Alim. Ltda.  Bombocine LEO Com de Alim....
+                                           ^^^^^^
+Erro: 205
+Offset 32109, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...e CWB Com de Alim. Ltda.  Bombocine LEO Com de Alim. Ltda.  Bombocine FLN Com de Alim....
+                                           ^^^^^^
+Erro: 206
+Offset 32129, length 9, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...tda.  Bombocine LEO Com de Alim. Ltda.  Bombocine FLN Com de Alim. Ltda.  Bombocine CRT C...
+                                           ^^^^^^^^^
+Erro: 207
+Offset 32143, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...e LEO Com de Alim. Ltda.  Bombocine FLN Com de Alim. Ltda.  Bombocine CRT Com de Alim....
+                                           ^^^^^^
+Erro: 208
+Offset 32163, length 9, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...tda.  Bombocine FLN Com de Alim. Ltda.  Bombocine CRT Com de Alim. Ltda.  Bombocine Litor...
+                                           ^^^^^^^^^
+Erro: 209
+Offset 32177, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...e FLN Com de Alim. Ltda.  Bombocine CRT Com de Alim. Ltda.  Bombocine Litoral Com de A...
+                                           ^^^^^^
+Erro: 210
+Offset 32197, length 9, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...tda.  Bombocine CRT Com de Alim. Ltda.  Bombocine Litoral Com de Alim. Ltda.  Bombocine S...
+                                           ^^^^^^^^^
+Erro: 211
+Offset 32215, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...T Com de Alim. Ltda.  Bombocine Litoral Com de Alim. Ltda.  Bombocine SLZ Com de Alim....
+                                           ^^^^^^
+Erro: 212
+Offset 32235, length 9, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...  Bombocine Litoral Com de Alim. Ltda.  Bombocine SLZ Com de Alim. Ltda.  Bombocine Horto...
+                                           ^^^^^^^^^
+Erro: 213
+Offset 32249, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...toral Com de Alim. Ltda.  Bombocine SLZ Com de Alim. Ltda.  Bombocine Hortolândia Com ...
+                                           ^^^^^^
+Erro: 214
+Offset 32269, length 9, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...tda.  Bombocine SLZ Com de Alim. Ltda.  Bombocine Hortolândia Com de Alim. Ltda.  Bomboci...
+                                           ^^^^^^^^^
+Erro: 215
+Offset 32291, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...m de Alim. Ltda.  Bombocine Hortolândia Com de Alim. Ltda.  Bombocine BRA Com de Alim....
+                                           ^^^^^^
+Erro: 216
+Offset 32311, length 9, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...mbocine Hortolândia Com de Alim. Ltda.  Bombocine BRA Com de Alim. S.A.  CCM Participaçõe...
+                                           ^^^^^^^^^
+Erro: 217
+Offset 32325, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...ândia Com de Alim. Ltda.  Bombocine BRA Com de Alim. S.A.  CCM Participações Ltda.   2...
+                                           ^^^^^^
+Erro: 218
+Offset 39202, length 15, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘resultado final’ é um pleonasmo. É preferível dizer “resultado”
+Suggestion: resultado
+...ossibilidade de recuperação.   Quando o resultado final dessas questões é diferente dos valores...
+                                           ^^^^^^^^^^^^^^^
+Erro: 219
+Offset 39234, length 11, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: difere
+...uando o resultado final dessas questões é diferente dos valores inicialmente estimados e re...
+                                           ^^^^^^^^^^^
+Erro: 220
+Offset 39581, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...s (impairment) nos ativos  imobilizados de acordo com a política contábil apresentada pela Comp...
+                                           ^^^^^^^^^^^^^^^
+Erro: 221
+Offset 40546, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...sultados variam de período para período de acordo com a concentração de lançamentos de  filmes;...
+                                           ^^^^^^^^^^^^^^^
+Erro: 222
+Offset 46930, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...nanceiros contabilizados ao valor justo de acordo com o  método de avaliação. Os diferentes nív...
+                                           ^^^^^^^^^^^^^^^
+Erro: 223
+Offset 47675, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis pelo
+...os preços cotados incluídas no nível 1, que são observáveis pelo mercado para o   ativo ou passivo, seja...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 224
+Offset 48145, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...    Passivos financeiros ao valor justo por meio de resultado    Empréstimos e financiament...
+                                           ^^^^^^^^^^^
+Erro: 225
+Offset 48267, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...    Passivos financeiros ao valor justo por meio de resultado    Empréstimos e financiament...
+                                           ^^^^^^^^^^^
+Erro: 226
+Offset 117968, length 3, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...CDI + 0,60% a.m.    CDI + 0,50% a.m.    CDI + 0,63% a.m.    TJLP + 5,00% a.a.    Se...
+                                           ^^^
+Erro: 227
+Offset 121836, length 3, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...CDI + 0,60% a.m.    CDI + 0,50% a.m.    CDI + 0,63% a.m.    1,67% a.m.    1,65% a.m...
+                                           ^^^
+Erro: 228
+Offset 129111, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: Conforme as; Segundo as; Consoante as
+... 16.   16   Subvenções governamentais   De acordo com as características dos empréstimos e finan...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 229
+Offset 145085, length 12, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: em relação à
+...ocial da Companhia permanece inalterado em relação a posição  de 31 de dezembro de 2016, con...
+                                           ^^^^^^^^^^^^
+Erro: 230
+Offset 146295, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: Conforme o; Segundo o; Consoante o
+...xceto quando indicado de outra forma.   De acordo com o Estatuto da Companhia, no exercício em ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 231
+Offset 146681, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...erva de retenção de lucros  Constituída de acordo com o previsto no artigo 196 da Lei nº 6.404/...
+                                           ^^^^^^^^^^^^^^^
+Erro: 232
+Offset 146868, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...a de incentivos de fiscais  Constituída de acordo com o previsto no artigo art. 30 da Lei nº 12...
+                                           ^^^^^^^^^^^^^^^
+Erro: 233
+Offset 147600, length 21, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...do em Assembleia Geral, bem como deverá levar em consideração a legislação aplicável.   Ajuste avalia...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 234
+Offset 147923, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...ecine FLN Cinemat. Ltda.  Bombocine FLN Com de Alim. Ltda.  Redecine CRT Cinemat. Ltda...
+                                           ^^^^^^
+Erro: 235
+Offset 160372, length 7, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...s são detidas pelo  Grupo Redecine Rio, que têm participação acionária da Agroup Partic...
+                                           ^^^^^^^
+Erro: 236
+Offset 165061, length 3, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “ao”?
+Suggestion: ao
+...vas e de  gestão das operações mediante a o reembolso mensal de despesas equivalent...
+                                           ^^^
+Erro: 237
+Offset 165707, length 10, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de forma a’ é uma expressão prolixa. É preferível dizer “para”
+Suggestion: para
+...raria das  demais empresas controladas, de forma a melhorar a capacidade de gestão de recu...
+                                           ^^^^^^^^^^
+Erro: 238
+Offset 167222, length 8, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...tda  Redecine BRA Cinematográfica S.A.  Redecine CRT Cinematográfica Ltda  Redecine FLN ...
+                                           ^^^^^^^^
+Erro: 239
+Offset 172846, length 8, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: aluguéis
+... veiculação de propagandas em tela e de alugueis de salas para eventos.  Os segmentos ap...
+                                           ^^^^^^^^
+Erro: 240
+Offset 177232, length 8, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...at. Ltda.  Redecine LEO Cinemat. Ltda.  Redecine FLN Cinemat. Ltda.  Redecine CRT Cinema...
+                                           ^^^^^^^^
+Erro: 241
+Offset 177261, length 8, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...at. Ltda.  Redecine FLN Cinemat. Ltda.  Redecine CRT Cinemat. Ltda.  Redecine Litoral Ci...
+                                           ^^^^^^^^
+Erro: 242
+Offset 177290, length 8, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...at. Ltda.  Redecine CRT Cinemat. Ltda.  Redecine Litoral Cinemat. Ltda.  Redecine SLZ Ci...
+                                           ^^^^^^^^
+Erro: 243
+Offset 177323, length 8, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...Ltda.  Redecine Litoral Cinemat. Ltda.  Redecine SLZ Cinemat. Ltda.  Redecine Hortolândi...
+                                           ^^^^^^^^
+Erro: 244
+Offset 177352, length 8, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...at. Ltda.  Redecine SLZ Cinemat. Ltda.  Redecine Hortolândia Cinemat. Ltda.  Redecine BR...
+                                           ^^^^^^^^
+Erro: 245
+Offset 177389, length 8, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+....  Redecine Hortolândia Cinemat. Ltda.  Redecine BRA Cinemat. Ltda.   % de pagamento - M...
+                                           ^^^^^^^^

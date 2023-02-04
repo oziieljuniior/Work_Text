@@ -1,0 +1,819 @@
+Erro: 514
+Offset 8544, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...retas foram   adquiridas pela Companhia por meio de incorporação de ações no dia 3 de julho...
+                                           ^^^^^^^^^^^
+Erro: 515
+Offset 9350, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...a moeda do principal ambiente econômico no qual ela  atua (“moeda funcional”). As demon...
+                                           ^^^^^^^
+Erro: 516
+Offset 11949, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+... a  Companhia  estabelece o valor justo por meio de técnicas de avaliação que podem incluir...
+                                           ^^^^^^^^^^^
+Erro: 517
+Offset 13244, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...econhecidas na data de negociação, data na qual  a  Companhia  se  compromete  a  compr...
+                                           ^^^^^^^
+Erro: 518
+Offset 15339, length 6, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+...istência de dados observáveis indicando que há uma  redução mensurável nos futuros flu...
+                                           ^^^^^^
+Erro: 519
+Offset 16165, length 9, Rule ID: À_VERBO_DE
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a taxar
+...o que não foram incorridos) descontados à taxa de juros original dos ativos  financeiros....
+                                           ^^^^^^^^^
+Erro: 520
+Offset 16498, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...atual taxa de juros efetiva determinada de acordo com o contrato. Como um expediente  prático, ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 521
+Offset 21612, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+... se  originou,  devidamente  segregada, de acordo com o segmento operacional.                  ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 522
+Offset 21681, length 23, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Programas de computador’ é uma expressão prolixa. É preferível dizer “softwares”, “aplicações” ou “apps”
+Suggestion: Softwares; Aplicações; Apps
+...acional.                           b)  Programas de computador (software) e desenvolvimento de projeto...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 523
+Offset 21780, length 23, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘programas de computador’ é uma expressão prolixa. É preferível dizer “softwares”, “aplicações” ou “apps”
+Suggestion: softwares; aplicações; apps
+...jetos internos   Licenças adquiridas de programas de computador são capitalizadas e amortizadas ao  lon...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 524
+Offset 22192, length 15, Rule ID: SIMPLIFICAR_CONVERTER_PARA_VERBO_INFINITIVO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: para estar
+...ente viável concluir o software/projeto para que esteja disponível para   uso ou venda.   •  A ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 525
+Offset 22789, length 29, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: capitalizados como
+... Os  custos  diretamente  atribuíveis,  que  são  capitalizados  como  parte  do  produto  de  software/proje...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 526
+Offset 23474, length 7, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...” de ativos não financeiros   Os ativos que têm vida útil indefinida, como o ágio, não ...
+                                           ^^^^^^^
+Erro: 527
+Offset 23632, length 8, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...ficação  de  “impairment”.  Os  ativos  que  têm  vida  útil  definida são revisados par...
+                                           ^^^^^^^^
+Erro: 528
+Offset 27568, length 23, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: o lucro líquido possa
+...e negativa de contribuição social sobre o lucro  líquido possam ser usadas.         O imposto de renda...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 529
+Offset 30338, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...onhecido como despesa durante o período no qual o direito é adquirido,  que representa ...
+                                           ^^^^^^^
+Erro: 530
+Offset 32120, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...s passivos circulante e não circulante, de acordo com o  prazo do contrato. O bem do imobilizad...
+                                           ^^^^^^^^^^^^^^^
+Erro: 531
+Offset 32187, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...ontrato. O bem do imobilizado adquirido por meio de arrendamentos financeiros  é depreciado...
+                                           ^^^^^^^^^^^
+Erro: 532
+Offset 32281, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...rante a vida útil-econômica do ativo ou de acordo com o prazo do contrato  de arrendamento, qua...
+                                           ^^^^^^^^^^^^^^^
+Erro: 533
+Offset 32924, length 22, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: Os custos incrementa; Os custos incrementar; Os custos incrementara; Os custos incrementaras; Os custos incrementarei; Os custos incrementares; Os custos incrementaria; Os custos incrementarias; Os custos incrementará; Os custos incrementarás; Os custos incrementas; Os custos incrementasse; Os custos incrementasses; Os custos incrementaste; Os custos incrementava; Os custos incrementavas; Os custos incremente; Os custos incrementei; Os custos incrementes; Os custos incremento; Os custos incrementou
+... classificadas no patrimônio líquido.   Os custos incrementais  diretamente  atribuíveis à emissão de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 534
+Offset 34659, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+... estimativas em resultados históricos,  levando em consideração o tipo de cliente, o tipo de transação ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 535
+Offset 34685, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; categoria de
+... históricos,  levando em consideração o tipo de cliente, o tipo de transação e as espec...
+                                           ^^^^^^^
+Erro: 536
+Offset 34704, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; categoria de
+...do em consideração o tipo de cliente, o tipo de transação e as especificações de cada  ...
+                                           ^^^^^^^
+Erro: 537
+Offset 35451, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...ursos e os respectivos descontos variam de acordo com o curso,  a  unidade  ou  o  termo  acadê...
+                                           ^^^^^^^^^^^^^^^
+Erro: 538
+Offset 36298, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...da Uniasselvi, o valor do repasse varia de acordo com o tamanho das turmas  operadas  e  possui...
+                                           ^^^^^^^^^^^^^^^
+Erro: 539
+Offset 36601, length 6, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...ópria quanto de terceiros  (parceiros)  e  tem  a  responsabilidade  de  oferecer  a  ...
+                                           ^^^^^^
+Erro: 540
+Offset 39338, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...   Modificações às IFRSs   Modificações à IAS 16/CPC 27 e à  IAS 41/CPC 29   Melhoria...
+                                           ^^^^^
+Erro: 541
+Offset 39477, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...: Plantas Produtivas (c)   Modificações à IAS 19/CPC 33 (R1)   Plano de Benefício Def...
+                                           ^^^^^
+Erro: 542
+Offset 41307, length 12, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...doção de métodos e critérios contábeis, por meio  de  atos  administrativos  emitidos  com  ...
+                                           ^^^^^^^^^^^^
+Erro: 543
+Offset 41845, length 24, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não surtindo nenhum; não surtindo nenhuma; não, surtindo quaisquer
+...o  foram  revisados  no  texto  legal,  não  surtindo  quaisquer efeitos até sua real vigência em 2015, ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 544
+Offset 42181, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: importantes para
+...TÁBEIS   Práticas contábeis são aquelas que são importantes para demonstrar a condição financeira e os  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 545
+Offset 42431, length 7, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+... da necessidade de elaborar estimativas que têm  impacto  sobre  questões  que  são  in...
+                                           ^^^^^^^
+Erro: 546
+Offset 43699, length 8, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...rment”) na estimativa do ágio   Ativos  que  têm  vida  útil  indefinida,  como  o  ágio...
+                                           ^^^^^^^^
+Erro: 547
+Offset 43843, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...ara identificar uma deterioração deles, por meio de uma metodologia conhecida  como  “impai...
+                                           ^^^^^^^^^^^
+Erro: 548
+Offset 44937, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...o montante que não seja mais realizável por meio de lucros tributáveis futuros.  Ativos e p...
+                                           ^^^^^^^^^^^
+Erro: 549
+Offset 46461, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...feitos  de  ajuste  a  valor  presente  levando em consideração o valor do dinheiro no tempo e as incer...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 550
+Offset 51027, length 7, Rule ID: HONRAR_COMPROMISSOS
+Message: É mais correto usar: “honrar”.
+Suggestion: honrar
+...ispor  de  recursos  suficientes  para  cumprir  seus  compromissos  em  virtude  dos  ...
+                                           ^^^^^^^
+Erro: 551
+Offset 53048, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...e crescimento, seja organicamente, seja por meio de aquisições. As  decisões de investiment...
+                                           ^^^^^^^^^^^
+Erro: 552
+Offset 53101, length 21, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consideram
+...quisições. As  decisões de investimento levam em consideração o potencial de retorno esperado.       ...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 553
+Offset 54535, length 13, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘mais provável’ é um pleonasmo. É preferível dizer “provável”
+Suggestion: provável
+...os relevantes à Companhia, com cenário  mais provável, segundo a avaliação feita pela Adminis...
+                                           ^^^^^^^^^^^^^
+Erro: 554
+Offset 59806, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+...final do excesso de preço será efetuado dentro do prazo de um ano do início  da  operação...
+                                           ^^^^^^^^^
+Erro: 555
+Offset 60491, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...rdo em Controle de Concentrações - ACC, no qual a Companhia se comprometeu com uma  sér...
+                                           ^^^^^^^
+Erro: 556
+Offset 60696, length 1, Rule ID: AULAS-ENSINO_A_DISTÂNCIA
+Message: Substitua por “à”.
+Suggestion: à
+...os de graduação na modalidade de ensino a distância (EAD), sob a  bandeira Uniass...
+                                           ^
+Erro: 557
+Offset 61256, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: atuem
+...s a Companhia e a controlada Anhanguera venham a atuar.    A Companhia iniciou as atividades i...
+                                           ^^^^^^^^^^^^^^
+Erro: 558
+Offset 63532, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...ros  da  Companhia  foram  determinados por meio de informações disponíveis no mercado e me...
+                                           ^^^^^^^^^^^
+Erro: 559
+Offset 65748, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...do de curto prazo dividido pela receita liquida.   (iii)  Referem-se a instrumentos aco...
+                                           ^^^^^^^
+Erro: 560
+Offset 65802, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...i)  Referem-se a instrumentos acordados por meio de contrato e que serão liquidados em dinh...
+                                           ^^^^^^^^^^^
+Erro: 561
+Offset 65823, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e serão
+...rumentos acordados por meio de contrato e que serão liquidados em dinheiro; os   valores ju...
+                                           ^^^^^^^^^^^
+Erro: 562
+Offset 68586, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+... se enquadra na categoria “renda fixa”, de acordo com  a regulamentação vigente, cuja política d...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 563
+Offset 68732, length 21, Rule ID: QUE_TER_COMO_POR_NOME_ADJ
+Message: Com o pronome ‘cujo’, o seu texto poderia ficar mais claro e elegante.
+Suggestion: cujo objetivo é
+...a variação de taxa de juros doméstica e que tem como objetivo buscar valorização de suas  cotas atrav...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 564
+Offset 69597, length 12, Rule ID: TER_PARTICIPIO-PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: atinge
+...s do Tesouro.  A rentabilidade do Fundo tem atingido a média de 103,3% do CDI.   (iii)  Refe...
+                                           ^^^^^^^^^^^^
+Erro: 565
+Offset 69947, length 21, Rule ID: QUE_TER_COMO_POR_NOME_ADJ
+Message: Com o pronome ‘cujo’, o seu texto poderia ficar mais claro e elegante.
+Suggestion: cujo objetivo é
+...iação  de  taxa  de  juros  doméstica e que tem como objetivo buscar valorização de suas cotas atravé...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 566
+Offset 70803, length 12, Rule ID: TER_PARTICIPIO-PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: atinge
+...s do Tesouro.  A rentabilidade do Fundo tem atingido a média de 103,6% do CDI.   (iv)  Refer...
+                                           ^^^^^^^^^^^^
+Erro: 567
+Offset 74899, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...a os valores gerados no  âmbito do FIES de acordo com as estimativas de perda associadas aos alu...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 568
+Offset 75082, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...inadimplência do aluno para  com o FNDE de acordo com a modalidade de contrato celebrado. Para ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 569
+Offset 78222, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: adiantados pela
+...  (iv) Refere-se a recebíveis de alunos que são adiantados pela Companhia aos polos de EAD para  a manu...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 570
+Offset 88392, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...contabilização de créditos tributários, devido a  relevância  de  sua  alíquota  efetiva...
+                                           ^^^^^^^^
+Erro: 571
+Offset 103855, length 4, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Vide’ é uma expressão prolixa. É preferível dizer “veja”
+Suggestion: Veja
+...hanguera Educacional Participações S.A. Vide nota explicativa n.º 5.                ...
+                                           ^^^^
+Erro: 572
+Offset 104127, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...hia arrenda equipamentos de informática por meio de contratos irretratáveis sujeitos  a enc...
+                                           ^^^^^^^^^^^
+Erro: 573
+Offset 108566, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+... novo negócio  de educação à distância, com o objetivo de oferecer ensino superior semipresencial...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 574
+Offset 110640, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+... O ágio é alocado às UGC, identificadas de acordo com o segmento operacional.   Segue um resumo...
+                                           ^^^^^^^^^^^^^^^
+Erro: 575
+Offset 114631, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+... arrendamento financeiro são garantidas uma vez que o ativo arrendado é  revertido ao arren...
+                                           ^^^^^^^^^^^
+Erro: 576
+Offset 115169, length 3, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...4   CDI + 2,00% a.a.  CDI + 1,95% a.a.  CDI + 1,50% a.a.  CDI + 1,70% a.a.   316.55...
+                                           ^^^
+Erro: 577
+Offset 115187, length 3, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...a.  CDI + 1,95% a.a.  CDI + 1,50% a.a.  CDI + 1,70% a.a.   316.554  406.870  85.303...
+                                           ^^^
+Erro: 578
+Offset 118872, length 13, Rule ID: VERBO_ESTAR_A_VERBO_INF
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: segue; sigas
+...unda Série.   A movimentação dos saldos está a seguir:   Saldo inicial   Juros provisionados ...
+                                           ^^^^^^^^^^^^^
+Erro: 579
+Offset 121823, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+... e “despesas gerais e administrativas”, de acordo  com a alocação do empregado.   23.  ADIANTAME...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 580
+Offset 126595, length 11, Rule ID: DEVE_DE
+Message: Substitua por “devidos”.
+Suggestion: devidos
+... determinado  percentual  dos  valores  devidos  de  multa  e  juros,  dependendo  do  praz...
+                                           ^^^^^^^^^^^
+Erro: 581
+Offset 132126, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...a Companhia figurava no polo passivo de aproximadamente  340  ações  de  natureza  tributária, ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 582
+Offset 132373, length 10, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e se
+...rativa  junto  ao  órgão  fiscalizador  e  que  se  encontra  pendente  de  julgamento  de...
+                                           ^^^^^^^^^^
+Erro: 583
+Offset 133229, length 11, Rule ID: CRASE_CONFUSION
+Message: Neste contexto não se utiliza a crase.
+Suggestion: 2007 a 2011
+...  Anchieta Ltda. (Uniban) no período de 2007 à 2011. Este débito fiscal encontra-se garanti...
+                                           ^^^^^^^^^^^
+Erro: 584
+Offset 133762, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...a Companhia figurava no polo passivo de aproximadamente  3.110  ações  de  natureza  judicial  ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 585
+Offset 137171, length 1, Rule ID: PORTUGUESE_WORD_REPEAT_BEGINNING_RULE
+Message: Três frases seguidas começam com a mesma palavra. Considere reformular a frase ou use um dicionário para encontrar um sinônimo.
+...provável pelos consultores jurídicos.   A  controlada  Anhanguera,  através  de  ...
+                                           ^
+Erro: 586
+Offset 139344, length 21, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: foram administrativas; foi administrativa; fora administrativa
+...ia  na  esfera  totalizando  R$10.499,  foram  administrativa.     (ii)  Os  pagamentos  de  tributár...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 587
+Offset 142194, length 4, Rule ID: ESTA_ESTÁ
+Message: Substitua por “está”.
+Suggestion: está
+...Companhia como perda possível e o saldo esta garantido conforme descrito no item  “G...
+                                           ^^^^
+Erro: 588
+Offset 144642, length 5, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘caput’ é uma expressão prolixa. É preferível dizer “cabeça”
+Suggestion: cabeça
+...valor nominal, alterando-se portanto, o caput dos Artigos  5º e 6º do Estatuto Social...
+                                           ^^^^^
+Erro: 589
+Offset 145525, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: No
+...de 2.000.000.000 de ações ordinárias.   Dentro do limite do capital autorizado, o Conselh...
+                                           ^^^^^^^^^
+Erro: 590
+Offset 148724, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...  compra e venda, deveria ser realizado por meio de ações de emissão da Companhia. O  valor...
+                                           ^^^^^^^^^^^
+Erro: 591
+Offset 149232, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+... tesouraria   A recompra das ações está em conformidade com o artigo 157, § 4º, da Lei nº 6.404/76,...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 592
+Offset 150626, length 5, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘caput’ é uma expressão prolixa. É preferível dizer “cabeça”
+Suggestion: cabeça
+...valor nominal, alterando-se portanto, o caput dos Artigos  5º e 6º do Estatuto Social...
+                                           ^^^^^
+Erro: 593
+Offset 153859, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...uas atividades, seja ela orgânica, seja por meio de aquisições  no  mercado,  cumprindo  o ...
+                                           ^^^^^^^^^^^
+Erro: 594
+Offset 154197, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tem como objetivo’ é uma expressão prolixa. É preferível dizer “visa”, “pretende” ou “procura”
+Suggestion: visa; pretende; procura
+...ia, aprovado em 23 de outubro de 2009,  tem como objetivo reter e incentivar seus executivos, bus...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 595
+Offset 154825, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...aprovação.   Em 26 de novembro de 2013, uma vez que o plano de opção de compra de ações des...
+                                           ^^^^^^^^^^^
+Erro: 596
+Offset 156190, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 1
+...xercício:   Quantidade de ações =   (cid:1)(cid:2)(cid:3)(cid:4)ç(cid:6) (cid:8)é(...
+                                           ^^
+Erro: 597
+Offset 156197, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 2
+...o:   Quantidade de ações =   (cid:1)(cid:2)(cid:3)(cid:4)ç(cid:6) (cid:8)é(cid:10)...
+                                           ^^
+Erro: 598
+Offset 156204, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 3
+...antidade de ações =   (cid:1)(cid:2)(cid:3)(cid:4)ç(cid:6) (cid:8)é(cid:10)(cid:11...
+                                           ^^
+Erro: 599
+Offset 156211, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 4
+...e de ações =   (cid:1)(cid:2)(cid:3)(cid:4)ç(cid:6) (cid:8)é(cid:10)(cid:11)(cid:6...
+                                           ^^
+Erro: 600
+Offset 156219, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 6
+...es =   (cid:1)(cid:2)(cid:3)(cid:4)ç(cid:6) (cid:8)é(cid:10)(cid:11)(cid:6) (cid:1...
+                                           ^^
+Erro: 601
+Offset 156227, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 8
+...cid:1)(cid:2)(cid:3)(cid:4)ç(cid:6) (cid:8)é(cid:10)(cid:11)(cid:6) (cid:12) (cid:...
+                                           ^^
+Erro: 602
+Offset 156235, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 10
+...id:2)(cid:3)(cid:4)ç(cid:6) (cid:8)é(cid:10)(cid:11)(cid:6) (cid:12) (cid:2)(cid:3)...
+                                           ^^^
+Erro: 603
+Offset 156243, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 11
+...d:3)(cid:4)ç(cid:6) (cid:8)é(cid:10)(cid:11)(cid:6) (cid:12) (cid:2)(cid:3)(cid:4)ç...
+                                           ^^^
+Erro: 604
+Offset 156251, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 6
+...:4)ç(cid:6) (cid:8)é(cid:10)(cid:11)(cid:6) (cid:12) (cid:2)(cid:3)(cid:4)ç(cid:6)...
+                                           ^^
+Erro: 605
+Offset 156259, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 12
+...:6) (cid:8)é(cid:10)(cid:11)(cid:6) (cid:12) (cid:2)(cid:3)(cid:4)ç(cid:6) (cid:4)(...
+                                           ^^^
+Erro: 606
+Offset 156268, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 2
+...8)é(cid:10)(cid:11)(cid:6) (cid:12) (cid:2)(cid:3)(cid:4)ç(cid:6) (cid:4)(cid:13)(...
+                                           ^^
+Erro: 607
+Offset 156275, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 3
+...:10)(cid:11)(cid:6) (cid:12) (cid:2)(cid:3)(cid:4)ç(cid:6) (cid:4)(cid:13)(cid:4)(...
+                                           ^^
+Erro: 608
+Offset 156282, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 4
+...d:11)(cid:6) (cid:12) (cid:2)(cid:3)(cid:4)ç(cid:6) (cid:4)(cid:13)(cid:4)(cid:3)(...
+                                           ^^
+Erro: 609
+Offset 156290, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 6
+...d:6) (cid:12) (cid:2)(cid:3)(cid:4)ç(cid:6) (cid:4)(cid:13)(cid:4)(cid:3)(cid:14)í...
+                                           ^^
+Erro: 610
+Offset 156298, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 4
+...d:12) (cid:2)(cid:3)(cid:4)ç(cid:6) (cid:4)(cid:13)(cid:4)(cid:3)(cid:14)í(cid:14)...
+                                           ^^
+Erro: 611
+Offset 156305, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 13
+...cid:2)(cid:3)(cid:4)ç(cid:6) (cid:4)(cid:13)(cid:4)(cid:3)(cid:14)í(cid:14)(cid:11)...
+                                           ^^^
+Erro: 612
+Offset 156313, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 4
+...id:3)(cid:4)ç(cid:6) (cid:4)(cid:13)(cid:4)(cid:3)(cid:14)í(cid:14)(cid:11)(cid:6)...
+                                           ^^
+Erro: 613
+Offset 156320, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 3
+...id:4)ç(cid:6) (cid:4)(cid:13)(cid:4)(cid:3)(cid:14)í(cid:14)(cid:11)(cid:6)(cid:16...
+                                           ^^
+Erro: 614
+Offset 156327, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 14
+...cid:6) (cid:4)(cid:13)(cid:4)(cid:3)(cid:14)í(cid:14)(cid:11)(cid:6)(cid:16) (cid:1...
+                                           ^^^
+Erro: 615
+Offset 156336, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 14
+...id:4)(cid:13)(cid:4)(cid:3)(cid:14)í(cid:14)(cid:11)(cid:6)(cid:16) (cid:17) (cid:1...
+                                           ^^^
+Erro: 616
+Offset 156344, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 11
+...d:13)(cid:4)(cid:3)(cid:14)í(cid:14)(cid:11)(cid:6)(cid:16) (cid:17) (cid:18)(cid:1...
+                                           ^^^
+Erro: 617
+Offset 156352, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 6
+...d:4)(cid:3)(cid:14)í(cid:14)(cid:11)(cid:6)(cid:16) (cid:17) (cid:18)(cid:19)(cid:...
+                                           ^^
+Erro: 618
+Offset 156359, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 16
+...d:3)(cid:14)í(cid:14)(cid:11)(cid:6)(cid:16) (cid:17) (cid:18)(cid:19)(cid:20)(cid:...
+                                           ^^^
+Erro: 619
+Offset 156368, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 17
+...14)í(cid:14)(cid:11)(cid:6)(cid:16) (cid:17) (cid:18)(cid:19)(cid:20)(cid:21)(cid:2...
+                                           ^^^
+Erro: 620
+Offset 156377, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 18
+...14)(cid:11)(cid:6)(cid:16) (cid:17) (cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:11...
+                                           ^^^
+Erro: 621
+Offset 156385, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 19
+...11)(cid:6)(cid:16) (cid:17) (cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:11)(cid:10...
+                                           ^^^
+Erro: 622
+Offset 156393, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 20
+...6)(cid:16) (cid:17) (cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:11)(cid:10)(cid:20...
+                                           ^^^
+Erro: 623
+Offset 156401, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 21
+...6) (cid:17) (cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:11)(cid:10)(cid:20)(cid:10...
+                                           ^^^
+Erro: 624
+Offset 156409, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 22
+...17) (cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:11)(cid:10)(cid:20)(cid:10)(cid:4)...
+                                           ^^^
+Erro: 625
+Offset 156417, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 11
+...:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:11)(cid:10)(cid:20)(cid:10)(cid:4) (cid:10...
+                                           ^^^
+Erro: 626
+Offset 156425, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 10
+...:19)(cid:20)(cid:21)(cid:22)(cid:11)(cid:10)(cid:20)(cid:10)(cid:4) (cid:10)(cid:4)...
+                                           ^^^
+Erro: 627
+Offset 156433, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 20
+...:20)(cid:21)(cid:22)(cid:11)(cid:10)(cid:20)(cid:10)(cid:4) (cid:10)(cid:4) (cid:6)...
+                                           ^^^
+Erro: 628
+Offset 156441, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 10
+...:21)(cid:22)(cid:11)(cid:10)(cid:20)(cid:10)(cid:4) (cid:10)(cid:4) (cid:6)(cid:2)ç...
+                                           ^^^
+Erro: 629
+Offset 156449, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 4
+...:22)(cid:11)(cid:10)(cid:20)(cid:10)(cid:4) (cid:10)(cid:4) (cid:6)(cid:2)çõ(cid:4...
+                                           ^^
+Erro: 630
+Offset 156457, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 10
+...:11)(cid:10)(cid:20)(cid:10)(cid:4) (cid:10)(cid:4) (cid:6)(cid:2)çõ(cid:4)(cid:24)...
+                                           ^^^
+Erro: 631
+Offset 156465, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 4
+...:10)(cid:20)(cid:10)(cid:4) (cid:10)(cid:4) (cid:6)(cid:2)çõ(cid:4)(cid:24)  (cid:...
+                                           ^^
+Erro: 632
+Offset 156473, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 6
+...:20)(cid:10)(cid:4) (cid:10)(cid:4) (cid:6)(cid:2)çõ(cid:4)(cid:24)  (cid:2)(cid:3...
+                                           ^^
+Erro: 633
+Offset 156480, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 2
+...d:10)(cid:4) (cid:10)(cid:4) (cid:6)(cid:2)çõ(cid:4)(cid:24)  (cid:2)(cid:3)(cid:4...
+                                           ^^
+Erro: 634
+Offset 156489, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 4
+...:4) (cid:10)(cid:4) (cid:6)(cid:2)çõ(cid:4)(cid:24)  (cid:2)(cid:3)(cid:4)ç(cid:6)...
+                                           ^^
+Erro: 635
+Offset 156496, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 24
+...d:10)(cid:4) (cid:6)(cid:2)çõ(cid:4)(cid:24)  (cid:2)(cid:3)(cid:4)ç(cid:6) (cid:8)...
+                                           ^^^
+Erro: 636
+Offset 156506, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 2
+...4) (cid:6)(cid:2)çõ(cid:4)(cid:24)  (cid:2)(cid:3)(cid:4)ç(cid:6) (cid:8)é(cid:10)...
+                                           ^^
+Erro: 637
+Offset 156513, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 3
+...:6)(cid:2)çõ(cid:4)(cid:24)  (cid:2)(cid:3)(cid:4)ç(cid:6) (cid:8)é(cid:10)(cid:11...
+                                           ^^
+Erro: 638
+Offset 156520, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 4
+...:2)çõ(cid:4)(cid:24)  (cid:2)(cid:3)(cid:4)ç(cid:6) (cid:8)é(cid:10)(cid:11)(cid:6...
+                                           ^^
+Erro: 639
+Offset 156528, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 6
+...d:4)(cid:24)  (cid:2)(cid:3)(cid:4)ç(cid:6) (cid:8)é(cid:10)(cid:11)(cid:6)  Por  ...
+                                           ^^
+Erro: 640
+Offset 156536, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 8
+...:24)  (cid:2)(cid:3)(cid:4)ç(cid:6) (cid:8)é(cid:10)(cid:11)(cid:6)  Por  meio  de...
+                                           ^^
+Erro: 641
+Offset 156544, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 10
+...id:2)(cid:3)(cid:4)ç(cid:6) (cid:8)é(cid:10)(cid:11)(cid:6)  Por  meio  dessa  form...
+                                           ^^^
+Erro: 642
+Offset 156552, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 11
+...d:3)(cid:4)ç(cid:6) (cid:8)é(cid:10)(cid:11)(cid:6)  Por  meio  dessa  forma  de  r...
+                                           ^^^
+Erro: 643
+Offset 156560, length 2, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 6
+...:4)ç(cid:6) (cid:8)é(cid:10)(cid:11)(cid:6)  Por  meio  dessa  forma  de  recebime...
+                                           ^^
+Erro: 644
+Offset 158407, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+...  uma  outorga  de  6.520.299  opções,  dentro do limite estabelecido para o Novo Plano K...
+                                           ^^^^^^^^^
+Erro: 645
+Offset 159558, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “nos”.
+Suggestion: nos
+...ercidas   Saldo final   Os planos estão dentro dos limites aprovados no exercício findo em...
+                                           ^^^^^^^^^^
+Erro: 646
+Offset 167668, length 11, Rule ID: PHRASAL_VERB_RESIDIR_EM
+Message: Erro de regência. Dependendo do significado, escolha:
+Suggestion: mora em fiscal; mora com fiscal
+...brança  Juros e mora comercial  Juros e mora fiscal  Juros sobre empréstimos e financiament...
+                                           ^^^^^^^^^^^
+Erro: 647
+Offset 168862, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...xistem ações com potencial de diluição, uma vez que seu preço  médio de exercício é inferio...
+                                           ^^^^^^^^^^^
+Erro: 648
+Offset 172241, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: Não existe nenhum; Não existe nenhuma; Não, existe qualquer
+... seu término  em 1º de janeiro de 2016. Não  existe qualquer índice de reajuste pactuado. A Anhangue...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 649
+Offset 173550, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+...compra de ações, que não é considerado  dentro do limite de remuneração global anual dos ...
+                                           ^^^^^^^^^
+Erro: 650
+Offset 173751, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...um programa de gerenciamento de riscos, com o objetivo de delimitar os  riscos, buscando no merca...
+                                           ^^^^^^^^^^^^^^^^^

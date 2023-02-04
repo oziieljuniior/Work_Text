@@ -1,0 +1,204 @@
+Erro: 1
+Offset 1529, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: Agora
+...ue afetaram o seu patrimônio líquido.   Neste  momento,  a  Companhia  ainda  está  passando  ...
+                                           ^^^^^^^^^^^^^^
+Erro: 2
+Offset 2612, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...zembro de 2012 e 2011, foram preparadas de acordo com as práticas       contábeis  adotadas  no...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 5933, length 14, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+...onhecimento destas estimativas, poderão ser diferentes dos  valores  reconhecidos  nas  presen...
+                                           ^^^^^^^^^^^^^^
+Erro: 4
+Offset 9156, length 19, Rule ID: ESTAR_DE_ACORDO
+Message: Substitua por
+Suggestion: concordem; correspondam; validem; confirmem
+...s  para  que  as  políticas  contábeis  estejam  de  acordo  com  as  adotadas  pela  Companhia.   ...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 11466, length 4, Rule ID: ESTA_ESTÁ
+Message: Substitua por “está”.
+Suggestion: está
+...de controle conjunto, e  contanto  que  esta  investida  não  se  torne  controlada ...
+                                           ^^^^
+Erro: 6
+Offset 13800, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...ajuste  a  valor  presente é calculado  levando em consideração  os fluxos de caixa contratuais e a  ta...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 15683, length 18, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no futuro próximo’ é uma expressão prolixa. É preferível dizer “em breve”
+Suggestion: em breve
+...s  temporárias  não  sejam  revertidas  no  futuro próximo.   Impostos  diferidos  ativos  são  re...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 16614, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no futuro próximo’ é uma expressão prolixa. É preferível dizer “em breve”
+Suggestion: em breve
+...diferenças temporárias sejam revertidas no futuro próximo  e  o  lucro  tributável  esteja  dispo...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 18049, length 12, Rule ID: OLD_SPELLING_U
+Message: O trema deixou de ser utilizado em Português com o Acordo de 1945.
+Suggestion: consequência
+...nte  (legal  ou  não  formalizada)  em  conseqüência  de  um  evento  passado,  é  provável ...
+                                           ^^^^^^^^^^^^
+Erro: 10
+Offset 19375, length 16, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...es  são  revisadas  e  ajustadas  para  levar  em  conta  alterações  nas  circunstâncias,  tais...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 23377, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...da data de aquisição, sendo esta a data na qual a Companhia  obtém  controle  e  contin...
+                                           ^^^^^^^
+Erro: 12
+Offset 24356, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...ão  preparadas  e  estão  apresentadas  de  acordo com a Deliberação CVM n° 557, de 12 de novemb...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 27332, length 5, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: em; de
+... demonstrações  financeiras  encerradas em de 31 de dezembro de 2012 e 2011, conforme...
+                                           ^^^^^
+Erro: 14
+Offset 27551, length 4, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Vide’ é uma expressão prolixa. É preferível dizer “veja”
+Suggestion: Veja
+...rato  de  consolidação  do  REFIS  IV  (Vide  Nota  9)  disponibilizado pela Receita...
+                                           ^^^^
+Erro: 15
+Offset 56889, length 11, Rule ID: CRASE_CONFUSION
+Message: Esta palavra rege-se com a preposição “a”.
+Suggestion: equivalem à
+...s de renda fixa remunerados a taxas que equivalem a variação  entre 98% e 100% do CDI e par...
+                                           ^^^^^^^^^^^
+Erro: 16
+Offset 68040, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; Categoria de
+...e financiamentos   Representados por:   Tipo de  Operação  Banco Bradesco  S/A  Banco S...
+                                           ^^^^^^^
+Erro: 17
+Offset 70509, length 11, Rule ID: CHAMAR_DENOMINAR_DE
+Message: Os verbos ‘chamar’ e ‘denominar’ são pronominais, a redação correta é sem preposição.
+Suggestion: chamado
+... Programa  de  Parcelamento  Especial,  chamado  de  “REFIS  IV”.  A  opção  pelos  parcela...
+                                           ^^^^^^^^^^^
+Erro: 18
+Offset 71240, length 11, Rule ID: DEVE_DE
+Message: Substitua por “devidos”.
+Suggestion: devidos
+... determinado  percentual  dos  valores  devidos  de  multa  e  juros,  dependendo  do  praz...
+                                           ^^^^^^^^^^^
+Erro: 19
+Offset 74241, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...a-se o processo de reversão da provisão de acordo com a curva de                               ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 20
+Offset 76856, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de cálculo
+...Compensação de prejuízos fiscais   Base de Calculo do IR e Contribuição Social  Imposto de...
+                                           ^^^^^^^^^^
+Erro: 21
+Offset 81215, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...ia  ou  por  ação  preferencial, fixado de acordo com o disposto no artigo 170, parágrafo 1º, d...
+                                           ^^^^^^^^^^^^^^^
+Erro: 22
+Offset 81946, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...os Ribeiro Simon, tendo sido concedido, por meio de Agravo de Instrumento,  pela 3ª Câmara ...
+                                           ^^^^^^^^^^^
+Erro: 23
+Offset 85386, length 28, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: ela devidamente subscrita
+...  preferenciais  residuais  foram  por  ela  devidamente  subscritas  e  integralizadas  em  20 de julho de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 24
+Offset 86013, length 5, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘caput’ é uma expressão prolixa. É preferível dizer “cabeça”
+Suggestion: cabeça
+...a  Assembléia  Geral  para  alterar  o  caput do Artigo 5º do Estatuto Social da Comp...
+                                           ^^^^^
+Erro: 25
+Offset 86602, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinado à
+...             O  saldo  residual  será  destinado  a  reserva  estatutária,  para  a  seguin...
+                                           ^^^^^^^^^^^^
+Erro: 26
+Offset 88736, length 14, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘a natureza das’ é uma expressão prolixa. É preferível dizer “as”
+Suggestion: as
+...3.558)  (3.107)   16. Informações sobre a natureza das despesas.   Descrição   Pessoal   Custo...
+                                           ^^^^^^^^^^^^^^
+Erro: 27
+Offset 92631, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+...escido de juros de 3,30% ao  ano. Assim com o objetivo de proteger seu fluxo de caixa da variação...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 28
+Offset 92765, length 10, Rule ID: PARONYM_DIVIDA_612
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: da dívida
+...dequar  a  trajetória  de  amortização  da  divida  ao  recebível  na  mesma  moeda,  a  C...
+                                           ^^^^^^^^^^
+Erro: 29
+Offset 93734, length 15, Rule ID: PARONYM_NEGOCIO_221
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: com seu negócio
+... qualquer  resultado  que não se alinhe com seu negocio, inclusive em relação às datas de venci...
+                                           ^^^^^^^^^^^^^^^
+Erro: 30
+Offset 94092, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...sificação do produto  e de contrapartes de acordo com o risco da operação a ser protegido.   II...
+                                           ^^^^^^^^^^^^^^^
+Erro: 31
+Offset 94862, length 9, Rule ID: PARONYM_INICIO_169
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de início
+...ado da variação da ponta ativa da data  de inicio até a data de vencimento, multiplicado ...
+                                           ^^^^^^^^^
+Erro: 32
+Offset 95005, length 10, Rule ID: PARONYM_INICIO_169
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de início
+...ariação  da  ponta  passiva,  da  data  de  inicio  até  a  data  de  vencimento, multipli...
+                                           ^^^^^^^^^^
+Erro: 33
+Offset 95390, length 13, Rule ID: PARONYM_REFERENCIA_276
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de referência
+...   Vencimento  Moeda   nocional   Valor de referencia                         Contratos de "s...
+                                           ^^^^^^^^^^^^^
+Erro: 34
+Offset 96605, length 24, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+... a “despesa financeira bruta anual” não levando em  consideração  incidência  de  tributos,  juros  fixo...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,54 @@
+Erro: 24
+Offset 742, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+...da  com  sede  no  Brasil,  que  detém  aproximadamente  99,99%  do  capital  social  da  Compa...
+                                           ^^^^^^^^^^^^^^^
+Erro: 25
+Offset 1455, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...onstrações financeiras foram elaboradas de acordo com as práticas contábeis adotadas no  Brasil,...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 26
+Offset 3218, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores  diferentes  dos...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 27
+Offset 3542, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...ão do resultado   O resultado é apurado em conformidade com o regime de competência.   b.  Instrume...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 28
+Offset 3882, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...ejam  reconhecidos  pelo  valor  justo  através  de  resultado, de quaisquer custos de tran...
+                                           ^^^^^^^^^^^
+Erro: 29
+Offset 4369, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...finiu que sua moeda funcional é o real  de acordo com as  normas descritas no CPC 02 - Efeitos n...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 30
+Offset 7308, length 9, Rule ID: À_VERBO_DE
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a taxar
+...ados de depósito bancário,  remunerados à taxa de 100% do Certificado de Depósito Interba...
+                                           ^^^^^^^^^
+Erro: 31
+Offset 10788, length 14, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘a natureza das’ é uma expressão prolixa. É preferível dizer “as”
+Suggestion: as
+...eitas  e  despesas  que, tendo em vista a natureza das transações e os seus períodos de vencim...
+                                           ^^^^^^^^^^^^^^
+Erro: 32
+Offset 12357, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...sociadas com seus  passivos financeiros que são liquidados com pagamentos a vista ou com outro ativo f...
+                                           ^^^^^^^^^^^^^^^^^^^^^^

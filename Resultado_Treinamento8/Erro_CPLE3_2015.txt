@@ -1,0 +1,641 @@
+Erro: 1242
+Offset 1265, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘com o objetivo de’ é uma expressão prolixa. É preferível dizer “para” ou “visando”
+Suggestion: para; visando
+... empresas privadas e de economia mista, com o objetivo de desenvolver atividades principalmente n...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 1243
+Offset 2652, length 6, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...olidadas  são  apresentadas  em  real,  que  é  a  moeda   funcional  da  Companhia.  ...
+                                           ^^^^^^
+Erro: 1244
+Offset 6905, length 5, Rule ID: HOMOPHONE_AS_CARD
+Message: Possível confusão de termos. Um indivíduo valoroso escreve-se com acento agudo.
+Suggestion: ás da
+...s para adequar suas políticas contábeis às da Controladora.   As operações em conjunt...
+                                           ^^^^^
+Erro: 1245
+Offset 11668, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...ra e venda com base em seu valor justo, de acordo com a estratégia de investimento e   gerencia...
+                                           ^^^^^^^^^^^^^^^
+Erro: 1246
+Offset 19052, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tem como objetivo’ é uma expressão prolixa. É preferível dizer “visa”, “pretende” ou “procura”
+Suggestion: visa; pretende; procura
+...pelo Poder Concedente. Essa indenização tem como objetivo reembolsar a Copel   Distribuição  pelo...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 1247
+Offset 19386, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...em fluxos de caixa fixos determináveis, uma vez que a premissa da   indenização  terá  como...
+                                           ^^^^^^^^^^^
+Erro: 1248
+Offset 20108, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tem como objetivo’ é uma expressão prolixa. É preferível dizer “visa”, “pretende” ou “procura”
+Suggestion: visa; pretende; procura
+... anos   considerando diversos fatores e tem como objetivo refletir a variação de preços dos ativo...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 1249
+Offset 25480, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...tivo  circulante  ou  não   circulante, de acordo com a previsão de sua realização.   A tributa...
+                                           ^^^^^^^^^^^^^^^
+Erro: 1250
+Offset 26062, length 26, Rule ID: REFLEXIVE_VERB_SE_AGREEMENT
+Message: O verbo aqui concorda com o objecto portanto deve utilizar o verbo no plural.
+Suggestion: consideraram-se os critérios
+...rme previsto na Lei 11.941/09, ou seja, considerou-se os critérios contábeis da Lei 6.404/76, antes das   ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 1251
+Offset 29202, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em virtude de’ é uma expressão prolixa. É preferível dizer “por”
+Suggestion: por
+...o  ativo   financeiro (valor residual), em virtude de sua recuperação estar condicionada à ut...
+                                           ^^^^^^^^^^^^^
+Erro: 1252
+Offset 30825, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensurados pelo
+...   terceiros e os gerados internamente, que são mensurados pelo custo total de aquisição menos as despe...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 1253
+Offset 34715, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consideram
+...lizadas outras premissas atuariais que  levam em conta tabelas biométricas e econômicas, além ...
+                                           ^^^^^^^^^^^^^^
+Erro: 1254
+Offset 37487, length 13, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘mais provável’ é um pleonasmo. É preferível dizer “provável”
+Suggestion: provável
+...forma confiável e cuja liquidação seja  mais provável   que sim do que não ocorrer.   As  est...
+                                           ^^^^^^^^^^^^^
+Erro: 1255
+Offset 39099, length 10, Rule ID: DEPOIS_DE_APÓS
+Message: Substitua por “após”.
+Suggestion: após
+... à  conta  dos  lucros  remanescentes,  depois  de  pagos  os  dividendos   prioritários d...
+                                           ^^^^^^^^^^
+Erro: 1256
+Offset 39186, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: Conforme o; Segundo o; Consoante o
+...s das ações preferenciais classe “A”.   De acordo com o artigo 17 e seus parágrafos, da Lei Fed...
+                                           ^^^^^^^^^^^^^^^
+Erro: 1257
+Offset 41112, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: Visto que; Dado que
+...quivalente ao lucro por ação diluído.   Uma vez que os acionistas preferenciais e ordinário...
+                                           ^^^^^^^^^^^
+Erro: 1258
+Offset 41457, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+... por  ação  preferencial  e   ordinária de acordo com os dividendos declarados, conforme o estat...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 1259
+Offset 44047, length 16, Rule ID: SENTENCE_FRAGMENT
+Message: Se não é uma transcrição de discurso oral, “Considerando que” no início de uma frase requer uma segunda oração. Talvez uma vírgula, ponto de interrogação ou de exclamação estejam em falta, ou a frase está incompleta e deve ser ligada à frase que a precede ou à seguinte.
+...exercício   como custo de construção.   Considerando que a Copel Distribuição terceiriza a const...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 1260
+Offset 44742, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...  por um montante  igual  ao seu custo, uma vez que a construção  da  infraestrutura  é rea...
+                                           ^^^^^^^^^^^
+Erro: 1261
+Offset 50525, length 5, Rule ID: PT_WORD_COHERENCY
+Message: Não deve utilizar formas distintas de palavras com dupla grafia no mesmo texto. Escolha entre ‘cota’ e ‘quota’.
+Suggestion: Quotas
+...             2.001         1.990        Cotas de fundos de investimentos1CDI96       ...
+                                           ^^^^^
+Erro: 1262
+Offset 61834, length 5, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: em
+...29          Reconhecimento inicialSaldo em em 10.12.2014DiferimentoAmortizaçãoAtualiz...
+                                           ^^^^^
+Erro: 1263
+Offset 70314, length 3, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sul
+...021/14 - LT 230kV Foz do Chopim Realeza Sul e SE 230 kV Realeza Sul2.933           ...
+                                           ^^^
+Erro: 1264
+Offset 84840, length 13, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Equivalência
+...95)   (512.211)    Efeitos fiscais sobre:Equivalência patrimonial376.260     283.340      47....
+                                           ^^^^^^^^^^^^^
+Erro: 1265
+Offset 89685, length 3, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sul
+...       403                 Transmissora Sul Brasileira-                     -      ...
+                                           ^^^
+Erro: 1266
+Offset 92470, length 17, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: ocorra
+...uitação das   faturas  vencidas.  Caso  venha  a  ocorrer  inadimplemento  do  repasse  por  part...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 1267
+Offset 94626, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...a   participação no segmento de geração por meio de fontes renováveis em sua matriz energét...
+                                           ^^^^^^^^^^^
+Erro: 1268
+Offset 113004, length 3, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sul
+...              63.747       Transmissora Sul Brasileira63.797       2.799           ...
+                                           ^^^
+Erro: 1269
+Offset 117929, length 3, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sul
+...2)            21.797       Transmissora Sul Brasileira9.577         1.516          ...
+                                           ^^^
+Erro: 1270
+Offset 128455, length 3, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sul
+...      80,00 63.747         Transmissora Sul Brasileira de Energia S.A.Curitiba/PRTr...
+                                           ^^^
+Erro: 1271
+Offset 134426, length 5, Rule ID: HOMOPHONE_AS_CARD
+Message: Possível confusão de termos. Um indivíduo valoroso escreve-se com acento agudo.
+Suggestion: ás da
+...      1.098     .(a) Práticas ajustadas às da Copel.VoltáliaDominó (a)Costa OesteMaru...
+                                           ^^^^^
+Erro: 1272
+Offset 134488, length 3, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sul
+...minó (a)Costa OesteMarumbiTransmis-sora Sul BrasileiraCaiuá Integração MaranhenseMa...
+                                           ^^^
+Erro: 1273
+Offset 136580, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: Conforme os; Segundo os; Consoante os
+...incipais coligadas   18   Imobilizado   De acordo com os artigos 63 e 64 do Decreto nº 41.019/57...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 1274
+Offset 138931, length 5, Rule ID: HOMOPHONE_AS_CARD
+Message: Possível confusão de termos. Um indivíduo valoroso escreve-se com acento agudo.
+Suggestion: ás da
+...                .(a) Práticas ajustadas às da Copel.      18.1    Imobilizado por em...
+                                           ^^^^^
+Erro: 1275
+Offset 144930, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 10
+...tas a receber vinculadas à concessão(cid:10)  Resolução nº 367/20091.742           ...
+                                           ^^^
+Erro: 1276
+Offset 186946, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; Categoria de
+...gos financeiros a.a.Valor doConsolidado Tipo de bônusparcelasfinalzação(juros + comissã...
+                                           ^^^^^^^
+Erro: 1277
+Offset 187662, length 15, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Reestruturação
+...31 (R$ 18.700 em 31.12.2013). Observação:Reestruturação da dívida da Controladora referente aos...
+                                           ^^^^^^^^^^^^^^^
+Erro: 1278
+Offset 189131, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Copel
+...irculante830.446     886.893    Empresas:Copel Distribuição:  (a) (b) (c) (d) (e)Copel...
+                                           ^^^^^^
+Erro: 1279
+Offset 189221, length 14, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: Com
+...) (g) (h) (i) (j) (k)Prestações anuais: Juntamente com os juros proporcionais às parcelas; a p...
+                                           ^^^^^^^^^^^^^^
+Erro: 1280
+Offset 189407, length 14, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: Com
+...ncíveis em 11.07.2014 e 15.08.2015:  (b)Juntamente com os juros proporcionais às parcelas, no ...
+                                           ^^^^^^^^^^^^^^
+Erro: 1281
+Offset 189534, length 14, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: Com
+...27.07.2016, 27.07.2017 e 27.07.2018: (d)Juntamente com os juros proporcionais às parcelas, no ...
+                                           ^^^^^^^^^^^^^^
+Erro: 1282
+Offset 189671, length 13, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Renegociação
+..., 11.07.2018 e 11.07.2019: (e)Destinação:Renegociação de dívida com a União:  (a)Capital de g...
+                                           ^^^^^^^^^^^^^
+Erro: 1283
+Offset 189934, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Em
+...c)Cessão de créditos: (d) (e)Observações:Em 28.02.2014, o aditivo de retificação e ...
+                                           ^^^
+Erro: 1284
+Offset 189989, length 1, Rule ID: CONFUSÃO_À_HÁ
+Message: Para expressões de tempo/quantidade utilize ‘há’.
+Suggestion: há
+... o aditivo de retificação e ratificação à NC 330600132 prorrogou o vencimento e a...
+                                           ^
+Erro: 1285
+Offset 191340, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Copel
+...           1.274          130.761     179.756      Circulante49.484       49.329      ...
+                                           ^^^^^^
+Erro: 1286
+Offset 191448, length 10, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Cobertura
+...       130.427      Empresas:Copel Geração e Transmissão:  (a)Copel Distribuição:  (b) (c)...
+                                           ^^^^^^^^^^
+Erro: 1287
+Offset 191849, length 13, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Representada
+...rograma Nacional de Iluminação Pública Eficiente - Reluz: cobertura de 75% do custo total do ...
+                                           ^^^^^^^^^^^^^
+Erro: 1288
+Offset 192674, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Copel
+...5.737        6.935        Não circulante27.431      33.622      Empresas:Copel Geração...
+                                           ^^^^^^
+Erro: 1289
+Offset 192749, length 8, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Projeto
+...pel Geração e Transmissão: (a) (b) Copel Telecomunicações: (c)Destinação:Projeto de Pesq...
+                                           ^^^^^^^^
+Erro: 1290
+Offset 194592, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Copel
+...                11211551 (m)19.03.201219215.07.201415.06.20302,34% a.a. acima da TJLP9...
+                                           ^^^^^^
+Erro: 1291
+Offset 194763, length 14, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Implementação
+...   20.776        Não circulante1.454.196  1.104.333   Empresa:Copel Geração e Transmissão: (a)...
+                                           ^^^^^^^^^^^^^^
+Erro: 1292
+Offset 194911, length 5, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: oeste
+...o:  (g) (h) (i)GE São Bento do Norte: (l) GE Farol: (j)GE Olho D'Agua: (m)Destinação:...
+                                           ^^^^^
+Erro: 1293
+Offset 195792, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...Eol Dreen São Bento do Norte: (l) Construção e implantação da central geradora eólica Eol ...
+                                           ^^^^^^^^^^
+Erro: 1294
+Offset 197805, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Copel
+...   11.838     Não circulante137.373    148.742   Empresa:Copel Geração e TransmissãoDe...
+                                           ^^^^^^
+Erro: 1295
+Offset 197843, length 14, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Implementação
+... 148.742   Empresa:Copel Geração e TransmissãoDestinação:Implementação da UHE Mauá e sistema d...
+                                           ^^^^^^^^^^^^^^
+Erro: 1296
+Offset 200541, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “em”.
+Suggestion: em
+...inados  índices  econômico-financeiros  dentro  de  parâmetros  pré-estabelecidos,  bem  c...
+                                           ^^^^^^^^^^
+Erro: 1297
+Offset 204531, length 3, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘;’.
+Suggestion: ; R$
+...00 - N. Asa Branca III; R$ 30.000 - N. Eurus IV; R$ 50.000 - Santa Maria;R$ 58.000 ...
+                                           ^^^
+Erro: 1298
+Offset 204943, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Juros
+... será atualizado monetariamente: (a) (b) (c) (d) (e)Encargos financeiros:Juros pagos s...
+                                           ^^^^^^
+Erro: 1299
+Offset 205211, length 8, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Capital
+...d) Juros pagos em uma única parcela na data de vencimento: (e)Destinação:Capital de giro...
+                                           ^^^^^^^^
+Erro: 1300
+Offset 206064, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “em”.
+Suggestion: em
+...erminados índices econômico-financeiros dentro de parâmetros pré-estabelecidos, com exigi...
+                                           ^^^^^^^^^
+Erro: 1301
+Offset 207586, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+... anualmente por atuários independentes, de acordo com o CPC 33 (R1) a partir   de  1º.01.2013, ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 1302
+Offset 209426, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “em”.
+Suggestion: em
+...dos   empregados e de seus dependentes, dentro de regras, limites e condições estabelecid...
+                                           ^^^^^^^^^
+Erro: 1303
+Offset 213117, length 12, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘enquanto que’ é um pleonasmo. É preferível dizer “enquanto”
+Suggestion: enquanto
+... um   superávit do plano de R$ 183.117, enquanto que, em 31.12.2013, a posição era de R$ 362...
+                                           ^^^^^^^^^^^^
+Erro: 1304
+Offset 226706, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Copel
+...81       436.772     420.293    Empresas:Copel Geração e Transmissão: (a) (b) (c) (d) ...
+                                           ^^^^^^
+Erro: 1305
+Offset 226823, length 5, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Taxa
+...de desconto no cálculo do valor presente:Taxa desconto real e líquida, compatível com...
+                                           ^^^^^
+Erro: 1306
+Offset 226961, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : 5,65%
+... com a expectativa de retorno do projeto:5,65% a.a. (a) 7,74% a.a. (b) (c) (d) (e) (f)...
+                                           ^^^^^^
+Erro: 1307
+Offset 227048, length 9, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Parcelas
+...(g) (h)11,00% a.a. (i) Pagamento à União:Parcelas mensais equivalentes a 1/12 do pagament...
+                                           ^^^^^^^^^
+Erro: 1308
+Offset 235656, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na medida em que’ é uma expressão prolixa. É preferível dizer “enquanto”
+Suggestion: enquanto
+...hia  e  suas  subsidiárias  integrais,  na  medida  em  que  forem  necessários  aportes   compleme...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 1309
+Offset 240476, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...Geração  e   Transmissão perante o STJ, no qual se discute diferença de valores decorre...
+                                           ^^^^^^^
+Erro: 1310
+Offset 244372, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...Geração  e   Transmissão perante o STJ, no qual se discute diferença de valores decorre...
+                                           ^^^^^^^
+Erro: 1311
+Offset 248183, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Custo
+...ção dos ajustes de avaliação patrimonial:Custo atribuído do imobilizado-              ...
+                                           ^^^^^^
+Erro: 1312
+Offset 249120, length 7, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Outros
+...   (582)                  Outros ajustes:Outros ajustes - controladas (a)(1.282)       ...
+                                           ^^^^^^^
+Erro: 1313
+Offset 249323, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Custo
+...ção dos ajustes de avaliação patrimonial:Custo atribuído do imobilizado-              ...
+                                           ^^^^^^
+Erro: 1314
+Offset 250540, length 3, Rule ID: SPACES_BETWEEN_OPERATORS
+Message: Separe as fórmulas com espaços (protegidos).
+Suggestion: 3 + 5
+...   Distribuição total proposta - (2)   (3+5)622.523             560.537            ...
+                                           ^^^
+Erro: 1315
+Offset 250945, length 3, Rule ID: SPACES_BETWEEN_OPERATORS
+Message: Separe as fórmulas com espaços (protegidos).
+Suggestion: 4 + 5
+...buição total proposta, líquida - (6)   (4+5)619.362             544.430            ...
+                                           ^^^
+Erro: 1316
+Offset 251759, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Ações
+...ruto dos dividendos por classes de ações:Ações ordinárias315.060             283.640  ...
+                                           ^^^^^^
+Erro: 1317
+Offset 252124, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Ações
+..., atribuído aos acionistas controladores:Ações ordinárias610.434                542.81...
+                                           ^^^^^^
+Erro: 1318
+Offset 252428, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Ações
+...oMédia ponderada das ações (em milhares):Ações ordinárias145.031.080         145.031.0...
+                                           ^^^^^^
+Erro: 1319
+Offset 252732, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Ações
+...do aos acionistas da empresacontroladora:Ações ordinárias4,20899                3,7427...
+                                           ^^^^^^
+Erro: 1320
+Offset 268064, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...945/2013  e  nº  8203/2014,  permitiu,  através  de  repasses  financeiros  da  CDE,  cobri...
+                                           ^^^^^^^^^^^
+Erro: 1321
+Offset 269884, length 17, Rule ID: IR_CONTRACTION_NOUN
+Message: Substitua por “foram ao montante”.
+Suggestion: foram ao montante
+...o nº 7891/2013, citado na NE nº 32.1.1, foram no montante de R$ 319.624 no exercício 2013.   32.2...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 1322
+Offset 277593, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: os segmentos (reportáveis)
+...  34.1    Produtos e serviços dos quais os segmentos reportáveis têm suas receitas geradas   A  Companhi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 1323
+Offset 312697, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Nível
+...níveis foram definidos conforme a seguir:Nível 1: obtidas de preços cotados (não ajust...
+                                           ^^^^^^
+Erro: 1324
+Offset 312801, length 6, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘;’.
+Suggestion: ; Nível
+...ativos para ativos ou passivos idênticos;Nível 2: obtidas por meio de outras variáveis...
+                                           ^^^^^^
+Erro: 1325
+Offset 312819, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+... ou passivos idênticos;Nível 2: obtidas por meio de outras variáveis além dos preços cotado...
+                                           ^^^^^^^^^^^
+Erro: 1326
+Offset 312894, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis para
+...os preços cotados incluídos no Nível 1, que são observáveis para         o ativo ou passivo; Nível 3: ob...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 1327
+Offset 312964, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...   o ativo ou passivo; Nível 3: obtidas por meio de técnicas de avaliação que incluem variá...
+                                           ^^^^^^^^^^^
+Erro: 1328
+Offset 317339, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...nte, referente a custos não recuperados por meio de tarifa.   e)  A Administração considera...
+                                           ^^^^^^^^^^^
+Erro: 1329
+Offset 317877, length 10, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativo à
+...em risco de demanda.   f)  Para o valor relativo a indenização homologada para os ativos q...
+                                           ^^^^^^^^^^
+Erro: 1330
+Offset 322679, length 10, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “em”.
+Suggestion: em
+...  risco  é  controlar  as  exposições,  dentro  de  parâmetros   aceitáveis, e ao mesmo te...
+                                           ^^^^^^^^^^
+Erro: 1331
+Offset 326257, length 25, Rule ID: REFLEXIVE_VERB_SE_AGREEMENT
+Message: O verbo aqui concorda com o objecto portanto deve utilizar o verbo no plural.
+Suggestion: consideraram-se os saldos
+....12.2014 e para   o  cenário  provável  considerou-se  os  saldos  com  a  variação  da  taxa  de  câmbio...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 1332
+Offset 329190, length 25, Rule ID: REFLEXIVE_VERB_SE_AGREEMENT
+Message: O verbo aqui concorda com o objecto portanto deve utilizar o verbo no plural.
+Suggestion: consideraram-se os saldos
+....12.2014 e para   o  cenário  provável  considerou-se  os  saldos  com  a  variação  dos  indicadores  (C...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 1333
+Offset 330329, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...rojetado  provável  da  tabela  acima,  uma  vez  que  as  premissas   utilizadas pela Compan...
+                                           ^^^^^^^^^^^^^
+Erro: 1334
+Offset 334954, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...gético em 2014 mostrou-se desfavorável, uma vez que as condições climáticas na estação   ch...
+                                           ^^^^^^^^^^^
+Erro: 1335
+Offset 335127, length 8, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: nordeste
+...s  subsistemas   Sudeste/Centro-Oeste e Nordeste.   Estes  fatores  podem  impactar,  so...
+                                           ^^^^^^^^
+Erro: 1336
+Offset 339662, length 12, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sejam
+... valores  a  serem   indenizados ou que venham a ser atribuídos a um novo período de concess...
+                                           ^^^^^^^^^^^^
+Erro: 1337
+Offset 340954, length 4, Rule ID: UNITS_OF_MEASURE_SPACING
+Message: Deve dar um espaço entre o valor e a unidade de medida: “42 Em”
+Suggestion: 42 Em
+...022.12.2029Portaria nº 133/2011 - PCH Cavernoso II 10027.02.2046Contrato de Concessã...
+                                           ^^^^
+Erro: 1338
+Offset 342582, length 5, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: oeste
+...tação Cerquilho III  (b)10005.10.2040Contrato nº 001/12 - Linha de transmissão Cascav...
+                                           ^^^^^
+Erro: 1339
+Offset 355328, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...a  parcialmente.  Consequentemente,  e  de  acordo  com  as  disposições   contratuais,  a  Compagá...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 1340
+Offset 358098, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...e Civil de   Interesse Público - Oscip, na qual a Copel é uma associada. O Lactec manté...
+                                           ^^^^^^^
+Erro: 1341
+Offset 358470, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...rculante, na conta Serviços em curso,   na qual devem permanecer até a conclusão do pro...
+                                           ^^^^^^^
+Erro: 1342
+Offset 359162, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+... as partes relacionadas são   faturados de acordo com as tarifas homologadas pela Aneel.       ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 1343
+Offset 360631, length 3, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sul
+...0    541.965    553.271    Transmissora Sul Brasileira (g)Financiamento12.12.201315...
+                                           ^^^
+Erro: 1344
+Offset 360728, length 3, Rule ID: AO90_CARDINAL_POINTS_CASING
+Message: Segundo o Acordo Ortográfico de 90, os pontos cardeais deixam de ser capitalizados, excepto se se referem a uma região específica.
+Suggestion: sul
+...2    260.145    261.718    Transmissora Sul Brasileira (h)Debêntures15.09.201415.09...
+                                           ^^^
+Erro: 1345
+Offset 361044, length 9, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Programa
+...BNDES: (a) (b) (d) (f) (g) (j)Destinação:Programa Investimentos e/ou Capital de Giro.Aval...
+                                           ^^^^^^^^^
+Erro: 1346
+Offset 361102, length 9, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Prestado
+...entos e/ou Capital de Giro.Aval / Fiança:Prestado pela Copel Geração e Transmissão, limit...
+                                           ^^^^^^^^^
+Erro: 1347
+Offset 361528, length 7, Rule ID: SEMICOLON_COLON_SPACING
+Message: Deve colocar um espaço após ‘:’.
+Suggestion: : Penhor
+...80% da operação (j)Garantias da Operação:Penhor de ações da Copel Geração e Transmissão...
+                                           ^^^^^^^
+Erro: 1348
+Offset 362291, length 24, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘nacional e internacional’ é uma expressão prolixa. É preferível dizer “(inter)nacional”
+Suggestion: (inter)nacional
+...153.600                      Transporte nacional e internacional - exportação e importação 24/08/2015apó...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^

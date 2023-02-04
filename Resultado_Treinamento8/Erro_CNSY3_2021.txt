@@ -1,0 +1,382 @@
+Erro: 1
+Offset 6644, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...as relacionadas com o custo de pessoal, de acordo com o  benefício trazido pela Medida Provisór...
+                                           ^^^^^^^^^^^^^^^
+Erro: 2
+Offset 7366, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: Considerando
+...s ao setor  para incentivo econômico.   Levando em consideração que a capacidade de geração de receitas...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 7501, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...relacionada ao público de seus cinemas, uma vez que houve o fechamento de suas  salas, as r...
+                                           ^^^^^^^^^^^
+Erro: 4
+Offset 8595, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...rcado exibidor para os próximos meses,  levando em consideração os lançamentos previstos, e remarcações...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 8755, length 14, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...egulamentações decorrentes da COVID-19, juntamente com as respostas  propostas pela administra...
+                                           ^^^^^^^^^^^^^^
+Erro: 6
+Offset 9357, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...ação de  redução de custos com pessoal, através de manutenção de equipes mínimas, ou reduç...
+                                           ^^^^^^^^^^
+Erro: 7
+Offset 13392, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: conseguem; podem
+...ós a sua emissão, somente os acionistas têm o poder de alterar as  informações financeiras.   ...
+                                           ^^^^^^^^^^^^^^
+Erro: 8
+Offset 16407, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis para
+...os preços cotados incluídos no Nível 1, que são observáveis para o ativo   ou passivo, diretamente (preç...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 18502, length 5, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...ndos de seu envolvimento com a entidade e tem a habilidade de afetar esses  retornos ...
+                                           ^^^^^
+Erro: 10
+Offset 21343, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...eitas de mídia em tela são reconhecidas de acordo com as inserções de propaganda de  nossos clie...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 22463, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...ultado, na rubrica  de outras receitas, levando em consideração os prazos contratuais de cada modalidad...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 25997, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na medida em que’ é uma expressão prolixa. É preferível dizer “enquanto”
+Suggestion: enquanto
+...informações contábeis e serão reduzidos na medida em que sua realização não  seja mais provável....
+                                           ^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 26039, length 13, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘mais provável’ é um pleonasmo. É preferível dizer “provável”
+Suggestion: provável
+... medida em que sua realização não  seja mais provável.   Ao determinar o seu imposto de renda...
+                                           ^^^^^^^^^^^^^
+Erro: 14
+Offset 26121, length 13, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considera; consideres
+...to de renda corrente e diferido o Grupo leva em conta o impacto das  incertezas em relação à ...
+                                           ^^^^^^^^^^^^^
+Erro: 15
+Offset 26471, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘experiência passada’ é uma expressão prolixa. É preferível dizer “experiência”
+Suggestion: experiência
+...nterpretação da legislação tributária e experiência passada. Esta avaliação é baseada em  estimativ...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 16
+Offset 27825, length 16, Rule ID: SER_CAPAZ_DE_CONSEGUIR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: consigam
+...l e condição necessários para que esses sejam capazes de operar da  forma pretendida pela Admini...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 17
+Offset 28577, length 9, Rule ID: DENTRO_DE_DA_DAS_DO_DOS_EM_NA_NAS_NO_NOS
+Message: Substitua por “no”.
+Suggestion: no
+...e os benefícios econômicos incorporados dentro do componente irão fluir  para o Grupo e q...
+                                           ^^^^^^^^^
+Erro: 18
+Offset 30363, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensurados pelo
+...s autorais  e direito de uso comercial, que são mensurados pelo custo, deduzido da amortização acumulad...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 19
+Offset 31106, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...alor  recuperável anuais são realizados de acordo com as práticas contábeis existentes.   Os dir...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 20
+Offset 31496, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+... Allocation (PPA), sofrendo amortização de acordo  com o determinado em cada contrato de locação...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 21
+Offset 32093, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: Conforme o; Segundo o; Consoante o
+... baseado na definição de  arrendamento. De acordo com o CPC 06 (R2)/IFRS 16, um contrato é ou c...
+                                           ^^^^^^^^^^^^^^^
+Erro: 22
+Offset 33997, length 11, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: afetando
+...s têm impacto no prazo do arrendamento, o que afeta significativamente o valor dos  passivo...
+                                           ^^^^^^^^^^^
+Erro: 23
+Offset 34481, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+... nos quais consideramos as renovatórias de acordo com a política  interna da Companhia, cujo pr...
+                                           ^^^^^^^^^^^^^^^
+Erro: 24
+Offset 34875, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...dos com base na  taxa real de desconto, de acordo com o prazo remanescente dos contratos.   A t...
+                                           ^^^^^^^^^^^^^^^
+Erro: 25
+Offset 35259, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+... de utilizar uma taxa de desconto única de  acordo com os respectivos prazos para os contratos qu...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 26
+Offset 35599, length 15, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘Todos os demais’ é um pleonasmo. É preferível dizer “os demais”
+Suggestion: Os demais
+...ecidos inicialmente quando emitidos.    Todos os demais ativos e passivos financeiros são recon...
+                                           ^^^^^^^^^^^^^^^
+Erro: 27
+Offset 36422, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘por meio de’ é uma expressão prolixa. É preferível dizer “por” ou “através de”
+Suggestion: por; através de
+...o: ao custo  amortizado; ao valor justo por meio de outros resultados abrangentes (VJORA) -...
+                                           ^^^^^^^^^^^
+Erro: 28
+Offset 36770, length 14, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘a não ser que’ é uma expressão prolixa. É preferível dizer “exceto se”
+Suggestion: exceto se
+...equentemente ao reconhecimento inicial, a não  ser que o Grupo mude o modelo de negócios para ...
+                                           ^^^^^^^^^^^^^^
+Erro: 29
+Offset 38694, length 10, Rule ID: CACOPHONY
+Message: Cacofonia. Estas palavras, quando ouvidas, podem ser mal interpretadas.
+...z e custos administrativos), assim como uma margem de lucro.   O Grupo considera os termos...
+                                           ^^^^^^^^^^
+Erro: 30
+Offset 39160, length 3, Rule ID: FRAGMENT_TWO_ARTICLES
+Message: Possível fragmento.
+Suggestion: o; a; o, a
+... contingentes que modifiquem o valor ou o a época dos fluxos de caixa;    termos qu...
+                                           ^^^
+Erro: 31
+Offset 42069, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...re um ativo financeiro em uma transação na qual essencialmente todos os  riscos e benef...
+                                           ^^^^^^^
+Erro: 32
+Offset 47206, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘no qual’ é uma expressão prolixa. É preferível dizer “onde” ou “em que”
+Suggestion: onde; em que
+...o. Essa alocação  reflete o menor nível no qual o ágio é monitorado para fins internos ...
+                                           ^^^^^^^
+Erro: 33
+Offset 53894, length 16, Rule ID: SER_CAPAZ_DE_CONSEGUIR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: conseguirão
+...idência objetiva de que os clientes não serão capazes de liquidar os valores  devidos nos prazos...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 34
+Offset 82545, length 21, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerou
+...a UGC opera. O fluxo de caixa projetado levou em consideração a  experiência passada, os impactos tra...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 35
+Offset 82570, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘experiência passada’ é uma expressão prolixa. É preferível dizer “experiência”
+Suggestion: experiência
+...aixa projetado levou em consideração a  experiência passada, os impactos trazidos pela pandemia da ...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 36
+Offset 86446, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...alor recuperável anuais são  realizados de acordo com as práticas contábeis existentes. Em 31 de...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 37
+Offset 88101, length 11, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘uma vez que’ é uma expressão prolixa. É preferível dizer “visto que” ou “dado que”
+Suggestion: visto que; dado que
+...tegralmente para as  UGCs do Grupo Rio, uma vez que tal ágio teve origem na combinação de n...
+                                           ^^^^^^^^^^^
+Erro: 38
+Offset 88659, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consideraram
+...em que cada UGC  opera.    As projeções levaram em consideração as experiências passadas, os impactos t...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 39
+Offset 89199, length 25, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: o valor recuperável está
+...pais premissas utilizadas  para estimar o valor recuperável estão definidas a seguir. Os  valores atribuí...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 40
+Offset 90788, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...aria.   O LAJIDA projetado foi estimado levando em consideração a experiência passada, ajustado  pelos ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 41
+Offset 90814, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘experiência passada’ é uma expressão prolixa. É preferível dizer “experiência”
+Suggestion: experiência
+... foi estimado levando em consideração a experiência passada, ajustado  pelos seguintes fatores:   R...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 42
+Offset 91120, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...iderando crescimento médio 4,0%, sempre levando em consideração   fatores conhecidos sobre o setor de e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 43
+Offset 91329, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...jetados no mesmo exercício das receitas de acordo com a dinâmica das  UGCs e buscando sinergia ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 44
+Offset 91463, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...axa de desconto: 15,49% a.a., elaborada levando em consideração o custo médio do capital  (WACC);     ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 45
+Offset 91614, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+... foi superior ao seu valor contábil em  aproximadamente R$ 19.431.   A taxa de desconto é uma t...
+                                           ^^^^^^^^^^^^^^^
+Erro: 46
+Offset 92349, length 24, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+... em expectativas de resultados futuros, levando em  consideração a experiência passada, ajustado para o ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 47
+Offset 92376, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘experiência passada’ é uma expressão prolixa. É preferível dizer “experiência”
+Suggestion: experiência
+...dos futuros, levando em  consideração a experiência passada, ajustado para o crescimento previsto d...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 48
+Offset 92528, length 20, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: os próximos anos foram
+...VID-19. O crescimento das receitas para os próximos anos foi  projetado levando em consideração os n...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 49
+Offset 92560, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...as para os próximos anos foi  projetado levando em consideração os níveis de crescimento médio experime...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 50
+Offset 92790, length 10, Rule ID: CACOPHONY
+Message: Cacofonia. Estas palavras, quando ouvidas, podem ser mal interpretadas.
+...me-se que os preços de venda aumentem a uma margem constante em linha  com a inflação prev...
+                                           ^^^^^^^^^^
+Erro: 51
+Offset 104807, length 10, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de forma a’ é uma expressão prolixa. É preferível dizer “para”
+Suggestion: para
+...E em sua página de internet, se houver, de forma a divulgar a  colaboração do FSA.   Sem p...
+                                           ^^^^^^^^^^
+Erro: 52
+Offset 105120, length 13, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em virtude de’ é uma expressão prolixa. É preferível dizer “por”
+Suggestion: por
+...;   (c)   de prestação de garantia real em virtude de determinação legal, para garantia do ju...
+                                           ^^^^^^^^^^^^^
+Erro: 53
+Offset 107762, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: Conforme as; Segundo as; Consoante as
+...bvenções governamentais (Consolidado)   De acordo com as características dos empréstimos e finan...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 54
+Offset 109473, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: Conforme o; Segundo o; Consoante o
+...exercício de locação à taxa de mercado. De  acordo com o CPC06/IFRS16, pelas características dos...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 55
+Offset 114555, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...nemas do Grupo. A redução foi concedida levando em consideração o impacto trazido pela  pandemia da COV...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 56
+Offset 116885, length 12, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: em relação à
+...al social do Grupo permanece inalterado em relação a  posição de 31 de dezembro de 2019, con...
+                                           ^^^^^^^^^^^^
+Erro: 57
+Offset 117881, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘De acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: Conforme o; Segundo o; Consoante o
+... para compensar prejuízos acumulados.   De acordo com o Estatuto da Companhia, no exercício em ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 58
+Offset 118494, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...erva de retenção de lucros  Constituída de acordo com o previsto no artigo 196 da Lei nº 6.404/...
+                                           ^^^^^^^^^^^^^^^
+Erro: 59
+Offset 118680, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com o’ é uma expressão prolixa. É preferível dizer “conforme o”, “segundo o” ou “consoante o”
+Suggestion: conforme o; segundo o; consoante o
+...a de incentivos de fiscais  Constituída de acordo com o previsto no artigo art. 30 da Lei nº 12...
+                                           ^^^^^^^^^^^^^^^
+Erro: 60
+Offset 119417, length 21, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...do em Assembleia Geral, bem como deverá levar em consideração  a legislação aplicável.   d.  Ajuste a...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 61
+Offset 119945, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; De
+...ecine FLN Cinemat. Ltda.  Bombocine FLN Com de Alim. Ltda.  Redecine CRT Cinemat. Ltda...
+                                           ^^^^^^
+Erro: 62
+Offset 125485, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...Apropriados de subvenção governamental, de acordo com os prazos contratuais de cada modalidade d...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 63
+Offset 131509, length 10, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de forma a’ é uma expressão prolixa. É preferível dizer “para”
+Suggestion: para
+...uraria das demais empresas controladas, de forma a melhorar a capacidade de gestão de recu...
+                                           ^^^^^^^^^^
+Erro: 64
+Offset 138902, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...ados variam de exercício para exercício de acordo com a concentração de lançamentos de  filmes;...
+                                           ^^^^^^^^^^^^^^^

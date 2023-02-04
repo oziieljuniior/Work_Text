@@ -1,0 +1,36 @@
+Erro: 33
+Offset 1660, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...paradas  e  estão  sendo  apresentadas  de  acordo com as normas internacionais de relatórios fin...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 34
+Offset 1790, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+... Reporting  Standards (IFRS) - IAS 1) e de acordo com a deliberação CVM 676/11 que aprovou o CP...
+                                           ^^^^^^^^^^^^^^^
+Erro: 35
+Offset 3606, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...A  liquidação das transações envolvendo essas estimativas poderá resultar em valores diferentes dos  est...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 36
+Offset 3918, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...ão do resultado   O resultado é apurado em conformidade com o regime de competência.   (b)  Caixa e...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 37
+Offset 6596, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinado à
+...tal. O saldo remanescente de R$400 foi  destinado a conta de reserva de capital a integrali...
+                                           ^^^^^^^^^^^
+Erro: 38
+Offset 11306, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...sociadas com seus passivos financeiros  que são liquidados com pagamentos à vista ou com outro ativo f...
+                                           ^^^^^^^^^^^^^^^^^^^^^^

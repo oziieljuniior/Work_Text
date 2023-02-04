@@ -1,0 +1,48 @@
+Erro: 60
+Offset 2291, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...o    Total do passivo e patrimônio      liquido   6 de 11         31 de dezembro de 201...
+                                           ^^^^^^^
+Erro: 61
+Offset 3411, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...s da Companhia estão sendo apresentadas em conformidade com as práticas contábeis  adotadas no Bras...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 62
+Offset 3612, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+... (CPC), aprovados pela CVM (BR GAAP), e em conformidade com as normas internacionais de relatórios ...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 63
+Offset 5126, length 25, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas  estimativas poderá resultar em valores diferentes dos esti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 64
+Offset 5427, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...ão do resultado   O resultado é apurado em conformidade com o regime de competência.   (b)   Caixa ...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 65
+Offset 5561, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na medida em que’ é uma expressão prolixa. É preferível dizer “enquanto”
+Suggestion: enquanto
+...quivalentes de caixa incluem o caixa e, na medida em que haja disponibilidade de recursos, poder...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 66
+Offset 7089, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquido
+...mbro de 2014 – R$ 20).   6   Patrimônio Liquido   (a)   Capital social   Em Assembleia ...
+                                           ^^^^^^^
+Erro: 67
+Offset 12377, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...ssociadas com seus passivos financeiros que são liquidados com  pagamentos à vista ou com outro ativo ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^

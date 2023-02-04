@@ -1,0 +1,120 @@
+Erro: 61
+Offset 2032, length 17, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com as’ é uma expressão prolixa. É preferível dizer “conforme as”, “segundo as” ou “consoante as”
+Suggestion: conforme as; segundo as; consoante as
+...iduais e consolidadas, foram preparadas de acordo com  as práticas contábeis adotadas no Brasil, ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 62
+Offset 4475, length 14, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+...onhecimento dessas estimativas, poderão ser diferentes dos valores reconhecidos nas  presentes...
+                                           ^^^^^^^^^^^^^^
+Erro: 63
+Offset 12808, length 16, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...es  são  revisadas  e  ajustadas  para  levar  em  conta  alterações  nas  circunstâncias,  tais...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 64
+Offset 16059, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...de  Participações em Outras Entidades e à IAS 27  - Demonstrações Separadas   Modific...
+                                           ^^^^^
+Erro: 65
+Offset 16110, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+... Demonstrações Separadas   Modificações à IAS 32 - Instrumentos  Financeiros: Apresen...
+                                           ^^^^^
+Erro: 66
+Offset 16175, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...Financeiros: Apresentação  Modificações à IAS 36 - Redução do Valor  Recuperável de A...
+                                           ^^^^^
+Erro: 67
+Offset 16256, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...de Ativos Não Financeiros  Modificações à IAS 39 - Instrumentos  Financeiros: Reconhe...
+                                           ^^^^^
+Erro: 68
+Offset 18223, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...s 1º de janeiro de 2016.   Modificações à IAS  19/CPC 33 (R1) -  Benefícios a Emprega...
+                                           ^^^^^
+Erro: 69
+Offset 30993, length 17, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: as sócias reduzirem
+...o valor de R$142. No mesmo ato, decidem as sócias reduzir o capital da  Sociedade  em  R$4.561  p...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 70
+Offset 31504, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...ticipação.   (c)  Em  julho  de  2014,  através  de  contrato  particular  de  compra  e  v...
+                                           ^^^^^^^^^^^
+Erro: 71
+Offset 32174, length 7, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘Tipo de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categoria de”
+Suggestion: APAGAR; Categoria de
+....   10.  EMPRÉSTIMOS E FINANCIAMENTOS   Tipo de operação   Banco Safra S.A.   Circulant...
+                                           ^^^^^^^
+Erro: 72
+Offset 33632, length 9, Rule ID: PARONYM_INICIO_169
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: no início
+...o  de 2014 e 2013 é como segue:   Saldo no inicio do exercício  Juros  Amortização  Saldo...
+                                           ^^^^^^^^^
+Erro: 73
+Offset 34125, length 11, Rule ID: CHAMAR_DENOMINAR_DE
+Message: Os verbos ‘chamar’ e ‘denominar’ são pronominais, a redação correta é sem preposição.
+Suggestion: chamado
+... Programa  de  Parcelamento  Especial,  chamado  de  REFIS  IV.  A  opção  pelos  parcelame...
+                                           ^^^^^^^^^^^
+Erro: 74
+Offset 35439, length 11, Rule ID: DEVE_DE
+Message: Substitua por “devidos”.
+Suggestion: devidos
+... determinado  percentual  dos  valores  devidos  de  multa  e  juros,  dependendo  do  praz...
+                                           ^^^^^^^^^^^
+Erro: 75
+Offset 37578, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...cio o  processo de reversão da provisão de acordo com a curva de gastos históricos definidos pe...
+                                           ^^^^^^^^^^^^^^^
+Erro: 76
+Offset 43952, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativos à
+...e considerar  a  realização  de  R$223  relativos  a  compensação  de  prejuízos  fiscais,  ...
+                                           ^^^^^^^^^^^^
+Erro: 77
+Offset 44877, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consideram
+...  do  estudo  técnico  de  viabilidade  levam  em  consideração contratos já assinados, variação de tax...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 78
+Offset 51588, length 14, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘A NATUREZA DOS’ é uma expressão prolixa. É preferível dizer “os”
+Suggestion: Os
+...  (898)  (309)   17.  INFORMAÇÕES SOBRE A NATUREZA DOS CUSTOS E DAS DESPESAS   Pessoal   Servi...
+                                           ^^^^^^^^^^^^^^
+Erro: 79
+Offset 53157, length 8, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘tipos de’ é uma expressão prolixa. É preferível dizer “APAGAR” ou “categorias de”
+Suggestion: APAGAR; categorias de
+...plicações em instituições financeiras e tipos de investimentos ofertados no  mercado fin...
+                                           ^^^^^^^^
+Erro: 80
+Offset 54961, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com os’ é uma expressão prolixa. É preferível dizer “conforme os”, “segundo os” ou “consoante os”
+Suggestion: conforme os; segundo os; consoante os
+...do e os  saldos estão sendo atualizados de acordo com os contratos firmados.    c)  Operações co...
+                                           ^^^^^^^^^^^^^^^^

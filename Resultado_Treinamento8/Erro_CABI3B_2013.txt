@@ -1,0 +1,42 @@
+Erro: 53
+Offset 920, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘aproximadamente’ é uma expressão prolixa. É preferível dizer “APAGAR SE POSSÍVEL” ou “cerca de”
+Suggestion: APAGAR SE POSSÍVEL; cerca de
+... Delaware -   Estados Unidos, que detém aproximadamente 99,92% do capital social da Companhia. ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 54
+Offset 1472, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...s da Companhia estão sendo apresentadas em conformidade com as  práticas contábeis adotadas no Bras...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 55
+Offset 1673, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+... (CPC), aprovados pela CVM (BR GAAP), e em conformidade com  as normas internacionais de relatórios...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 56
+Offset 3548, length 25, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas  estimativas poderá resultar em valores diferentes dos esti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 57
+Offset 3850, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...ão do resultado   O resultado é apurado em conformidade com o regime de competência.   (b)   Instru...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 58
+Offset 4751, length 15, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘de acordo com a’ é uma expressão prolixa. É preferível dizer “conforme a”, “segundo a” ou “consoante a”
+Suggestion: conforme a; segundo a; consoante a
+...pra e venda com base em seu valor justo de acordo com a estratégia de investimento e  gerenciam...
+                                           ^^^^^^^^^^^^^^^
+Erro: 59
+Offset 10658, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...ssociadas com seus passivos financeiros que  são liquidados com pagamentos à vista ou com outro ativo f...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^

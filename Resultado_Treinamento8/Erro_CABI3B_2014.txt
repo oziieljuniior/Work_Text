@@ -1,0 +1,36 @@
+Erro: 39
+Offset 1454, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...s da Companhia estão sendo apresentadas em conformidade com as  práticas contábeis adotadas no Bras...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 40
+Offset 1655, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+... (CPC), aprovados pela CVM (BR GAAP), e em conformidade com  as normas internacionais de relatórios...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 41
+Offset 3351, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores  diferentes dos est...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 42
+Offset 3652, length 19, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘em conformidade com’ é uma expressão prolixa. É preferível dizer “conforme”, “segundo” ou “consoante”
+Suggestion: conforme; segundo; consoante
+...ão do resultado   O resultado é apurado em conformidade com o regime de competência.   (b)   Instru...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 43
+Offset 4580, length 16, Rule ID: PT_WORDINESS_REPLACE
+Message: ‘na medida em que’ é uma expressão prolixa. É preferível dizer “enquanto”
+Suggestion: enquanto
+...quivalentes de caixa incluem o caixa e, na medida em que haja disponibilidade de recursos,  pode...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 44
+Offset 10016, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...ssociadas com seus passivos financeiros que  são liquidados com pagamentos à vista ou com outro ativo f...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
