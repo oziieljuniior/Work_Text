@@ -204,7 +204,7 @@ for i in range(0,len(data)):
 qt_total = sum(a)
 data_geral['B1'] = qt_total
 
-excel1.save(path_resultado + "Data_Geral.xlsx")
+excel1.save(path_resultado + "/Data_Geral.xlsx")
 
 fim = dt.datetime.now().strftime("%H:%M:%S")
 
