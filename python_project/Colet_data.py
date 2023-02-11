@@ -1,8 +1,9 @@
 import os
 import pyautogui
 import time
+import shutil
 
-lista = ['BRAP99', 'CGAS5', 'DASA3', 'EMBR3', 'GOAU4', 'GOLL4', 'MAPT4', 'MSPA3', 'ROMI3', 'STBP3', 'STKF3']
+lista = ['TEGA3', 'TTEN3', 'VVEO3', 'WEST3']
 #print(lista)
 path = 'C:\\Users\\Riallen\\Documents\\Work_Text\\Data'
 path_final = os.listdir(path)
@@ -51,53 +52,508 @@ for name in path_final:
                                     pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\relatorio_estruturado.png', interval = 2)
                                     k += 1
                             k = 0
-                            atua = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]
+                            atua = [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]
                             print("Fase 3")
-                            if len(anos) == len(atua):
+                            print("procura")
+                            for name2 in anos:
+                                for name1 in atua:
+                                    if name2 == name1:
+                                        atua.remove(name2)
+                            atua.append(2022)
+                            print(atua)
+                            print("Fase 3")
+                            for name1 in atua:
                                 time.sleep(5)
-                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\2023.png', interval = 2)
-                                time.sleep(3)
-                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\2022.png', interval = 2)
-                                while k == 0:
-                                    if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png') != None:
-                                        pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png', interval = 1)
-                                        time.sleep(15)
-                                        l = 0
-                                        while l == 0:
-                                            if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png') != None:
-                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png', interval = 2)
-                                                l = l + 1
-                                            if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png') != None:
-                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png', interval = 2)
-                                                l = l + 1
-                                        l = 0
-                                        while l == 0:
-                                            if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png') != None:
-                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png', interval = 2)
-                                                l = l + 1
-                                                time.sleep(5)
-                                        l = 0
-                                        while l == 0:
-                                            if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png') != None:
-                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png', interval = 2)
-                                                l = l + 1
-                                                time.sleep(5)
-                                                name_pdf = name + "_2022"
-                                                print(name_pdf)
-                                                pyautogui.write(name_pdf, interval = 0.5)
-                                                pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\salvar.png', interval = 1)
-                                                time.sleep(5)
-                                                pyautogui.hotkey('ctrl', 'w')
-                                                time.sleep(5)
-                                                pyautogui.hotkey('ctrl', 'w')
+                                print(name1)
+                                k = 0
+                                print(k)
+                                if name1 == 2012:
+                                    pyautogui.click((143,537), interval = 2)
+                                    time.sleep(3)
+                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\2012.png', interval = 2)
+                                    k = 0
+                                    print(k)
+                                    
+                                    while k == 0:
+                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png') != None:
+                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png', interval = 1)
+                                            time.sleep(15)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                    l = l + 1
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png', interval = 2)
+                                                    l = l + 1
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                                    name_pdf = name + "_" + str(name1)
+                                                    print(name_pdf)
+                                                    pyautogui.write(name_pdf, interval = 0.5)
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\salvar.png', interval = 1)
+                                                    time.sleep(5)
+                                                    pyautogui.hotkey('ctrl', 'w')
+                                                    time.sleep(5)
+                                                        
+                                                    k += 1
+                                                    l += 1
 
-                                        
+                                if name1 == 2013:
+                                    pyautogui.click((143,537), interval = 2)
+                                    time.sleep(3)
+                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\2013.png', interval = 2)
+                                    k = 0
+                                    print(k)
+                                    
+                                    while k == 0:
+                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png') != None:
+                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png', interval = 1)
+                                            time.sleep(15)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                    l = l + 1
+
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png', interval = 2)
+                                                    l = l + 1
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                                    name_pdf = name + "_" + str(name1)
+                                                    print(name_pdf)
+                                                    pyautogui.write(name_pdf, interval = 0.5)
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\salvar.png', interval = 1)
+                                                    time.sleep(5)
+                                                    pyautogui.hotkey('ctrl', 'w')
+                                                    time.sleep(5)
+                                                        
+
+                                                    k += 1
+                                                    l += 1
+
+                                if name1 == 2014:
+                                    pyautogui.click((143,537), interval = 2)
+                                    time.sleep(3)
+                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\2014.png', interval = 2)
+                                    k = 0
+                                    print(k)
+                                    
+                                    while k == 0:
+                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png') != None:
+                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png', interval = 1)
+                                            time.sleep(15)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                    l = l + 1
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png', interval = 2)
+                                                    l = l + 1
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                                    name_pdf = name + "_" + str(name1)
+                                                    print(name_pdf)
+                                                    pyautogui.write(name_pdf, interval = 0.5)
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\salvar.png', interval = 1)
+                                                    time.sleep(5)
+                                                    pyautogui.hotkey('ctrl', 'w')
+                                                    time.sleep(5)
+                                                        
+
+                                                    k += 1
+                                                    l += 1
+
+                                if name1 == 2015:
+                                    pyautogui.click((143,537), interval = 2)
+                                    time.sleep(3)
+                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\2015.png', interval = 2)
+                                    k = 0
+                                    print(k)
+                                    
+                                    while k == 0:
+                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png') != None:
+                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png', interval = 1)
+                                            time.sleep(15)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                    l = l + 1
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png', interval = 2)
+                                                    l = l + 1
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                                    name_pdf = name + "_" + str(name1)
+                                                    print(name_pdf)
+                                                    pyautogui.write(name_pdf, interval = 0.5)
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\salvar.png', interval = 1)
+                                                    time.sleep(5)
+                                                    pyautogui.hotkey('ctrl', 'w')
+                                                    time.sleep(5)
+                                                        
+
+                                                    k += 1
+                                                    l += 1
+
+                                if name1 == 2016:
+                                    pyautogui.click((143,537), interval = 2)
+                                    time.sleep(3)
+                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\2016.png', interval = 2)
+                                    k = 0
+                                    print(k)
+                                    
+                                    while k == 0:
+                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png') != None:
+                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png', interval = 1)
+                                            time.sleep(15)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                    l = l + 1
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png', interval = 2)
+                                                    l = l + 1
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                                    name_pdf = name + "_" + str(name1)
+                                                    print(name_pdf)
+                                                    pyautogui.write(name_pdf, interval = 0.5)
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\salvar.png', interval = 1)
+                                                    time.sleep(5)
+                                                    pyautogui.hotkey('ctrl', 'w')
+                                                    time.sleep(5)
+                                                        
+
+                                                    k += 1
+                                                    l += 1
+
+                                if name1 == 2017:
+                                    pyautogui.click((143,537), interval = 2)
+                                    time.sleep(3)
+                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\2017.png', interval = 2)
+                                    k = 0
+                                    print(k)
+                                    
+                                    while k == 0:
+                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png') != None:
+                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png', interval = 1)
+                                            time.sleep(15)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                    l = l + 1
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png', interval = 2)
+                                                    l = l + 1
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                                    name_pdf = name + "_" + str(name1)
+                                                    print(name_pdf)
+                                                    pyautogui.write(name_pdf, interval = 0.5)
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\salvar.png', interval = 1)
+                                                    time.sleep(5)
+                                                    pyautogui.hotkey('ctrl', 'w')
+                                                    time.sleep(5)
+                                                        
+
+                                                    k += 1
+                                                    l += 1
+
+                                if name1 == 2018:
+                                    pyautogui.click((143,537), interval = 2)
+                                    time.sleep(3)
+                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\2018.png', interval = 2)
+                                    k = 0
+                                    print(k)
+                                    
+                                    while k == 0:
+                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png') != None:
+                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png', interval = 1)
+                                            time.sleep(15)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                    l = l + 1
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png', interval = 2)
+                                                    l = l + 1
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                                    name_pdf = name + "_" + str(name1)
+                                                    print(name_pdf)
+                                                    pyautogui.write(name_pdf, interval = 0.5)
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\salvar.png', interval = 1)
+                                                    time.sleep(5)
+                                                    pyautogui.hotkey('ctrl', 'w')
+                                                    time.sleep(5)
+                                                        
+
+                                                    k += 1
+                                                    l += 1
+
+                                if name1 == 2019:
+                                    pyautogui.click((143,537), interval = 2)
+                                    time.sleep(3)
+                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\2019.png', interval = 2)
+                                    k = 0
+                                    print(k)
                                 
-            
+                                    while k == 0:
+                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png') != None:
+                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png', interval = 1)
+                                            time.sleep(15)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                    l = l + 1
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png', interval = 2)
+                                                    l = l + 1
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                                    name_pdf = name + "_" + str(name1)
+                                                    print(name_pdf)
+                                                    pyautogui.write(name_pdf, interval = 0.5)
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\salvar.png', interval = 1)
+                                                    time.sleep(5)
+                                                    pyautogui.hotkey('ctrl', 'w')
+                                                    time.sleep(5)
+                                                        
+
+                                                    k += 1
+                                                    l += 1
+
+                                if name1 == 2020:
+                                    pyautogui.click((143,537), interval = 2)
+                                    time.sleep(3)
+                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\2020.png', interval = 2)
+                                    k = 0
+                                    print(k)
+                                    
+                                    while k == 0:
+                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png') != None:
+                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png', interval = 1)
+                                            time.sleep(15)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                    l = l + 1
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png', interval = 2)
+                                                    l = l + 1
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                                    name_pdf = name + "_" + str(name1)
+                                                    print(name_pdf)
+                                                    pyautogui.write(name_pdf, interval = 0.5)
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\salvar.png', interval = 1)
+                                                    time.sleep(5)
+                                                    pyautogui.hotkey('ctrl', 'w')
+                                                    time.sleep(5)
+                                                        
+
+                                                    k += 1
+                                                    l += 1
+
+                                if name1 == 2021:
+                                    pyautogui.click((143,537), interval = 2)
+                                    time.sleep(3)
+                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\2021.png', interval = 2)
+                                    k = 0
+                                    print(k)
+                                    
+                                    while k == 0:
+                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png') != None:
+                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png', interval = 1)
+                                            time.sleep(15)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                    l = l + 1
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png', interval = 2)
+                                                    l = l + 1
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                                    name_pdf = name + "_" + str(name1)
+                                                    print(name_pdf)
+                                                    pyautogui.write(name_pdf, interval = 0.5)
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\salvar.png', interval = 1)
+                                                    time.sleep(5)
+                                                    pyautogui.hotkey('ctrl', 'w')
+                                                    time.sleep(5)
+                                                        
+
+                                                    k += 1
+                                                    l += 1                                                                                
+
+                                if name1 == 2022:
+                                    pyautogui.click((143,537), interval = 2)
+                                    time.sleep(3)
+                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\2022.png', interval = 2)
+                                    k = 0
+                                    print(k)
+                                    
+                                    while k == 0:
+                                        if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png') != None:
+                                            pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\info_tri.png', interval = 1)
+                                            time.sleep(15)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Consolidades.png', interval = 2)
+                                                    l = l + 1
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\DFs_Individuais.png', interval = 2)
+                                                    l = l + 1
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\notas_explicativas.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                            l = 0
+                                            while l == 0:
+                                                if pyautogui.locateOnScreen('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png') != None:
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\download.png', interval = 2)
+                                                    l = l + 1
+                                                    time.sleep(5)
+                                                    name_pdf = name + "_" + str(name1)
+                                                    print(name_pdf)
+                                                    pyautogui.write(name_pdf, interval = 0.5)
+                                                    pyautogui.click('C:\\Users\\Riallen\\Documents\\Work_Text\\Point_Click\\salvar.png', interval = 1)
+                                                    time.sleep(5)
+                                                    pyautogui.hotkey('ctrl', 'w')
+                                                    time.sleep(5)
+                                                    pyautogui.hotkey('ctrl', 'w')
+
+                                                
+                                        
                     
-                                                i += 1
-                                                j += 1
-                                                k += 1
-                                                l += 1
-                            else:
-                                print("procura")
+                            
+                                                    i += 1
+                                                    j += 1
+                                                    k += 1
+                                                    l += 1
+                                
+                                                        
+                            path_download =   "C:\\Users\\Riallen\\Downloads"
+                            lista_download = os.listdir(path_download)
+                            path1 = 'C:\\Users\\Riallen\\Documents\\Work_Text\\Data\\' + name
+                            print(path1)
+                            for name3 in lista_download:
+                                source = path_download+ '\\' + name3
+                                print(source)
+                                shutil.move(source, path1)
+
+            
