@@ -1,0 +1,24 @@
+Erro: 7
+Offset 1985, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores  divergentes dos re...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 7689, length 23, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não realizaram nenhum; não realizaram nenhuma; não, realizaram qualquer
+... e 2011, a Companhia e seus  acionistas não realizaram qualquer transação relacionada ao pagamento ou a...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 7850, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+... dos valores envolvidos.    A Companhia não efetuou qualquer remuneração a diretores, administradore...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 8940, length 9, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: O cálculo
+...Continuação     c) Prejuízo por ação    O calculo básico de lucro por ação é feito por me...
+                                           ^^^^^^^^^

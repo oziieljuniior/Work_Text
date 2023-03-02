@@ -1,0 +1,96 @@
+Erro: 26
+Offset 3421, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...o sobre essas demonstrações financeiras e, portanto, não expressamos uma opinião separada s...
+                                           ^^^^^^^^^^^
+Erro: 27
+Offset 3760, length 16, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: representando
+...bancários no montante de R$155.457 mil, o que representa 93,58% do total do seu ativo. Esses cer...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 28
+Offset 5742, length 40, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: as demonstrações financeiras não abrangem
+... da Administração.  Nossa opinião sobre as demonstrações financeiras não abrange o Relatório da Administração e não expr...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 29
+Offset 5814, length 24, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não expressamos nenhum; não expressamos nenhuma; não, expressamos qualquer
+... abrange o Relatório da Administração e não expressamos qualquer forma de conclusão de auditoria sobre e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 30
+Offset 6132, length 48, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou com nosso conhecimento obtido na auditoria, ou
+...stente com as demonstrações financeiras ou com nosso conhecimento obtido na auditoria ou, de outra forma, aparenta estar distorc...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 31
+Offset 6292, length 6, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+...base no trabalho realizado, concluirmos que há distorção relevante no Relatório da Adm...
+                                           ^^^^^^
+Erro: 32
+Offset 8945, length 14, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “é maior que”.
+Suggestion: é maior que
+...istorção relevante resultante de fraude é maior do que o proveniente de erro, já que a fraude ...
+                                           ^^^^^^^^^^^^^^
+Erro: 33
+Offset 11341, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...s pela governança, determinamos aqueles que foram considerados como mais significativos n...
+                                           ^^^^^^^^^
+Erro: 34
+Offset 18105, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores divergentes dos reg...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 35
+Offset 19972, length 24, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: mercado, em contrapartida
+...egociados e são ajustados pelo valor de mercado em contrapartida ao resultado do exercício.  • Disponíve...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 36
+Offset 20171, length 24, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: mercado, em contrapartida
+...encimento e são ajustados pelo valor de mercado em contrapartida à conta destacada do patrimônio líquido...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 37
+Offset 20715, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: auferidos, em contrapartida
+...e aquisição, acrescidos dos rendimentos auferidos em contrapartida ao resultado do exercício.  14  CIMS S...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 38
+Offset 24650, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...são preços cotados incluídos no Nível 1 e que são observáveis para o ativo ou passivo, se...
+                                           ^^^^^^^^^
+Erro: 39
+Offset 24914, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: significativo para
+...alor justo no nível mais baixo do input que é significativo para a mensuração como um todo.  16  CIMS S...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 40
+Offset 25855, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+...es com partes relacionadas  A Companhia não efetuou qualquer remuneração a diretores, administradore...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 41
+Offset 31986, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: monitoradas
+... de desembolsos e recebimentos futuros, sendo monitoradas diariamente pela administração.  Risco ...
+                                           ^^^^^^^^^^^^^^^^^

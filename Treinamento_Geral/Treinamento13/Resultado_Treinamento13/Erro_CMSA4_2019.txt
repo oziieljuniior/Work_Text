@@ -1,0 +1,72 @@
+Erro: 60
+Offset 1598, length 13, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: em relação à
+...trações contábeis”. Somos independentes em  relação a Companhia, de acordo com os princípios ...
+                                           ^^^^^^^^^^^^^
+Erro: 61
+Offset 3039, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...ão sobre  essas demonstrações contábeis e, portanto, não expressamos uma opinião separada s...
+                                           ^^^^^^^^^^^
+Erro: 62
+Offset 8110, length 14, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “é maior que”.
+Suggestion: é maior que
+...storção relevante resultante  de fraude é maior do que o proveniente de erro, já que a fraude ...
+                                           ^^^^^^^^^^^^^^
+Erro: 63
+Offset 10618, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+... pela governança, determinamos  aqueles que foram considerados como mais significativos n...
+                                           ^^^^^^^^^
+Erro: 64
+Offset 19361, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...ontábeis são apresentadas em Real (R$), que é a moeda funcional da  Companhia.   14    ...
+                                           ^^^^^^^
+Erro: 65
+Offset 21432, length 8, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: aluguéis
+...nanceiro relacionado com o pagamento de alugueis.  ICPC  22/IFRIC  23  –  Incerteza  sob...
+                                           ^^^^^^^^
+Erro: 66
+Offset 22080, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: e, no entanto
+...nhia avaliou os reflexos destas normas, e no entanto, não espera impacto relevante  sobre as...
+                                           ^^^^^^^^^^^^
+Erro: 67
+Offset 22759, length 19, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: demonstrados
+...nformidade com seu prazo de realização, sendo  demonstrados  ao  custo  de  aquisição,  acrescidos ...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 68
+Offset 28524, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...são preços cotados incluídos no Nível 1 e que são observáveis  para o ativo ou passivo, s...
+                                           ^^^^^^^^^
+Erro: 69
+Offset 28792, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: significativo para
+...alor justo no nível mais baixo do input que é significativo para a mensuração como um  todo.   3.8.  Dem...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 70
+Offset 30769, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+...S COM PARTES RELACIONADAS   A Companhia não efetuou qualquer remuneração a diretores, administradore...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 71
+Offset 36295, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: monitoradas
+...de  desembolsos e recebimentos futuros, sendo monitoradas diariamente pela administração.   Risco...
+                                           ^^^^^^^^^^^^^^^^^

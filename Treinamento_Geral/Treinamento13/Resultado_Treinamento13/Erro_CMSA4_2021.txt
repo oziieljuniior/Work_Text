@@ -1,0 +1,96 @@
+Erro: 88
+Offset 2904, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não havendo nenhum; não havendo nenhuma; não, havendo qualquer
+... CIMS  S.A.,  CNPJ  00.272.185/0001-93, não havendo qualquer discordância.   Rio de Janeiro, 26 de m...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 89
+Offset 5526, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...umulado (os quais vêm sendo suportados  através de aumento de capital pelos acionistas). E...
+                                           ^^^^^^^^^^
+Erro: 90
+Offset 6319, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...ão sobre  essas demonstrações contábeis e, portanto, não expressamos uma opinião separada s...
+                                           ^^^^^^^^^^^
+Erro: 91
+Offset 9355, length 24, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não expressamos nenhum; não expressamos nenhuma; não, expressamos qualquer
+...abrange o Relatório da  Administração e não expressamos qualquer forma de conclusão de auditoria sob ess...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 92
+Offset 9670, length 48, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou com nosso conhecimento obtido na auditoria, ou
+...istente com  as demonstrações contábeis ou com nosso conhecimento obtido na auditoria ou, de outra forma,  aparenta estar distor...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 93
+Offset 9831, length 6, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+...base no trabalho realizado, concluirmos que há  distorção relevante no Relatório da Ad...
+                                           ^^^^^^
+Erro: 94
+Offset 12469, length 14, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “é maior que”.
+Suggestion: é maior que
+...storção relevante resultante  de fraude é maior do que o proveniente de erro, já que a fraude ...
+                                           ^^^^^^^^^^^^^^
+Erro: 95
+Offset 15016, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+... pela governança, determinamos  aqueles que foram considerados como mais significativos n...
+                                           ^^^^^^^^^
+Erro: 96
+Offset 24125, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...ntábeis são apresentadas em Reais (R$), que é a moeda funcional da   Companhia.   15   ...
+                                           ^^^^^^^
+Erro: 97
+Offset 25439, length 13, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; no entanto
+...anhia avaliou os reflexos destas normas e, no entanto, não espera impacto relevante sobre  su...
+                                           ^^^^^^^^^^^^^
+Erro: 98
+Offset 26892, length 19, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: demonstrados
+...nformidade com seu prazo de realização, sendo  demonstrados ao custo de aquisição, acrescidos dos r...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 99
+Offset 32422, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...são preços cotados incluídos no Nível 1 e que são observáveis para  o ativo ou passivo, s...
+                                           ^^^^^^^^^
+Erro: 100
+Offset 32690, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: significativo para
+...lor  justo no nível mais baixo do input que é significativo para a mensuração como um todo.   3.8.  Demo...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 101
+Offset 34382, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+...S COM PARTES RELACIONADAS   A Companhia não efetuou qualquer remuneração a diretores,  administrador...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 102
+Offset 40900, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: monitoradas
+...  desembolsos  e  recebimentos futuros, sendo monitoradas diariamente pela administração.   Risco...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 103
+Offset 42827, length 11, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: assim
+...mento de capital no valor de R$ 60.000, sendo assim o capital social de R$ 1.928.856 passou...
+                                           ^^^^^^^^^^^

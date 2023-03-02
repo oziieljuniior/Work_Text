@@ -1,0 +1,36 @@
+Erro: 1
+Offset 2472, length 3, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e
+...n o   B r a s i l ,   q u e   c o m p r e e n d e m   a s   n o r m a s   d a   c o...
+                                           ^^^
+Erro: 2
+Offset 17723, length 3, Rule ID: FRAGMENT_TWO_ARTICLES
+Message: Possível fragmento.
+Suggestion: o; a; o, a
+...i s t r a d o r e s   o u   a   p e s s o a s - c h a v e   d a   A d m i n i s t r...
+                                           ^^^
+Erro: 3
+Offset 18217, length 3, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “ao”?
+Suggestion: Ao
+...a l .     b )   D i v i d e n d o s     A o s   a c i o n i s t a s   e s t Æ   a s...
+                                           ^^^
+Erro: 4
+Offset 18833, length 3, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “ao”?
+Suggestion: ao
+...s t r e ,   a t r i b u (cid:237) d o   a o s   d e t e n t o r e s   d e   a (cid:...
+                                           ^^^
+Erro: 5
+Offset 19740, length 3, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “ao”?
+Suggestion: ao
+...l t a d o   a t r i b u (cid:237) d o   a o s   d e t e n t o r e s   d e   a (cid:...
+                                           ^^^
+Erro: 6
+Offset 19908, length 3, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “ao”?
+Suggestion: ao
+...  o   a j u s t e   r e f e r e n t e   a o s   j u r o s   s o b r e   a s   a (ci...
+                                           ^^^
