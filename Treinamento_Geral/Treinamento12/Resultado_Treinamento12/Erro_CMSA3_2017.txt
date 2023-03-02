@@ -1,0 +1,30 @@
+Erro: 31
+Offset 1803, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...das e estão apresentadas em reais (R$), que é a moeda  do principal ambiente econômic...
+                                           ^^^^^
+Erro: 32
+Offset 2401, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores  diferentes  dos...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 33
+Offset 7629, length 22, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não possui nenhum; não possui nenhuma; não, possui quaisquer
+...as em nota explicativa.   A  Companhia  não  possui  quaisquer  processos  judiciais  ou  administrati...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 34
+Offset 8762, length 22, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+...com partes relacionadas   A  Companhia  não  efetuou  qualquer  remuneração  a  diretores,  administra...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 35
+Offset 12661, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...ssociadas com seus passivos financeiros que são liquidados com pagamentos à vista ou com outro ativo  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^

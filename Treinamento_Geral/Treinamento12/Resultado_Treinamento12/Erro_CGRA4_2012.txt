@@ -1,0 +1,48 @@
+Erro: 1
+Offset 3865, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+... considerado vencido na  sua totalidade e, portanto, contabilizado como perda. O valor é co...
+                                           ^^^^^^^^^^^
+Erro: 2
+Offset 5545, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...to atribuído   Em relação aos trabalhos de a avaliação patrimonial, em linha com a I...
+                                           ^^^^
+Erro: 3
+Offset 7933, length 5, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: 2,50%,
+...7% a 75%  2% a 25%  20% a  50%   Média  2,50%  17%  28%  26%  18%  18%   De – A  1% a...
+                                           ^^^^^
+Erro: 4
+Offset 8044, length 5, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: 2,50%,
+...7% a 75%  2% a 25%  20% a  50%   Média  2,50%  17%  28%  26%  18%  18%   Os mesmos pr...
+                                           ^^^^^
+Erro: 5
+Offset 10699, length 12, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: é acrescido; são acrescidos
+...o capital próprio. Ao lucro líquido não é acrescidos ou deduzidos os efeitos dos ajustes dos...
+                                           ^^^^^^^^^^^^
+Erro: 6
+Offset 40475, length 20, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: classificadas
+...  processos  judiciais  em  andamento,  sendo  classificadas  no  passivo  não  circulante,  líquida...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 43059, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: assegurada
+...erenciais  não  têm  direito  a  voto,  sendo  assegurada  a  seus  titulares  prioridade  no  re...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 49663, length 74, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou atingimento de metas proporcional a resultados de atividade, ou
+... qualquer  contrapartida  de  serviços  ou  atingimento  de  metas  proporcional  a  resultados  de  atividade  ou  de  lucros.    A  seguir  a  demonstra...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

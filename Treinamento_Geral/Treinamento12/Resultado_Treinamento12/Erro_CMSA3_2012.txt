@@ -1,0 +1,24 @@
+Erro: 1
+Offset 1240, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...das e estão apresentadas em reais (R$), que é a moeda do  principal ambiente econômic...
+                                           ^^^^^
+Erro: 2
+Offset 5044, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar  em  valores  diferentes  dos ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 6487, length 24, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não realizaram nenhum; não realizaram nenhuma; não, realizaram qualquer
+... 2011, a “Companhia”  e seus acionistas não realizaram  qualquer transação relacionada a contabilização ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 6636, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+... valores  envolvidos.     A “Companhia” não efetuou qualquer remuneração a diretores, administradore...
+                                           ^^^^^^^^^^^^^^^^^^^^

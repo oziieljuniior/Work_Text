@@ -1,0 +1,30 @@
+Erro: 25
+Offset 3864, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+... considerado vencido na sua  totalidade e, portanto, contabilizado como perda. O valor é co...
+                                           ^^^^^^^^^^^
+Erro: 26
+Offset 40049, length 20, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: classificadas
+...os processos judiciais  em  andamento,  sendo  classificadas  no  passivo  não  circulante.  Os  val...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 27
+Offset 43621, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: assegurada
+...erenciais  não  têm  direito  a  voto,  sendo  assegurada  a  seus  titulares  prioridade  no  re...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 28
+Offset 48864, length 65, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou atingimento de metas proporcional a resultados de atividade, ou
+...a a qualquer contrapartida  de serviços ou atingimento de metas proporcional a resultados de atividade ou de lucros.    A  seguir  a  demonstraçã...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 29
+Offset 54234, length 11, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: dada
+...e, a partir do ano-calendário de 2015,  sendo  dada  opção  de  aplicação  antecipada  de  ...
+                                           ^^^^^^^^^^^

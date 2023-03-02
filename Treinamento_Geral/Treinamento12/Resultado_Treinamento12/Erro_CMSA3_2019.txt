@@ -1,0 +1,36 @@
+Erro: 54
+Offset 2398, length 6, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+... e  estão  apresentadas em  Real  (R$), que  é a  moeda do principal ambiente econômic...
+                                           ^^^^^^
+Erro: 55
+Offset 3069, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores  diferentes  dos...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 56
+Offset 7771, length 22, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não possui nenhum; não possui nenhuma; não, possui quaisquer
+...as em nota explicativa.   A  Companhia  não  possui  quaisquer  processos  judiciais  ou  administrati...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 57
+Offset 8697, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...são preços cotados incluídos no Nível 1 e que são observáveis para  o ativo ou passivo, s...
+                                           ^^^^^^^^^
+Erro: 58
+Offset 8965, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: significativo para
+...lor  justo no nível mais baixo do input que é significativo para a mensuração como um todo.   4.  Caixa ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 59
+Offset 14815, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: monitoradas
+...de desembolsos  e recebimentos futuros, sendo monitoradas diariamente pela administração.   Risco...
+                                           ^^^^^^^^^^^^^^^^^

@@ -1,0 +1,24 @@
+Erro: 42
+Offset 4418, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...iderado  vencido  na  sua   totalidade  e,  portanto,  contabilizado  como  perda.  O  valor...
+                                           ^^^^^^^^^^^^
+Erro: 43
+Offset 7834, length 28, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou despesas tributáveis, ou
+...o  resultado,  porque exclui  receitas  ou  despesas  tributáveis ou   dedutíveis,  além  de  excluir  itens...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 44
+Offset 35042, length 20, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: classificadas
+...  processos  judiciais  em  andamento,  sendo  classificadas  no  passivo  não   circulante.  Os  va...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 45
+Offset 38461, length 16, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: assegurada
+...s preferenciais não têm direito a voto, sendo assegurada a seus titulares   prioridade  no  reem...
+                                           ^^^^^^^^^^^^^^^^

@@ -1,0 +1,60 @@
+Erro: 11
+Offset 1717, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores divergentes dos  re...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 3644, length 24, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: mercado, em contrapartida
+...ociados e   são ajustados pelo valor de mercado em contrapartida ao resultado do período.   3.  Resumo d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 4121, length 24, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: mercado, em contrapartida
+...encimento e são ajustados pelo valor de mercado em contrapartida à conta  destacada do patrimônio líquid...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 14
+Offset 4666, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: auferidos, em contrapartida
+... aquisição,  acrescidos dos rendimentos auferidos em contrapartida ao resultado do período.   Passivos fin...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 15
+Offset 8228, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...são preços cotados incluídos no Nível 1 e que são observáveis para  o ativo ou passivo, s...
+                                           ^^^^^^^^^
+Erro: 16
+Offset 8707, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: significativo para
+...lor  justo no nível mais baixo do input que é significativo para a mensuração como um todo.   4.  Impost...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 17
+Offset 10529, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+...s com partes relacionadas   A Companhia não efetuou qualquer remuneração a diretores, administradore...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 18
+Offset 10591, length 39, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a pessoas chave da Administração, ou
+...emuneração a diretores, administradores ou a  pessoas chave da Administração ou qualquer outra operação com parte relac...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 19
+Offset 18034, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: monitoradas
+...de desembolsos  e recebimentos futuros, sendo monitoradas diariamente pela administração.   Risco...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 20
+Offset 18802, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não possui nenhum; não possui nenhuma; não, possui quaisquer
+...onial   17. Contingências   A Companhia não possui quaisquer processos judiciais ou administrativos ...
+                                           ^^^^^^^^^^^^^^^^^^^^

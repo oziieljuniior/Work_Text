@@ -1,0 +1,18 @@
+Erro: 5
+Offset 1701, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores  divergentes dos re...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 8596, length 24, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não realizaram nenhum; não realizaram nenhuma; não, realizaram qualquer
+... de 2013, a Companhia e seus acionistas não  realizaram qualquer transação relacionada ao pagamento ou a...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 8758, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+... dos valores envolvidos.    A Companhia não efetuou qualquer remuneração a diretores, administradore...
+                                           ^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,36 @@
+Erro: 46
+Offset 7543, length 29, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou despesas tributáveis, ou
+...  resultado,  porque  exclui  receitas  ou  despesas  tributáveis  ou             dedutíveis,  além  de  exc...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 47
+Offset 21661, length 6, Rule ID: FRAGMENT_TWO_ARTICLES
+Message: Possível fragmento.
+Suggestion: um; no; um, no
+...os   encontram-se  em  fase  recursal,  um  no  Tribunal  de  Justiça  e  dois  no  Su...
+                                           ^^^^^^
+Erro: 48
+Offset 38358, length 28, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: assumidos, em contrapartida
+...rrendatários  reconhecer  os  passivos  assumidos  em  contrapartida  aos  respectivos   ativos de direito d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 49
+Offset 41256, length 20, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: classificadas
+...  processos  judiciais  em  andamento,  sendo  classificadas  no  passivo  não   circulante.  Estes ...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 50
+Offset 43905, length 16, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: assegurada
+...s preferenciais não têm direito a voto, sendo assegurada a seus titulares   prioridade  no  reem...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 51
+Offset 48450, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: das; dê as
+...  do Resultado do Exercício, em virtude de as aquisições de mercadorias para revenda ...
+                                           ^^^^^
