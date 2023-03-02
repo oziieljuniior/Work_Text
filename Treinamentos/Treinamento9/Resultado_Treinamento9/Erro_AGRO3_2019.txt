@@ -1,0 +1,258 @@
+Erro: 355
+Offset 25580, length 9, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘uma outra’ é um pleonasmo. É preferível dizer “outra”
+Suggestion: outra
+...crito na Nota 1.1, a Companhia arrendou uma outra parte da fazenda, com área útil total d...
+                                           ^^^^^^^^^
+Erro: 356
+Offset 29919, length 19, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consegue; consigas; pode; possas
+... de seu envolvimento com a investida e  tem a capacidade de afetar esses retornos por meio de seu p...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 357
+Offset 39531, length 10, Rule ID: DEVE_DE
+Message: Substitua por “devidos”.
+Suggestion: devidos
+...ça entre os fluxos de caixa contratuais devidos de acordo com o contrato e todos os fluxos...
+                                           ^^^^^^^^^^
+Erro: 358
+Offset 40528, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...xceto quando indicado de outra forma)   levar em conta quaisquer melhorias de crédito mantidas...
+                                           ^^^^^^^^^^^^^^
+Erro: 359
+Offset 41430, length 6, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+...as;   (vi)  Dados observáveis indicando que há uma redução mensurável nos futuros flux...
+                                           ^^^^^^
+Erro: 360
+Offset 44353, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...etiva.   O custo amortizado é calculado levando em consideração qualquer deságio ou ágio na aquisição e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 361
+Offset 48711, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: Agora
+...sica  da  quantidade  deste  produtos.  Neste  momento  é  iniciado  um  processo  interno  de...
+                                           ^^^^^^^^^^^^^^
+Erro: 362
+Offset 52052, length 16, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘período de tempo’ é um pleonasmo. É preferível dizer “período” ou “tempo”
+Suggestion: período; tempo
+...s o produto agrícola é colhido  após um período de tempo que varia de 110 a 240 dias após a data...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 363
+Offset 52321, length 5, Rule ID: CRASE_CONFUSION
+Message: Se não se refere a horas não se utiliza a crase.
+Suggestion: a uma
+...s grãos foi o fluxo de caixa descontado à uma taxa compatível com o risco e  o prazo ...
+                                           ^^^^^
+Erro: 364
+Offset 54297, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...sumível  (considerado como circulante), que é aquele passível de ser vendido como ati...
+                                           ^^^^^
+Erro: 365
+Offset 54431, length 18, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: utilizado na
+... produção (considerado não circulante), que é utilizado na condução das operações  da  fazenda  co...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 366
+Offset 58447, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for maior que”.
+Suggestion: for maior que
+...cuperável se o valor contábil do  ativo for maior do que seu valor recuperável estimado.   Os ga...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 367
+Offset 59631, length 7, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+... poderá não ser recuperado.   Os ativos que têm vida útil definida são revisados para v...
+                                           ^^^^^^^
+Erro: 368
+Offset 63999, length 12, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘enquanto que’ é um pleonasmo. É preferível dizer “enquanto”
+Suggestion: enquanto
+... as diferenças tributárias temporárias, enquanto que o imposto de renda diferido ativo  é  r...
+                                           ^^^^^^^^^^^^
+Erro: 369
+Offset 68421, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: Os custos incrementa; Os custos incrementar; Os custos incrementara; Os custos incrementaras; Os custos incrementarei; Os custos incrementares; Os custos incrementaria; Os custos incrementarias; Os custos incrementará; Os custos incrementarás; Os custos incrementas; Os custos incrementasse; Os custos incrementasses; Os custos incrementaste; Os custos incrementava; Os custos incrementavas; Os custos incremente; Os custos incrementei; Os custos incrementes; Os custos incremento; Os custos incrementou
+...lassificadas  no  patrimônio  líquido.  Os  custos  incrementais  diretamente  atribuíveis  à  emissão  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 370
+Offset 69368, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...s estimativas em resultados históricos, levando em consideração o tipo de cliente, o tipo de   22      ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 371
+Offset 71643, length 22, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considera; consideres
+...xados. A precificação da cana-de-açúcar leva  em  consideração  a  quantidade  de  ATR  por  tonelada ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 372
+Offset 74018, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consideram
+...as  operações  do  Brasil  e  Paraguai  levam  em  consideração  a  arroba  do  boi  gordo  ou  novilha...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 373
+Offset 87047, length 2, Rule ID: AS_PONTUAL_BR
+Message: Substitua «as» por “às” se estiver fazendo indicação pontual de hora.
+Suggestion: às
+...spectiva  é  permitida se aplicada para as três alterações e os outros critérios f...
+                                           ^^
+Erro: 374
+Offset 97958, length 3, Rule ID: NUM_NÃO
+Message: Substitua por “não”.
+Suggestion: não
+... da cana e dos grãos/algodão resultaria num aumentou ou redução no valor do ativo b...
+                                           ^^^
+Erro: 375
+Offset 102424, length 7, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...as características desses instrumentos, que são  sistematicamente renegociados, os valo...
+                                           ^^^^^^^
+Erro: 376
+Offset 104514, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...decorre da possibilidade de a Companhia vir a incorrer em perdas por causa de flutuações  nas ...
+                                           ^^^^^^^^^^^^^^
+Erro: 377
+Offset 104657, length 11, Rule ID: DEVE_DE
+Message: Substitua por “devidos”.
+Suggestion: devidos
+...icados de ativos ou aumentam os valores devidos  de passivos. Esse risco também decorre dos...
+                                           ^^^^^^^^^^^
+Erro: 378
+Offset 105266, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...idade de a Companhia incorrer em perdas devido a  oscilação nos preços  de mercado dos p...
+                                           ^^^^^^^^
+Erro: 379
+Offset 108391, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for maior que”.
+Suggestion: for maior que
+... o volume de soja  colhido efetivamente for maior do que o volume coberto.   No  caso  da  expos...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 380
+Offset 113079, length 15, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘todos os demais’ é um pleonasmo. É preferível dizer “os demais”
+Suggestion: os demais
+...nanceiros da Companhia, considerando-se todos os demais  indicadores de mercado constantes. Tai...
+                                           ^^^^^^^^^^^^^^^
+Erro: 381
+Offset 113154, length 22, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: sua liquidação poderá
+...cado constantes. Tais valores quando de sua liquidação poderão ser diferentes dos  demonstrados abaixo...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 382
+Offset 117945, length 15, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘todos os demais’ é um pleonasmo. É preferível dizer “os demais”
+Suggestion: os demais
+...nanceiros da Companhia, considerando-se todos os demais  indicadores de mercado constantes. Tai...
+                                           ^^^^^^^^^^^^^^^
+Erro: 383
+Offset 118020, length 22, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: sua liquidação poderá
+...cado constantes. Tais valores quando de sua liquidação poderão ser diferentes dos  demonstrados abaixo...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 384
+Offset 129080, length 12, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: (requer)
+... balanço patrimonial  pelo valor justo, o que requer divulgação das mensurações do valor jus...
+                                           ^^^^^^^^^^^^
+Erro: 385
+Offset 129371, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: adotadas pelo
+...os preços cotados, incluídas no Nível 1 que são adotadas pelo mercado para  o ativo ou passivo, seja ...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 386
+Offset 134872, length 15, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...  3  da  hierarquia  do  valor  justo,  juntamente  com  uma  análise  de  sensibilidade quanti...
+                                           ^^^^^^^^^^^^^^^
+Erro: 387
+Offset 140240, length 19, Rule ID: MONTH_REDUNDANCY
+Message: Nesta situação o mês é redundante.
+Suggestion: 19–19 de julho
+...19  março-20  julho-19  julho-19  julho-19  julho-19  julho-19  novembro-19  novembro-19   Soja CBO...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 388
+Offset 140260, length 25, Rule ID: MONTH_REDUNDANCY
+Message: Nesta situação o mês é redundante.
+Suggestion: 19–19 de novembro
+...19  julho-19  julho-19  julho-19  julho-19  novembro-19  novembro-19   Soja CBOT   dezembro-19   Soja CBO...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 389
+Offset 140669, length 25, Rule ID: MONTH_REDUNDANCY
+Message: Nesta situação o mês é redundante.
+Suggestion: 19–19 de setembro
+...o CBOT  Milho BM&F  Milho BM&F   agosto-19  setembro-19  setembro-19   Opções de Milho  Opções de Milho  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 390
+Offset 161122, length 14, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...o Nível 3 da hierarquia do valor justo, juntamente com uma análise de  sensibilidade quantitat...
+                                           ^^^^^^^^^^^^^^
+Erro: 391
+Offset 192839, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+... a  vigência  das  debêntures,  poderá  acarretar no vencimento antecipado da dívida.    Em ...
+                                           ^^^^^^^^^^^^
+Erro: 392
+Offset 232621, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...es,  representando  20,5%  da  receita  liquida  total  da  Companhia.   Faturamento lí...
+                                           ^^^^^^^
+Erro: 393
+Offset 237417, length 7, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: término
+...o, a BrasilAgro obriga-se a devolver ao termino do contrato, a área objeto  de parceria...
+                                           ^^^^^^^
+Erro: 394
+Offset 237831, length 7, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: término
+...)   açúcar, no ano-safra subsequente ao termino do contrato de parceria agrícola.   Arr...
+                                           ^^^^^^^
+Erro: 395
+Offset 238567, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...  30  de  junho  de  2019,  a  receita  liquida  da  venda  da  produção  de  cana-de- ...
+                                           ^^^^^^^
+Erro: 396
+Offset 238707, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...es,  representando  24,3%  da  receita  liquida  total  da  Companhia.   Quantidade  (T...
+                                           ^^^^^^^
+Erro: 397
+Offset 241653, length 7, Rule ID: PT_WIKIPEDIA_COMMON_ERRORS
+Message: ‘à todos’ é um erro. Considere utilizar “a todos”
+Suggestion: a todos
+... (ii) sobre maquinários, (iii) de vida, à todos os funcionários,  bem  como  (iv)  o  s...
+                                           ^^^^^^^

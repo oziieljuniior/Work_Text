@@ -1,0 +1,48 @@
+Erro: 32
+Offset 8, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Participações,
+Cabinda Participações S.A.   Notas explicativas da administra...
+        ^^^^^^^^^^^^^
+Erro: 33
+Offset 2706, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...das e estão sendo apresentadas em real, que é a moeda  funcional da Companhia. Todas as...
+                                           ^^^^^^^
+Erro: 34
+Offset 3516, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores  diferentes dos est...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 35
+Offset 5526, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquido
+...mbro de 2015 – R$ 25).   6   Patrimônio Liquido   (a)   Capital social   Em Ata de Reun...
+                                           ^^^^^^^
+Erro: 36
+Offset 6417, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinado à
+... destinados ao capital  social e R$ 450 destinado a reserva de capital. O saldo remanescent...
+                                           ^^^^^^^^^^^
+Erro: 37
+Offset 6493, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinado à
+...ldo remanescente no valor de R$ 400 foi destinado a  conta de reserva de capital a integral...
+                                           ^^^^^^^^^^^
+Erro: 38
+Offset 10242, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; por isso
+...s de capital aberto em bolsa de valores e, por  isso, estará exposta à volatilidade deste me...
+                                           ^^^^^^^^^^^^
+Erro: 39
+Offset 10531, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...ssociadas com seus passivos financeiros que  são liquidados com pagamentos à vista ou com outro ativo f...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^

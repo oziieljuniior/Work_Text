@@ -1,0 +1,108 @@
+Erro: 485
+Offset 4092, length 12, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: em relação à
+...022, a Companhia adotou algumas medidas em relação a compra de  insumos para a safra de 2022...
+                                           ^^^^^^^^^^^^
+Erro: 486
+Offset 5667, length 19, Rule ID: SIMPLIFICAR_CONVERTER_PARA_VERBO_INFINITIVO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: para não (afetem)
+...ues e recebimentos, estão dimensionados para que não afetem de forma relevante a  posição financeir...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 487
+Offset 10301, length 19, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: consolidadas
+...partir da data de obtenção de controle, sendo  consolidadas até a data em que o controle deixar de ...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 488
+Offset 20677, length 16, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...e  da  possibilidade  de  a  Companhia  vir  a  incorrer  em  perdas  por  causa  de  flutuações...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 489
+Offset 22489, length 22, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: sua liquidação poderá
+...cado constantes. Tais valores quando de sua liquidação poderão  ser diferentes dos demonstrados abaixo...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 490
+Offset 22513, length 14, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+...lores quando de sua liquidação poderão  ser diferentes dos demonstrados abaixo, devido às esti...
+                                           ^^^^^^^^^^^^^^
+Erro: 491
+Offset 31941, length 23, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: sua liquidação poderá
+...cado constantes. Tais valores quando de sua liquidação  poderão  ser  diferentes  dos  demonstrados  ab...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 492
+Offset 31966, length 15, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+...ores quando de sua liquidação  poderão  ser  diferentes  dos  demonstrados  abaixo,  devido  às...
+                                           ^^^^^^^^^^^^^^^
+Erro: 493
+Offset 43250, length 12, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: (requer)
+... balanço  patrimonial pelo valor justo, o que requer divulgação das mensurações do valor jus...
+                                           ^^^^^^^^^^^^
+Erro: 494
+Offset 43539, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: adotadas pelo
+...os preços cotados, incluídas no Nível 1 que são adotadas pelo mercado  para o ativo ou passivo, seja ...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 495
+Offset 50428, length 15, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...el 3 na  hierarquia  do  valor  justo,  juntamente  com  uma  análise  de  sensibilidade  quant...
+                                           ^^^^^^^^^^^^^^^
+Erro: 496
+Offset 83017, length 14, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...o Nível 3 na hierarquia do valor justo, juntamente com uma análise  de sensibilidade quantitat...
+                                           ^^^^^^^^^^^^^^
+Erro: 497
+Offset 137445, length 28, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou posterior cancelamento, ou
+...ssão,  para  manutenção em tesouraria e/ou posterior cancelamento ou alienação.   Ações em tesouraria  Em 30...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 498
+Offset 139657, length 22, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensuradas
+...sultado  e  de  ativos  por  segmento,  que  foram  mensuradas  de  acordo  com  as  mesmas  práticas ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 499
+Offset 152118, length 14, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: ajustado
+...vel de realização de  outros três KPIs, sendo ajustado pelos dividendos por ação distribuídos ...
+                                           ^^^^^^^^^^^^^^
+Erro: 500
+Offset 154836, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...a (Nota explicativa 19) que pode variar e, portanto, é classificada como instrumento financ...
+                                           ^^^^^^^^^^^
+Erro: 501
+Offset 154893, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: controlada
+...assificada como instrumento financeiro, sendo  controlada no passivo e mensurada a valor justo co...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 502
+Offset 160378, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: pois, envolvem
+...iscal  que  não  estão  provisionados,  pois  envolvem  risco  de  perda  classificado  pela  ...
+                                           ^^^^^^^^^^^^^^

@@ -1,0 +1,132 @@
+Erro: 1
+Offset 8219, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...de  quais  entidades  são  controladas  e,  portanto,  necessitam  ser  consolidadas  pela  ...
+                                           ^^^^^^^^^^^^
+Erro: 2
+Offset 9214, length 15, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: permanecendo
+...quência dos recentes IFRS 10 e IFRS 12, o que permanece no IAS 27 restringe-se  à  contabilizaç...
+                                           ^^^^^^^^^^^^^^^
+Erro: 3
+Offset 10277, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: porém, não
+...os financeiros que foram transferidos,  porém  não  baixados,  a  fim  de  possibilitar  q...
+                                           ^^^^^^^^^^
+Erro: 4
+Offset 13219, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...a liquidação das transações  envolvendo essas estimativas poderá resultar em valores diferentes dos esti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 13574, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...s  são  apresentadas  em  Reais  (R$),  que  é  a  moeda  funcional da controladora. Toda...
+                                           ^^^^^^^^^
+Erro: 6
+Offset 14639, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...não sejam reconhecidos pelo valor justo através de resultado,  quaisquer  custos  de  tran...
+                                           ^^^^^^^^^^
+Erro: 7
+Offset 22571, length 11, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: os bens foram
+....  A  vida  útil  remanescente de todos os bens foi revisada, exceto para Terras e Fazendas...
+                                           ^^^^^^^^^^^
+Erro: 8
+Offset 28591, length 13, Rule ID: PARONYM_BENEFICIO_43
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do benefício
+...o  resultado  do  período  de  fruição  do  beneficio  e,  posteriormente,  são  destinadas  ...
+                                           ^^^^^^^^^^^^^
+Erro: 9
+Offset 28697, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...  de  incentivos  fiscais no patrimônio liquido.   3.17  Ajuste a valor presente de ati...
+                                           ^^^^^^^
+Erro: 10
+Offset 28850, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...razo  são  atualizados  monetariamente  e,  portanto,  estão  ajustados  pelo  seu  valor  p...
+                                           ^^^^^^^^^^^^
+Erro: 11
+Offset 45285, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+..., da  contribuição social sobre o lucro liquido (CSLL), da contribuição para o PIS e da...
+                                           ^^^^^^^
+Erro: 12
+Offset 46916, length 19, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: modifiquem
+...te.  Caso  haja fatores  relevantes que venham a  modificar  as  projeções,  estas são  revisadas d...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 48394, length 19, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mantidos
+... Barefame Instalações Industriais Ltda, que  foram mantidos no ativo por não serem compensáveis com...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 14
+Offset 65344, length 37, Rule ID: REFLEXIVE_VERB_SE_AGREEMENT
+Message: O verbo aqui concorda com o objecto portanto deve utilizar o verbo no plural.
+Suggestion: referi-se substancialmente máquinas
+...nte  líquido  demonstrado,  R$  6.383,  refere-se  substancialmente  máquinas  e  equipamentos  arrolados  em  garant...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 15
+Offset 92211, length 34, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou no aumento do capital social, ou
+... aplicação do excesso na integralização ou no aumento do capital social ou  na distribuição de dividendos.     Re...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 16
+Offset 95274, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinada à
+...cesso  de  reserva  de lucros  ,  seja  destinada  a  totalidade  ao  pagamento  de dividend...
+                                           ^^^^^^^^^^^^
+Erro: 17
+Offset 102327, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...    CONSOLIDADO    Receita bruta  Lucro liquido   Ativos operacionais   Passivos operac...
+                                           ^^^^^^^
+Erro: 18
+Offset 108877, length 58, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de instituições financeiras depositárias de recursos, ou
+... de  inadimplência de suas contrapartes ou de instituições financeiras depositárias de recursos ou de  investimentos financeiros.  Para  m...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 19
+Offset 109468, length 16, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou produzidas, ou
+...Risco de preço das mercadorias vendidas ou produzidas ou dos insumos adquiridos   Decorre da pos...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 20
+Offset 111134, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquido
+... tributação.  Com relação ao Patrimônio Liquido Consolidado, o impacto apresentado não ...
+                                           ^^^^^^^
+Erro: 21
+Offset 112748, length 6, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: câmbio
+...uma  possível  mudança  nas  taxas  de  cambio  do  dólar,  mantendo-se  todas  as  ou...
+                                           ^^^^^^
+Erro: 22
+Offset 116938, length 11, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: reduzindo
+...uladas a eventos físicos de fabricação, o que reduz o risco de inadimplência.   Página 38 d...
+                                           ^^^^^^^^^^^

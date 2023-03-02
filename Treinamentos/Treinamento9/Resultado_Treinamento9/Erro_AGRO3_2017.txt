@@ -1,0 +1,228 @@
+Erro: 275
+Offset 3755, length 13, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: em relação às
+...         ou R$16.987, quantia inferior em relação as vendas realizadas anteriormente por se ...
+                                           ^^^^^^^^^^^^^
+Erro: 276
+Offset 6176, length 15, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: equivalentes à
+... a  terceiros  ou  dividir  em  partes  equivalentes  a  totalidade  dos  ativos  e  passivos, ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 277
+Offset 8298, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consegue; consigas; pode; possas
+... Conselho de Administração da Companhia tem o poder de alterar as demonstrações financeiras an...
+                                           ^^^^^^^^^^^^^^
+Erro: 278
+Offset 10815, length 20, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consegue; consigas; pode; possas
+...s de seu envolvimento com a investida e tem a capacidade  de afetar esses retornos por meio de seu p...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 279
+Offset 14707, length 8, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...timentos  exclusivos  (FIM  Guardian),  que  são  integralmente consolidados, e aplicaçõ...
+                                           ^^^^^^^^
+Erro: 280
+Offset 18273, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...a de fazendas designados ao valor justo através  de resultados são reconhecidos em "Realiza...
+                                           ^^^^^^^^^^^
+Erro: 281
+Offset 19875, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e podem
+...tendem manter por um período indefinido e que podem ser vendidos para atender às necessidad...
+                                           ^^^^^^^^^^^
+Erro: 282
+Offset 20463, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecidos no
+...ariação cambial sobre ativos monetários que são reconhecidos no resultado do exercício.   Quando  o  in...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 283
+Offset 23532, length 6, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+...ras;  (vi)  Dados observáveis indicando que há uma redução mensurável nos futuros flux...
+                                           ^^^^^^
+Erro: 284
+Offset 28424, length 13, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: Agora
+... física  da  quantidade deste produtos. Neste momento é iniciado um processo interno de regis...
+                                           ^^^^^^^^^^^^^
+Erro: 285
+Offset 30845, length 5, Rule ID: CRASE_CONFUSION
+Message: Se não se refere a horas não se utiliza a crase.
+Suggestion: a uma
+... "cana" foi o fluxo de caixa descontado à uma taxa compatível com o risco e o prazo  ...
+                                           ^^^^^
+Erro: 286
+Offset 31454, length 16, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘período de tempo’ é um pleonasmo. É preferível dizer “período” ou “tempo”
+Suggestion: período; tempo
+...s o produto agrícola é colhido após  um período de tempo que varia de 110 a 180 dias após a data...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 287
+Offset 31723, length 5, Rule ID: CRASE_CONFUSION
+Message: Se não se refere a horas não se utiliza a crase.
+Suggestion: a uma
+...s grãos foi o fluxo de caixa descontado à uma taxa compatível com o risco e o prazo d...
+                                           ^^^^^
+Erro: 288
+Offset 33721, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...sumível  (considerado como circulante), que é aquele passível de ser vendido como ati...
+                                           ^^^^^
+Erro: 289
+Offset 33855, length 18, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: utilizado na
+... produção (considerado não circulante), que é utilizado na condução das operações  da fazenda com ...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 290
+Offset 37575, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for maior que”.
+Suggestion: for maior que
+...cuperável se o valor contábil do ativo  for maior do que seu valor recuperável estimado.   Os ga...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 291
+Offset 38650, length 7, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+... poderá não ser recuperado.   Os ativos que têm vida útil definida são revisados para v...
+                                           ^^^^^^^
+Erro: 292
+Offset 42815, length 12, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘enquanto que’ é um pleonasmo. É preferível dizer “enquanto”
+Suggestion: enquanto
+... as diferenças tributárias temporárias, enquanto que o imposto de renda diferido ativo é  re...
+                                           ^^^^^^^^^^^^
+Erro: 293
+Offset 45014, length 22, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: Os custos incrementa; Os custos incrementar; Os custos incrementara; Os custos incrementaras; Os custos incrementarei; Os custos incrementares; Os custos incrementaria; Os custos incrementarias; Os custos incrementará; Os custos incrementarás; Os custos incrementas; Os custos incrementasse; Os custos incrementasses; Os custos incrementaste; Os custos incrementava; Os custos incrementavas; Os custos incremente; Os custos incrementei; Os custos incrementes; Os custos incremento; Os custos incrementou
+...ão classificadas no patrimônio líquido. Os custos incrementais diretamente atribuíveis  à emissão de n...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 294
+Offset 45978, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...  estimativas em resultados históricos, levando em consideração o tipo de cliente, o tipo de transação ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 295
+Offset 47275, length 22, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considera; consideres
+....  A  precificação  da  cana-de-açúcar  leva  em  consideração  a  quantidade  de  ATR  por  tonelada ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 296
+Offset 76134, length 3, Rule ID: NUM_NÃO
+Message: Substitua por “não”.
+Suggestion: não
+...o preço da  cana e dos grãos resultaria num aumentou ou redução no valor do ativo b...
+                                           ^^^
+Erro: 297
+Offset 80227, length 8, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...características  desses  instrumentos,  que  são  sistematicamente renegociados, os valo...
+                                           ^^^^^^^^
+Erro: 298
+Offset 82167, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...decorre da possibilidade de a Companhia vir a incorrer em perdas por causa de flutuações nas  ...
+                                           ^^^^^^^^^^^^^^
+Erro: 299
+Offset 82310, length 10, Rule ID: DEVE_DE
+Message: Substitua por “devidos”.
+Suggestion: devidos
+...icados de ativos ou aumentam os valores devidos de  passivos. Esse risco também decorre do...
+                                           ^^^^^^^^^^
+Erro: 300
+Offset 82913, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...idade de a Companhia incorrer em perdas devido a  oscilação nos preços  de mercado dos p...
+                                           ^^^^^^^^
+Erro: 301
+Offset 85911, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for maior que”.
+Suggestion: for maior que
+... o volume de soja  colhido efetivamente for maior do que o volume coberto.   À  medida  que  a  ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 302
+Offset 86367, length 18, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for menor que”.
+Suggestion: for menor que
+...elebrados  para  a  venda  de  dólares  for  menor  do que  a  quantidade real de dólares recebido...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 303
+Offset 86652, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for maior que”.
+Suggestion: for maior que
+...uros celebrados para a venda de dólares for maior do que a quantidade real de dólares recebidos....
+                                           ^^^^^^^^^^^^^^^^
+Erro: 304
+Offset 90989, length 15, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘todos os demais’ é um pleonasmo. É preferível dizer “os demais”
+Suggestion: os demais
+...nanceiros da Companhia, considerando-se todos os demais  indicadores de mercado constantes. Tai...
+                                           ^^^^^^^^^^^^^^^
+Erro: 305
+Offset 91064, length 22, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: sua liquidação poderá
+...cado constantes. Tais valores quando de sua liquidação poderão ser diferentes dos  demonstrados abaixo...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 306
+Offset 93912, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: sua liquidação poderá
+...constantes.  Tais  valores  quando  de  sua  liquidação  poderão  ser  diferentes  dos  demonstrados aba...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 307
+Offset 105139, length 12, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: (requer)
+... balanço patrimonial  pelo valor justo, o que requer divulgação das mensurações do valor jus...
+                                           ^^^^^^^^^^^^
+Erro: 308
+Offset 105423, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: adotadas pelo
+...os preços cotados, incluídas no Nível 1 que são adotadas pelo mercado para o ativo  ou passivo, seja ...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 309
+Offset 111694, length 10, Rule ID: CHAMAR_DENOMINAR_DE
+Message: Os verbos ‘chamar’ e ‘denominar’ são pronominais, a redação correta é sem preposição.
+Suggestion: Chamada
+...de depósitos bancários    Derivativos - Chamada de margem (a)    Outros                   ...
+                                           ^^^^^^^^^^
+Erro: 310
+Offset 181675, length 15, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: o Plano poderá
+...ões de ações a serem outorgadas segundo o Plano poderão conferir direitos sobre um número de  a...
+                                           ^^^^^^^^^^^^^^^
+Erro: 311
+Offset 185844, length 5, Rule ID: TE_DE
+Message: Se pretende referir-se ao verbo escreva “to dê”.
+Suggestion: to dê
+...Conselho de Administração em 18 de agos to de 2016, no montante   de R$1.394, e pagam...
+                                           ^^^^^
+Erro: 312
+Offset 200291, length 7, Rule ID: PT_WIKIPEDIA_COMMON_ERRORS
+Message: ‘à todos’ é um erro. Considere utilizar “a todos”
+Suggestion: a todos
+... (ii) sobre maquinários, (iii) de vida, à todos os funcionários, bem  como (iv) o segur...
+                                           ^^^^^^^

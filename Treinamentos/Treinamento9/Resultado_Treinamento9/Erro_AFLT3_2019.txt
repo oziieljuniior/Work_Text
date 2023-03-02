@@ -1,0 +1,83 @@
+Erro: 111
+Offset 12422, length 22, Rule ID: QUE_TER_COMO_POR_NOME_ADJ
+Message: Com o pronome ‘cujo’, o seu texto poderia ficar mais claro e elegante.
+Suggestion: cujo objetivo é
+...cessão com vigência até agosto de 2027, que  tem como objetivo estabelecer as condições para prestação...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 112
+Offset 15964, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...licativa n°5;  definição do valor justo através de técnicas de avaliação, incluindo o méto...
+                                           ^^^^^^^^^^
+Erro: 113
+Offset 22942, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mantidos para
+...os pela Companhia.   Ativos financeiros que são mantidos para negociação ou são gerenciados e cujo de...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 114
+Offset 23572, length 16, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘período de tempo’ é um pleonasmo. É preferível dizer “período” ou “tempo”
+Suggestion: período; tempo
+...l  em  aberto  durante  um  determinado período de tempo e por outros riscos e custos básicos de...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 115
+Offset 27889, length 4, Rule ID: CONJUNCTION_REPETITION
+Message: Repetição gramaticalmente incorreta.
+...  caso  seja  um  derivativo  ou  caso  seja  designado  como  tal  no  momento  do ...
+                                           ^^^^
+Erro: 116
+Offset 30887, length 15, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...com  base  na  TIR  de  cada  projeto,  juntamente  com a variação do IPCA.   Com  a  entrada  ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 117
+Offset 32136, length 22, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘alterações posteriores’ é um pleonasmo. É preferível dizer “alterações”
+Suggestion: alterações
+...momento inicial do projeto e não  sofre alterações posteriores, sendo apurada de acordo com o risco de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 118
+Offset 33180, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...luxos de caixa, a saber:   (i)   Parte  através  de  valores  a  receber  garantidos  pelo ...
+                                           ^^^^^^^^^^^
+Erro: 119
+Offset 34264, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+..., o ajuste a valor presente é calculado levando em consideração os  fluxos  de  caixa  contratuais  e  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 120
+Offset 41819, length 17, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerariam
+...ores  que  os  participantes do mercado levariam em conta na precificação de uma transação.   Se ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 121
+Offset 53550, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+... IFRS 2014-2016 - Alterações à IFRS 1 e à IAS 28.   -  Alterações  ao  CPC  36  Demon...
+                                           ^^^^^
+Erro: 122
+Offset 70548, length 17, Rule ID: IR_CONTRACTION_NOUN
+Message: Substitua por “foram ao montante”.
+Suggestion: foram ao montante
+...os na adoção inicial do CPC 47/IFRS 15  foram no montante de R$656 e R$236, respectivamente.   11...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 123
+Offset 76741, length 36, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: os dividendos mínimos obrigatórios são
+...es ordinárias.   A base de cálculo para os dividendos mínimos obrigatórios é como segue:   Dividendos mínimos - sobr...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 124
+Offset 91238, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...bela a seguir demonstra a perda (ganho) devido a variação das taxas de juros que poderá ...
+                                           ^^^^^^^^

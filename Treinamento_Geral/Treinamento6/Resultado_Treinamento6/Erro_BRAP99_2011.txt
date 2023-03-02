@@ -1,0 +1,443 @@
+Erro: 1
+Offset 4512, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+... contábeis estão apresentadas em reais, que é a moeda funcional da Bradespar.   II)  At...
+                                           ^^^^^^^
+Erro: 2
+Offset 7540, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: o
+...ados  pelo  seu  valor  de  aquisição,  que  é  o  valor  justo  do  preço  pago,  inclui...
+                                           ^^^^^^^^^
+Erro: 3
+Offset 8259, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...ra venda são registrados no patrimônio  liquido,  na  rubrica  de  “Ajustes  de  avalia...
+                                           ^^^^^^^
+Erro: 4
+Offset 8531, length 21, Rule ID: QUE_SUBJ_VS_INF_PESS
+Message: Esta perífrase pode ser simplificada.
+...aixo  do  seu  custo  de  aquisição  e  que  tal  corresponda  a  uma  perda  significativa  ou  prol...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 9622, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...o  método  de  custo  médio.  O  valor  liquido  de  realização  dos  estoques  corresp...
+                                           ^^^^^^^
+Erro: 6
+Offset 10182, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...e  do  estoque  da  pilha  de  minério  e,  portanto,  não  faz  parte  do  cálculo  da  dep...
+                                           ^^^^^^^^^^^^
+Erro: 7
+Offset 10537, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+... inicialmente registrados no patrimônio liquido e transferido para o custo de produto p...
+                                           ^^^^^^^
+Erro: 8
+Offset 13751, length 13, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: são tangíveis; é tangível
+...pagamentos  mínimos  do  arrendamento,  são  tangível  com  contrapartida  da  correspondente...
+                                           ^^^^^^^^^^^^^
+Erro: 9
+Offset 15812, length 7, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: término
+...os  públicos  (bens  reversíveis),  ao  termino  do  período de concessão serão devolvi...
+                                           ^^^^^^^
+Erro: 10
+Offset 16370, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for maior que”.
+Suggestion: for maior que
+...esultado, se  o valor contábil do ativo for maior do que seu valor recuperável estimado.   A dep...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 22711, length 12, Rule ID: PARONYM_BENEFICIO_43
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de benefício
+...s-Aposentadoria (VALE)   Para os planos de beneficio definido em que a Companhia tem a respo...
+                                           ^^^^^^^^^^^^
+Erro: 12
+Offset 23155, length 12, Rule ID: PARONYM_BENEFICIO_43
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de benefício
+...alanço patrimonial com relação ao plano de beneficio definido é o valor presente da obrigaçã...
+                                           ^^^^^^^^^^^^
+Erro: 13
+Offset 23209, length 13, Rule ID: PARONYM_BENEFICIO_43
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de benefício
+...efinido é o valor presente da obrigação de  beneficio  definido  na  data  de  balanço,  meno...
+                                           ^^^^^^^^^^^^^
+Erro: 14
+Offset 24150, length 14, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e tenham
+... em  que  os  benefícios  serão  pagos  e  que  tenham  prazos  de  vencimento próximos daquel...
+                                           ^^^^^^^^^^^^^^
+Erro: 15
+Offset 24457, length 21, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetua nenhum; não efetua nenhuma; não, efetua qualquer
+... posição  de  superávit,  a  Companhia  não  efetua  qualquer  registro  no  balanço  patrimonial  ne...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 16
+Offset 25726, length 42, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou perdas no resultado do período, ou
+...das  em  cada  exercício  como  ganhos  ou  perdas  no  resultado  do  período  ou  em  ajustes  de  avaliação  patrimonia...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 17
+Offset 25987, length 13, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e tenha
+... na  modalidade  de  fluxo  de  caixa,  e  que  tenha  sido  efetivo  durante o período relac...
+                                           ^^^^^^^^^^^^^
+Erro: 18
+Offset 26353, length 29, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou passivo for reconhecido, ou
+... risco específico associado a  um ativo ou passivo for reconhecido ou uma operação prevista altamente prováve...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 19
+Offset 26529, length 10, Rule ID: PARONYM_INICIO_169
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: no início
+...o  exterior.  A  Companhia  documenta,  no  inicio  da  operação, a relação entre os instr...
+                                           ^^^^^^^^^^
+Erro: 20
+Offset 27577, length 5, Rule ID: ETC_USAGE
+Message: Deve-se utilizar a vírgula antes de ‘etc.’.
+Suggestion: , etc
+...spesa  operacional,  despesa  financeira  etc.)  quando  o  item  protegido  for  efe...
+                                           ^^^^^
+Erro: 21
+Offset 28173, length 10, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: os
+... imediatamente no resultado do período, que são os  derivativos mensurados ao valor justo ...
+                                           ^^^^^^^^^^
+Erro: 22
+Offset 33833, length 41, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou mais eventos futuros ocorrerem, ou
+...gências  serão  resolvidas  quando  um  ou  mais  eventos  futuros  ocorrerem  ou  deixarem  de  ocorrer.  Tipicamente,  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 23
+Offset 33995, length 17, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: dificultando
+...  não  depende  da  atuação  da  Vale,  o  que  dificulta  a  realização  de  estimativas  precis...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 24
+Offset 34644, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: determinados com
+...ubrica dependem de uma série de fatores que são determinados com base  em  cálculos  atuariais,  que  ut...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 25
+Offset 35480, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: necessárias para
+... futuros de saídas de caixa  estimadas, que são necessárias para liquidação das obrigações com os planos...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 26
+Offset 36002, length 30, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: influenciadas pelas
+...o  depende  de  diversas  estimativas,  que  são  influenciadas  pelas  condições  de  mercados  vigentes  no ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 27
+Offset 36691, length 17, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferissem
+...o impacto  caso  os  resultados  reais  fossem  diferente  da  estimativa  da  Administração  da ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 28
+Offset 41953, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...para  cada  componente  do  patrimônio  liquido,  na  demonstração  das  mutações  do  ...
+                                           ^^^^^^^
+Erro: 29
+Offset 46245, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...alanço de abertura contra o patrimônio  liquido.   b)  Provisão  para  Desmobilização  ...
+                                           ^^^^^^^
+Erro: 30
+Offset 47644, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: pois, não
+... não  controladores  não  se  aplicam,  pois  não  houve  diferenças significativas com r...
+                                           ^^^^^^^^^
+Erro: 31
+Offset 49092, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...de  abertura  ajustando  o  patrimônio  liquido na data de transição.   c)  Imposto  de...
+                                           ^^^^^^^
+Erro: 32
+Offset 51486, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...para venda ajustado a valor de mercado, em contrapartida à conta destacada  no patrimônio líquid...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 33
+Offset 93852, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...ços  e  condições  usuais  de  mercado  e,  portanto,  não  geram  qualquer  benefício indev...
+                                           ^^^^^^^^^^^^
+Erro: 34
+Offset 93867, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não geram nenhum; não geram nenhuma; não, geram qualquer
+...es  usuais  de  mercado  e,  portanto,  não  geram  qualquer  benefício indevido às suas contraparte...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 35
+Offset 96964, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: distribuída em
+...da  remuneração  dos  Administradores,  que  é  distribuída  em  reunião  do  Conselho de Administração...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 36
+Offset 101737, length 19, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: registrados
+.../07 e pronunciamentos do CPC nºs 2 e 8, que são registrados em   contrapartida ao Patrimônio Líquid...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 37
+Offset 108605, length 11, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: são dívidas; é dívida
+...anceiros.  Os  principais  indicadores  são  dívida  sobre  patrimônio  líquido,  dívida  s...
+                                           ^^^^^^^^^^^
+Erro: 38
+Offset 112050, length 19, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: substituam
+...ra do Contrato de Alienação Fiduciária, venham a substituir as  Ações da Valepar, em razão de cance...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 39
+Offset 119004, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: constituída
+...OFINS)  da  ex-controlada  Bradesplan,  sendo  constituída provisão para contingência no montante ...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 40
+Offset 119513, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: não obstante,
+...s quais estão totalmente provisionados, não obstante as boas chances de êxito a médio  e lon...
+                                           ^^^^^^^^^^^^
+Erro: 41
+Offset 121213, length 13, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: apenas
+...não  são  reconhecidos  contabilmente,  sendo  apenas divulgados em notas explicativas às dem...
+                                           ^^^^^^^^^^^^^
+Erro: 42
+Offset 122326, length 11, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: tenha
+...dimento arbitral caso esse procedimento venha a ter sequência, uma vez que  a companhia ing...
+                                           ^^^^^^^^^^^
+Erro: 43
+Offset 131872, length 10, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: for
+...rio adicionais à remuneração mínima que vier a ser anunciada.   Em 14 de maio  de 2010,  a...
+                                           ^^^^^^^^^^
+Erro: 44
+Offset 135545, length 29, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: registrado, em contrapartida
+...ro  de  2010  corresponde  a  R$  968,  registrado  em  contrapartida  à  conta  destacada  no  patrimônio  l...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 45
+Offset 141617, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: consistente
+...ta maior eficiência da gestão do caixa, sendo consistente com o seu foco estratégico na  redução ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 46
+Offset 153714, length 7, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...e caixa contrabalançando os recebíveis (que são basicamente atrelados  ao dólar norte-a...
+                                           ^^^^^^^
+Erro: 47
+Offset 156262, length 7, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...e caixa contrabalançando os recebíveis (que são basicamente atrelados  ao dólar norte-a...
+                                           ^^^^^^^
+Erro: 48
+Offset 157647, length 7, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...e caixa contrabalançando os recebíveis (que são basicamente atrelados  ao dólar norte‐a...
+                                           ^^^^^^^
+Erro: 49
+Offset 160079, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; Pra
+...  Fluxo  Valor Principal (USD m ilhões) Com pra /   31-dez-10  31-dez-09  Venda  Taxa M...
+                                           ^^^^^^^
+Erro: 50
+Offset 165386, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; Pra
+...pal ($ m ilhões)  31-dez-10  31-dez-09  Com pra /  Venda  Taxa Média  (AUD/USD)  Valor ...
+                                           ^^^^^^^
+Erro: 51
+Offset 168137, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; Pra
+... Principal (ton)  31-dez-10  31-dez-09  Com pra /  Venda  Strike Médio  (USD/ton)  Put ...
+                                           ^^^^^^^
+Erro: 52
+Offset 169141, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; Pra
+... Principal (ton)  31-dez-10  31-dez-09  Com pra /  Venda  Strike Médio  (USD/ton)  Valo...
+                                           ^^^^^^^
+Erro: 53
+Offset 170210, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; Pra
+... Principal (ton)  31-dez-10  31-dez-09  Com pra /  Venda  Strike Médio  (USD/ton)  Valo...
+                                           ^^^^^^^
+Erro: 54
+Offset 171781, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; Pra
+... Principal (ton)  31-dez-10  31-dez-09  Com pra /  Venda  Strike Médio  (USD/ton)  Valo...
+                                           ^^^^^^^
+Erro: 55
+Offset 172933, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; Pra
+... Principal (ton)  31-dez-10  31-dez-09  Com pra /  Venda  Strike Médio  (USD/ton)  Valo...
+                                           ^^^^^^^
+Erro: 56
+Offset 174211, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; Pra
+... Principal (m t)  31-dez-10  31-dez-09  Com pra /  Venda  Strike Médio  (USD/m t)  Valo...
+                                           ^^^^^^^
+Erro: 57
+Offset 175238, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; Pra
+...Principal (dias)  31-dez-10  31-dez-09  Com pra /  Venda  Strike Médio  (USD/dia)  Valo...
+                                           ^^^^^^^
+Erro: 58
+Offset 175931, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; Pra
+... Principal (m t)  31-dez-10  31-dez-09  Com pra /  Venda  Strike Médio  (USD/m t)  Valo...
+                                           ^^^^^^^
+Erro: 59
+Offset 177197, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; Pra
+... Principal (lbs)  31-dez-10  31-dez-09  Com pra /  Venda  Strike Médio  (USD/lbs)  Valo...
+                                           ^^^^^^^
+Erro: 60
+Offset 177894, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: incluir, mas
+...ivativos. Da perspectiva da Vale, podem incluir mas  não estão limitados à contratos comerc...
+                                           ^^^^^^^^^^^
+Erro: 61
+Offset 178505, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; Pra
+... Principal (ton)  31-dez-10  31-dez-09  Com pra /  Venda  Strike Médio  (USD/ton)  Valo...
+                                           ^^^^^^^
+Erro: 62
+Offset 179124, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: Com; Pra
+... Principal (ton)  31-dez-10  31-dez-09  Com pra /  Venda  Strike Médio  (USD/ton)  Valo...
+                                           ^^^^^^^
+Erro: 63
+Offset 179735, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Contudo, os
+...ias  de  cada  uma  dessas  Companhias. Contudo os valores nominais e os efeitos das marca...
+                                           ^^^^^^^^^^
+Erro: 64
+Offset 187636, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: de; com
+...Análise de sensibilidade - Derivativos de com m odities  Valores em R$ milhões  Progr...
+                                           ^^^^^^
+Erro: 65
+Offset 206254, length 13, Rule ID: PARONYM_BENEFICIO_43
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de benefício
+...ivos  optaram  pela  transferência.  O  de  beneficio  definido  continua  existindo, cobrind...
+                                           ^^^^^^^^^^^^^
+Erro: 66
+Offset 210768, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: consolidações,
+...  Ativo inicial reconhecido com   novas consolidações   Rendimento real dos ativos   Contribu...
+                                           ^^^^^^^^^^^^^
+Erro: 67
+Offset 221150, length 13, Rule ID: PARONYM_BENEFICIO_43
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de benefício
+....a,  nos  últimos  11  anos.  O  Plano  de  Beneficio  Definido  administrado  pela  Petros, ...
+                                           ^^^^^^^^^^^^^
+Erro: 68
+Offset 228485, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...  A  gestão  da  renda variável é feita através de fundo de investimento que tem o Índice ...
+                                           ^^^^^^^^^^
+Erro: 69
+Offset 236268, length 22, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: implementado
+...  para  alguns  dos  seus  executivos,  que  foi  implementado  para  ciclos de 3 anos.   De  acordo  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 70
+Offset 236575, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...mprar  ações  preferenciais  da  Vale,  através  de  uma  instituição  financeira  previame...
+                                           ^^^^^^^^^^^
+Erro: 71
+Offset 237793, length 13, Rule ID: QUE_ESTAR_CONTRACAO_PREPOSICAO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sob
+...mpensação provido aos nossos executivos que estão sob esse plano  de  compensação  de  incent...
+                                           ^^^^^^^^^^^^^
+Erro: 72
+Offset 238679, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...eis perdas com interrupção de produção, através de uma  apólice  do  tipo  All  Risks.  Es...
+                                           ^^^^^^^^^^
+Erro: 73
+Offset 239975, length 10, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...s  diversas  áreas operacionais da VALE e que  são compostos por vários profissionais dest...
+                                           ^^^^^^^^^^
+Erro: 74
+Offset 240228, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: vendidas
+...liberado na AGE de 30 de abril de 2004, que foram vendidas em leilão na  BOVESPA em  14 de julho d...
+                                           ^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,42 @@
+Erro: 41
+Offset 1255, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: de; com
+...ntábeis Intermediárias foram preparadas de com o Pronunciamento Técnico  CPC  21  (R1)...
+                                           ^^^^^^
+Erro: 42
+Offset 2590, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensurados pelo
+...m  exceção dos instrumentos financeiros que são mensurados pelo valor justo.   c.  Moeda funcional e de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 43
+Offset 2762, length 6, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...das e estão apresentadas em Real (R$),  que  é  a  moeda  do  principal  ambiente  eco...
+                                           ^^^^^^
+Erro: 44
+Offset 3383, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores  diferentes dos ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 45
+Offset 7885, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...são preços cotados incluídos no Nível 1 e que são observáveis  para o ativo ou passivo, s...
+                                           ^^^^^^^^^
+Erro: 46
+Offset 12657, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+...7 -   Partes Relacionadas   A Companhia não efetuou qualquer remuneração a diretores, administradore...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 47
+Offset 14616, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...ssociadas com seus passivos financeiros que são liquidados com pagamentos à vista ou  com outro ativo ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^

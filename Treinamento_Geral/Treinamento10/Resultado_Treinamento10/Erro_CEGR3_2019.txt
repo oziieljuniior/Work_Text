@@ -1,0 +1,264 @@
+Erro: 285
+Offset 4000, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+... sobre  essas demonstrações financeiras e, portanto, não expressamos uma opinião separada s...
+                                           ^^^^^^^^^^^
+Erro: 286
+Offset 7635, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativos à
+...edidos a empregados e ex-  -empregados, relativos a assistência médica e plano de pensão. O...
+                                           ^^^^^^^^^^^
+Erro: 287
+Offset 8890, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+..., obtivemos o  entendimento e validamos através de recálculo independente, as principais p...
+                                           ^^^^^^^^^^
+Erro: 288
+Offset 13679, length 40, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: as demonstrações financeiras não abrangem
+...da Administração.   Nossa opinião sobre as demonstrações financeiras não abrange o Relatório da Administração e não  exp...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 289
+Offset 13751, length 25, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não expressamos nenhum; não expressamos nenhuma; não, expressamos qualquer
+... abrange o Relatório da Administração e não  expressamos qualquer forma de conclusão de auditoria sobre e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 290
+Offset 14073, length 48, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou com nosso conhecimento obtido na auditoria, ou
+...stente com as demonstrações financeiras ou com nosso conhecimento obtido na auditoria ou,  de outra forma, aparenta estar distor...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 291
+Offset 14235, length 6, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+...ase no trabalho realizado,  concluirmos que há distorção relevante no Relatório da Adm...
+                                           ^^^^^^
+Erro: 292
+Offset 17056, length 14, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “é maior que”.
+Suggestion: é maior que
+...storção relevante  resultante de fraude é maior do que o proveniente de erro, já que a fraude ...
+                                           ^^^^^^^^^^^^^^
+Erro: 293
+Offset 19510, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+... pela governança,  determinamos aqueles que foram considerados como mais significativos n...
+                                           ^^^^^^^^^
+Erro: 294
+Offset 33167, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: precedida
+...em 24 de outubro  de 2018.   A mudança, que foi precedida de comunicação à Agência Reguladora de ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 295
+Offset 38639, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+... da Companhia estão apresentadas em R$, que é a moeda  funcional e, também, a moeda de ...
+                                           ^^^^^^^
+Erro: 296
+Offset 39745, length 7, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...tos originais de três meses, ou  menos, que são prontamente conversíveis em um montante...
+                                           ^^^^^^^
+Erro: 297
+Offset 39812, length 12, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e estão
+...íveis em um montante conhecido de caixa e que  estão sujeitos a um insignificante risco de m...
+                                           ^^^^^^^^^^^^
+Erro: 298
+Offset 41295, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...l em aberto. Esta avaliação é executada em nível de  instrumento.   18                  ...
+                                           ^^^^^^^^
+Erro: 299
+Offset 43325, length 25, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou falência da empresa, ou
+... no caso de  inadimplência, insolvência ou falência da empresa ou da contraparte.   2.5.4.  Impairment de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 300
+Offset 44933, length 6, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+... ou   (iv)  Dados observáveis indicando que há uma redução mensurável nos futuros   fl...
+                                           ^^^^^^
+Erro: 301
+Offset 54689, length 7, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...t de ativos não financeiros   Os ativos que têm uma vida útil indefinida não estão suje...
+                                           ^^^^^^^
+Erro: 302
+Offset 55983, length 19, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: classificadas
+...necedores no curso normal dos negócios, sendo classificadas como  passivos circulantes se o pagamen...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 303
+Offset 58793, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...o ou produção de um ativo qualificável, que é um ativo que, necessariamente,  demanda...
+                                           ^^^^^
+Erro: 304
+Offset 59914, length 12, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e tenham
+... moeda em que os benefícios serão pagos e que tenham prazos de  vencimento próximos daqueles...
+                                           ^^^^^^^^^^^^
+Erro: 305
+Offset 61312, length 50, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: outros resultados abrangentes não (reclassificáveis)
+...nio, nunca transitando pelo resultado  (outros resultados abrangentes não reclassificáveis). Este método suaviza as  flutuações no...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 306
+Offset 62178, length 18, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: esses benefícios são
+... médica  pós-aposentadoria. O direito a esses benefícios é concedido a um grupo fechado de  aposen...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 307
+Offset 64596, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...me de gás  transferido para o cliente e através de estimativas para mensurar o gás entregu...
+                                           ^^^^^^^^^^
+Erro: 308
+Offset 68115, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: com efeito,
+...s potencialmente conversíveis em ações, com efeito diluidor, nos exercícios  apresentados....
+                                           ^^^^^^^^^^
+Erro: 309
+Offset 68181, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: emitidas, mas
+...xercícios  apresentados.   2.21. Normas emitidas mas ainda não vigentes   As normas e interp...
+                                           ^^^^^^^^^^^^
+Erro: 310
+Offset 69835, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: emitidas, mas
+...s contábeis--Continuação   2.21. Normas emitidas mas ainda não vigentes--Continuação   A Com...
+                                           ^^^^^^^^^^^^
+Erro: 311
+Offset 70577, length 29, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: arrendamento, em contrapartida
+... (R2) seja o registro de um passivo  de arrendamento em contrapartida da rubrica de “Imobilizado” (ativos de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 312
+Offset 74873, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: entregue, mas
+...ojeções de consumo, para mensurar o gás entregue mas  ainda não considerado pelas medições a...
+                                           ^^^^^^^^^^^^
+Erro: 313
+Offset 77073, length 25, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: determinados com
+... pensão depende de uma série de fatores que são  determinados com base em cálculos atuariais, que utiliza...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 314
+Offset 77852, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e têm
+...oeda em que os   benefícios serão pagos e que têm prazos de vencimento próximos dos prazo...
+                                           ^^^^^^^^^
+Erro: 315
+Offset 86259, length 14, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “é menor que”.
+Suggestion: é menor que
+...  16.802   (*)  A taxa projetada do CDI é menor do que a atualmente vigente, motivo pelo qual ...
+                                           ^^^^^^^^^^^^^^
+Erro: 316
+Offset 89888, length 7, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...s características desses  instrumentos, que são sistematicamente renegociados, os valor...
+                                           ^^^^^^^
+Erro: 317
+Offset 90768, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: apropriadas nas
+...Companhia utiliza técnicas de avaliação que são apropriadas nas circunstâncias e para as  quais haja da...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 318
+Offset 96522, length 18, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: estornado no
+...NS sobre aquisição do gás da Petrobras, que é estornado no mês   subsequente ao fornecimento do gá...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 319
+Offset 103994, length 6, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: pois, a
+...espondente provisão não foi registrada, pois a   Administração e seus consultores jurí...
+                                           ^^^^^^
+Erro: 320
+Offset 104401, length 6, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: pois, a
+...espondente provisão não foi registrada, pois a Administração e seus consultores jurídi...
+                                           ^^^^^^
+Erro: 321
+Offset 118276, length 13, Rule ID: TER_PARTICIPIO-PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: utiliza
+...ção  societária brasileira. A Companhia tem utilizado o facultado pelo artigo 9º da Lei  nº 9...
+                                           ^^^^^^^^^^^^^
+Erro: 322
+Offset 119200, length 10, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: pago
+...a título de JCP, a todos os acionistas, sendo pago em parcela única no  dia 25 de julho de...
+                                           ^^^^^^^^^^
+Erro: 323
+Offset 119381, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e foram
+...ndo distribuídos a todos os acionistas, e que foram pagos em parcela única em  19 de dezemb...
+                                           ^^^^^^^^^^^
+Erro: 324
+Offset 121211, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e tem
+...ída em 1987, patrocinada pela Companhia e que tem por finalidade suplementar benefícios  ...
+                                           ^^^^^^^^^
+Erro: 325
+Offset 123490, length 12, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e vierem
+...tidos antes de 31 de  dezembro de 1997, e que vierem a se afastar da Companhia em decorrênci...
+                                           ^^^^^^^^^^^^
+Erro: 326
+Offset 124585, length 15, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: extensivo
+...ntar da data de afastamento definitiva, sendo extensivo a seus  dependentes legais.   O plano d...
+                                           ^^^^^^^^^^^^^^^
+Erro: 327
+Offset 129100, length 15, Rule ID: TER_PARTICIPIO-PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: registra
+...ciais (Nota 12.c). Ademais, a Companhia tem  registrado o valor correspondente a honorário de ê...
+                                           ^^^^^^^^^^^^^^^
+Erro: 328
+Offset 133874, length 12, Rule ID: TER_PARTICIPIO-PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: adota
+...ngências trabalhistas atuais e futuras, tem  adotado os seguintes planos de ação:   (a)  Mel...
+                                           ^^^^^^^^^^^^

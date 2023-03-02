@@ -1,0 +1,238 @@
+Erro: 279
+Offset 4807, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+... financeiras individuais e consolidadas e, portanto, não expressamos  uma  opinião  separad...
+                                           ^^^^^^^^^^^
+Erro: 280
+Offset 6641, length 20, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: base para
+...s premissas utilizadas pela  Companhia  que  são  base  para  exercer  esse  julgamento  ou  em  fat...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 281
+Offset 7231, length 15, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: pois, relacionam
+...il no consolidado) estão provisionados, pois relacionam-se a processos cujo prognóstico é de pe...
+                                           ^^^^^^^^^^^^^^^
+Erro: 282
+Offset 10333, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: afetadas pela
+...as projeções  de  lucros  tributáveis,  que  são  afetadas  pela  expectativa  futura  de  mercado  e  c...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 283
+Offset 13088, length 24, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não expressamos nenhum; não expressamos nenhuma; não, expressamos qualquer
+... abrange o Relatório da Administração e não expressamos qualquer forma de conclusão de auditoria sobre e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 284
+Offset 13457, length 48, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou com nosso conhecimento obtido na auditoria, ou
+...stente com as demonstrações financeiras ou com nosso conhecimento obtido na auditoria ou, de outra forma, aparenta estar distorc...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 285
+Offset 13620, length 7, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+...e no trabalho  realizado,  concluirmos  que  há  distorção  relevante  no  Relatório  d...
+                                           ^^^^^^^
+Erro: 286
+Offset 16706, length 14, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “é maior que”.
+Suggestion: é maior que
+...istorção relevante resultante de fraude é maior do que o proveniente de erro, já que a fraude ...
+                                           ^^^^^^^^^^^^^^
+Erro: 287
+Offset 33473, length 15, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: está, entretanto
+...ulo à economia para 2020. Esse ambiente está entretanto ancorado  na continuidade das reformas ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 288
+Offset 34689, length 15, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: Essas ações têm
+...ores e elevou prazo médio de pagamento. Essas ações tem produzido melhorias de liquidez corrent...
+                                           ^^^^^^^^^^^^^^^
+Erro: 289
+Offset 37728, length 14, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: com relação às
+... revistas de maneira contínua. Revisões com relação as estimativas contábeis são reconhecidas ...
+                                           ^^^^^^^^^^^^^^
+Erro: 290
+Offset 43586, length 1, Rule ID: CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL
+Message: O pronome relativo ‘cujo’ tem de estar ligado a nome/adj/numeral.
+... o CPC 06 (R2)/ IFRS 16; Contratos cujo o prazo remanescente na data da adoção er...
+                                           ^
+Erro: 291
+Offset 46341, length 9, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: ser
+...tratamentos fiscais incertos, que podem vir a ser questionados pela autoridade fiscal.  E...
+                                           ^^^^^^^^^
+Erro: 292
+Offset 46775, length 25, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não identificou nenhum; não identificou nenhuma; não, identificou qualquer
+...  desde  1º.  de  janeiro  de  2019  e  não  identificou qualquer impacto em suas demonstrações financeir...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 293
+Offset 50826, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: remuneradas
+...ado de Depósito Interfinanceiro (CDI),  sendo  remuneradas entre  96% a 105% dessa variação. Além ...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 294
+Offset 51573, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativas à
+...ladas a operações passivas da Companhia relativas a compra  de  energia elétrica,  garantia...
+                                           ^^^^^^^^^^^
+Erro: 295
+Offset 56526, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...ríodo de abril de 2016 a agosto de 2017 devido a inclusão do ICMS nas bases de cálculo d...
+                                           ^^^^^^^^
+Erro: 296
+Offset 56886, length 5, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: de; em
+...ção ao mesmo tema, a Companhia é autora de em ação ordinária, datado de 18 de março d...
+                                           ^^^^^
+Erro: 297
+Offset 60469, length 8, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: À partir
+...marca Mon Bijou em garantia à operação. À partir de junho de 2019, as remunerações foram...
+                                           ^^^^^^^^
+Erro: 298
+Offset 77679, length 74, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou mudanças significativas futuras relacionadas ao negócio diretamente, ou
+...projeção do fluxo foi de 11,5%. Eventos ou mudanças significativas futuras relacionadas ao negócio diretamente  ou questões  econômicas  externas  podem  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 299
+Offset 81353, length 7, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a pagar
+...ores. A concentração do valor de Contas à pagar está em insumos para Lã de Aço, Resinas...
+                                           ^^^^^^^
+Erro: 300
+Offset 81492, length 6, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Os verbos ‘precisar'/'tratar’ seguidos de ‘-se’ não podem estar no plural devido à preposição ‘de’:
+Suggestion: Trata
+...eram com maior prazo de pagamento.  (b) Tratam-se de valores em negociação com fornece...
+                                           ^^^^^^
+Erro: 301
+Offset 83238, length 5, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...rnecedores para compra de matéria-prima e tem vencimento de 30 dias. A Companhia util...
+                                           ^^^^^
+Erro: 302
+Offset 83668, length 6, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Os verbos ‘precisar'/'tratar’ seguidos de ‘-se’ não podem estar no plural devido à preposição ‘de’:
+Suggestion: Trata
+...dade da  operação a cada 180 dias.  (d) Tratam-se de operações de arrendamento mercant...
+                                           ^^^^^^
+Erro: 303
+Offset 98136, length 15, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: CSLL, com efeito
+...o de 2019.  18.1. Apuração do IRPJ e da CSLL com efeito no resultado  Controladora  Consolidado...
+                                           ^^^^^^^^^^^^^^^
+Erro: 304
+Offset 98664, length 1, Rule ID: CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL
+Message: O pronome relativo ‘cujo’ tem de estar ligado a nome/adj/numeral.
+...s temporárias e prejuízos fiscais cujos (créditos) débitos não foram registrados ...
+                                           ^
+Erro: 305
+Offset 102849, length 18, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e ultrapassa
+...uturos que  confirmassem sua realização e  que  ultrapassa o período  de  10 anos  é  de  R$37.639...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 306
+Offset 106390, length 36, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou mais eventos futuros ocorrerem, ou
+...os judiciais serão resolvidos quando um ou mais eventos futuros ocorrerem ou deixarem de ocorrer. Tipicamente, a oco...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 307
+Offset 110393, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativa à
+...anto, foi iniciada Execução Provisória  relativa  a  condenação,  cujo  valor  será  defini...
+                                           ^^^^^^^^^^^
+Erro: 308
+Offset 114121, length 10, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativo à
+...agens de lã de aço à Companhia. O valor relativo a perda provável está provisionado, confo...
+                                           ^^^^^^^^^^
+Erro: 309
+Offset 116043, length 19, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: rejeitado
+...ado recurso de Embargos de Declaração,  que  foi  rejeitado.  Na  sequência  foram  apresentados  R...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 310
+Offset 116161, length 16, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: admitido
+...o  STJ  – Superior Tribunal de Justiça, que foi admitido em juízo de admissibilidade no TRF-3, e...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 311
+Offset 120086, length 16, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: representando
+... tributário contido na autuação fiscal, o que representa em 31 de dezembro de 2019 o montante de...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 312
+Offset 124855, length 16, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: representando
+...019 e 2018, equivalentes a 30.889 ADR’s o que representa 0,01% do capital total em 2019.  22.3. ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 313
+Offset 126738, length 8, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: o
+.... A Companhia conclui,  de modo  geral, que  é o principal em seus contratos  de receita...
+                                           ^^^^^^^^
+Erro: 314
+Offset 135677, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...juste acumulado de conversão de balanço devido a liquidação da  controlada Bombril Overs...
+                                           ^^^^^^^^
+Erro: 315
+Offset 138635, length 16, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: baseada em
+...rupo estabeleceu uma matriz de provisão que é baseada em seu histórico de perdas de crédito, cla...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 316
+Offset 139972, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: cotados em
+...fluência  o  preço  de alguns  insumos  que  são  cotados  em  moeda  estrangeira  e  pode  afetar  p...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 317
+Offset 152220, length 7, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e é
+...ados,  dentro do esperado para o Grupo, e que é referenciada por fonte externa independ...
+                                           ^^^^^^^
+Erro: 318
+Offset 157595, length 14, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: Com relação às
+...actos relevantes nas nossas operações.  Com relação as métricas de mensuração dos ativos e pas...
+                                           ^^^^^^^^^^^^^^

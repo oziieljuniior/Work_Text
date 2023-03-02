@@ -1,0 +1,66 @@
+Erro: 122
+Offset 12001, length 16, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou presumidas, ou
+...a em que incorrer em obrigações legais  ou presumidas ou assumiu obrigações em nome da investida...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 123
+Offset 15883, length 69, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com  base em novos assuntos ou decisões de tribunais.   • Avaliação do...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 124
+Offset 16578, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...trimestrais estão apresentadas em Real, que é a moeda funcional da  Companhia. Todas as...
+                                           ^^^^^^^
+Erro: 125
+Offset 18259, length 14, Rule ID: SER_CAPAZ_DE_CONSEGUIR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: conseguem
+...ão sobre se os participantes no mercado são capazes de substituir qualquer elemento  ausente, ...
+                                           ^^^^^^^^^^^^^^
+Erro: 126
+Offset 18579, length 15, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...casos  ilustrativos  foram  fornecidos  juntamente  com  as  alterações.  Como  as  alterações ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 127
+Offset 18948, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...tubro de 2018, o IASB emitiu alterações à IAS 1 e IAS 8 Accounting Policies, Changes ...
+                                           ^^^^^
+Erro: 128
+Offset 27434, length 17, Rule ID: PHRASAL_VERB_RESIDIR_EM
+Message: Erro de regência. Dependendo do significado, escolha:
+Suggestion: Moro em Incorporação; Moro com Incorporação
+... e Alfacon Construções Ltda.  Venta Del Moro Incorporação SPE Ltda.  Nabi Andrade Construtora Ltd...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 129
+Offset 59471, length 5, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: mútuo
+...antia de obra  Provisão para perdas com mutuo  Publicidade e propaganda  Reembolso de...
+                                           ^^^^^
+Erro: 130
+Offset 64303, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis para
+...m mercados ativos incluídos no Nível 1  que são observáveis para o ativo ou passivo, diretamente (como p...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 131
+Offset 69195, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativos à
+...execução e  acompanhamento dos serviços relativos a assistência técnica. As receitas de pre...
+                                           ^^^^^^^^^^^
+Erro: 132
+Offset 73540, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...e não representaram desembolso de caixa e, portanto, não foram apresentadas nas  Demonstraç...
+                                           ^^^^^^^^^^^

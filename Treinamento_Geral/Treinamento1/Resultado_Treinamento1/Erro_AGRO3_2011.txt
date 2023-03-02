@@ -1,0 +1,24 @@
+Erro: 1
+Offset 29294, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+... estão  apresentadas  em  R$  (Reais),  que  é  a  moeda  funcional  da  Companhia  e,  t...
+                                           ^^^^^^^^^
+Erro: 2
+Offset 33100, length 70, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou redução do valor justo estimado do correspondente ativo, ou
+...o  assim  como  o  efeito  no  aumento  ou  redução  do  valor  justo  estimado  do  correspondente  ativo  ou  passivo.  O  efeito  na  variação  do ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 61763, length 24, Rule ID: QUE_TER_COMO_POR_NOME_ADJ
+Message: Com o pronome ‘cujo’, o seu texto poderia ficar mais claro e elegante.
+Suggestion: cujo objetivo é
+...ária  da  Jaborandi  Ltda.,  operadora  que  tem  como  objetivo  desenvolver  e  cultivar  a  Fazenda  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 65988, length 16, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não tem nenhum; não tem nenhuma; não, tem qualquer
+...,64% de participação na Green Ethanol,  não tem qualquer influência significativa, conforme IAS ...
+                                           ^^^^^^^^^^^^^^^^

@@ -1,0 +1,36 @@
+Erro: 1
+Offset 2808, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores  significativame...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 21952, length 69, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...cável, conclusões  de inspeções fiscais ou exposições adicionais identificadas com base em novos  assuntos ou decisões de tribunais.   3.15 Demonstra...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 24604, length 21, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não afeta nenhum; não afeta nenhuma; não, afeta quaisquer
+... natureza  do  ativo.  Essa  avaliação  não  afeta  quaisquer  ativos  financeiros  designados  a  va...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 25424, length 13, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e devem
+... relacionados  ao  contrato  principal  e  que  devem  ser  separados,  também  são  classifi...
+                                           ^^^^^^^^^^^^^
+Erro: 5
+Offset 31093, length 8, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...ico  é  de  aproximadamente  60  dias,  que  são  usualmente os prazos praticados com os...
+                                           ^^^^^^^^
+Erro: 6
+Offset 52953, length 21, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não espera nenhum; não espera nenhuma; não, espera qualquer
+...m registradas provisões.  A  Companhia  não  espera  qualquer  reembolso  em  conexão  com  o  result...
+                                           ^^^^^^^^^^^^^^^^^^^^^

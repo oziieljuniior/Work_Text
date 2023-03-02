@@ -1,0 +1,390 @@
+Erro: 166
+Offset 36649, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consegue; consigas; pode; possas
+...Conselho de Administração da  Companhia tem o poder de alterar as Informações anuais individua...
+                                           ^^^^^^^^^^^^^^
+Erro: 167
+Offset 39281, length 13, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘enquanto que’ é um pleonasmo. É preferível dizer “enquanto”
+Suggestion: enquanto
+...pelo método de equivalência patrimonial enquanto  que, para fins de IFRS será custo ou valor ...
+                                           ^^^^^^^^^^^^^
+Erro: 168
+Offset 42351, length 10, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: influência
+...raguai  reavaliou  a  moeda  que  mais  influencia  suas  operações  e  concluiu  que  o  ...
+                                           ^^^^^^^^^^
+Erro: 169
+Offset 49807, length 8, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...stimentos  exclusivos  (Fim  Guardian)  que  são  integralmente  consolidados e cauções....
+                                           ^^^^^^^^
+Erro: 170
+Offset 53738, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+... de fazendas designados ao valor justo  através  de  resultados  são  reconhecidos  em  "Ga...
+                                           ^^^^^^^^^^^
+Erro: 171
+Offset 55645, length 13, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e podem
+...  manter  por  um  período  indefinido  e  que  podem  ser  vendidos  para  atender  às  nece...
+                                           ^^^^^^^^^^^^^
+Erro: 172
+Offset 56260, length 25, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecidos no
+...ação  cambial  sobre ativos  monetários que são  reconhecidos  no  resultado do período.   Quando o inves...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 173
+Offset 59395, length 7, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+...   (vi)  Dados  observáveis  indicando  que  há  uma  redução  mensurável  nos  futuros...
+                                           ^^^^^^^
+Erro: 174
+Offset 65475, length 13, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: Agora
+...ão física da quantidade deste produtos. Neste momento é inciado um processo interno de  regis...
+                                           ^^^^^^^^^^^^^
+Erro: 175
+Offset 67173, length 16, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘período de tempo’ é um pleonasmo. É preferível dizer “período” ou “tempo”
+Suggestion: período; tempo
+...icado de outra forma)   colhido após um período de tempo que varia de 110 a 180 dias após a data...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 176
+Offset 68650, length 5, Rule ID: CRASE_CONFUSION
+Message: Se não se refere a horas não se utiliza a crase.
+Suggestion: a uma
+..."cana"  foi o fluxo de caixa descontado à uma taxa compatível com o risco e o prazo d...
+                                           ^^^^^
+Erro: 177
+Offset 69355, length 5, Rule ID: CRASE_CONFUSION
+Message: Se não se refere a horas não se utiliza a crase.
+Suggestion: a uma
+...algodão foi o fluxo de caixa descontado à uma taxa compatível  com o risco e o prazo ...
+                                           ^^^^^
+Erro: 178
+Offset 74343, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for maior que”.
+Suggestion: for maior que
+...erável  se  o  valor  contábil do ativo for maior do que seu valor recuperável estimado.   Os ga...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 179
+Offset 80201, length 12, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘enquanto que’ é um pleonasmo. É preferível dizer “enquanto”
+Suggestion: enquanto
+... as diferenças tributárias temporárias, enquanto que o imposto de renda  diferido  ativo  é ...
+                                           ^^^^^^^^^^^^
+Erro: 180
+Offset 81921, length 16, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘período de tempo’ é um pleonasmo. É preferível dizer “período” ou “tempo”
+Suggestion: período; tempo
+... vendas e permanência no emprego por um período de tempo específico). As  condições de aquisição...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 181
+Offset 83913, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: Os custos incrementa; Os custos incrementar; Os custos incrementara; Os custos incrementaras; Os custos incrementarei; Os custos incrementares; Os custos incrementaria; Os custos incrementarias; Os custos incrementará; Os custos incrementarás; Os custos incrementas; Os custos incrementasse; Os custos incrementasses; Os custos incrementaste; Os custos incrementava; Os custos incrementavas; Os custos incremente; Os custos incrementei; Os custos incrementes; Os custos incremento; Os custos incrementou
+... classificadas no patrimônio líquido.   Os  custos  incrementais  diretamente  atribuíveis  à  emissão  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 182
+Offset 84469, length 12, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: subsidiárias
+... como  das eliminações das vendas entre subsidiarias da Companhia.   A Companhia reconhece a...
+                                           ^^^^^^^^^^^^
+Erro: 183
+Offset 84864, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...s estimativas em resultados históricos, levando em consideração o tipo de  cliente, o tipo de transação...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 184
+Offset 94094, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for maior que”.
+Suggestion: for maior que
+...cuperável se o valor contábil do  ativo for maior do que seu valor recuperável estimado.   b)  D...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 185
+Offset 95419, length 31, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: seus acionistas fundadores foram
+...e a emissão dos bônus de subscrição aos seus acionistas fundadores  foi em reconhecimento aos trabalhos pela fu...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 186
+Offset 95544, length 14, Rule ID: PARA-POR_TER_PARTICIPIO-PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: preparar
+...anhia, pelo espírito empreendedor, por  ter  preparado  a  Companhia  para  a  oferta  pública...
+                                           ^^^^^^^^^^^^^^
+Erro: 187
+Offset 95617, length 14, Rule ID: PARA-POR_TER_PARTICIPIO-PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: elaborar
+...a  a  oferta  pública  inicial  e  por  ter  elaborado  o  plano  de  negócios,  assegurando  ...
+                                           ^^^^^^^^^^^^^^
+Erro: 188
+Offset 96592, length 16, Rule ID: SIMPLIFICAR_VERBO_TER_MAIS_PARTICIPIO_PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: divulgara; divulgou; divulguei
+...ho de 2009)  e  que  a  Companhia  não  tinha  divulgado  o  valor  justo  de  tais  bônus  de  ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 189
+Offset 98081, length 3, Rule ID: NUM_NÃO
+Message: Substitua por “não”.
+Suggestion: não
+...o  da  cana  e  dos  grãos  resultaria  num  aumentou  ou  redução  no  valor  do  ...
+                                           ^^^
+Erro: 190
+Offset 110178, length 8, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...características  desses  instrumentos,  que  são  sistematicamente  renegociados,  os  v...
+                                           ^^^^^^^^
+Erro: 191
+Offset 112490, length 16, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...e  da  possibilidade  de  a  Companhia  vir  a  incorrer  em  perdas  por  causa  de  flutuações...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 192
+Offset 112641, length 10, Rule ID: DEVE_DE
+Message: Substitua por “devidos”.
+Suggestion: devidos
+...cados de ativos ou aumentam os  valores devidos de passivos. Esse risco também decorre dos...
+                                           ^^^^^^^^^^
+Erro: 193
+Offset 122138, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for maior que”.
+Suggestion: for maior que
+...e o volume de soja colhido efetivamente for maior do que o volume coberto.   À medida que a Comp...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 194
+Offset 122606, length 19, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for menor que”.
+Suggestion: for menor que
+...elebrados  para  a  venda  de  dólares  for  menor  do  que  a  quantidade  real  de  dólares  rece...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 195
+Offset 122906, length 17, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for maior que”.
+Suggestion: for maior que
+...uros celebrados para a venda de dólares for maior do  que a quantidade real de dólares recebidos....
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 196
+Offset 128280, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: sua liquidação poderá
+...constantes.  Tais  valores  quando  de  sua  liquidação  poderão  ser  diferentes  dos  demonstrados  ab...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 197
+Offset 132793, length 15, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘todas as demais’ é um pleonasmo. É preferível dizer “as demais”
+Suggestion: as demais
+...nceiros derivativos, ou  seja, mantendo todas as demais variáveis constantes. Portanto, cada li...
+                                           ^^^^^^^^^^^^^^^
+Erro: 198
+Offset 133155, length 15, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘todos os demais’ é um pleonasmo. É preferível dizer “os demais”
+Suggestion: os demais
+...anceiros da Companhia, considerando- se todos os demais indicadores de mercado constantes. Tais...
+                                           ^^^^^^^^^^^^^^^
+Erro: 199
+Offset 133229, length 23, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: sua liquidação poderá
+...cado constantes. Tais valores quando de sua liquidação  poderão  ser  diferentes  dos  demonstrados  ab...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 200
+Offset 144799, length 12, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: (requer)
+...lanço  patrimonial  pelo valor  justo,  o que requer  divulgação  das  mensurações do  valor...
+                                           ^^^^^^^^^^^^
+Erro: 201
+Offset 145090, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: adotadas pelo
+...os preços cotados, incluídas no nível 1 que são adotadas pelo mercado para o  ativo ou passivo, seja ...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 202
+Offset 152732, length 12, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘aviso prévio’ é um pleonasmo. É preferível dizer “aviso”
+Suggestion: aviso
+... penalização, a qualquer  momento e sem aviso prévio. Esta disposição efetivamente resulta e...
+                                           ^^^^^^^^^^^^
+Erro: 203
+Offset 155418, length 19, Rule ID: MONTH_REDUNDANCY
+Message: Nesta situação o mês é redundante.
+Suggestion: 15–15 de julho
+...   julho-14  julho-14  agosto-14  março-15  julho-15  julho-14   BM&F  NDF  NDF  NDF  NDF  Opções  ...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 204
+Offset 157142, length 19, Rule ID: MONTH_REDUNDANCY
+Message: Nesta situação o mês é redundante.
+Suggestion: 14–14 de julho
+...  Vencimento  julho-13  março-14  junho-14  julho-14  julho-14   BM&F/NDF  NDF  NDF  NDF  Opções   ...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 205
+Offset 157391, length 19, Rule ID: MONTH_REDUNDANCY
+Message: Nesta situação o mês é redundante.
+Suggestion: 14–14 de julho
+...  Soja CBOT   agosto-13  maio-14  julho-14  julho-14  julho-14   Trading Companies/Bancos/CBOT  Der...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 206
+Offset 166854, length 14, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: equivalendo
+...indicado de outra forma)   de R$11.682, o que equivale a 248.000 sacas de soja, sendo 310 hect...
+                                           ^^^^^^^^^^^^^^
+Erro: 207
+Offset 167504, length 16, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: equivalendo
+...ia, pelo valor  total  de  R$  41.341,  o  que  equivale  a  735.000  sacas  de  soja,  sendo  9...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 208
+Offset 168453, length 15, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: Com
+...a  fazenda  Araucária  de  R$  21.845.  Juntamente  com  o  contrato  de  venda  da  fazenda  A...
+                                           ^^^^^^^^^^^^^^^
+Erro: 209
+Offset 168742, length 3, Rule ID: PLURAL_IN_UNITS_OF_MEASURE
+Message: As abreviaturas de unidades de medida padrão não tem plural.
+Suggestion: ha
+...uso  gratuito  e  temporário  das  913  has  cultiváveis.  O  objetivo  do  comodat...
+                                           ^^^
+Erro: 210
+Offset 172090, length 11, Rule ID: CRASE_CONFUSION
+Message: Neste contexto não se utiliza a crase.
+Suggestion: 2008 a 2011
+... financeira e exportação  no período de 2008 à 2011, que foram objetos de pedido de ressarc...
+                                           ^^^^^^^^^^^
+Erro: 211
+Offset 189200, length 22, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: seu patrimônio liquidai; seu patrimônio liquidais; seu patrimônio liquidam; seu patrimônio liquidamo; seu patrimônio liquidamos; seu patrimônio liquidaram; seu patrimônio liquidardes; seu patrimônio liquidareis; seu patrimônio liquidarem; seu patrimônio liquidaremos; seu patrimônio liquidariam; seu patrimônio liquidarmos; seu patrimônio liquidarão; seu patrimônio liquidaríamos; seu patrimônio liquidaríeis; seu patrimônio liquidassem; seu patrimônio liquidaste; seu patrimônio liquidastes; seu patrimônio liquidavam; seu patrimônio liquideis; seu patrimônio liquidem; seu patrimônio liquidemos; seu patrimônio liquidámo; seu patrimônio liquidámos; seu patrimônio liquidáramo; seu patrimônio liquidáramos; seu patrimônio liquidárei; seu patrimônio liquidáreis; seu patrimônio liquidásseis; seu patrimônio liquidássemos; seu patrimônio liquidávamo; seu patrimônio liquidávamos; seu patrimônio liquidávei; seu patrimônio liquidáveis
+...assivos  da  Cresca,  mas  detêm  sobre seu patrimônio liquido.   O investimento na Cresca foi reconhe...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 212
+Offset 191836, length 7, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a pagar
+...   Preço pago à vista  Parcela de preço à pagar, ajustada a valor presente (a)  Parcela...
+                                           ^^^^^^^
+Erro: 213
+Offset 193647, length 4, Rule ID: CONFUSÃO_ESTA_ESTÁ
+Message: Possível confusão de termos.
+Suggestion: está
+...enda da participação na Cresca, decisão esta, que está sob o controle da Companhia e...
+                                           ^^^^
+Erro: 214
+Offset 197572, length 10, Rule ID: PARONYM_ESPECIE_430
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: em espécie
+...mprometeu  a efetuar aportes de capital em especie por 50% dos valores acima que serão dev...
+                                           ^^^^^^^^^^
+Erro: 215
+Offset 209995, length 12, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: for
+...ividades por mais de trinta dias;      Vier  a  ser  declarado  impedido,  por  normas  do ...
+                                           ^^^^^^^^^^^^
+Erro: 216
+Offset 211429, length 16, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: dada em
+...a  de  fiança   no  valor  de  R$1.135  que  é  dada  em  garantia ao aluguel do escritório em S...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 217
+Offset 219501, length 16, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerar
+...2014  e  30  de  junho  de  2013,  sem  levar  em  conta  a  compensação  de  saldos  na  mesma ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 218
+Offset 223436, length 12, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: sobre
+...136    Os  impostos  diferidos  ativos  sobre  sobre  prejuízos  fiscais  e  bases  negativa...
+                                           ^^^^^^^^^^^^
+Erro: 219
+Offset 224291, length 18, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: modifiquem
+...mente, caso haja fatores relevantes que venham a modificar as projeções, estas são revisadas  dura...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 220
+Offset 225848, length 10, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: não haver
+...isposições da Lei  nº 12.973 e concluiu que não há efeitos significativos nas suas demonst...
+                                           ^^^^^^^^^^
+Erro: 221
+Offset 231033, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: pública
+... anúncio  de  encerramento  da  oferta  publica  inicial  de  ações e  exclusivamente  ...
+                                           ^^^^^^^
+Erro: 222
+Offset 233667, length 13, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: precedendo
+...a totalidade desde 15 de março de 2009, o que precede a data de transição para o  IFRS que é ...
+                                           ^^^^^^^^^^^^^
+Erro: 223
+Offset 245119, length 6, Rule ID: HOMONYM_VIAGEM_2
+Message: ‘Viagem’ é um substantivo. Se é um verbo, deve utilizar a forma com ‘j’.
+Suggestion: viajem
+... - comissão  Manutenção, despesas com   viagem e outras   Em 30 de junho de 2013   Dep...
+                                           ^^^^^^
+Erro: 224
+Offset 245470, length 6, Rule ID: HOMONYM_VIAGEM_2
+Message: ‘Viagem’ é um substantivo. Se é um verbo, deve utilizar a forma com ‘j’.
+Suggestion: viajem
+... - comissão  Manutenção, despesas com   viagem e outras   43.901  12.510   63.305  -  ...
+                                           ^^^^^^
+Erro: 225
+Offset 249815, length 15, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: o Plano poderá
+...ões de ações a serem outorgadas segundo o Plano poderão conferir direitos sobre um número de  a...
+                                           ^^^^^^^^^^^^^^^
+Erro: 226
+Offset 262579, length 13, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e envolve
+...o de arrendamento rural firmado em 2012 e que envolve a Fazenda Horizontina.   Em novembro de...
+                                           ^^^^^^^^^^^^^
+Erro: 227
+Offset 268933, length 14, Rule ID: GENERAL_PRONOMIAL_COLOCATIONS
+Message: Certos pronomes relativos, conjunções subordinativas e advérbios devem ser seguidos de próclise.
+Suggestion: que se refere
+...is  ambientais  no  valor  de  R$3.468, que  refere-se à ação anulatória proposta perante a Ju...
+                                           ^^^^^^^^^^^^^^
+Erro: 228
+Offset 270198, length 23, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: a Companhia não possui
+...s  volumes  comprometidos.  Atualmente  a Companhia não  possuí  valor  contabilizado  referente à mult...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 229
+Offset 280845, length 7, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a pagar
+...ão 50% de participação em joint venture à pagar à Cresca – R$11.082 descontado ao valor...
+                                           ^^^^^^^
+Erro: 230
+Offset 281090, length 7, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a pagar
+...ão 50% de participação em joint venture à pagar à Cresca no valor   de R$1.084.   (d) (...
+                                           ^^^^^^^

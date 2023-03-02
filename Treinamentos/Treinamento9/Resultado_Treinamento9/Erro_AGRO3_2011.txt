@@ -1,0 +1,96 @@
+Erro: 1
+Offset 26592, length 17, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consegue; consigas; pode; possas
+...s  entidades  nas  quais  a  Companhia  tem  o  poder  de  determinar  as  políticas  financeiras...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 33607, length 15, Rule ID: PT_REDUNDANCY_REPLACE
+Message: ‘todas as demais’ é um pleonasmo. É preferível dizer “as demais”
+Suggestion: as demais
+...anceiros derivativos, ou seja, mantendo todas as demais variáveis constantes.  Portanto, cada l...
+                                           ^^^^^^^^^^^^^^^
+Erro: 3
+Offset 38589, length 2, Rule ID: UNITS_OF_MEASURE_SPACING
+Message: Deve dar um espaço entre o valor e a unidade de medida: “1 N”
+Suggestion: 1 N
+... junho de 2011Consolidado - R$ milNível 1Nível 2Nível 3TotalNível 1Nível 2Nível 3T...
+                                           ^^
+Erro: 4
+Offset 38596, length 2, Rule ID: UNITS_OF_MEASURE_SPACING
+Message: Deve dar um espaço entre o valor e a unidade de medida: “2 N”
+Suggestion: 2 N
+...de 2011Consolidado - R$ milNível 1Nível 2Nível 3TotalNível 1Nível 2Nível 3TotalAti...
+                                           ^^
+Erro: 5
+Offset 38615, length 2, Rule ID: UNITS_OF_MEASURE_SPACING
+Message: Deve dar um espaço entre o valor e a unidade de medida: “1 N”
+Suggestion: 1 N
+...- R$ milNível 1Nível 2Nível 3TotalNível 1Nível 2Nível 3TotalAtivoCorrenteAtivo fin...
+                                           ^^
+Erro: 6
+Offset 38622, length 2, Rule ID: UNITS_OF_MEASURE_SPACING
+Message: Deve dar um espaço entre o valor e a unidade de medida: “2 N”
+Suggestion: 2 N
+...lNível 1Nível 2Nível 3TotalNível 1Nível 2Nível 3TotalAtivoCorrenteAtivo financeiro...
+                                           ^^
+Erro: 7
+Offset 39035, length 2, Rule ID: UNITS_OF_MEASURE_SPACING
+Message: Deve dar um espaço entre o valor e a unidade de medida: “1 N”
+Suggestion: 1 N
+... junho de 2011Consolidado - R$ milNível 1Nível 2Nível 3TotalNível 1Nível 2Nível 3T...
+                                           ^^
+Erro: 8
+Offset 39042, length 2, Rule ID: UNITS_OF_MEASURE_SPACING
+Message: Deve dar um espaço entre o valor e a unidade de medida: “2 N”
+Suggestion: 2 N
+...de 2011Consolidado - R$ milNível 1Nível 2Nível 3TotalNível 1Nível 2Nível 3TotalPas...
+                                           ^^
+Erro: 9
+Offset 39061, length 2, Rule ID: UNITS_OF_MEASURE_SPACING
+Message: Deve dar um espaço entre o valor e a unidade de medida: “1 N”
+Suggestion: 1 N
+...- R$ milNível 1Nível 2Nível 3TotalNível 1Nível 2Nível 3TotalPassivoCorrenteInstrum...
+                                           ^^
+Erro: 10
+Offset 39068, length 2, Rule ID: UNITS_OF_MEASURE_SPACING
+Message: Deve dar um espaço entre o valor e a unidade de medida: “2 N”
+Suggestion: 2 N
+...lNível 1Nível 2Nível 3TotalNível 1Nível 2Nível 3TotalPassivoCorrenteInstrumentos f...
+                                           ^^
+Erro: 11
+Offset 43229, length 4, Rule ID: ESTA_ESTÁ
+Message: Substitua por “está”.
+Suggestion: está
+...eda US$Estratégia ao qual o instrumento esta relacionado:(i)        Passivo de compr...
+                                           ^^^^
+Erro: 12
+Offset 61763, length 24, Rule ID: QUE_TER_COMO_POR_NOME_ADJ
+Message: Com o pronome ‘cujo’, o seu texto poderia ficar mais claro e elegante.
+Suggestion: cujo objetivo é
+...ária  da  Jaborandi  Ltda.,  operadora  que  tem  como  objetivo  desenvolver  e  cultivar  a  Fazenda  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 65988, length 16, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não tem nenhum; não tem nenhuma; não, tem qualquer
+...,64% de participação na Green Ethanol,  não tem qualquer influência significativa, conforme IAS ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 14
+Offset 71960, length 16, Rule ID: UNITS_OF_MEASURE_SPACING
+Message: Deve dar um espaço entre o valor e a unidade de medida: “70544.57437.899 N”
+Suggestion: 70544.57437.899 N
+... + TJLP6.054 4.658 6.245 4.852 41.45837.70544.57437.899Não correnteFinanciamento de Safra - Itaú...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 15
+Offset 76465, length 11, Rule ID: UNITS_OF_MEASURE_SPACING
+Message: Deve dar um espaço entre o valor e a unidade de medida: “13,0212,88 N”
+Suggestion: 13,0212,88 N
+...rcício no encerramento do períodoR$/ação13,0212,88Número de ações em circulaçãoações / milh...
+                                           ^^^^^^^^^^^
+Erro: 16
+Offset 101018, length 11, Rule ID: OLD_SPELLING_U
+Message: O trema deixou de ser utilizado em Português com o Acordo de 1945.
+Suggestion: subsequente
+...4 parcelas mensais a iniciar-se no mês  subseqüente a data do contrato.   Por  não  ter  ha...
+                                           ^^^^^^^^^^^

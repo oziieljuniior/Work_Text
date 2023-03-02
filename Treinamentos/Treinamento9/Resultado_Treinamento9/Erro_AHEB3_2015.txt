@@ -1,0 +1,30 @@
+Erro: 9
+Offset 9758, length 11, Rule ID: OLD_SPELLING_U
+Message: O trema deixou de ser utilizado em Português com o Acordo de 1945.
+Suggestion: Subsequente
+...(R1)  –  Estoques;  CPC  24  –  Evento  Subseqüente;   CPC  nº  25  –  Provisões  para  pas...
+                                           ^^^^^^^^^^^
+Erro: 10
+Offset 13813, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consideram
+...  explicativa  nº  7,  com  taxas  que  levam  em  consideração  o  tempo  de  vida  útil-econômica  do...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 33227, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: com; de
+...cretaria de Turismo. Quanto as despesas com de Publicidade,  também incorpora os gasto...
+                                           ^^^^^^
+Erro: 12
+Offset 33931, length 7, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: face à
+...s de apuração destes impostos. Em 2014, face  a  reversão  destas  provisões  não  dedu...
+                                           ^^^^^^^
+Erro: 13
+Offset 35397, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...s subsequentes até 17 de março de 2015, que é a data de  entrega,  por  sua  diretori...
+                                           ^^^^^

@@ -1,0 +1,84 @@
+Erro: 97
+Offset 11510, length 22, Rule ID: QUE_TER_COMO_POR_NOME_ADJ
+Message: Com o pronome ‘cujo’, o seu texto poderia ficar mais claro e elegante.
+Suggestion: cujo objetivo é
+...cessão com vigência até agosto de 2027, que  tem como objetivo estabelecer as condições para prestação...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 98
+Offset 13632, length 17, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: conseguem; podem
+...sua  emissão,  somente  os  acionistas  têm  o  poder  de  alterar  as  demonstrações  financeira...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 99
+Offset 19434, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+..., o ajuste a valor presente é calculado levando em consideração os  fluxos  de  caixa  contratuais  e  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 100
+Offset 22290, length 17, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “é maior que”.
+Suggestion: é maior que
+... do  patrimônio  líquido  da  entidade  é  maior  do  que  o  valor  de   suas ações no mercado; ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 101
+Offset 25224, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...xos  de  caixa,  à  saber:  (a)  parte  através  de  valores  a  receber  garantidos  pelo ...
+                                           ^^^^^^^^^^^
+Erro: 102
+Offset 29895, length 17, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerariam
+...ores  que  os  participantes do mercado levariam em conta na precificação de uma transação.   Se ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 103
+Offset 39322, length 15, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: são apresentados; é apresentado
+...risco de crédito do passivo  financeiro são apresentado em ORA; e   – o valor remanescente da v...
+                                           ^^^^^^^^^^^^^^^
+Erro: 104
+Offset 39559, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não indicou nenhum; não indicou nenhuma; não, indicou qualquer
+....  A  avaliação preliminar da Companhia não indicou qualquer impacto material na classificação dos  ...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 105
+Offset 42082, length 25, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecida pela
+...o   Corresponde  a  receita  de  juros  que  é  reconhecida  pela  taxa  efetiva  sobre  o  montante  do ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 106
+Offset 48239, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+... IFRS 2014-2016 - Alterações à IFRS 1 e à IAS 28.   - IFRIC 23 Incerteza sobre Tratam...
+                                           ^^^^^
+Erro: 107
+Offset 52709, length 26, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: classificados como
+...  na  carteira  própria  da  companhia  que são classificados como títulos e valores mobiliários.    A  ca...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 108
+Offset 68138, length 36, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: os dividendos mínimos obrigatórios são
+...es ordinárias.   A base de cálculo para os dividendos mínimos obrigatórios é como segue:   Dividendos mínimos - sobr...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 109
+Offset 81708, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...bela a seguir demonstra a perda (ganho) devido a variação das taxas de juros que poderá ...
+                                           ^^^^^^^^
+Erro: 110
+Offset 85357, length 23, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: esses ativos não existem
+...regulatórios contratuais e legais. Para esses ativos não existe  mercado ativo, e uma vez que todas as ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^

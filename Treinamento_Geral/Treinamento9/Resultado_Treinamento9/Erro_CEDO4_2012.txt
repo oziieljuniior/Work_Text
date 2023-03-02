@@ -1,0 +1,150 @@
+Erro: 1
+Offset 766, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...das no  Estado de Minas Gerais e também através de suas controladas, Companhia de Fiação e...
+                                           ^^^^^^^^^^
+Erro: 2
+Offset 5394, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...nsolidadas estão apresentadas em Reais, que é a moeda  funcional da Companhia e, também...
+                                           ^^^^^^^
+Erro: 3
+Offset 6148, length 7, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...entos originais de três meses ou menos, que são prontamente  conversíveis em um montant...
+                                           ^^^^^^^
+Erro: 4
+Offset 6216, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e estão
+...íveis em um montante conhecido de caixa e que estão sujeitos a um insignificante risco de  ...
+                                           ^^^^^^^^^^^
+Erro: 5
+Offset 10447, length 33, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou mora no pagamento dos juros, ou
+... quebra de contrato, como inadimplência ou mora no pagamento dos juros ou principal;   (iii)  torna-se provável q...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 11498, length 16, Rule ID: SER_CAPAZ_DE_CONSEGUIR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: conseguirão
+...idência objetiva de que os clientes não serão capazes de liquidar  todos os valores devidos de a...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 15290, length 25, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: o ativo existente fluirá
+... desempenho inicialmente  avaliado para o ativo existente fluirão para a Companhia e suas controladas. As...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 18106, length 7, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...t de ativos não-financeiros   Os ativos que têm uma vida útil indefinida, como o ágio, ...
+                                           ^^^^^^^
+Erro: 9
+Offset 18257, length 7, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+... a verificação de impairment. Os ativos que tem vida útil definida são  revisados para ...
+                                           ^^^^^^^
+Erro: 10
+Offset 19120, length 19, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: classificadas
+...quiridos  no curso normal dos negócios, sendo classificadas como passivos circulantes se o pagament...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 21628, length 5, Rule ID: QUANDO_POSSA_SER
+Message: Substitua por “puder”.
+Suggestion: puder
+...a Companhia e suas controladas e quando possa ser mensurada de forma confiável. A rec...
+                                           ^^^^^
+Erro: 12
+Offset 26696, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou permitido por outras normas IFRS, ou
+...aplicá-lo quando seu uso já é requerido ou permitido por outras normas IFRS ou US GAAP. A  Companhia ainda está avalia...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 27242, length 12, Rule ID: PARONYM_BENEFICIO_43
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: o benefício
+...o permite que essa entidade contabilize o  beneficio de tal pagamento antecipado como ativo....
+                                           ^^^^^^^^^^^^
+Erro: 14
+Offset 29883, length 15, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+... e nível de lucros tributáveis futuros, juntamente  com estratégias de planejamento fiscal futu...
+                                           ^^^^^^^^^^^^^^^
+Erro: 15
+Offset 30720, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...cável, conclusões de  inspeções fiscais ou exposições adicionais identificadas com base em novos assuntos ou decisões de  tribunais.   Na Nota 16, e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 16
+Offset 31904, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...istração desses instrumentos é efetuada através de  estratégias operacionais visando liqui...
+                                           ^^^^^^^^^^
+Erro: 17
+Offset 33926, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: monitoradas
+... de desembolsos e recebimentos futuros, sendo monitoradas  diariamente pela área de Tesouraria.  ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 18
+Offset 34116, length 16, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrerem
+...idade de a Companhia e suas controladas virem a incorrer em  perdas por causa de flutuações nas ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 19
+Offset 37903, length 11, Rule ID: CHAMAR_DENOMINAR_DE
+Message: Os verbos ‘chamar’ e ‘denominar’ são pronominais, a redação correta é sem preposição.
+Suggestion: chamadas
+...)   Os contratos de derivativos possuem chamadas de margem, que consiste em efetuar depósit...
+                                           ^^^^^^^^^^^
+Erro: 20
+Offset 61196, length 16, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: foi registrado; foram registrados
+...talizou R$ 25.731 (R$ 25.463 em 2010) e foi  registrados no resultado do exercício na rubrica co...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 21
+Offset 61299, length 11, Rule ID: TER_PARTICIPIO-PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: adota
+...“Deduções de vendas”.   A Administração tem adotado as seguintes medidas para evitar o aume...
+                                           ^^^^^^^^^^^
+Erro: 22
+Offset 62698, length 17, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: foram consolidados; foi consolidado; fora consolidado
+...e despesas com as contribuições em 2011 foram consolidado R$ 772 (2010 –   R$ 590), controladora ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 23
+Offset 87426, length 15, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: realizado
+...ancária vinculada a processo  judicial, sendo realizado em moeda corrente com o intuito de gara...
+                                           ^^^^^^^^^^^^^^^
+Erro: 24
+Offset 107894, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: inferiores à
+... lucro da exploração da  atividade, são inferiores a taxa incidente na Controladora.   As ta...
+                                           ^^^^^^^^^^^^
+Erro: 25
+Offset 111413, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...esultados econômico-financeiros, medida através de indicadores como fluxo de caixa  operac...
+                                           ^^^^^^^^^^

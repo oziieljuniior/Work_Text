@@ -1,0 +1,42 @@
+Erro: 43
+Offset 1114, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinados à
+...rculante    Contas a receber    Imóveis destinados a venda    Depósitos judiciais    Partes ...
+                                           ^^^^^^^^^^^^
+Erro: 44
+Offset 11838, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...anuais  individuais  e   consolidadas,  e,  portanto,  devem  ser  lidas  em  conjunto  com ...
+                                           ^^^^^^^^^^^^
+Erro: 45
+Offset 14506, length 13, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e estavam
+...o de 2014 no montante de R$ 39.154 mil, e que estavam sujeitas a atualização   monetária  a  ...
+                                           ^^^^^^^^^^^^^
+Erro: 46
+Offset 15694, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinados à
+... indicado de outra forma)   5.  Imóveis destinados a venda   Representados por terreno adqui...
+                                           ^^^^^^^^^^^^
+Erro: 47
+Offset 21022, length 10, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a recolher
+... retidos a recolher   Diversos impostos à recolher   141   3.839   1.454   3.678   7   231...
+                                           ^^^^^^^^^^
+Erro: 48
+Offset 24241, length 40, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: seus assessores jurídicos não obtiveram
+... reservas.  A   Companhia  através  de  seus  assessores  jurídicos  não  obteve  até  o  momento,  sucesso  em  suas   ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 49
+Offset 29397, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não possui nenhum; não possui nenhuma; não, possui quaisquer
+...ou quaisquer  outros ativos de riscos e não possui quaisquer operações de “swap”, atividade de hedge...
+                                           ^^^^^^^^^^^^^^^^^^^^

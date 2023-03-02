@@ -1,0 +1,54 @@
+Erro: 1
+Offset 7369, length 10, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: para
+...lucro tributável às alíquotas vigentes, sendo para o imposto  de  renda  15%,  mais  adici...
+                                           ^^^^^^^^^^
+Erro: 2
+Offset 16172, length 5, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: mútuo
+...da de um mútuo. O prazo de pagamento do mutuo é  por  tempo  indeterminado  e  incide...
+                                           ^^^^^
+Erro: 3
+Offset 19881, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: negociadas na
+...estrangeira  –  Tavex  Algodonera S/A – que são negociadas na Bolsa de Valores de Madrid e denominado...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 28456, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinadas à
+...r de mercado das aplicações financeiras destinadas a venda  líquida dos efeitos tributários,...
+                                           ^^^^^^^^^^^^
+Erro: 5
+Offset 31915, length 9, Rule ID: PARONYM_INICIO_169
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: no início
+...2010  passando o ativo atuarial líquido no inicio do ano de R$ 2.095 mil.    NOTA 18 - IM...
+                                           ^^^^^^^^^
+Erro: 6
+Offset 32569, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do cálculo
+...e dezembro de 2010:   A)  Demonstrativo do calculo do IRPJ acumulados em 31/12/2010:   IMP...
+                                           ^^^^^^^^^^
+Erro: 7
+Offset 33845, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: em; Per
+... ) IRRF Retido PJ  (- ) IRRF compensado em Per/Dcomp  (=) IRPJ a Recolher ( Recuperar ...
+                                           ^^^^^^
+Erro: 8
+Offset 34426, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do cálculo
+....915   6.933    23    B)  Demonstrativo do calculo do CSLL acumulados em 31/12/2010:      ...
+                                           ^^^^^^^^^^
+Erro: 9
+Offset 35800, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: em; Per
+...) CSLL compensada  (- ) CSLL compensada em Per/Dcomp  (=) CSLL a Pagar ( Recuperar )  ...
+                                           ^^^^^^

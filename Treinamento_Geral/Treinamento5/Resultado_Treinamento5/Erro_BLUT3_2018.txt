@@ -1,0 +1,102 @@
+Erro: 50
+Offset 1252, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinados à
+...rculante    Contas a receber    Imóveis destinados a venda    Depósitos judiciais    Partes ...
+                                           ^^^^^^^^^^^^
+Erro: 51
+Offset 16489, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...olidadas  são  apresentadas  em  Real,  que  é  a  moeda  funcional  da  Companhia.  Toda...
+                                           ^^^^^^^^^
+Erro: 52
+Offset 18502, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...mente  pela  Companhia ou indiretamente através de suas controladas.   A  consolidação  de...
+                                           ^^^^^^^^^^
+Erro: 53
+Offset 25663, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: considerada
+...realização  dos  créditos  a  receber,  sendo  considerada  suficiente pela Administração para cob...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 54
+Offset 27158, length 16, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou serviços, ou
+...odução  ou  fornecimento  de  produtos  ou  serviços  ou  para  propósitos  administrativos. A p...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 55
+Offset 28221, length 7, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...lor recuperável de ativos   Os  ativos  que têm  uma vida  útil  indefinida,  como o ág...
+                                           ^^^^^^^
+Erro: 56
+Offset 32580, length 75, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja possível estimar os valores de forma confiável e cuja liquidação, seja
+...resultante de  eventos passados, em que seja possível estimar os valores de forma confiável e cuja liquidação  seja provável.   O valor reconhecido como pr...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 57
+Offset 33976, length 18, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não geram nenhum; não geram nenhuma; não, geram qualquer
+... de dividendos é discricionário, e elas não geram qualquer obrigação de entregar caixa ou outro  a...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 58
+Offset 36951, length 64, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou itens diretamente reconhecidos no patrimônio líquido, ou
+...cionados  a  combinação  de  negócios,  ou  itens  diretamente  reconhecidos  no  patrimônio  líquido ou em outros resultados abrangentes.   O  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 59
+Offset 37099, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a receber esperado sobre o lucro, ou
+...sto  corrente  é  o  imposto  a  pagar  ou  a  receber  esperado  sobre  o  lucro  ou  prejuízo  tributável  do  exercício,  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 60
+Offset 40643, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...aprovado  pela  CVM  na  mesma  data),  que  é  a  norma  equivalente do IFRS 9 no Brasil...
+                                           ^^^^^^^^^
+Erro: 61
+Offset 43405, length 17, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não há nenhum; não há nenhuma; não, há qualquer
+...financeiros  como  VJR.  Sendo  assim,  não  há  qualquer  impacto  esperado  na  classificação  ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 62
+Offset 46567, length 13, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: ela entrar
+...pretende  adotar  tais  normas  quando  ela  entrarem  em  vigor  divulgando  e  reconhecendo...
+                                           ^^^^^^^^^^^^^
+Erro: 63
+Offset 48336, length 15, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e estavam
+...14  no  montante  de  R$  39.154  mil,  e  que  estavam  sujeitas  a  atualização  monetária  a...
+                                           ^^^^^^^^^^^^^^^
+Erro: 64
+Offset 49146, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinados à
+...e   encargos financeiros.   5.  Imóveis destinados a venda   Representados  por  terreno  ad...
+                                           ^^^^^^^^^^^^
+Erro: 65
+Offset 58348, length 40, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: seus assessores jurídicos não obtiveram
+...  reservas.  A  Companhia  através  de  seus  assessores  jurídicos  não  obteve  até  o  momento,  sucesso  em  suas  t...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 66
+Offset 65613, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não possui nenhum; não possui nenhuma; não, possui quaisquer
+...u   quaisquer outros ativos de riscos e não possui quaisquer operações de “swap”, atividade de hedge...
+                                           ^^^^^^^^^^^^^^^^^^^^

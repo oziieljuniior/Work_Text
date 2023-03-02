@@ -1,0 +1,72 @@
+Erro: 25
+Offset 9071, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e
+...(23.456)  (23.456)  Aum e nto de  caixa e  e quivale nte s  de  caixa  (13.043)  (8....
+                                           ^^^^
+Erro: 26
+Offset 9161, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e
+...(15.512)  (12.757)  Var iação de  caixa e  e quivale nte s  de  caixa   Saldo ao iní...
+                                           ^^^^
+Erro: 27
+Offset 12799, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...onstrações estão  apresentadas em Real, que é a moeda funcional da Companhia.   b)  As ...
+                                           ^^^^^^^
+Erro: 28
+Offset 17214, length 47, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou acabados valorizados ao custo de produção, ou
+...s,  sendo  os  produtos  em  processo e/ou acabados valorizados ao custo de produção ou aquisição.  As  importações  em  andame...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 29
+Offset 17606, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: o
+...  de  sua  aquisição.  Após  o  custo,  que  é  o  valor  reconhecimento  investimentos  ...
+                                           ^^^^^^^^^
+Erro: 30
+Offset 21616, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...is  com início  em ou após   Alterações à IAS 27 (R) (CPC 35 R2 e 36  R3)    Demonstr...
+                                           ^^^^^
+Erro: 31
+Offset 21732, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...    1º de janeiro de 2013    Alterações à IAS 28 (R) (CPC 18 R2)    Investimentos em ...
+                                           ^^^^^
+Erro: 32
+Offset 26364, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+... de  R$  3.712,  ou  seja,  uma  perda  liquida  dos  efeitos  tributários  de  R$  2.4...
+                                           ^^^^^^^
+Erro: 33
+Offset 30622, length 8, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: contínua
+... lucros tributáveis futuros, baseada na continua lucratividade apresentada  historicamen...
+                                           ^^^^^^^^
+Erro: 34
+Offset 34001, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo pôr? Mesmo no AO90, continua a ser acentuado.
+Suggestion: pela; pôr a
+...CRO LÍQUIDO DO PERÍODO/EXERCÍCIO  Lucro por a çã o  ( em Rea l )  (*) menos despesas ...
+                                           ^^^^^
+Erro: 35
+Offset 38795, length 17, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...m  relação  aos  valores  de  mercado,  em  contrapartida  a  conta  do  patrimônio  líquido, con...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 36
+Offset 41644, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de cálculo
+...s Temporárias/Permanentes liquidas Base de calculo efetivo dos Impostos Imposto de Renda e...
+                                           ^^^^^^^^^^

@@ -1,0 +1,84 @@
+Erro: 42
+Offset 3279, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...e corresponde a 7,29%  da nossa receita liquida, evidenciando a preocupação constante c...
+                                           ^^^^^^^
+Erro: 43
+Offset 7163, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...ontábeis  individuais  e  consolidadas  e,  portanto,  não  expressamos  uma  opinião separa...
+                                           ^^^^^^^^^^^^
+Erro: 44
+Offset 10024, length 24, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não expressamos nenhum; não expressamos nenhuma; não, expressamos qualquer
+...ange  o  Relatório  da  Administração e não expressamos qualquer forma de conclusão de auditoria sobre e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 45
+Offset 10389, length 53, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou com nosso conhecimento obtido na auditoria, ou
+...stente com  as demonstrações  contábeis ou  com  nosso  conhecimento obtido  na  auditoria ou,  de  outra  forma, aparenta estar dist...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 46
+Offset 10557, length 6, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+...base no trabalho realizado, concluirmos que há  distorção relevante no Relatório da Ad...
+                                           ^^^^^^
+Erro: 47
+Offset 13700, length 15, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “é maior que”.
+Suggestion: é maior que
+...istorção relevante resultante de fraude é maior do  que  o  proveniente  de  erro,  já  que  a ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 48
+Offset 16791, length 10, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+... pela governança, determinamos aqueles  que  foram  considerados  como  mais  significativ...
+                                           ^^^^^^^^^^
+Erro: 49
+Offset 20949, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...te de avaliação Patrimonial  Patrimônio liquido atribuível aos controladores    11  11 ...
+                                           ^^^^^^^
+Erro: 50
+Offset 26920, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...s  são  apresentadas  em  Reais  (R$),  que  é  a  moeda  funcional  da  controladora  e ...
+                                           ^^^^^^^^^
+Erro: 51
+Offset 27187, length 14, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+...  opera,  sendo  que  quando  a  moeda  for  diferente da moeda de apresentação das demonstraç...
+                                           ^^^^^^^^^^^^^^
+Erro: 52
+Offset 27600, length 19, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: demonstrados
+... risco de variação no valor de mercado, sendo  demonstrados pelo custo acrescido de juros auferidos...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 53
+Offset 28194, length 16, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: suficiente
+...quidez de mercado e o nível de crédito, sendo suficiente para cobrir perdas sobre os  valores a ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 54
+Offset 47138, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...ros,  cujos  riscos  são  administrados através de estratégias de posições financeiras e s...
+                                           ^^^^^^^^^^
+Erro: 55
+Offset 48526, length 22, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não possui nenhum; não possui nenhuma; não, possui quaisquer
+...onstrações  financeiras,  a  Companhia  não  possui  quaisquer  eventos subsequentes que mereçam desta...
+                                           ^^^^^^^^^^^^^^^^^^^^^^

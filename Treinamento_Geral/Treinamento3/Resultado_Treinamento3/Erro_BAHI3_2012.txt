@@ -1,0 +1,42 @@
+Erro: 10
+Offset 6163, length 10, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: para
+...lucro tributável às alíquotas vigentes, sendo para o imposto de  renda  15%,  mais  adicio...
+                                           ^^^^^^^^^^
+Erro: 11
+Offset 14929, length 5, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: mútuo
+...da de um mútuo. O prazo de pagamento do mutuo é por  tempo  indeterminado  e  incide ...
+                                           ^^^^^
+Erro: 12
+Offset 19552, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: negociados na
+...a estrangeira – Tavex Algodonera  S/A – que são negociados na Bolsa de Valores de Madrid e denominado...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 22748, length 13, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinadas à
+... mercado  das  aplicações  financeiras  destinadas  a  venda  líquida dos efeitos tributários...
+                                           ^^^^^^^^^^^^^
+Erro: 14
+Offset 26314, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do cálculo
+...e dezembro de 2011:   A)  Demonstrativo do calculo do IRPJ acumulados em 31/12/2011:   IMP...
+                                           ^^^^^^^^^^
+Erro: 15
+Offset 28096, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do cálculo
+... 1.013   828   185    B)  Demonstrativo do calculo do CSLL acumulados em 31/12/2011:    CO...
+                                           ^^^^^^^^^^
+Erro: 16
+Offset 28878, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: em; Per
+...) CSLL compensada  (- ) CSLL compensada em Per/Dcomp  (=) CSLL a Pagar ( Recuperar )  ...
+                                           ^^^^^^

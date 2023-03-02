@@ -1,0 +1,78 @@
+Erro: 37
+Offset 10624, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e
+...8.173) 50 (18.123)  Aum e nto de  caixa e  e quivale nte s  de  caixa  2.463  (13.04...
+                                           ^^^^
+Erro: 38
+Offset 10708, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e
+...3)  3.720  (15.512)  Variação de  caixa e  e quivale nte s  de  caixa   Saldo ao iní...
+                                           ^^^^
+Erro: 39
+Offset 15190, length 8, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...monstrações estão apresentadas em Real, que  é a moeda funcional da Companhia.   b)  As ...
+                                           ^^^^^^^^
+Erro: 40
+Offset 16530, length 20, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: a citada revisão fomo; a citada revisão fomos; a citada revisão foram; a citada revisão fordes; a citada revisão forem; a citada revisão formos; a citada revisão fossem; a citada revisão foste; a citada revisão fostes; a citada revisão fôramo; a citada revisão fôramos; a citada revisão fôrei; a citada revisão fôreis; a citada revisão fôsseis; a citada revisão fôssemos; a citada revisão iam; a citada revisão ide; a citada revisão ides; a citada revisão ireis; a citada revisão iremos; a citada revisão iriam; a citada revisão irão; a citada revisão iríamos; a citada revisão iríeis; a citada revisão vades; a citada revisão vamo; a citada revisão vamos; a citada revisão vão; a citada revisão íamo; a citada revisão íamos; a citada revisão íei; a citada revisão íeis
+...nunciamentos  Contábeis,  recepcionando a citada revisão IAS 27 e permitindo sua adoção a partir dos...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 41
+Offset 19903, length 48, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou acabados valorizados ao custo de produção, ou
+...primas, sendo os produtos em processo e/ou acabados  valorizados ao custo de produção ou aquisição. As importações em andamento ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 42
+Offset 20218, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: o
+...nicialmente são registrados pelo custo, que é o valor justo  na data de sua aquisição. ...
+                                           ^^^^^^^
+Erro: 43
+Offset 23884, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...ativos não financeiros;    •  Alteração à IAS 39 – Novação de derivativos e continuid...
+                                           ^^^^^
+Erro: 44
+Offset 27181, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...ldo  de  2013),  ou  seja,  uma  perda  liquida dos efeitos tributários de R$ 4.754 reg...
+                                           ^^^^^^^
+Erro: 45
+Offset 31120, length 8, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: contínua
+...la companhia.    futuros,  baseada  na  continua   12 -  INVESTIMENTOS EM CONTROLADA   M...
+                                           ^^^^^^^^
+Erro: 46
+Offset 33207, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo pôr? Mesmo no AO90, continua a ser acentuado.
+Suggestion: pela; pôr a
+...SL LUCRO LÍ QUI DO DO EXERCÍ CI O Lucro por a çã o  ( e m Re a l )  (*) menos despesa...
+                                           ^^^^^
+Erro: 47
+Offset 39608, length 17, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+... em relação aos  valores  de  mercado,  em  contrapartida  a  conta  do  patrimônio  líquido,  co...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 48
+Offset 42152, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de cálculo
+...s Temporárias/Permanentes liquidas Base de calculo efetivo dos Impostos Imposto de Renda e...
+                                           ^^^^^^^^^^
+Erro: 49
+Offset 44815, length 19, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: CONTÁBIL, COM EFEITO
+...R$ 32.466 em 31/12/2013).   23 -  NORMA CONTÁBIL COM EFEITO PARA OS PRÓXIMOS PERÍODOS   ANUAIS    A...
+                                           ^^^^^^^^^^^^^^^^^^^

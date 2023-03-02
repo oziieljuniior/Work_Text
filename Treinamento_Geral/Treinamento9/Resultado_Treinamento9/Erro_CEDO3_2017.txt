@@ -1,0 +1,72 @@
+Erro: 128
+Offset 650, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinados à
+...pamentos de proteção individual - EPIs, destinados a segurança do trabalho;  a exportação e ...
+                                           ^^^^^^^^^^^^
+Erro: 129
+Offset 8106, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+... anuais  individuais  e  consolidadas,  e,  portanto,  devem  ser  lidas  em  conjunto  com ...
+                                           ^^^^^^^^^^^^
+Erro: 130
+Offset 8691, length 8, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...ntermediárias são apresentadas em Real, que é  a  moeda  funcional  da  Companhia  e  de...
+                                           ^^^^^^^^
+Erro: 131
+Offset 9429, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve
+...e 2017 e em 31 de dezembro de 2016, não houveram alterações  significativas para essas i...
+                                           ^^^^^^^^
+Erro: 132
+Offset 12501, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: monitoradas
+...desembolsos  e  recebimentos  futuros,  sendo  monitoradas diariamente pela área de Tesouraria.   ...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 133
+Offset 12559, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Não obstante,
+... diariamente pela área de Tesouraria.   Não  obstante  a  controladora  e  o  consolidado  ap...
+                                           ^^^^^^^^^^^^^
+Erro: 134
+Offset 13421, length 18, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrerem
+...dade de a Companhia e suas controladas  virem  a  incorrer  em  perdas  por  causa  de  flutuações...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 135
+Offset 22479, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...ena ou nenhuma  atividade  de  mercado  e  que  são  significantes  para  definição  do  va...
+                                           ^^^^^^^^^^^
+Erro: 136
+Offset 34218, length 13, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: influir
+... fatores secundários, os quais pudessem vir a influir,  direta  ou  terrenos  indiretamente, ...
+                                           ^^^^^^^^^^^^^
+Erro: 137
+Offset 57389, length 15, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...ições sobre o  ICMS,  a  Administração  juntamente  com  os  consultores  jurídicos  entenderam...
+                                           ^^^^^^^^^^^^^^^
+Erro: 138
+Offset 58166, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: homologado
+...IS  IV,  conforme  Lei  nº  11.941/09,  sendo  homologado  em  2011. O processo de consolidação p...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 139
+Offset 59815, length 16, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: realizado
+...ária vinculada  a  processo  judicial,  sendo  realizado  em  moeda  corrente  com  o  intuito  ...
+                                           ^^^^^^^^^^^^^^^^

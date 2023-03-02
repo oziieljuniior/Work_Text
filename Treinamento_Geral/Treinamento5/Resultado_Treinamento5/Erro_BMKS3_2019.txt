@@ -1,0 +1,18 @@
+Erro: 62
+Offset 12367, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...s  são  apresentadas  em  Reais  (R$),  que  é  a  moeda  funcional  da  Companhia.   A e...
+                                           ^^^^^^^^^
+Erro: 63
+Offset 13367, length 13, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e estão
+... em  um montante  conhecido  de  caixa  e  que  estão  sujeitos  a  um  insignificante  risco...
+                                           ^^^^^^^^^^^^^
+Erro: 64
+Offset 21074, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...os, em relação aos valores de mercado,  em contrapartida à conta do patrimônio líquido, conforme...
+                                           ^^^^^^^^^^^^^^^^

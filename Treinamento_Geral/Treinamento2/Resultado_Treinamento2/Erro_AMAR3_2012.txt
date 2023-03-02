@@ -1,0 +1,150 @@
+Erro: 24
+Offset 921, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...enda de  produtos  pela  Internet,  e,  através  de  suas  controladas,  na  administração ...
+                                           ^^^^^^^^^^^
+Erro: 25
+Offset 10101, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e estão
+...íveis em um montante conhecido de caixa e que estão  sujeitos a um insignificante risco de ...
+                                           ^^^^^^^^^^^
+Erro: 26
+Offset 12441, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou ações cotadas em mercados ativos, ou
+...eiros  não  derivativos, como títulos e/ou ações cotadas em mercados ativos ou não cotadas em  mercados  ativos,  mas ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 27
+Offset 14285, length 42, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou segregados em parcela de curto prazo, ou
+...ssificados como de curto e  longo prazo ou segregados em parcela de curto prazo ou de longo prazo com base em  uma avaliaç...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 28
+Offset 26642, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecidos no
+...“swap” contratado) e descontos diversos que são reconhecidos no  resultado do exercício pelo regime de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 29
+Offset 31916, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: período, em contrapartida
+... quando  aplicável,  no  resultado  do  período  em  contrapartida  do  patrimônio  líquido  o  efeito  de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 30
+Offset 37292, length 14, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: efetuado
+...imento e  CPF dos respectivos clientes, sendo efetuado acompanhamento da evolução da carteira ...
+                                           ^^^^^^^^^^^^^^
+Erro: 31
+Offset 38976, length 15, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...vel  de  lucros  tributáveis  futuros,  juntamente  com  estratégias  de  planejamento fiscal f...
+                                           ^^^^^^^^^^^^^^^
+Erro: 32
+Offset 40070, length 15, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: dependendo
+...essão  de  instrumentos  patrimoniais,  o  que  depende  dos termos e condições da concessão. I...
+                                           ^^^^^^^^^^^^^^^
+Erro: 33
+Offset 41085, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...         em ou após          Alterações à IAS 24  Alterações à IAS 32 (R)   Alteraçõe...
+                                           ^^^^^
+Erro: 34
+Offset 41106, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...        Alterações à IAS 24  Alterações à IAS 32 (R)   Alterações à IFRIC 14   Divulg...
+                                           ^^^^^
+Erro: 35
+Offset 42152, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...iamento   ou interpretação   Alterações à IAS 12   Alterações à IAS 27 (R)    Alteraç...
+                                           ^^^^^
+Erro: 36
+Offset 42174, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...ação   Alterações à IAS 12   Alterações à IAS 27 (R)    Alterações à IAS 28 (R)    Al...
+                                           ^^^^^
+Erro: 37
+Offset 42201, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...  Alterações à IAS 27 (R)    Alterações à IAS 28 (R)    Alterações à IFRS 1   Alteraç...
+                                           ^^^^^
+Erro: 38
+Offset 54352, length 19, Rule ID: GENERAL_PRONOMIAL_COLOCATIONS
+Message: Certos pronomes relativos, conjunções subordinativas e advérbios devem ser seguidos de próclise.
+Suggestion: que se encontravam
+...os  no  montante  total  de  R$130.024  que  encontravam-se  integralmente  baixados  nas  demonstr...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 39
+Offset 55146, length 87, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou contratos representativos de operações relacionadas à aquisição de bens, ou
+...editórios  representados  por  títulos  ou  contratos  representativos  de  operações  relacionadas  à  aquisição  de  bens  ou  serviços  pelos  clientes  das  empres...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 40
+Offset 60779, length 25, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: imprescritíveis
+... Lojas  e  de  sua  controlada,  Club,  que  são  imprescritíveis e compensáveis com lucros tributáveis f...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 41
+Offset 62806, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: pois, grande
+...enças  temporárias  serão  realizadas,  pois  grande  parte  delas  está  sujeita  a  decisõ...
+                                           ^^^^^^^^^^^^
+Erro: 42
+Offset 65553, length 8, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...e  a  Companhia  e  suas  controladas,  que  são  suas  partes  relacionadas,  foram  el...
+                                           ^^^^^^^^
+Erro: 43
+Offset 91324, length 8, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: o
+...ros  são  amortizados  semestralmente,  sendo  o  primeiro  pagamento  em  21  de  dezem...
+                                           ^^^^^^^^
+Erro: 44
+Offset 92918, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: o
+...s juros são amortizados semestralmente, sendo o primeiro pagamento em 20 de junho  de 2...
+                                           ^^^^^^^
+Erro: 45
+Offset 93933, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: apropriados
+...são das debêntures totalizaram R$4.014, sendo  apropriados  no  resultado  pelo  prazo  de  vencim...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 46
+Offset 131411, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...is em virtude das condições  de mercado e, portanto, o saldo devedor registrado nas datas d...
+                                           ^^^^^^^^^^^
+Erro: 47
+Offset 136267, length 15, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e deverão
+...encimento,  com  a  mesma  contraparte  e  que  deverão  ser  liquidados  pelo  seu  valor  líq...
+                                           ^^^^^^^^^^^^^^^
+Erro: 48
+Offset 137563, length 20, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ”, em contrapartida
+...rubrica  “Empréstimos  e  financiamentos”  em  contrapartida  a  conta  de  “Receitas e despesas fin...
+                                           ^^^^^^^^^^^^^^^^^^^^
