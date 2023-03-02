@@ -1,0 +1,42 @@
+Erro: 104
+Offset 330, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: em; de
+...conselho  de  administração  realizada  em  de  01  de  julho  de  2021,  foi  aprovad...
+                                           ^^^^^^
+Erro: 105
+Offset 6666, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...consolidadas são apresentadas em Real,  que é a moeda funcional da Companhia.    2.1.3....
+                                           ^^^^^^^
+Erro: 106
+Offset 12936, length 81, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja possível estimar os valores de forma confiável e cuja liquidação, seja
+...tante  de  eventos  passados,  em  que  seja  possível  estimar  os  valores  de  forma  confiável e cuja liquidação seja provável considerando a melhor estimati...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 107
+Offset 13979, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a receber esperado sobre o lucro, ou
+... O imposto corrente é o imposto a pagar ou a receber esperado sobre o lucro ou prejuízo  tributável do exercício, a ta...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 108
+Offset 18461, length 17, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...ontabilmente  em  fevereiro  de  2018,  em  contrapartida  a  conta  de  resultado a época. Desde...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 109
+Offset 20502, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...izado num projeto cujo objetivo é venda através de fracionamento da área em   chácaras de ...
+                                           ^^^^^^^^^^
+Erro: 110
+Offset 30488, length 12, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sejam
+...ital  em  dinheiro  que  eventualmente  venham a ser distribuídos relativas ao exercício que...
+                                           ^^^^^^^^^^^^

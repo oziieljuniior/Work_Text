@@ -1,0 +1,84 @@
+Erro: 28
+Offset 4193, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...s  foram  preparadas  em  Reais  (R$),  que  é  a  moeda  funcional  da  Companhia.  A  m...
+                                           ^^^^^^^^^
+Erro: 29
+Offset 7192, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...e arrecadar fluxos de caixa contratuais e, portanto, essas contas são,  inicialmente,  reco...
+                                           ^^^^^^^^^^^
+Erro: 30
+Offset 10623, length 14, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “é maior que”.
+Suggestion: é maior que
+...el  quando  o  valor  contábil do ativo é maior do que seu valor recuperável estimado.   3.7. ...
+                                           ^^^^^^^^^^^^^^
+Erro: 31
+Offset 23194, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não realiza nenhum; não realiza nenhuma; não, realiza qualquer
+...ante das mudanças, visto que a entidade não realiza qualquer operação relacionada a  venda de bens. ...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 32
+Offset 23494, length 22, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: os custos incrementa; os custos incrementar; os custos incrementara; os custos incrementaras; os custos incrementarei; os custos incrementares; os custos incrementaria; os custos incrementarias; os custos incrementará; os custos incrementarás; os custos incrementas; os custos incrementasse; os custos incrementasses; os custos incrementaste; os custos incrementava; os custos incrementavas; os custos incremente; os custos incrementei; os custos incrementes; os custos incremento; os custos incrementou
+...custo de cumprimento do contrato inclui os custos incrementais de cumprimento desse  contrato e uma al...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 33
+Offset 24203, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: IASB, mas
+...lterações de normas foram emitidas pelo IASB mas não estão em vigor para o período  find...
+                                           ^^^^^^^^
+Erro: 34
+Offset 25272, length 7, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: igual à
+...66 (em 2021), que possuem rentabilidade igual a taxa SELIC.                            ...
+                                           ^^^^^^^
+Erro: 35
+Offset 31538, length 9, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: foi (7,17%); foram 7,17%
+...  apropriação  dos  juros  financeiros, foi 7,17% ao ano.    10.1.  Direito de uso do ati...
+                                           ^^^^^^^^^
+Erro: 36
+Offset 35134, length 7, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a pagar
+...erviços nacionais   13.   Outras contas à pagar   Circulante  Parcelamentos CVM (*)  Bô...
+                                           ^^^^^^^
+Erro: 37
+Offset 35245, length 7, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a pagar
+...e  Parcelamentos CVM (*)  Outras contas à pagar   Consolidado      30/09/2022   31/12/2...
+                                           ^^^^^^^
+Erro: 38
+Offset 47585, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...ão considera como resultado  recorrente devido a variação e imprevisibilidade do mercado...
+                                           ^^^^^^^^
+Erro: 39
+Offset 47983, length 12, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: subsidiárias
+...erença de alíquotas sobre resultados de subsidiarias (*)   Imposto de Renda e Contribuição S...
+                                           ^^^^^^^^^^^^
+Erro: 40
+Offset 49809, length 6, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...necido  para  a  Diretoria  Executiva,  que  é  a  principal  tomadora  de  decisões  ...
+                                           ^^^^^^
+Erro: 41
+Offset 51606, length 10, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e deva
+...a impactar na continuidade  da operação e que deva ser mapeado pela Companhia.   28.  Segu...
+                                           ^^^^^^^^^^

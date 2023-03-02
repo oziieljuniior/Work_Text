@@ -1,0 +1,138 @@
+Erro: 240
+Offset 4604, length 8, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: contínua
+...as subjacentes são revisadas de maneira continua e reconhecidas  de  forma  prospectiva,...
+                                           ^^^^^^^^
+Erro: 241
+Offset 13735, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...o a abordagem retrospectiva  modificada e, portanto, a informação comparativa não será atua...
+                                           ^^^^^^^^^^^
+Erro: 242
+Offset 24553, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e estão
+... com vencimento de três até doze  meses e que estão sujeitos a um risco insignificante de m...
+                                           ^^^^^^^^^^^
+Erro: 243
+Offset 26804, length 48, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou recebidas sobre quaisquer contas a receber, ou
+...m dinheiro. Não  houve garantias dadas  ou recebidas sobre quaisquer contas a receber ou a pagar  envolvendo  partes  relacionad...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 244
+Offset 43969, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ubsequentes  no  valor  justo  depende  de  o  derivativo  ser  designado como um ins...
+                                           ^^^^^
+Erro: 245
+Offset 44175, length 27, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou passivos reconhecidos, ou
+...:   i.  hedges do valor justo de ativos ou passivos reconhecidos ou de um compromisso firme (hedge   de val...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 246
+Offset 46391, length 22, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for diferente que”.
+Suggestion: for diferente que
+...r se  o momento  da transação prevista  for diferente  do  que foi originalmente  estimado, ou se houv...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 247
+Offset 56437, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...  e a reclassificação para o circulante devido a expectativa de recuperação de todo o  v...
+                                           ^^^^^^^^
+Erro: 248
+Offset 58086, length 18, Rule ID: À_MEDIDA_EM_QUE
+Message: Substitua por “à medida que”.
+Suggestion: à medida que
+...ensurados  ao  custo  e  capitalizados  à  medida  em  que  estão  disponíveis para uso da concess...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 249
+Offset 63678, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecidos
+...e renda e contribuição social é de 34%, sendo reconhecidos no resultado,  exceto em algumas transa...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 250
+Offset 63741, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecidas no
+...esultado,  exceto em algumas transações que são reconhecidas no patrimônio líquido.   i.  Imposto de re...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 251
+Offset 63861, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a receber esperado sobre o lucro, ou
+...o social corrente   É o imposto a pagar ou a receber esperado sobre o lucro ou prejuízo tributável do exercício, usand...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 252
+Offset 70130, length 75, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...o,  conclusões  de  inspeções  fiscais  ou  exposições  adicionais  identificadas  com  base  em  novos assuntos ou decisões de tribunais.   Tributárias  C...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 253
+Offset 72373, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...los  advogados  e  pela  administração  e,  portanto, sem constituição de provisão.         ...
+                                           ^^^^^^^^^^^^
+Erro: 254
+Offset 73537, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: Os custos incrementa; Os custos incrementar; Os custos incrementara; Os custos incrementaras; Os custos incrementarei; Os custos incrementares; Os custos incrementaria; Os custos incrementarias; Os custos incrementará; Os custos incrementarás; Os custos incrementas; Os custos incrementasse; Os custos incrementasses; Os custos incrementaste; Os custos incrementava; Os custos incrementavas; Os custos incremente; Os custos incrementei; Os custos incrementes; Os custos incremento; Os custos incrementou
+...lassificadas  no  patrimônio  líquido.  Os  custos  incrementais diretamente atribuíveis à emissão de no...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 255
+Offset 82935, length 7, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+... categoria de possível efeito diluidor, que são seus planos de  remuneração baseados em...
+                                           ^^^^^^^
+Erro: 256
+Offset 83553, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecida
+...der ser mensurado  de forma  confiável, sendo reconhecida no resultado no mesmo  período em que o...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 257
+Offset 84007, length 13, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+...a do mês.   O volume real faturado pode ser diferente das estimativas. A Companhia acredita q...
+                                           ^^^^^^^^^^^^^
+Erro: 258
+Offset 87395, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecidos no
+...ltado, ganhos em instrumentos de hedge  que são reconhecidos no resultado. A receita de juros é reconhe...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 259
+Offset 87938, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecidos no
+...ceber), perdas em instrumentos de hedge que são reconhecidos  no resultado.   Custos de empréstimo que n...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 260
+Offset 93847, length 6, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: câmbio
+...risco   Provável    Aumento na  taxa de cambio  R$/ US$  Queda na taxa  de cambio R$/ ...
+                                           ^^^^^^
+Erro: 261
+Offset 93882, length 6, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: câmbio
+...a de cambio  R$/ US$  Queda na taxa  de cambio R$/  US$   (21.955)    21.955     25%  ...
+                                           ^^^^^^
+Erro: 262
+Offset 98685, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...ara  minimizar a concentração de riscos e, portanto, mitigar a perda financeira por meio de...
+                                           ^^^^^^^^^^^

@@ -1,0 +1,95 @@
+Erro: 113
+Offset 1281, length 19, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não possui nenhum; não possui nenhuma; não, possui qualquer
+...considerando que atualmente a Companhia não possui qualquer alavancagem  financeira. O indicador de...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 114
+Offset 1584, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...estaque refere-se ao capital circulante liquido no  consolidado que, apesar de apresent...
+                                           ^^^^^^^
+Erro: 115
+Offset 1921, length 13, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: Com relação à
+... –  estoques) no montante de R$8.131.   Com relação a reversão do prejuízo apresentado no exe...
+                                           ^^^^^^^^^^^^^
+Erro: 116
+Offset 4434, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+... consolidadas são apresentadas em Real, que é a  moeda funcional da Companhia. Todas as...
+                                           ^^^^^^^
+Erro: 117
+Offset 6671, length 14, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...nstrutora Adolpho Lindenberg constituiu juntamente com o Fundo de Investimentos  Sieben 100 Re...
+                                           ^^^^^^^^^^^^^^
+Erro: 118
+Offset 8643, length 14, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+...onhecimento dessas estimativas, poderão ser diferentes dos valores  reconhecidos nas presentes...
+                                           ^^^^^^^^^^^^^^
+Erro: 119
+Offset 16841, length 11, Rule ID: CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL
+Message: O pronome relativo ‘cujo’ tem de estar ligado a nome/adj/numeral.
+...presumido: aplicável às sociedades cujo faturamento anual do exercício  imediatamente anter...
+                                           ^^^^^^^^^^^
+Erro: 120
+Offset 20274, length 27, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou reduções das receitas, ou
+...as  revisões podem resultar em aumentos ou reduções das receitas ou custos estimados e  são refletidas no r...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 121
+Offset 25024, length 20, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: detidos para
+...io do resultado. Os ativos financeiros  que são detidos para negociação e gerenciados com base no ju...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 122
+Offset 28170, length 9, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: ser
+...tratamentos fiscais incertos, que podem vir a ser questionados pela autoridade fiscal.   ...
+                                           ^^^^^^^^^
+Erro: 123
+Offset 29082, length 19, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não haver nenhum; não haver nenhuma; não, haver quaisquer
+...ou os impactos da nova norma e concluiu não haver quaisquer  impactos em suas demonstrações finance...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 124
+Offset 34401, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...o valor total de R$16.765 que será pago através de permuta financeira equivalente   a 24% ...
+                                           ^^^^^^^^^^
+Erro: 125
+Offset 48794, length 11, Rule ID: CHAMAR_DENOMINAR_DE
+Message: Os verbos ‘chamar’ e ‘denominar’ são pronominais, a redação correta é sem preposição.
+Suggestion: chamado
+...iu o Programa de Parcelamento Especial, chamado  de REFIS IV. A opção pelos parcelamentos d...
+                                           ^^^^^^^^^^^
+Erro: 126
+Offset 49272, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: obrigatória
+...as pela Secretaria da Receita  Federal, sendo obrigatória a desistência de eventual discussão jud...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 127
+Offset 67663, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis para
+...m mercados ativos incluídos no Nível 1  que são observáveis para o ativo ou passivo, diretamente (como p...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 128
+Offset 71500, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+... não  representaram desembolso de caixa e, portanto, não foram apresentadas nas demonstraçõ...
+                                           ^^^^^^^^^^^

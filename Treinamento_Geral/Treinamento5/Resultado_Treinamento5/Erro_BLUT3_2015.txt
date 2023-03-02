@@ -1,0 +1,12 @@
+Erro: 38
+Offset 11411, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...im como outros, encontram-se prescritos e  ou foram considerados inconstitucionais, v...
+                                           ^^^^^
+Erro: 39
+Offset 14651, length 7, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: serem
+...  nossos  assessores jurídicos entendem que são valores efetivamente devidos e sem poss...
+                                           ^^^^^^^

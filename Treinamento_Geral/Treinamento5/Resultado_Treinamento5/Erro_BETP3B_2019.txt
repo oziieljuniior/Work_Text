@@ -1,0 +1,48 @@
+Erro: 16
+Offset 2087, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensurados pelo
+... exceção  dos  instrumentos financeiros que são mensurados pelo valor justo.   c.  Moeda funcional e de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 17
+Offset 2245, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...adas e estão apresentadas em Real (R$), que é a moeda do  principal ambiente econômic...
+                                           ^^^^^
+Erro: 18
+Offset 3005, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores  diferentes  dos...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 19
+Offset 4559, length 8, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: aluguéis
+...anceiro relacionado com o pagamento de  alugueis.   •   ICPC 22/IFRIC 23 – Incerteza sob...
+                                           ^^^^^^^^
+Erro: 20
+Offset 5179, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: e, no entanto
+...nhia avaliou os reflexos destas normas, e no entanto, não espera impacto relevante sobre as ...
+                                           ^^^^^^^^^^^^
+Erro: 21
+Offset 8091, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...são preços cotados incluídos no Nível 1 e que são observáveis para o  ativo ou passivo, s...
+                                           ^^^^^^^^^
+Erro: 22
+Offset 10266, length 85, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou valores passíveis de compensação são demonstrados no ativo circulante, ou
+..., quando aplicável.   As  antecipações  ou  valores  passíveis  de  compensação  são  demonstrados  no  ativo  circulante  ou  não  circulante, de acordo com a previ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 23
+Offset 13008, length 22, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+...-chave da Administração   A  Companhia  não  efetuou  qualquer  remuneração  a diretores,  administrad...
+                                           ^^^^^^^^^^^^^^^^^^^^^^

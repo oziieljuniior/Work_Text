@@ -1,0 +1,30 @@
+Erro: 11
+Offset 2093, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensurados pelo
+... exceção  dos  instrumentos financeiros que são mensurados pelo valor justo   c.  Moeda funcional e de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 2251, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...das e estão apresentadas em reais (R$), que é a moeda do  principal ambiente econômic...
+                                           ^^^^^
+Erro: 13
+Offset 3015, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores  diferentes  dos...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 14
+Offset 7039, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...são preços cotados incluídos no Nível 1 e que são observáveis  para o ativo ou passivo, s...
+                                           ^^^^^^^^^
+Erro: 15
+Offset 9230, length 85, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou valores passíveis de compensação são demonstrados no ativo circulante, ou
+..., quando aplicável.   As  antecipações  ou  valores  passíveis  de  compensação  são  demonstrados  no  ativo  circulante  ou  não  circulante, de acordo com a previ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,24 @@
+Erro: 2
+Offset 9582, length 26, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exploração direta, ou
+...e  tem  por  objetivo  a  realização  e/ou  exploração  direta  ou  indireta  de  exposições,  feiras,  ev...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 10420, length 14, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+... portanto, os resultados efetivos podem ser diferentes destas estimativas e premissas.   O  Co...
+                                           ^^^^^^^^^^^^^^
+Erro: 4
+Offset 10673, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observados
+... Conselho  Federal  de  Contabilidade,  sendo  observados  pela  administração  os  seguintes  pr...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 14639, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...asamento  entre  receitas  e  despesas  e,  portanto, no resultado da empresa, sendo que os ...
+                                           ^^^^^^^^^^^^

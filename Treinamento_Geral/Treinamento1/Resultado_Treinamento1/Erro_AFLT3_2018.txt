@@ -1,0 +1,108 @@
+Erro: 103
+Offset 11510, length 22, Rule ID: QUE_TER_COMO_POR_NOME_ADJ
+Message: Com o pronome ‘cujo’, o seu texto poderia ficar mais claro e elegante.
+Suggestion: cujo objetivo é
+...cessão com vigência até agosto de 2027, que  tem como objetivo estabelecer as condições para prestação...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 104
+Offset 14210, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...apresentadas em milhares de Reais (R$), que é a moeda  funcional da Companhia.    2.3. ...
+                                           ^^^^^^^
+Erro: 105
+Offset 19055, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...go prazo são atualizados monetariamente e, portanto,  estão  ajustados  pelo  seu  valor  p...
+                                           ^^^^^^^^^^^
+Erro: 106
+Offset 22290, length 17, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “é maior que”.
+Suggestion: é maior que
+... do  patrimônio  líquido  da  entidade  é  maior  do  que  o  valor  de   suas ações no mercado; ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 107
+Offset 25224, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...xos  de  caixa,  à  saber:  (a)  parte  através  de  valores  a  receber  garantidos  pelo ...
+                                           ^^^^^^^^^^^
+Erro: 108
+Offset 30698, length 85, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: nem por um preço cotado num mercado ativo para um ativo ou passivo idêntico, nem
+...sação e o valor justo não é evidenciado nem por um preço cotado num mercado ativo para  um  ativo  ou  passivo  idêntico  nem  baseado  numa  técnica  de  avaliação ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 109
+Offset 39322, length 15, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: são apresentados; é apresentado
+...risco de crédito do passivo  financeiro são apresentado em ORA; e   – o valor remanescente da v...
+                                           ^^^^^^^^^^^^^^^
+Erro: 110
+Offset 39559, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não indicou nenhum; não indicou nenhuma; não, indicou qualquer
+....  A  avaliação preliminar da Companhia não indicou qualquer impacto material na classificação dos  ...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 111
+Offset 41514, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: informado
+... percentual  do  faturamento  da  RAP,  que  é  informado  mensalmente  pelo  ONS  e  destinado  ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 112
+Offset 42082, length 25, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecida pela
+...o   Corresponde  a  receita  de  juros  que  é  reconhecida  pela  taxa  efetiva  sobre  o  montante  do ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 113
+Offset 44698, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: em, ou antes
+...RS 15 Receita de Contratos com Clientes em ou antes  da data de aplicação inicial da IFRS 1...
+                                           ^^^^^^^^^^^
+Erro: 114
+Offset 48239, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+... IFRS 2014-2016 - Alterações à IFRS 1 e à IAS 28.   - IFRIC 23 Incerteza sobre Tratam...
+                                           ^^^^^
+Erro: 115
+Offset 49840, length 21, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: reclassificados, pois
+...ncessão  de  serviços  públicos  foram  reclassificados  pois  referem-se aos fluxos de caixa advindo...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 116
+Offset 52709, length 26, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: classificados como
+...  na  carteira  própria  da  companhia  que são classificados como títulos e valores mobiliários.    A  ca...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 117
+Offset 68138, length 36, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: os dividendos mínimos obrigatórios são
+...es ordinárias.   A base de cálculo para os dividendos mínimos obrigatórios é como segue:   Dividendos mínimos - sobr...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 118
+Offset 81708, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...bela a seguir demonstra a perda (ganho) devido a variação das taxas de juros que poderá ...
+                                           ^^^^^^^^
+Erro: 119
+Offset 84132, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: pois, estes
+... similar ao valor contábil  registrado, pois estes têm taxas de juros indexadas à curva DI...
+                                           ^^^^^^^^^^
+Erro: 120
+Offset 85357, length 23, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: esses ativos não existem
+...regulatórios contratuais e legais. Para esses ativos não existe  mercado ativo, e uma vez que todas as ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^

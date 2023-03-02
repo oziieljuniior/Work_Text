@@ -1,0 +1,83 @@
+Erro: 56
+Offset 4380, length 17, Rule ID: QUE_SUBJ_VS_INF_PESS
+Message: Esta perífrase pode ser simplificada.
+Suggestion: estes estarem
+...lizados durante os próximos  meses, até que estes estejam aptos para uso, transporte e instalação...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 57
+Offset 10534, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: apresentada
+...stribuição durante determinado período, sendo  apresentada como informação suplementar às demonstr...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 58
+Offset 11752, length 14, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...0 de setembro de  2015, devem ser lidas juntamente com as demonstrações financeiras da Companh...
+                                           ^^^^^^^^^^^^^^
+Erro: 59
+Offset 19298, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...s e  administrativas    Outras despesas e ou receitas   Resultado financeiro   Lucro...
+                                           ^^^^
+Erro: 60
+Offset 24266, length 7, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Adições,
+...70  32  59   Principal   Juros   Total  Adições  Pagamentos  Adições  Pagamentos  Circu...
+                                           ^^^^^^^
+Erro: 61
+Offset 26147, length 7, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a Gabas
+...ra perdas.   (ii)  Os empréstimos junto à Gabas Holding referem-se aos aportes efetuado...
+                                           ^^^^^^^
+Erro: 62
+Offset 26321, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...a na Arábia Saudita, e serão liquidados através de integralização de capital  na joint ven...
+                                           ^^^^^^^^^^
+Erro: 63
+Offset 28821, length 10, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: não haver
+...estágio  operacional do grupo, concluiu que não há impacto relevante sobre os resultados d...
+                                           ^^^^^^^^^^
+Erro: 64
+Offset 29294, length 94, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou passivo referente aos tributos diferidos a partir das diferenças temporárias dedutíveis, ou
+...sse período.   É contabilizado um ativo ou passivo referente aos tributos diferidos a partir das diferenças  temporárias dedutíveis ou tributáveis e com base nos prejuízos fi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 65
+Offset 34729, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: Devido à
+...e transferência de  tecnologia em 2015. Devido a pausa do cronograma de atividades de tr...
+                                           ^^^^^^^^
+Erro: 66
+Offset 39179, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não possuem nenhum; não possuem nenhuma; não, possuem qualquer
+...iluído   A Companhia e suas controladas não possuem qualquer tipo de instrumento financeiro com  pot...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 67
+Offset 47766, length 22, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: sua liquidação poderá
+...ado constantes. Tais valores quando  de sua liquidação poderão ser diferentes dos demonstrados, devido...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 68
+Offset 47789, length 14, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+...lores quando  de sua liquidação poderão ser diferentes dos demonstrados, devido às estimativas...
+                                           ^^^^^^^^^^^^^^
+Erro: 69
+Offset 57336, length 3, Rule ID: CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL
+Message: O pronome relativo ‘cujo’ tem de estar ligado a nome/adj/numeral.
+... Contábeis”. Todas  as informações cuja sua omissão ou distorção pudesse influencia...
+                                           ^^^

@@ -1,0 +1,36 @@
+Erro: 52
+Offset 8, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Participações,
+Cabinda Participações S.A.   Notas explicativas da Administra...
+        ^^^^^^^^^^^^^
+Erro: 53
+Offset 2650, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...ões contábeis foram preparadas em real, que é a moeda funcional da Companhia, e  são  a...
+                                           ^^^^^^^
+Erro: 54
+Offset 3606, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...A  liquidação das transações envolvendo essas estimativas poderá resultar em valores diferentes dos  est...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 55
+Offset 6596, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinado à
+...tal. O saldo remanescente de R$400 foi  destinado a conta de reserva de capital a integrali...
+                                           ^^^^^^^^^^^
+Erro: 56
+Offset 11017, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; por isso
+... de capital aberto em bolsa de valores  e, por isso, estará exposta à volatilidade deste me...
+                                           ^^^^^^^^^^^
+Erro: 57
+Offset 11306, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...sociadas com seus passivos financeiros  que são liquidados com pagamentos à vista ou com outro ativo f...
+                                           ^^^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,48 @@
+Erro: 231
+Offset 3437, length 14, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consegue; consigas; pode; possas
+... Conselho de Administração da Companhia tem o poder de alterar as Informações Trimestrais indi...
+                                           ^^^^^^^^^^^^^^
+Erro: 232
+Offset 6377, length 9, Rule ID: PARONYM_OFICIO_227
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: no ofício
+...SB)  observando as disposições contidas no Oficio-Circular/CVM/SNC/SEP 003/2011 de 28 de ...
+                                           ^^^^^^^^^
+Erro: 233
+Offset 7983, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...decorre da possibilidade de a Companhia vir a incorrer em perdas por causa de flutuações nas  ...
+                                           ^^^^^^^^^^^^^^
+Erro: 234
+Offset 8126, length 10, Rule ID: DEVE_DE
+Message: Substitua por “devidos”.
+Suggestion: devidos
+...icados de ativos ou aumentam os valores devidos de  passivos. Esse risco também decorre do...
+                                           ^^^^^^^^^^
+Erro: 235
+Offset 8736, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...idade de a Companhia incorrer em perdas devido a  oscilação nos preços  de mercado dos p...
+                                           ^^^^^^^^
+Erro: 236
+Offset 9615, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: sua liquidação poderá
+...constantes.  Tais  valores  quando  de  sua  liquidação  poderão  ser  diferentes  dos  demonstrados aba...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 237
+Offset 21404, length 12, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: (requer)
+... balanço patrimonial  pelo valor justo, o que requer divulgação das mensurações do valor jus...
+                                           ^^^^^^^^^^^^
+Erro: 238
+Offset 22010, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: adotadas pelo
+...ços  cotados,  incluídas  no  Nível  1  que  são  adotadas  pelo  mercado  para  o  ativo  ou  passivo, ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^

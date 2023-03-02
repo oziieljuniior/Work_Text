@@ -1,0 +1,36 @@
+Erro: 46
+Offset 2403, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...s financeiras foram preparadas em real, que é a moeda funcional da Companhia. Todas  as...
+                                           ^^^^^^^
+Erro: 47
+Offset 2981, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores  diferentes dos est...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 48
+Offset 4747, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...mbro de 2017 – R$ 26).   6   Patrimônio liquido   (a)   Capital social   Em Reunião do ...
+                                           ^^^^^^^
+Erro: 49
+Offset 5800, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinado à
+...ital. O saldo remanescente de R$400 foi destinado a  conta de reserva de capital a integral...
+                                           ^^^^^^^^^^^
+Erro: 50
+Offset 9546, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; por isso
+...s de capital aberto em bolsa de valores e, por  isso, estará exposta à volatilidade deste me...
+                                           ^^^^^^^^^^^^
+Erro: 51
+Offset 9835, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...ssociadas com seus passivos financeiros que  são liquidados com pagamentos à vista ou com outro ativo f...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^

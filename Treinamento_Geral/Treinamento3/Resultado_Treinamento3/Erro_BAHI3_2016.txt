@@ -1,0 +1,30 @@
+Erro: 40
+Offset 5242, length 10, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: para
+...lucro tributável às alíquotas vigentes, sendo para o imposto  de  renda  15%,  mais  adici...
+                                           ^^^^^^^^^^
+Erro: 41
+Offset 13982, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+... a    quitação    do    parcelamento    e,  portanto,  a  inexistência  de  quaisquer  parce...
+                                           ^^^^^^^^^^^^
+Erro: 42
+Offset 17454, length 10, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: exposta à
+...e  seus  negócios,  a  Companhia  está  exposta  a  flutuação  cambial,  à  variação  da  ...
+                                           ^^^^^^^^^^
+Erro: 43
+Offset 20996, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinadas à
+...r de mercado das aplicações financeiras destinadas a  venda líquida dos efeitos tributários,...
+                                           ^^^^^^^^^^^^
+Erro: 44
+Offset 25942, length 10, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: não haver
+...to corrente da referida Lei, concluímos que não há efeitos relevantes em suas operações  e...
+                                           ^^^^^^^^^^

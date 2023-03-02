@@ -1,0 +1,24 @@
+Erro: 50
+Offset 10180, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e
+... (11.093) (11.093)  Aum e nto de  caixa e  e quivale nte s  de  caixa  (3.716)  2.46...
+                                           ^^^^
+Erro: 51
+Offset 10262, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e
+...463  (2.273)  3.720  Variação de  caixa e  e quivale nte s  de  caixa   Saldo ao iní...
+                                           ^^^^
+Erro: 52
+Offset 14057, length 28, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: a norma internacional fomo; a norma internacional fomos; a norma internacional foram; a norma internacional fordes; a norma internacional forem; a norma internacional formos; a norma internacional fossem; a norma internacional foste; a norma internacional fostes; a norma internacional fôramo; a norma internacional fôramos; a norma internacional fôrei; a norma internacional fôreis; a norma internacional fôsseis; a norma internacional fôssemos; a norma internacional iam; a norma internacional ide; a norma internacional ides; a norma internacional ireis; a norma internacional iremos; a norma internacional iriam; a norma internacional irão; a norma internacional iríamos; a norma internacional iríeis; a norma internacional vades; a norma internacional vamo; a norma internacional vamos; a norma internacional vão; a norma internacional íamo; a norma internacional íamos; a norma internacional íei; a norma internacional íeis
+...nciamento  contábil  CPC  21,  (R1)  e  a  norma  internacional  IAS  34,  consistentes  com  aquelas  utili...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 53
+Offset 24258, length 17, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...em relação  aos  valores  de  mercado,  em  contrapartida  à  conta  do  patrimônio  líquido,  co...
+                                           ^^^^^^^^^^^^^^^^^

@@ -1,0 +1,366 @@
+Erro: 5
+Offset 30385, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+... chegar ao mesmo resultado e patrimônio liquido atribuível  aos acionistas da Controlad...
+                                           ^^^^^^^
+Erro: 6
+Offset 32883, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+... Jaborandi  Ltda.  de  75%  para  50%,  através  de  uma  redução de capital pago em dinhei...
+                                           ^^^^^^^^^^^
+Erro: 7
+Offset 34080, length 25, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: sua ocorrência resultará
+...nadimplência foram definidos que após a sua ocorrência resultarão automaticamente na extinção  dos bônus ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 39520, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...dadas estão apresentadas em R$ (reais), que é a moeda  funcional da Companhia e, também...
+                                           ^^^^^^^
+Erro: 9
+Offset 41191, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+... mesmas  características  de  liquidez  e  que  são  resgatáveis  no  prazo  máximo  de  90...
+                                           ^^^^^^^^^^^
+Erro: 10
+Offset 41889, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: os
+...  não  alocados  na  atividade  rural,  sendo  os  mesmos  guiados  por  uma  política  a...
+                                           ^^^^^^^^^
+Erro: 11
+Offset 44571, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+... fazendas designados  ao  valor  justo  através  de  resultados  são  reconhecidos  em  "Ga...
+                                           ^^^^^^^^^^^
+Erro: 12
+Offset 49884, length 33, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou mora no pagamento dos juros, ou
+... quebra de contrato, como inadimplência ou mora no pagamento dos juros ou principal;   (iii)   a Companhia, por r...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 50378, length 7, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+...eiras;   dados  observáveis  indicando  que  há  uma  redução  mensurável  nos  futuros...
+                                           ^^^^^^^
+Erro: 14
+Offset 53924, length 76, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou perda resultante depende do fato do derivativo ser designado, ou
+... método  de  reconhecimento  do  ganho  ou  perda  resultante  depende  do  fato  do  derivativo  ser  designado  ou  não  como  instrumento  de  hedge. Sen...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 15
+Offset 55188, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Na prática,
+...evedores Duvidosos (PDD)  (impairment). Na prática são reconhecidas ao valor  faturado, aj...
+                                           ^^^^^^^^^^
+Erro: 16
+Offset 58975, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: registrado
+...gicos  até  o  momento  da  avaliação,  sendo  registrado  no  resultado  do  exercício  na  rubr...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 17
+Offset 65568, length 25, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: lançados, em contrapartida
+...os  outros  reparos  e  manutenções são lançados em contrapartida ao resultado do exercício, quando incor...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 18
+Offset 66233, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for maior que”.
+Suggestion: for maior que
+...ável  se  o  valor  contábil  do  ativo for maior do que seu valor recuperável estimado.   Os  g...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 19
+Offset 66660, length 19, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: classificadas
+...necedores no curso normal dos negócios, sendo classificadas como passivos circulantes se o pagament...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 20
+Offset 67729, length 48, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja provável que uma parte ou toda a linha, seja
+...o custos da transação na medida em  que seja provável que uma parte ou toda a linha seja utilizada. Nesse caso, as taxas são dif...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 21
+Offset 73245, length 22, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: Os custos incrementa; Os custos incrementar; Os custos incrementara; Os custos incrementaras; Os custos incrementarei; Os custos incrementares; Os custos incrementaria; Os custos incrementarias; Os custos incrementará; Os custos incrementarás; Os custos incrementas; Os custos incrementasse; Os custos incrementasses; Os custos incrementaste; Os custos incrementava; Os custos incrementavas; Os custos incremente; Os custos incrementei; Os custos incrementes; Os custos incremento; Os custos incrementou
+... classificadas no patrimônio líquido.   Os custos incrementais diretamente atribuíveis à emissão de no...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 22
+Offset 75559, length 12, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: subsidiárias
+...mo  das  eliminações  das  vendas entre subsidiarias da Companhia.   A  Companhia  reconhece...
+                                           ^^^^^^^^^^^^
+Erro: 23
+Offset 79799, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: fixo, mas
+...ja  e  por  tanto  não  tem  um  valor  fixo  mas  seu  valor  depende da cotação da soja...
+                                           ^^^^^^^^^
+Erro: 24
+Offset 81702, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...cias de ativos financeiros.  Alterações à IAS 24   Divulgações de partes relacionadas...
+                                           ^^^^^
+Erro: 25
+Offset 82924, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...pós  1º de janeiro de 2015.  Alterações à IAS 12  IAS 28 (Revisada 2011) - Investimen...
+                                           ^^^^^
+Erro: 26
+Offset 85998, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+... Mensurações ao Valor Justo  Alterações à IAS 19 - Benefícios aos  Empregados  Altera...
+                                           ^^^^^
+Erro: 27
+Offset 86048, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+... Benefícios aos  Empregados  Alterações à IAS 1 - Apresentação das  Demonstrações Fin...
+                                           ^^^^^
+Erro: 28
+Offset 88083, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for maior que”.
+Suggestion: for maior que
+...ável  se  o  valor  contábil  do  ativo for maior do que seu valor recuperável estimado.   (b)  ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 29
+Offset 89136, length 30, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: seus acionistas fundadores foram
+...e a emissão dos bônus de subscrição aos seus acionistas fundadores foi em reconhecimento aos  trabalhos pela f...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 30
+Offset 94046, length 8, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...características  desses  instrumentos,  que  são  sistematicamente renegociados, os valo...
+                                           ^^^^^^^^
+Erro: 31
+Offset 95861, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...decorre da possibilidade de a Companhia vir a incorrer em perdas por causa de flutuações nas  ...
+                                           ^^^^^^^^^^^^^^
+Erro: 32
+Offset 96340, length 6, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: câmbio
+... expostos  a  riscos  com  a  taxa  de  cambio  entre  USD  e  reais  estão detalhados...
+                                           ^^^^^^
+Erro: 33
+Offset 102748, length 13, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+... instrumento financeiro derivativo pode ser diferente da mudança  nos fluxos de caixa ou no v...
+                                           ^^^^^^^^^^^^^
+Erro: 34
+Offset 104609, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for maior que”.
+Suggestion: for maior que
+...e o volume de soja colhido efetivamente for maior do que o  volume coberto.   À  medida  que  a ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 35
+Offset 105064, length 19, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for menor que”.
+Suggestion: for menor que
+...elebrados  para  a  venda  de  dólares  for  menor  do  que  a  quantidade real de dólares recebido...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 36
+Offset 105354, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for maior que”.
+Suggestion: for maior que
+...uros celebrados para a venda de dólares for maior do que a quantidade real de dólares recebidos....
+                                           ^^^^^^^^^^^^^^^^
+Erro: 37
+Offset 105641, length 58, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de instituições financeiras de primeira linha, ou
+...vativos, cotados em bolsas de  valores  ou  de  instituições  financeiras  de  primeira  linha  ou  empresas  de  trading.  A  Companhia  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 38
+Offset 108800, length 8, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: os
+...uros (BM&F),  CETIP S.A., entre outros, sendo os  mesmos examinados por auditores indepe...
+                                           ^^^^^^^^
+Erro: 39
+Offset 111155, length 62, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou redução do valor justo estimado do correspondente ativo, ou
+...rivativo assim como o efeito no aumento ou redução do valor  justo estimado do correspondente ativo ou passivo reconhecido relacionado. O efei...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 40
+Offset 112055, length 6, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: câmbio
+...ário II  30 de junho de 201 2  Tax a de cambio - US$/R$  Soja - US$/ bushel –Nov embro...
+                                           ^^^^^^
+Erro: 41
+Offset 112614, length 6, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: câmbio
+...ário II  30 de junho de 201 1  Tax a de cambio - US$/R$  Soja - US$ / bushel – Julho 2...
+                                           ^^^^^^
+Erro: 42
+Offset 117188, length 23, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: principalmente, no fundo
+...vistos.   O caixa excedente é investido principalmente no fundo de investimento FIM Guardian, classific...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 43
+Offset 118078, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; por isso
+... condições precedentes pelos vendedores e, por isso, sua data de pagamento  não  pode  ser ...
+                                           ^^^^^^^^^^^
+Erro: 44
+Offset 122472, length 12, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: (requer)
+... balanço patrimonial  pelo valor justo, o que requer divulgação das mensurações do valor jus...
+                                           ^^^^^^^^^^^^
+Erro: 45
+Offset 122759, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: adotadas pelo
+...os preços cotados, incluídas no nível 1 que são adotadas pelo mercado para o  ativo ou passivo, seja ...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 46
+Offset 139923, length 6, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: câmbio
+... futura ou pelas mudanças na cotação do cambio futuro do US$ para R$, não foi material...
+                                           ^^^^^^
+Erro: 47
+Offset 140658, length 23, Rule ID: QUE_TER_COMO_POR_NOME_ADJ
+Message: Com o pronome ‘cujo’, o seu texto poderia ficar mais claro e elegante.
+Suggestion: cujo objetivo é
+...tratégia  de  negócios  da  Companhia,  que  tem  por  objetivo gerar ganhos de capital com a venda de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 48
+Offset 166486, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...propriedades sendo avaliadas, realizado através de  fontes  diferentes  nas  regiões  envo...
+                                           ^^^^^^^^^^
+Erro: 49
+Offset 167236, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...s  ou  ofertadas  para  venda  (obtido  através  de  pesquisa  de  mercado)  foi  expresso ...
+                                           ^^^^^^^^^^^
+Erro: 50
+Offset 178900, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; por isso
+... e  a  Brenco  são  empresas  privadas  e  por  isso  nenhuma  informação  pública  está  di...
+                                           ^^^^^^^^^^^^
+Erro: 51
+Offset 179255, length 9, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: acesso às
+...mpanhia efetuou solicitações formais de acesso as informações  tanto diretamente a ETH Bi...
+                                           ^^^^^^^^^
+Erro: 52
+Offset 190705, length 10, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: não haver
+...ças;  com  isso,  a  Companhia  entende que não há possibilidade de cálculo do valor prese...
+                                           ^^^^^^^^^^
+Erro: 53
+Offset 195101, length 8, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: o
+...e  safra  no  montante  de  R$ 13.771,  sendo  o  primeiro  contrato  no  valor  de  R$ ...
+                                           ^^^^^^^^
+Erro: 54
+Offset 201710, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinada à
+... saldo da reserva legal.   Deverá  ser  destinada  a  parcela  necessária  ao  pagamento  de...
+                                           ^^^^^^^^^^^^
+Erro: 55
+Offset 207828, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: pública
+...o do anúncio de encerramento da  oferta publica inicial de ações e exclusivamente nas h...
+                                           ^^^^^^^
+Erro: 56
+Offset 210483, length 13, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: precedendo
+...a totalidade desde 15 de março de 2009, o que precede a data de transição para o IFRS que  é ...
+                                           ^^^^^^^^^^^^^
+Erro: 57
+Offset 211660, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...ido ao não cumprimento pelo Grupo Maeda e, portanto, não existe mais bônus de subscrição  d...
+                                           ^^^^^^^^^^^
+Erro: 58
+Offset 212202, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: de
+...io  (percentual  do novo capital)   30  de  de 2011   junho  5,57  24.01.07  24.01.17 ...
+                                           ^^^^^^
+Erro: 59
+Offset 213744, length 22, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensuradas
+...sultado  e  de  ativos  por  segmento,  que  foram  mensuradas  de  acordo com as mesmas práticas cont...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 60
+Offset 229489, length 17, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: o Plano poderá
+...  ações  a  serem  outorgadas  segundo  o  Plano  poderão  conferir  direitos  sobre  um  número ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 61
+Offset 230906, length 19, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não tinha nenhum; não tinha nenhuma; não, tinha qualquer
+...a de  vesting.  Em 30 de  junho de 2012 não  tinha qualquer opção passível de ser exercida.   A tab...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 62
+Offset 235608, length 12, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: subsidiárias
+...r  tanto o resultado tributável de tais subsidiarias é tributado a uma taxa menor que a taxa...
+                                           ^^^^^^^^^^^^
+Erro: 63
+Offset 244009, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: fórmula
+...fixado,  é  determinado  seguindo  uma  formula  contratual  baseada  na  cotação  da  ...
+                                           ^^^^^^^
+Erro: 64
+Offset 246318, length 15, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: As fazendas têm
+...exceto quando indicado de outra forma   As fazendas tem uma área total aproximada de 7.699 hect...
+                                           ^^^^^^^^^^^^^^^
+Erro: 65
+Offset 247986, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...antes de cada pagamento do arrendamento e, portanto, não é um valor fixo,  mas sim uma quan...
+                                           ^^^^^^^^^^^

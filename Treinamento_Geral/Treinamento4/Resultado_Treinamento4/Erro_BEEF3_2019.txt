@@ -1,0 +1,243 @@
+Erro: 279
+Offset 1810, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Carrasco,
+... – no Uruguai (Pulsa S/A e  Frigorífico Carrasco S/A), na Colombia (Red. Cárnica S.A.), ...
+                                           ^^^^^^^^
+Erro: 280
+Offset 11242, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Canelones,
+...lombiana S.A.S  Pulsa S.A.  Frigorífico Canelones S.A  Frigomerc S/A  JBS Paraguay S.A  I...
+                                           ^^^^^^^^^
+Erro: 281
+Offset 14855, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Canelones,
+...na S.A.  JBS Paraguay S.A.  Frigorífico Canelones S.A.  Total   US$ 182.699.737  US$ 105....
+                                           ^^^^^^^^^
+Erro: 282
+Offset 16366, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Canelones,
+...a S.A.   JBS Paraguay S.A.  Frigorífico Canelones S.A.   • 05 unidades de abate e desossa...
+                                           ^^^^^^^^^
+Erro: 283
+Offset 22424, length 14, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: com relação às
+...reparação   Declaração de conformidade (com relação as normas IFRS e as normas do CPC)  As dem...
+                                           ^^^^^^^^^^^^^^
+Erro: 284
+Offset 25240, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...ntábeis são apresentadas em reais (R$), que é a moeda  funcional e de apresentação da c...
+                                           ^^^^^^^
+Erro: 285
+Offset 30371, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve
+...guir somente as rubricas contábeis onde houveram impactos de reclassificações as demonst...
+                                           ^^^^^^^^
+Erro: 286
+Offset 36626, length 11, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: específicas
+...ativo financeiro derem origem, em datas especificas, a fluxo de  caixa que constituam, excl...
+                                           ^^^^^^^^^^^
+Erro: 287
+Offset 37564, length 1, Rule ID: CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL
+Message: O pronome relativo ‘cujo’ tem de estar ligado a nome/adj/numeral.
+...ntido dentro de modelo de  negócio cujo o objetivo seja atingido pelo recebimento...
+                                           ^
+Erro: 288
+Offset 37747, length 11, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: específicas
+...ativo financeiro derem origem, em datas especificas e juros sobre o valor do  principal em ...
+                                           ^^^^^^^^^^^
+Erro: 289
+Offset 43902, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...sse método de contabilização é opcional e, portanto, não é  obrigatório.   16       k) Con...
+                                           ^^^^^^^^^^^
+Erro: 290
+Offset 46056, length 16, Rule ID: SER_CAPAZ_DE_CONSEGUIR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: consigam
+... e  condição necessários para que esses sejam capazes de operar da forma pretendida  pela Admini...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 291
+Offset 49279, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: porém, são
+...da útil indefinida não são amortizados, porém são submetidos a  teste anual de redução do...
+                                           ^^^^^^^^^
+Erro: 292
+Offset 54934, length 59, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou itens diretamente reconhecidos no patrimônio líquido, ou
+... relacionados à combinação de negócios, ou itens  diretamente reconhecidos no patrimônio líquido ou em outros resultados abrangentes.   O i...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 293
+Offset 58203, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecida
+...entos e outras deduções, se  aplicável, sendo reconhecida à medida que a Companhia satisfaça sua ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 294
+Offset 58779, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: com efeito,
+...s potencialmente conversíveis em ações, com efeito diluidor, nos  períodos apresentados.  ...
+                                           ^^^^^^^^^^
+Erro: 295
+Offset 62457, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: efetivas para
+...pelo Conselho Federal de  Contabilidade que são efetivas para o exercício iniciado em 2019. A Companh...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 296
+Offset 68743, length 14, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: ocasionando
+...oncessão de crédito bastante  rigorosa, o que ocasiona baixos níveis de inadimplência, os quai...
+                                           ^^^^^^^^^^^^^^
+Erro: 297
+Offset 71242, length 21, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não possuía nenhum; não possuía nenhuma; não, possuía quaisquer
+...de dezembro de 2018 e 2017, a Companhia não possuía quaisquer tipos de ativos  biológicos com titular...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 298
+Offset 71369, length 23, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não existiam nenhum; não existiam nenhuma; não, existiam quaisquer
+...mo garantia de exigibilidades, bem como não  existiam quaisquer outros riscos (financeiros, compromisso...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 299
+Offset 73546, length 9, Rule ID: DEPOIS_DE_APÓS
+Message: Substitua por “após”.
+Suggestion: após
+... mercado interno, gerando créditos que, depois de  homologados pela Secretária da Fazenda...
+                                           ^^^^^^^^^
+Erro: 300
+Offset 74249, length 14, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: totalizando
+...para representar processos mais lentos, o que totaliza o montante de  R$ 55.096 na controlador...
+                                           ^^^^^^^^^^^^^^
+Erro: 301
+Offset 75925, length 3, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: A; À
+... Empréstimo efetuado pela Minerva Log S.A à controladora.   A Companhia, no entendi...
+                                           ^^^
+Erro: 302
+Offset 77111, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Carrasco,
+...a S.A.  Pul Argentina S.A.  Frigorífico Carrasco S.A.  Athena S.A.   74  -  -  6.308  - ...
+                                           ^^^^^^^^
+Erro: 303
+Offset 77385, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Carrasco,
+...Dawn Farms S.A.  Pulsa S.A  Frigorífico Carrasco S.A.  Mato Grosso Bovinos S.A.  Minerva...
+                                           ^^^^^^^^
+Erro: 304
+Offset 77724, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Carrasco,
+...ulsa. S.A.  Frigomerc S.A.  Frigorífico Carrasco S.A.  Pul Argentina S.A.  Minerva Comer...
+                                           ^^^^^^^^
+Erro: 305
+Offset 80231, length 21, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não existem nenhum; não existem nenhuma; não, existem quaisquer
+...aso de rescisão de contrato de trabalho não existem quaisquer benefícios pós-emprego.   31           ...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 306
+Offset 84838, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Carrasco,
+...s empresas Pulsa S.A (UY),  Frigorífico Carrasco S.A (UY), Frigomerc S.A (PY), Pul Argen...
+                                           ^^^^^^^^
+Erro: 307
+Offset 101901, length 15, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: Companhia, porém
+...as Unidades Geradoras de Caixa (UGC) da Companhia porém para o ano de  2018 foram identificados...
+                                           ^^^^^^^^^^^^^^^
+Erro: 308
+Offset 107754, length 1, Rule ID: CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL
+Message: O pronome relativo ‘cujo’ tem de estar ligado a nome/adj/numeral.
+...e dezembro de 2018 é de R$ 78.901, cujos, os juros são calculados  através do CDI...
+                                           ^
+Erro: 309
+Offset 111628, length 22, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: os instrumentos indicam
+...   42     O índice contratual de ambos os instrumentos indica que o nível de cobertura da dívida não ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 310
+Offset 120902, length 8, Rule ID: CRASE_CONFUSION
+Message: Esta palavra rege-se com a preposição “a”.
+Suggestion: aderiu à
+...$28.255, respectivamente.   A Companhia aderiu a modalidade:    I.  Pagamento à vista e ...
+                                           ^^^^^^^^
+Erro: 311
+Offset 122408, length 4, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: a; IN
+... de 25  de abril de 2018, que modificou a IN RFB no 1.784, de 19 de janeiro de 2018....
+                                           ^^^^
+Erro: 312
+Offset 142962, length 1, Rule ID: CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL
+Message: O pronome relativo ‘cujo’ tem de estar ligado a nome/adj/numeral.
+...tante envolvido nesses  processos, cuja a probabilidade é possível de perda, é de...
+                                           ^
+Erro: 313
+Offset 145499, length 9, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: tendo
+...ransparência (Programa de integridade), o que tem efetivamente realizado, com  a formaliz...
+                                           ^^^^^^^^^
+Erro: 314
+Offset 150958, length 23, Rule ID: QUE_TER_COMO_POR_NOME_ADJ
+Message: Com o pronome ‘cuja’, o seu texto poderia ficar mais claro e elegante.
+Suggestion: cuja finalidade será
+...tribuição dos dividendos  obrigatórios, que terá por finalidade financiar as operações da Companhia. Em...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 315
+Offset 154077, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...iretas e reflexas) em moeda estrangeira e que são  avaliadas pelo método de equivalência ...
+                                           ^^^^^^^^^
+Erro: 316
+Offset 162104, length 15, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: calculado
+...o monitoramento de riscos é constante,  sendo calculado pelo menos duas vezes ao dia.    60    ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 317
+Offset 176792, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: apropriadas
+...or valores aproximados aos de mercado,  sendo apropriadas as respectivas receitas e despesas e es...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 318
+Offset 183196, length 21, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não realizar nenhum; não realizar nenhuma; não, realizar qualquer
+...tratégia adotada, a Companhia optou por não realizar qualquer  desembolso financeiro, firmando os con...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 319
+Offset 185034, length 19, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: excluídas
+...Indústria e Comércio de  Alimentos S.A, que foram excluídas nos fluxos de caixa da controladora fin...
+                                           ^^^^^^^^^^^^^^^^^^^

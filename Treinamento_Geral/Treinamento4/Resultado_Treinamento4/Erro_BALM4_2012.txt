@@ -1,0 +1,36 @@
+Erro: 1
+Offset 1803, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...as  são  apresentadas  em  Real  (R$),  que  é  a  moeda  funcional da Companhia.        ...
+                                           ^^^^^^^^^
+Erro: 2
+Offset 2617, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: considerada
+...imado pela administração da Companhia,  sendo  considerada  suficiente  para  cobrir  eventuais  p...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 11344, length 10, Rule ID: PARONYM_INICIO_169
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: No início
+...  e  modernização  do  parque  fabril;  No  inicio do ano de 2011 a Baumer recebeu do BNDE...
+                                           ^^^^^^^^^^
+Erro: 4
+Offset 11404, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+... 2011 a Baumer recebeu do BNDES o valor liquido de R$ 1,1 milhão.   No ano de 2011 a Ba...
+                                           ^^^^^^^
+Erro: 5
+Offset 14987, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...e até 3%(três por cento) do faturamento liquido do exercício para  os honorários anuais...
+                                           ^^^^^^^
+Erro: 6
+Offset 17774, length 21, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não possui nenhum; não possui nenhuma; não, possui quaisquer
+... demonstrações financeiras, a Companhia não  possui quaisquer eventos subseqüentes que mereçam destaq...
+                                           ^^^^^^^^^^^^^^^^^^^^^

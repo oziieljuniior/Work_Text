@@ -1,0 +1,48 @@
+Erro: 98
+Offset 3084, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+... consolidadas são apresentadas em Real, que é a  moeda funcional da Companhia.   2.1.3....
+                                           ^^^^^^^
+Erro: 99
+Offset 6470, length 75, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja possível estimar os valores de forma confiável e cuja liquidação, seja
+...resultante de  eventos passados, em que seja possível estimar os valores de forma confiável e cuja liquidação  seja provável considerando a melhor estimati...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 100
+Offset 7222, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a receber esperado sobre o lucro, ou
+... O imposto corrente é o imposto a pagar ou a receber esperado sobre o lucro ou prejuízo  tributável do exercício, a ta...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 101
+Offset 10985, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...ado contabilmente em fevereiro de 2018, em contrapartida a conta de resultado a época. Desde  en...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 102
+Offset 12983, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...izado num projeto cujo objetivo é venda através de fracionamento da área em chácaras   de ...
+                                           ^^^^^^^^^^
+Erro: 103
+Offset 16502, length 10, Rule ID: CRASE_CONFUSION
+Message: Esta palavra rege-se com a preposição “a”.
+Suggestion: procedeu à
+...mento de parcelas. A  administração não procedeu a atualização do montante devido.        ...
+                                           ^^^^^^^^^^
+Erro: 104
+Offset 21471, length 20, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: subscritos
+...o de capital – o montante de R$ 34.983, que foram subscritos e integralizados em abril  de 2019, os ...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 105
+Offset 24812, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não possui nenhum; não possui nenhuma; não, possui quaisquer
+...ou quaisquer  outros ativos de riscos e não possui quaisquer operações de “swap”, atividade de hedge...
+                                           ^^^^^^^^^^^^^^^^^^^^

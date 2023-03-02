@@ -1,0 +1,108 @@
+Erro: 20
+Offset 2345, length 20, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: o lucro não foi; o lucro não fora
+... renda  e  contribuição  social  sobre  o  lucro  não  foram  constituídas em razão de ajustes ao lu...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 21
+Offset 2421, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...m razão de ajustes ao lucro tributável, através de adições e ou exclusões,  que resultaram...
+                                           ^^^^^^^^^^
+Erro: 22
+Offset 2440, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...ao lucro tributável, através de adições e ou exclusões,  que resultaram em prejuízo ...
+                                           ^^^^
+Erro: 23
+Offset 4741, length 4, Rule ID: ETC_USAGE
+Message: Deve-se utilizar a vírgula antes de ‘etc.’.
+Suggestion: , etc
+...) considerando as benfeitorias, culturas etc.  Em  reunião  do  Conselho  de  Admini...
+                                           ^^^^
+Erro: 24
+Offset 9247, length 32, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: seus assessores jurídicos têm
+...  reservas.  A  Companhia  através  de  seus  assessores  jurídicos  tem  envidado  esforços  na  tentativa  de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 25
+Offset 10359, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...fundamento legítimo, assim como outros, encontram-se prescritos e ou foram considera...
+                                           ^^^^
+Erro: 26
+Offset 12915, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: notícia
+...s a Fazenda recorreu e ainda não se tem noticia sobre quando será julgada.  Nesta ação,...
+                                           ^^^^^^^
+Erro: 27
+Offset 14961, length 8, Rule ID: PARONYM_INICIO_169
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: o início
+...rojeto de Lei vem sendo discutido desde o inicio de 2010. Com a  nova  gestão  municipal...
+                                           ^^^^^^^^
+Erro: 28
+Offset 15076, length 15, Rule ID: TER_PARTICIPIO-PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: encontra
+... janeiro  de  2013,  o  nosso  projeto  tem  encontrado  o  apoio  necessário  e  decisivo  par...
+                                           ^^^^^^^^^^^^^^^
+Erro: 29
+Offset 15467, length 29, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: o presente momento não tem
+...ida alteração de rural para urbana, até o presente momento  não temos nenhuma resposta oficial positiva.  Até...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 30
+Offset 15698, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Porém, no
+...ojeto, nenhuma ação definitiva ocorreu. Porém no inicio  do  atual  exercício  de  2014,...
+                                           ^^^^^^^^
+Erro: 31
+Offset 15707, length 6, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: início
+...nhuma ação definitiva ocorreu. Porém no inicio  do  atual  exercício  de  2014,  o  ex...
+                                           ^^^^^^
+Erro: 32
+Offset 18161, length 14, Rule ID: QUE_SUBJ_VS_INF_PESS
+Message: Esta perífrase pode ser simplificada.
+Suggestion: se poder
+...concluir  o  corte  remanescente  para  que  se  possa  efetuar  um  novo  replantio  na  part...
+                                           ^^^^^^^^^^^^^^
+Erro: 33
+Offset 19099, length 17, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: desenvolver
+...to  eucalipto  em  Pirapora e até mesmo vir a desenvolver um projeto de bambu. Quando concluirmos...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 34
+Offset 20454, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...e de 30 de agosto de 2012, consiste em, através de sua controlada Newrealty  Empreendiment...
+                                           ^^^^^^^^^^
+Erro: 35
+Offset 22271, length 4, Rule ID: ETC_USAGE
+Message: Deve-se utilizar a vírgula antes de ‘etc.’.
+Suggestion: , etc
+...uras de  telhados (vigas, caibros, ripas etc.), moveis, utensílios domésticos, fibra...
+                                           ^^^^
+Erro: 36
+Offset 22500, length 10, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: específica
+...)  A  cultura  esta  amparada  em  Lei  especifica  já  sancionada pela Presidência da Rep...
+                                           ^^^^^^^^^^
+Erro: 37
+Offset 23299, length 5, Rule ID: ETC_USAGE
+Message: Deve-se utilizar a vírgula antes de ‘etc.’.
+Suggestion: , etc
+...a  propriedade,  benfeitorias,  culturas  etc.   A Newrealty Empreendimentos Imobiliá...
+                                           ^^^^^

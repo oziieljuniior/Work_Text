@@ -1,0 +1,143 @@
+Erro: 129
+Offset 1264, length 19, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não possui nenhum; não possui nenhuma; não, possui qualquer
+...considerando que atualmente a Companhia não possui qualquer alavancagem  financeira. O indicador de...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 130
+Offset 1458, length 13, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: Com relação à
+...m R$4.479 e no consolidado em R$15.105. Com relação a reversão  do prejuízo apresentado no ex...
+                                           ^^^^^^^^^^^^^
+Erro: 131
+Offset 9209, length 14, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+...onhecimento dessas estimativas, poderão ser diferentes dos valores  reconhecidos nas presentes...
+                                           ^^^^^^^^^^^^^^
+Erro: 132
+Offset 10532, length 8, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+... consolidadas são apresentadas em Real, que é  a moeda funcional da Companhia. Todas as ...
+                                           ^^^^^^^^
+Erro: 133
+Offset 15727, length 16, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou presumidas, ou
+...a em que incorrer em obrigações legais  ou presumidas ou assumiu obrigações em nome da investida...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 134
+Offset 17043, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...a sua  capacidade de continuar operando e, portanto, concluiu que é adequado a utilização  ...
+                                           ^^^^^^^^^^^
+Erro: 135
+Offset 17065, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: ser
+...ontinuar operando e, portanto, concluiu que é adequado a utilização  do pressuposto d...
+                                           ^^^^^
+Erro: 136
+Offset 19679, length 13, Rule ID: SER_CAPAZ_DE_CONSEGUIR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: conseguirá
+...idência objetiva de que a Companhia não será capaz de cobrar todos os  valores devidos de aco...
+                                           ^^^^^^^^^^^^^
+Erro: 137
+Offset 19990, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; por isso
+...das esperadas descrito no IFRS 9/CPC 48 e, por isso, quando material, a  Companhia reconhec...
+                                           ^^^^^^^^^^^
+Erro: 138
+Offset 22291, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ajustados, em contrapartida
+...es do contas a receber de  clientes são ajustados em contrapartida as receitas de imóveis vendidos, bem co...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 139
+Offset 32213, length 11, Rule ID: CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL
+Message: O pronome relativo ‘cujo’ tem de estar ligado a nome/adj/numeral.
+...presumido: aplicável às sociedades cujo faturamento anual do exercício  imediatamente anter...
+                                           ^^^^^^^^^^^
+Erro: 140
+Offset 37263, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...urante a fase de construção do projeto, através de recursos próprios e/ou  obtenção de fin...
+                                           ^^^^^^^^^^
+Erro: 141
+Offset 46324, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...mo imóveis a comercializar de terrenos, em contrapartida de  adiantamento de clientes no passivo...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 142
+Offset 47262, length 29, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: constituída, em contrapartida
+...os no período de garantia. A provisão é constituída em  contrapartida do resultado (custo) à medida que os cu...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 143
+Offset 51843, length 69, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...cável,  conclusões de inspeções fiscais ou exposições adicionais identificadas com base  em novos assuntos ou decisões de tribunais;                 ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 144
+Offset 53292, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: registrado
+...ctivos  somados  aos  empreendimentos,  sendo  registrado  no  grupo  Débitos  com  parceiros  em...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 145
+Offset 56003, length 20, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: detidos para
+...io do resultado. Os ativos financeiros  que são detidos para negociação e gerenciados com base no ju...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 146
+Offset 60870, length 15, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: Significando
+...rculante. As alterações esclarecem:   • O que significa um direito de postergar a liquidação;  ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 147
+Offset 69366, length 17, Rule ID: PHRASAL_VERB_RESIDIR_EM
+Message: Erro de regência. Dependendo do significado, escolha:
+Suggestion: Moro em Incorporação; Moro com Incorporação
+...  Madiere Incorporação Ltda.  Venta Del Moro Incorporação SPE Ltda.  NDA Construções Ltda. / Alfa...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 148
+Offset 83047, length 10, Rule ID: CHAMAR_DENOMINAR_DE
+Message: Os verbos ‘chamar’ e ‘denominar’ são pronominais, a redação correta é sem preposição.
+Suggestion: chamado
+...iu o Programa de Parcelamento Especial, chamado de REFIS IV.  A opção pelos parcelamentos ...
+                                           ^^^^^^^^^^
+Erro: 149
+Offset 83524, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: obrigatória
+...das pela Secretaria da Receita Federal, sendo obrigatória a  desistência de eventual discussão ju...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 150
+Offset 110356, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis para
+...m mercados ativos incluídos no Nível 1  que são observáveis para o ativo ou passivo, diretamente (como p...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 151
+Offset 115412, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativos à
+...execução e  acompanhamento dos serviços relativos a assistência técnica. As receitas de pre...
+                                           ^^^^^^^^^^^
+Erro: 152
+Offset 120035, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+... não  representaram desembolso de caixa e, portanto, não foram apresentadas nas Demonstraçõ...
+                                           ^^^^^^^^^^^

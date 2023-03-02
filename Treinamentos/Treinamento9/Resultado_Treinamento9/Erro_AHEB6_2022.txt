@@ -1,0 +1,54 @@
+Erro: 65
+Offset 4506, length 13, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: Agora
+...o  de  registro  de  companhia  aberta. Neste momento, a decisão de realização da referida OP...
+                                           ^^^^^^^^^^^^^
+Erro: 66
+Offset 9193, length 25, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...ro  de  2021,  estão  sendo  ajustadas  levando  em  consideração  o  cenário  econômico  e  os  riscos  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 67
+Offset 11856, length 25, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas  poderá resultar em valores diferentes dos esti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 68
+Offset 16312, length 12, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e farão
+...ue serão realizados em períodos futuros e que  farão  parte  de  encontro  de  contas  contr...
+                                           ^^^^^^^^^^^^
+Erro: 69
+Offset 26454, length 25, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: considerando
+...l  e  cotados  junto  a  fornecedores,  levando  em  consideração  a  política  de  investimento para def...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 70
+Offset 44139, length 8, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...ponentes  de  negócios  da  Companhia,  que  são  regularmente  revisados  pelo  princip...
+                                           ^^^^^^^^
+Erro: 71
+Offset 50039, length 23, Rule ID: WORDINESS
+Message: Expressão desnecessariamente complexa. Procure alternativas.
+Suggestion: consideram
+... feitas  em  condições  exclusivas,  e  levam  em  consideração  os  custos,  taxa  de  administração, ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 72
+Offset 52979, length 22, Rule ID: REFLEXIVE_VERB_SE_AGREEMENT
+Message: O verbo aqui concorda com o objecto portanto deve utilizar o verbo no plural.
+Suggestion: entendais-se os membros; entendei-se os membros; entendem-se os membros
+...021 foi de R$ 587. Como pessoal- chave  entende-se  os membros  da  Diretoria Executiva, os membros  d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 73
+Offset 53307, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...ubsequentes até 08 de novembro de 2022, que é a  data de entrega, por sua Diretoria, ...
+                                           ^^^^^

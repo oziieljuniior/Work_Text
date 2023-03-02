@@ -1,0 +1,366 @@
+Erro: 91
+Offset 13312, length 8, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: créditos
+...s, fiscais e trabalhistas Provisão para creditos de liquidação duvidosa  (AUMENTO) REDUÇ...
+                                           ^^^^^^^^
+Erro: 92
+Offset 18229, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Remunerações,
+...BUIÇÃO DO VALOR ADICIONADO Pessoal      Remunerações     Encargos sociais (exceto INSS)     ...
+                                           ^^^^^^^^^^^^
+Erro: 93
+Offset 22963, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sejam
+...ica  e  serviços  correlatos  que  lhe  venham  a  ser  concedidos  ou  autorizados,  e  ativi...
+                                           ^^^^^^^^^^^^^^
+Erro: 94
+Offset 26581, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores  significativame...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 95
+Offset 27354, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...ntadas  em  milhares  de  Reais  (R$),  que  é  a  moeda  funcional da Companhia.    Na  ...
+                                           ^^^^^^^^^
+Erro: 96
+Offset 28090, length 5, Rule ID: QUANDO_POSSA_SER
+Message: Substitua por “puder”.
+Suggestion: puder
+...erão  gerados para a Companhia e quando possa ser mensurada de forma confiável. A rec...
+                                           ^^^^^
+Erro: 97
+Offset 32954, length 75, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou valores passíveis de compensação são demonstrados no ativo circulante, ou
+... balanço patrimonial.   As antecipações ou valores passíveis de compensação são demonstrados no ativo circulante ou  não circulante, de acordo com a previs...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 98
+Offset 33800, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...sto  também é reconhecido no patrimônio liquido.   O  imposto  corrente  é  o  imposto ...
+                                           ^^^^^^^
+Erro: 99
+Offset 33858, length 55, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a receber/compensar esperado sobre o lucro, ou
+...sto  corrente  é  o  imposto  a  pagar  ou  a  receber/compensar  esperado  sobre  o  lucro  ou  prejuízo tributável do exercício. Para...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 100
+Offset 36241, length 14, Rule ID: SIMPLIFICAR_CONVERTER_PARA_VERBO_INFINITIVO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: para poder
+...texto  da  referida  Medida  Provisória para que possa decidir sobre sua adoção antecipada den...
+                                           ^^^^^^^^^^^^^^
+Erro: 101
+Offset 47680, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reavaliados
+...ntrato  de  derivativo  é  contratado,  sendo  reavaliados subseqüentemente também ao valor justo....
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 102
+Offset 49263, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: demonstradas
+...zado com base no regime de competência, sendo demonstradas pelo valor de  realização. São consider...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 103
+Offset 52297, length 7, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e é
+...consiste na remuneração do investimento e que é cobrada  mensalmente na tarifa dos clie...
+                                           ^^^^^^^
+Erro: 104
+Offset 52704, length 15, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: corrigida
+... reajuste da denominada Base Tarifária, que é corrigida anualmente por esse  índice.  Diferença...
+                                           ^^^^^^^^^^^^^^^
+Erro: 105
+Offset 52868, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...purado  são  reconhecidas no patrimônio liquido como Outros Resultados Abrangentes.    ...
+                                           ^^^^^^^
+Erro: 106
+Offset 53427, length 33, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou adquirida pelo operador, ou
+...  uso  da  infraestrutura,  construída  ou  adquirida  pelo  operador  ou  fornecida  para  ser  utilizada  pela ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 107
+Offset 54647, length 18, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não haver nenhum; não haver nenhuma; não, haver qualquer
+...do de outra forma   A Companhia entende não haver qualquer indicativo de que o valor contábil dos ...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 108
+Offset 54959, length 26, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: estão custo históricos; está custo histórico
+...ue  enquanto  os  registros  contábeis  estão  a  custo  histórico  a  base  de  cálculo  da  amortização ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 109
+Offset 56537, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...  •  Taxa  média  de  desconto  obtida  através  de  metodologia  usualmente  aplicada  pel...
+                                           ^^^^^^^^^^^
+Erro: 110
+Offset 58692, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+....  Seu  valor  anual  é  regulamentado  através  de  despachos  emitidos  pela  Superintend...
+                                           ^^^^^^^^^^^
+Erro: 111
+Offset 59283, length 25, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: acionadas para
+...  o  combustível  usado  nas  térmicas  que  são  acionadas  para  garantir as incertezas hidrológicas; e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 112
+Offset 62251, length 15, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e estejam
+...e os dividendos propostos a serem pagos e  que  estejam  fundamentados  em  obrigações  estatut...
+                                           ^^^^^^^^^^^^^^^
+Erro: 113
+Offset 64231, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: acumuladas para
+... de uma unidade adicional de benefício, que são acumuladas para o cômputo da obrigação final.  O objeti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 114
+Offset 66399, length 70, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...cável, conclusões de inspeções  fiscais ou exposições  adicionais identificadas com base em  novos assuntos ou decisões de tribunais. Os resultados re...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 115
+Offset 76036, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e foram
+...reram, líquidos dos efeitos tributários e que foram ajustados contra lucros acumulados  no ...
+                                           ^^^^^^^^^^^
+Erro: 116
+Offset 96494, length 8, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...dministração  identificou  julgamentos  que  têm  efeito  significativo  sobre  os  valo...
+                                           ^^^^^^^^
+Erro: 117
+Offset 101135, length 70, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...l,  conclusões  de  inspeções  fiscais  ou  exposições  adicionais identificadas com base em novos assuntos ou decisões de tribunais.   e)  Provisão p...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 118
+Offset 101928, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+... vencidos há mais de 360 dias, bem como através  de análise criteriosa para os clientes com...
+                                           ^^^^^^^^^^^
+Erro: 119
+Offset 103095, length 14, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...nível  de  lucros  tributáveis futuros, juntamente com estratégias de planejamento fiscal futu...
+                                           ^^^^^^^^^^^^^^
+Erro: 120
+Offset 125582, length 20, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: utilizado para
+...acompanhamento  e  controle de valores, que é utilizado para apuração de custos referentes aos servi...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 121
+Offset 136871, length 24, Rule ID: QUE_TER_COMO_POR_NOME_ADJ
+Message: Com o pronome ‘cujo’, o seu texto poderia ficar mais claro e elegante.
+Suggestion: cujo objetivo é
+... -  Regime  Tributário  de  Transição,  que  tem  como  objetivo  neutralizar  os  impactos dos novos mé...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 122
+Offset 142607, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: utilizados
+...portes  são  feitos  pela  Eletrobrás,  sendo  utilizados  diretamente  para  pagamento  das  des...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 123
+Offset 147559, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...ção; e   (cid:2)  O  preço  é regulado  através  de  mecanismo  de  tarifa  estabelecido  n...
+                                           ^^^^^^^^^^^
+Erro: 124
+Offset 151195, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: classificada no
+... (b)  Redistribuição da infra-estrutura que é classificada no ativo financeiro e no ativo intangível ...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 125
+Offset 155593, length 18, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e representa
+...a  efeitos  contábeis  e  regulatórios  e  que  representa  a  melhor  estimativa de vida útil dos...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 126
+Offset 161158, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e estão
+...os  pelas  distribuidoras às geradoras, e que estão sendo contestados pelos concessionários...
+                                           ^^^^^^^^^^^
+Erro: 127
+Offset 194998, length 36, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: os dividendos mínimos obrigatórios são
+...es ordinárias.   A base de cálculo para os dividendos mínimos obrigatórios é como segue:   Dividendos mínimos - sobr...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 128
+Offset 202857, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e tem
+...quais  a  Companhia  figura  como  ré,  e  que  tem  por  objeto  indenizações  por  morte,...
+                                           ^^^^^^^^^^^
+Erro: 129
+Offset 212478, length 7, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+...  entanto,  a  Receita  Federal  alega  que  há  saldo  devedor  em  desfavor  da  Comp...
+                                           ^^^^^^^
+Erro: 130
+Offset 214433, length 6, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: a; PER
+...ecisório  considerando  não  declarada  a  PER/DCOMP   que  compensou  a  COFINS  de  ...
+                                           ^^^^^^
+Erro: 131
+Offset 214690, length 7, Rule ID: FRAGMENT_TWO_PREPOSITIONS
+Message: Duas preposição seguidas. Verifique.
+Suggestion: de; PER
+... ter sido  feita  após  a  homologação  de  PER/DCOMP  que  compensou  o  crédito  orig...
+                                           ^^^^^^^
+Erro: 132
+Offset 219278, length 15, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...,  recurso  administrativo  na  ANEEL,  juntamente  com Pedido de Termo de Compromisso de Ajust...
+                                           ^^^^^^^^^^^^^^^
+Erro: 133
+Offset 220986, length 17, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...e  serão  executados  pela  Companhia,  em  contrapartida  de  serviços  prestados  a  terceiros ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 134
+Offset 229154, length 19, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: correspondendo
+...componentes  financeiros  pertinentes,  o  que  corresponde  a  um  efeito médio de -7,92% a ser pe...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 135
+Offset 264167, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...es  cativos),  com  valores  definidos  através  de  tarifas  reguladas  pela ANEEL.   (h) ...
+                                           ^^^^^^^^^^^
+Erro: 136
+Offset 267713, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; por isso
+...nsiderados como mantido para negociação e por  isso, classificados como mensurados a valor ...
+                                           ^^^^^^^^^^^
+Erro: 137
+Offset 270718, length 16, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: utilizadas
+...a equivalente, divulgadas pela ANBIMA,  sendo utilizadas como projeção dos seus indicadores as c...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 138
+Offset 272610, length 24, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou não como ativo, ou
+...inanceiros  derivativos,  reconhecidos  ou  não  como  ativo  ou  passivo  no  balanço  patrimonial,  ta...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 139
+Offset 273813, length 28, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: registradas, em contrapartida
+...rumento  destinado  à  proteção  foram  registradas em contrapartida da conta de receita ou despesa financei...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 140
+Offset 277737, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: pois, estes
+... similar ao valor contábil  registrado, pois estes têm  taxas  de  juros  indexadas  à  cu...
+                                           ^^^^^^^^^^
+Erro: 141
+Offset 279715, length 23, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: esses ativos não existem
+...o  descritos  nesta  demonstração. Para esses ativos não existe mercado ativo, e uma vez que todas as c...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 142
+Offset 282983, length 27, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis para
+...cados  ativos  incluídos  no  Nível  1  que  são  observáveis  para  o  ativo  ou  passivo,  diretamente  (...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 143
+Offset 288641, length 6, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+...a  Administração  da  Sociedade entende que há necessidade de considerar os passivos c...
+                                           ^^^^^^
+Erro: 144
+Offset 290156, length 16, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...undo  da  possibilidade  da  Companhia  vir  a  incorrer  em  perdas  por  conta  de  flutuações...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 145
+Offset 293819, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...ncimento.  Este  risco  é  controlado,  através  de  um  planejamento  criterioso  dos recu...
+                                           ^^^^^^^^^^^
+Erro: 146
+Offset 294066, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...amento do fluxo de caixa  da  empresa,  através  de  projeções  de  curto  e longo  prazo, ...
+                                           ^^^^^^^^^^^
+Erro: 147
+Offset 296914, length 16, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...urge  da  possibilidade  da  Companhia  vir  a  incorrer  em  perdas  resultantes  da  dificulda...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 148
+Offset 299760, length 17, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrerem
+... oriundo da  possibilidade das empresas virem a  incorrer  em  perdas  resultantes  da  dificulda...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 149
+Offset 319165, length 8, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...ção  e  desenvolvimento  profissional,  que  são  periodicamente  negociadas  por  ocasi...
+                                           ^^^^^^^^
+Erro: 150
+Offset 324373, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...melhoria da arborização urbana e rural, através  de  cursos  de  qualificação  para  profis...
+                                           ^^^^^^^^^^^
+Erro: 151
+Offset 326511, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e tem
+...dos  em  programas  de  investimentos,  e  que  tem  por  motivadores  os  “condicionantes ...
+                                           ^^^^^^^^^^^

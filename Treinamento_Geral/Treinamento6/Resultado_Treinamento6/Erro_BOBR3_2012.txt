@@ -1,0 +1,155 @@
+Erro: 1
+Offset 1644, length 13, Rule ID: TER_PARTICIPIO-PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: coloca
+...)      Bombril S.A.   A  Administração  tem  colocado  em  ação  uma  série  de  medidas  vis...
+                                           ^^^^^^^^^^^^^
+Erro: 2
+Offset 3287, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...e distribuição   comercial e logística, através de projeto de “Go to Market” entre outros....
+                                           ^^^^^^^^^^
+Erro: 3
+Offset 12741, length 13, Rule ID: SER_CAPAZ_DE_CONSEGUIR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: conseguirá
+...a  objetiva  de  que  a  Companhia  não será capaz de cobrar todos os valores devidos de acor...
+                                           ^^^^^^^^^^^^^
+Erro: 4
+Offset 18244, length 29, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou despesas tributáveis, ou
+...  resultado,  porque  exclui  receitas  ou  despesas  tributáveis  ou  dedutíveis  em  outros  exercícios,  a...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 19838, length 30, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja liquidado ou o ativo, seja
+...período no qual se espera que o passivo seja liquidado ou o ativo seja realizado, com  base nas alíquotas prev...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 21169, length 77, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...l,  conclusões  de  inspeções  fiscais  ou  exposições  adicionais  identificadas  com  base  em  novos  assuntos  ou  decisões  de  tribunais.   n.  Instrum...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 30155, length 12, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: incluindo
+...  pertinentes  na  data  de  aquisição, o que inclui a segregação por parte da adquirente, d...
+                                           ^^^^^^^^^^^^
+Erro: 8
+Offset 31477, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...s  são  apresentadas  em  reais  (R$),  que  é  a  moeda  funcional de apresentação da Bo...
+                                           ^^^^^^^^^
+Erro: 9
+Offset 45979, length 8, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: aluguéis
+...eniente  de  operações  comerciais  de  alugueis  de  bens  do  ativo  imobilizado e mov...
+                                           ^^^^^^^^
+Erro: 10
+Offset 74897, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+... valores  atribuídos foram determinados através de laudo de avaliação preparado por empres...
+                                           ^^^^^^^^^^
+Erro: 11
+Offset 86758, length 13, Rule ID: SIMPLIFICAR_CONVERTER_PARA_VERBO_INFINITIVO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: para ser
+...omar  todas as providências necessárias para que seja efetuada a transmissão dos títulos, no ...
+                                           ^^^^^^^^^^^^^
+Erro: 12
+Offset 88199, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: não obstante,
+...juros  cessa  em  fevereiro  de  2007,  não  obstante  o   alongamento do prazo de quitação d...
+                                           ^^^^^^^^^^^^^
+Erro: 13
+Offset 89244, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: não obstante,
+...idência de juros cessa em maio de 2007, não obstante o alongamento do   prazo de quitação do...
+                                           ^^^^^^^^^^^^
+Erro: 14
+Offset 99249, length 17, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: representando
+... de  mora  e  de 100% do encargo legal, o que  representa  uma  redução  no  total  da  dívida  d...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 15
+Offset 102696, length 1, Rule ID: CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL
+Message: O pronome relativo ‘cujo’ tem de estar ligado a nome/adj/numeral.
+... temporárias e prejuízos  fiscais cujos (créditos) débitos não foram registrados ...
+                                           ^
+Erro: 16
+Offset 117616, length 16, Rule ID: QUE_SUBJ_VS_INF_PESS
+Message: Esta perífrase pode ser simplificada.
+Suggestion: se obter
+...ão  provisionados  e  atualizados  até  que  se  obtenha  uma  decisão final.    Adicionalmente,...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 17
+Offset 124090, length 12, Rule ID: QUE_ESTAR_CONTRACAO_PREPOSICAO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: em
+...ureza civil, trabalhistas e tributárias que estão em andamento. As estimativas de  perda par...
+                                           ^^^^^^^^^^^^
+Erro: 18
+Offset 127873, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: a Companhia não detém
+...ro por ação diluído.   Adicionalmente,  a  Companhia  não  detêm  outros  instrumentos  que  não  foram ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 19
+Offset 135845, length 9, Rule ID: ETC_USAGE
+Message: ‘etc.’ não deve ser precedido por ‘e’.
+Suggestion: , etc.
+... pretende cobrir (câmbio, taxa de  juros  e  etc.),  a  qual  é  aprovada  pelo  Conselho...
+                                           ^^^^^^^^^
+Erro: 20
+Offset 137921, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: cotados em
+...influencia o preço de  alguns  insumos  que  são  cotados  em  moeda  estrangeira  e  pode  afetar  p...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 21
+Offset 150195, length 6, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: câmbio
+...  considerando esta variação na taxa de cambio sobre os saldos em 31 de dezembro de  2...
+                                           ^^^^^^
+Erro: 22
+Offset 152094, length 26, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: requeridas pela
+...sobre  seus  instrumentos  financeiros  que  são  requeridas  pela  Instrução  CVM  no  478  de  17  de  d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 23
+Offset 152557, length 10, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: os
+... prejuízos materiais para  a Companhia, que são os mesmos divulgados na nota explicativa n...
+                                           ^^^^^^^^^^
+Erro: 24
+Offset 152756, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e é
+...tro  do  esperado  para  a  Companhia,  e  que  é  referenciada  por  fonte externa indep...
+                                           ^^^^^^^^^
+Erro: 25
+Offset 154887, length 27, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis para
+...ços  cotados  incluídos  no  Nível  1,  que  são  observáveis  para  o  ativo  ou  passivo diretamente (ou ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 26
+Offset 155340, length 25, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensurados pelo
+...nálise  dos  instrumentos  financeiros  que  são  mensurados pelo valor justo após o reconhecimento inici...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
