@@ -1,6 +1,8 @@
 #Biblioteca suporte para extração de texto, reconhecimento do texto como string
 from io import StringIO
 
+import time
+
 #Biblioteca para extração de texto
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
@@ -38,7 +40,7 @@ indice_excel = 1
 
 
 #Configuração da biblioteca para análise textual 
-tool = lt.LanguageTool("pt-BR")
+#tool = lt.LanguageTool("pt-BR")
         
 
 
@@ -75,6 +77,10 @@ for caminho in lista_caminho:
 
     #Contador dos erros locais de cada empresa
     erro_local = 0
+
+    tool = lt.LanguageTool("pt-BR", config = {'requestLimit' : 10, 'timeoutRequestLimit': 60})
+    print("Conectado ao servidor ...")
+    
     #Condicional para realizar a captura e análise textual
     if len(caminho_pdf) != 0:
         caminho_pdf.sort()
@@ -100,6 +106,7 @@ for caminho in lista_caminho:
             
             #configurando texto txt
             path_texto_original = path_texto +"/"+ titulo
+            print(path_texto_original)
             texto_txt = open(path_texto_original, 'x', encoding = 'utf-8')
             
             #Configuração para extração do texto
@@ -115,6 +122,9 @@ for caminho in lista_caminho:
                     interpreter.process_page(page)
             #variavel de retorno da extração do texto
             text = output_string.getvalue()
+            bad = ['\n', '\r','\t','\n\x0c','1','2','3','4','5','6','7','8','9','0','*','-','/','%','$','(.)','(..)','(...)','()','( )','(   )',',.','..','+']
+            for name in bad:
+                text = text.replace(name, '')
             texto_txt.write(text)
             print("Extração de texto completa!")
             texto_txt.close()
@@ -124,7 +134,22 @@ for caminho in lista_caminho:
             #Análise textual
             print("Analisando erros")
             print(dt.datetime.now().strftime("%H:%M:%S"))
-            matches = tool.check(text)
+            z = 0
+
+            while z <= 20:
+                try:
+                    matches = tool.check(text)
+                    print(len(matches))
+                            
+                    z = 21
+                except lt.utils.LanguageToolError:
+                   print('Error de conexão. Tentando novamente ...')
+                   time.sleep(5)
+                   tool = lt.LanguageTool("pt-BR", config = {'requestLimit' : 10, 'timeoutRequestLimit': 60})
+                   z += 1
+                   continue
+
+            print('Procurando erros ... ')
             erros_apontados = len(matches)
             #criação de arquivo txt para relatório local 
             aperro = open(path_relatorio, 'x', encoding='utf-8')
@@ -132,10 +157,11 @@ for caminho in lista_caminho:
             erro_anual = 0
             
             for i in range(0, erros_apontados):
-                #PORTUGUESE_WORD_REPEAT_BEGINNING_RULE -> Verificar possibilidade de retirar números do relatório
-                if matches[i].ruleId == 'O_FACTO_DA_ACÇÃO' or matches[i].ruleId == 'LINKING_VERB_PREDICATE_AGREEMENT' or matches[i].ruleId == 'GENERAL_VERB_AGREEMENT_ERRORS' or matches[i].ruleId == 'FORMAL_PRA_PARA' or matches[i].ruleId == 'À_MEDIDA_EM_QUE' or matches[i].ruleId == 'DIACRITICS' or matches[i].ruleId == 'LP_PARONYMS' or matches[i].ruleId == 'PARONYM_CALCULO_606' or matches[i].ruleId == 'PARONYM_OFICIO_227' or matches[i].ruleId == 'PARONYM_BENEFICIO_43' or matches[i].ruleId == 'PHRASAL_VERB_EM' or matches[i].ruleId == 'A_NIVEL' or matches[i].ruleId == 'PARONYM_ACIDULA_1' or matches[i].ruleId == 'VERB_COMMA_CONJUNCTION' or matches[i].ruleId == 'ALTERNATIVE_CONJUNCTIONS_COMMA' or matches[i].ruleId == 'FRAGMENT_TWO_PREPOSITIONS' or matches[i].ruleId == 'CONTRACOES_OBRIGATORIAS' or matches[i].ruleId == 'REDUNDANT_CONJUNCTIONS' or matches[i].ruleId == 'GENERAL_PRONOMIAL_COLOCATIONS' or matches[i].ruleId == 'HAVER' or matches[i].ruleId == 'FRAGMENT_TWO_ARTICLES' or matches[i].ruleId == 'PHRASAL_VERB_A' or matches[i].ruleId == 'REFLEXIVE_VERB_SE_AGREEMENT' or matches[i].ruleId == 'PARONYM_INICIO_169' or matches[i].ruleId == 'ATRAVES_DE_POR' or matches[i].ruleId == 'TODOS_FOLLEWED_BY_NOUN_PLURAL' or matches[i].ruleId == 'CRASE_CONFUSION_2' or matches[i].ruleId == 'SIMPLIFICAR_QUE_E_TEM_TÊM' or matches[i].ruleId == 'CRASE_CONFUSION' or matches[i].ruleId == 'CHAMAR_DENOMINAR_DE' or matches[i].ruleId == 'SIMPLIFICAR_CONVERTER_PARA_VERBO_INFINITIVO' or matches[i].ruleId == 'E_QUE_VERBO_E_VERBO' or matches[i].ruleId == 'SIMPLIFICAR_QUE_E_TEM_TÊM' or matches[i].ruleId == 'VERB_QUE_É_VERB_SER' or matches[i].ruleId == 'REDUNDANCY_REPLACE' or matches[i].ruleId == 'QUE_É-SÃO_NC-ADJ_COMO-POR' or matches[i].ruleId == 'QUE_TER_COMO_POR_NOME_ADJ' or matches[i].ruleId == 'DIFERENTES' or matches[i].ruleId == 'QUE_VERBO_A_VERBOINFINITIVO' or matches[i].ruleId == 'REDUNDANCY_PAÍSES' or matches[i].ruleId == 'REDUNDANCY_8_AUMENTAR' or matches[i].ruleId == 'QUE_SUBJ_VS_INF_PESS' or matches[i].ruleId == 'QUE_HÁ_QUE_NÃO_HÁ' or matches[i].ruleId == 'ESTAR_CLARO_DE_QUE' or matches[i].ruleId == 'DEPOIS_DE_APÓS' or matches[i].ruleId == 'SER_CAPAZ_DE_CONSEGUIR' or matches[i].ruleId == 'SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO' or matches[i].ruleId == 'QUE_FORAM_FOI_SÃO_É_SENDO' or matches[i].ruleId == 'QUE_FORAM_FOI_SÃO_É_SENDO' or matches[i].ruleId == 'QUE_ESTAR_CONTRACAO_PREPOSICAO' or matches[i].ruleId == 'VIR_A_VERBO_VERBO' or matches[i].ruleId == 'QUANDO_POSSA_SER' or matches[i].ruleId == 'REDUNDANCY_27_EXPRESSAMENTE' or matches[i].ruleId == 'TER_PARTICIPIO-PASSADO' or matches[i].ruleId == 'REDUNDANCY_28_PERMANECER' or matches[i].ruleId == 'CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL' or matches[i].ruleId == 'AULAS-ENSINO_A_DISTANCIA' or matches[i].ruleId == 'GRAMMATICAL_DOUBLE_NEGATIVES' or matches[i].ruleId == 'PARONYM_ARVORE_0' or matches[i].ruleId == 'PARONYM_CONSORCIO_70' or matches[i].ruleId == 'ETC_USAGE' or matches[i].ruleId == 'PHRASAL_VERB_RESIDIR_EM' or matches[i].ruleId == 'REDUNDANCY_34_JUNTAMENTE' or matches[i].ruleId =='PARONYM_AGENCIA_9' or matches[i].ruleId == 'VÍDEO_CONFERÊNCIA' or matches[i].ruleId == 'SOB_O_PONTO_DE_VISTA':
+                #PORTUGUESE_WORD_REPEAT_BEGINNING_RULE -> Verificar possibilidade de retirar números do relatório or matches[i].ruleId == 'FRAGMENT_TWO_PREPOSITIONS'
+                if matches[i].ruleId == 'O_FACTO_DA_ACÇÃO' or matches[i].ruleId == 'LINKING_VERB_PREDICATE_AGREEMENT' or matches[i].ruleId == 'GENERAL_VERB_AGREEMENT_ERRORS' or matches[i].ruleId == 'FORMAL_PRA_PARA' or matches[i].ruleId == 'À_MEDIDA_EM_QUE' or matches[i].ruleId == 'DIACRITICS' or matches[i].ruleId == 'LP_PARONYMS' or matches[i].ruleId == 'PARONYM_CALCULO_606' or matches[i].ruleId == 'PARONYM_OFICIO_227' or matches[i].ruleId == 'PARONYM_BENEFICIO_43' or matches[i].ruleId == 'PHRASAL_VERB_EM' or matches[i].ruleId == 'A_NIVEL' or matches[i].ruleId == 'PARONYM_ACIDULA_1' or matches[i].ruleId == 'VERB_COMMA_CONJUNCTION' or matches[i].ruleId == 'ALTERNATIVE_CONJUNCTIONS_COMMA' or matches[i].ruleId == 'CONTRACOES_OBRIGATORIAS' or matches[i].ruleId == 'REDUNDANT_CONJUNCTIONS' or matches[i].ruleId == 'GENERAL_PRONOMIAL_COLOCATIONS' or matches[i].ruleId == 'HAVER' or matches[i].ruleId == 'FRAGMENT_TWO_ARTICLES' or matches[i].ruleId == 'PHRASAL_VERB_A' or matches[i].ruleId == 'REFLEXIVE_VERB_SE_AGREEMENT' or matches[i].ruleId == 'PARONYM_INICIO_169' or matches[i].ruleId == 'ATRAVES_DE_POR' or matches[i].ruleId == 'TODOS_FOLLEWED_BY_NOUN_PLURAL' or matches[i].ruleId == 'CRASE_CONFUSION_2' or matches[i].ruleId == 'SIMPLIFICAR_QUE_E_TEM_TÊM' or matches[i].ruleId == 'CRASE_CONFUSION' or matches[i].ruleId == 'CHAMAR_DENOMINAR_DE' or matches[i].ruleId == 'SIMPLIFICAR_CONVERTER_PARA_VERBO_INFINITIVO' or matches[i].ruleId == 'E_QUE_VERBO_E_VERBO' or matches[i].ruleId == 'SIMPLIFICAR_QUE_E_TEM_TÊM' or matches[i].ruleId == 'VERB_QUE_É_VERB_SER' or matches[i].ruleId == 'REDUNDANCY_REPLACE' or matches[i].ruleId == 'QUE_É-SÃO_NC-ADJ_COMO-POR' or matches[i].ruleId == 'QUE_TER_COMO_POR_NOME_ADJ' or matches[i].ruleId == 'DIFERENTES' or matches[i].ruleId == 'QUE_VERBO_A_VERBOINFINITIVO' or matches[i].ruleId == 'REDUNDANCY_PAÍSES' or matches[i].ruleId == 'REDUNDANCY_8_AUMENTAR' or matches[i].ruleId == 'QUE_SUBJ_VS_INF_PESS' or matches[i].ruleId == 'QUE_HÁ_QUE_NÃO_HÁ' or matches[i].ruleId == 'ESTAR_CLARO_DE_QUE' or matches[i].ruleId == 'DEPOIS_DE_APÓS' or matches[i].ruleId == 'SER_CAPAZ_DE_CONSEGUIR' or matches[i].ruleId == 'SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO' or matches[i].ruleId == 'QUE_FORAM_FOI_SÃO_É_SENDO' or matches[i].ruleId == 'QUE_FORAM_FOI_SÃO_É_SENDO' or matches[i].ruleId == 'QUE_ESTAR_CONTRACAO_PREPOSICAO' or matches[i].ruleId == 'VIR_A_VERBO_VERBO' or matches[i].ruleId == 'QUANDO_POSSA_SER' or matches[i].ruleId == 'REDUNDANCY_27_EXPRESSAMENTE' or matches[i].ruleId == 'TER_PARTICIPIO-PASSADO' or matches[i].ruleId == 'REDUNDANCY_28_PERMANECER' or matches[i].ruleId == 'CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL' or matches[i].ruleId == 'AULAS-ENSINO_A_DISTANCIA' or matches[i].ruleId == 'GRAMMATICAL_DOUBLE_NEGATIVES' or matches[i].ruleId == 'PARONYM_ARVORE_0' or matches[i].ruleId == 'PARONYM_CONSORCIO_70' or matches[i].ruleId == 'ETC_USAGE' or matches[i].ruleId == 'PHRASAL_VERB_RESIDIR_EM' or matches[i].ruleId == 'REDUNDANCY_34_JUNTAMENTE' or matches[i].ruleId =='PARONYM_AGENCIA_9' or matches[i].ruleId == 'VÍDEO_CONFERÊNCIA' or matches[i].ruleId == 'SOB_O_PONTO_DE_VISTA':
                     erro_local = erro_local + 1
                     erro_anual = erro_anual + 1
+                    #print(matches[i])
                     aperro.write("Erro: ")
                     aperro.write(str(erro_local))
                     aperro.write('\n')
