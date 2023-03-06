@@ -1,0 +1,48 @@
+Erro: 42
+Offset 2199, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensurados pelo
+...om exceção dos instrumentos financeiros que são mensurados pelo valor justo. c)  Moeda funcional e de a...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 43
+Offset 2352, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...radas e estão apresentadas em real (R), que é a moeda do principal ambiente econômico...
+                                           ^^^^^
+Erro: 44
+Offset 2902, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores diferentes dos e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 45
+Offset 6639, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+... são preços cotados incluídos no Nível  e que são observáveis para o ativo ou passivo, se...
+                                           ^^^^^^^^^
+Erro: 46
+Offset 11303, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...mpanhia realizou prejuízo no exercício  e , portanto, não houve distribuição de dividendos. ...
+                                           ^^^^^^^^^^^^
+Erro: 47
+Offset 11719, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+...)       Partes Relacionadas A Companhia não efetuou qualquer remuneração a diretores, administradore...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 48
+Offset 11781, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a pessoas chave da Administração, ou
+...emuneração a diretores, administradores ou a pessoas chave da Administração ou qualquer outra operação com parte relac...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 49
+Offset 13605, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...ssociadas com seus passivos financeiros que são liquidados com pagamentos à vista ou com outro ativo f...
+                                           ^^^^^^^^^^^^^^^^^^^^^^

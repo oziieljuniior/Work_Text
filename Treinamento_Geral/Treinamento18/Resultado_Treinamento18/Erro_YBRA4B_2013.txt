@@ -1,0 +1,18 @@
+Erro: 3
+Offset 1172, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...s e  estão apresentadas em  reais  (R), que é a moeda do principal ambiente econômico...
+                                           ^^^^^
+Erro: 4
+Offset 2668, length 11, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de cálculo
+...  consequentemente,  não  obteve  base  de  calculo  positiva  para imposto de renda e cont...
+                                           ^^^^^^^^^^^
+Erro: 5
+Offset 3407, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores diferentes dos esti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^

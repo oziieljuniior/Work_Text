@@ -1,0 +1,42 @@
+Erro: 50
+Offset 11009, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: mensurados pelo
+...  exceção  dos instrumentos financeiros que são mensurados pelo valor justo.         Ybyrá S.A.  Notas...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 51
+Offset 11581, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...radas e estão apresentadas em Real (R), que é a moeda do principal  ambiente  econômi...
+                                           ^^^^^
+Erro: 52
+Offset 12301, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...liquidação  das  transações  envolvendo essas estimativas poderá resultar em valores diferentes dos esti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 53
+Offset 13462, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...não vigentes: Pronunciamento Alterações à IAS  Descrição Classificação de passivos co...
+                                           ^^^^^
+Erro: 54
+Offset 17406, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...  preços  cotados  incluídos  no Nível  e que são observáveis para o ativo ou passivo, se...
+                                           ^^^^^^^^^
+Erro: 55
+Offset 22334, length 20, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não efetuou nenhum; não efetuou nenhuma; não, efetuou qualquer
+...do indicado de outra forma) A Companhia não efetuou qualquer remuneração a diretores, administradore...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 56
+Offset 26124, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liquidados com
+...adas  com  seus  passivos  financeiros  que  são liquidados com pagamentos à vista ou com outro ativo f...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
