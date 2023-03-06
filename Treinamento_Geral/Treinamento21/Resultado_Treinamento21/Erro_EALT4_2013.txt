@@ -1,0 +1,192 @@
+Erro: 29
+Offset 2602, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...Participação dos administradores  Lucro liquido do exercício Lucro por ação, básico e d...
+                                           ^^^^^^^
+Erro: 30
+Offset 3026, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...s, exceto lucro por ação)  Nota   Lucro liquido do período . . Outros resultados abrang...
+                                           ^^^^^^^
+Erro: 31
+Offset 7706, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: tituladas como
+...ndo em dois núcleos de peças fornecidas que são tituladas como “repetitivas”, quando são feitas em sér...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 32
+Offset 9634, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores significativamente ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 33
+Offset 10392, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...anceiras são apresentadas em Reais (R), que é a moeda funcional da Companhia. Transaçõe...
+                                           ^^^^^^^
+Erro: 34
+Offset 10952, length 5, Rule ID: QUANDO_POSSA_SER
+Message: Substitua por “puder”.
+Suggestion: puder
+...serão gerados para a Companhia e quando possa ser mensurada de forma confiável. A rec...
+                                           ^^^^^
+Erro: 35
+Offset 13889, length 11, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: seja
+...o ou parte do ativo tributário diferido venha a ser utilizado.  Impostos diferidos ativos e...
+                                           ^^^^^^^^^^^
+Erro: 36
+Offset 23042, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...go prazo são atualizados monetariamente e, portanto, estão ajustados pelo seu valor present...
+                                           ^^^^^^^^^^^
+Erro: 37
+Offset 25492, length 10, Rule ID: CRASE_CONFUSION
+Message: Esta palavra rege-se com a preposição “a”.
+Suggestion: procedeu à
+...o caso. Em º de janeiro de  a companhia procedeu a revisão da vida útil de seu ativo imobi...
+                                           ^^^^^^^^^^
+Erro: 38
+Offset 25779, length 24, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou ativos específicos, ou
+...bstantivos relativos ao uso de um ativo ou ativos específicos ou, ainda, ao direito de uso de um determi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 39
+Offset 28483, length 124, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou no consumo esperado dos benefícios econômicos futuros desses ativos são contabilizadas por meio de mudanças no período, ou
+... social. Mudanças na vida útil estimada ou no consumo esperado dos benefícios econômicos futuros desses ativos são contabilizadas por meio de mudanças no período ou método de amortização, conforme o caso,...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 40
+Offset 28648, length 14, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: tratadas
+...método de amortização, conforme o caso, sendo tratadas como mudanças de estimativas contábeis....
+                                           ^^^^^^^^^^^^^^
+Erro: 41
+Offset 30781, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...fício assistência médica a funcionários em nível executivo. Esses benefícios são financi...
+                                           ^^^^^^^^
+Erro: 42
+Offset 35625, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos assuntos ou decisões de tribunais.  Novos pronuncia...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 43
+Offset 41058, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+...erminar quais entidades são controladas e, portanto, obrigadas a serem consolidadas por uma...
+                                           ^^^^^^^^^^^
+Erro: 44
+Offset 43662, length 7, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...inistração fez os seguintes julgamentos que têm efeito mais significativo sobre os valo...
+                                           ^^^^^^^
+Erro: 45
+Offset 46272, length 14, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+... e nível de lucros tributáveis futuros, juntamente com estratégias de planejamento fiscal futu...
+                                           ^^^^^^^^^^^^^^
+Erro: 46
+Offset 48222, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos assuntos ou decisões de tribunais.            Elec...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 47
+Offset 48560, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: das; dê as
+...iras TOTAL  . . .   . . Em  de dezembro de  as aplicações financeiras são compostas po...
+                                           ^^^^^^
+Erro: 48
+Offset 50060, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...éditos serão realizados pela Companhia, através de restituição eou compensação com imposto...
+                                           ^^^^^^^^^^
+Erro: 49
+Offset 50970, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...lor de R  milhões em garantia do REFIS. Em  a Companhia efetuou a avaliação de seus a...
+                                           ^^^^^
+Erro: 50
+Offset 52939, length 25, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: estes empréstimos não têm
+...áquinas e equipamentos. Adicionalmente, estes empréstimos não tem cláusulas restritivas (“covenants”). . ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 51
+Offset 54884, length 12, Rule ID: PARONYM_BENEFICIO_43
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do benefício
+...iuse alterar as regras para a concessão do beneficio pós – emprego reduzindo a idade mínima ...
+                                           ^^^^^^^^^^^^
+Erro: 52
+Offset 61781, length 15, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: concedido
+... de imposto apresentado pela Companhia, sendo concedido prazo de  meses para fruição do crédito...
+                                           ^^^^^^^^^^^^^^^
+Erro: 53
+Offset 62180, length 14, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: liberado
+...um crédito total de ICMS de R  milhões, sendo liberado na primeira fase o crédito de R  No exe...
+                                           ^^^^^^^^^^^^^^
+Erro: 54
+Offset 62488, length 13, Rule ID: PARONYM_BENEFICIO_43
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do benefício
+...ento R . mil. A  Companhia  utilizouse  do  beneficio  fiscal  que,  atualizado,  perfaz  o  ...
+                                           ^^^^^^^^^^^^^
+Erro: 55
+Offset 66096, length 14, Rule ID: TER_PARTICIPIO-PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: institui
+... um Diretor Administrativo. A Companhia tem instituído o Conselho Fiscal, com três membros com...
+                                           ^^^^^^^^^^^^^^
+Erro: 56
+Offset 68141, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...vide cronograma abaixo). Em de dezembro de  a Companhia acumula prejuízos fiscais num...
+                                           ^^^^^
+Erro: 57
+Offset 70813, length 27, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: nossos auditores não incluem
+....  .  .  .    O escopo dos trabalhos de nossos auditores não inclui a emissão de opinião sobre a suficiênci...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 58
+Offset 74001, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: crédito
+...rios, está contabilizado o recálculo do credito presumido de ICMS (R . mil), beneficio ...
+                                           ^^^^^^^
+Erro: 59
+Offset 75413, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquida
+... Valor Presente AVP Receita Operacional Liquida Receitas no Mercado Externo Interno Tot...
+                                           ^^^^^^^
+Erro: 60
+Offset 75857, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquida
+... Valor Presente AVP Receita Operacional Liquida Receitas no Mercado Externo Interno Tot...
+                                           ^^^^^^^
