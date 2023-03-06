@@ -1,0 +1,48 @@
+Erro: 79
+Offset 1158, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...industriais. As operações são efetuadas através  de  parques  fabris  localizados  no  Bras...
+                                           ^^^^^^^^^^^
+Erro: 80
+Offset 1577, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: negociadas no
+...ositary  Receipts  (ADRs)  –  Nível  I  que  são  negociadas  no  mercado  de  balcão (overthecounter ou...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 81
+Offset 4093, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores divergentes dos reg...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 82
+Offset 10156, length 4, Rule ID: ETC_USAGE
+Message: Deve-se utilizar a vírgula antes de ‘etc.’.
+Suggestion: , etc
+...entes (Performance Bond, seguro garantia etc.); d)  Avais e fianças A WEG S.A. possu...
+                                           ^^^^
+Erro: 83
+Offset 29065, length 28, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou posterior cancelamento, ou
+... Opções de Compra de Ações da Companhia ou posterior cancelamento ou alienação. Foram  exercidas  até    de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 84
+Offset 33531, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: exercício, em contrapartida
+...ultados na demonstração do resultado do exercício em contrapartida de reserva de capital no patrimônio líq...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 85
+Offset 39080, length 13, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e possam
+...s  multinacionais  de  primeira  linha  e  que possam atender o Grupo WEG nos países onde pos...
+                                           ^^^^^^^^^^^^^
+Erro: 86
+Offset 42734, length 18, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrerem
+...s  da  possibilidade  das  controladas  virem  a  incorrer  em  perdas  por  conta  de  flutuações...
+                                           ^^^^^^^^^^^^^^^^^^

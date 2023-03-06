@@ -1,0 +1,60 @@
+Erro: 186
+Offset 1373, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+... automotiva. As operações são efetuadas através de parques fabris localizados no Brasil,  ...
+                                           ^^^^^^^^^^
+Erro: 187
+Offset 1833, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: negociadas no
+...an Depositary Receipts (ADRs) – Nível I que são negociadas no mercado de balcão (overthecounter ou OT...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 188
+Offset 4675, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores divergentes dos reg...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 189
+Offset 9344, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: eliminadas na
+...de recursos entre as empresas do Grupo, que são eliminadas na consolidação, e remuneração da Administ...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 190
+Offset 22225, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...WEG Algeria Motors SpA Em    de  julho  de    a  Companhia  comunicou  aos  seus  acion...
+                                           ^^^^^^^
+Erro: 191
+Offset 29744, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...e giro Encargos Anuais em  , a , a.a. , a  a.a.  e  do CDI , a , a.a. , a  a.a.  do ...
+                                           ^^^^
+Erro: 192
+Offset 29776, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+... a.a. , a  a.a.  e  do CDI , a , a.a. , a  a.a.  do CDI EM MOEDA ESTRANGEIRA CIRCULA...
+                                           ^^^^
+Erro: 193
+Offset 34788, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...ões para contingências. Em  de setembro de  os valores estimados de tais discussões to...
+                                           ^^^^^^
+Erro: 194
+Offset 40656, length 28, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou posterior cancelamento, ou
+...de Longo Prazo (Plano ILP) da Companhia ou posterior cancelamento ou alienação. Foram exercidas até  de sete...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 195
+Offset 43112, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: exercício, em contrapartida
+...ultados na demonstração do resultado do exercício em contrapartida de reserva de capital no patrimônio líq...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,120 @@
+Erro: 135
+Offset 126, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: E
+...ÁRIAS PERÍODO FINDO EM  DE SETEMBRO DE  E  E EXERCÍCIO FINDO EM  DE DEZEMBRO DE  (Va...
+                                           ^^^^
+Erro: 136
+Offset 2639, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...nhia vinha operando este trecho desde , através de acordo operacional com a Ferroban. Tamb...
+                                           ^^^^^^^^^^
+Erro: 137
+Offset 5561, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...s pela FCA à União Federal. Em  de maio de  a ANTT revogou o inciso II, do art. °; o ...
+                                           ^^^^^
+Erro: 138
+Offset 16335, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...as em  de dezembro de . Em  de dezembro de  a FCA registrava em seus livros fiscais s...
+                                           ^^^^^
+Erro: 139
+Offset 20692, length 20, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; por conseguinte
+...egrador  de  Araguari  e  Santa  Luzia  e,  por  conseguinte  a locação  dos  terminais  à  Companhi...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 140
+Offset 22194, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...s  perdas  com interrupção de produção, através de apólices de seguro. Em  de setembro de ...
+                                           ^^^^^^^^^^
+Erro: 141
+Offset 23016, length 11, Rule ID: CRASE_CONFUSION
+Message: Esta palavra rege-se com a preposição “a”.
+Suggestion: procederá à
+...qualquer natureza jurídica. A Companhia procederá a compensação  dos  valores  desembolsado...
+                                           ^^^^^^^^^^^
+Erro: 142
+Offset 24674, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...onsabilidade da RFFSA." Em  de setembro de  a Companhia havia reconhecido em suas dem...
+                                           ^^^^^
+Erro: 143
+Offset 26508, length 16, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: determinando
+... Companhia  em  horário  de  descanso,  o  que determina  o  pedido  de  pagamento  de  sobreavi...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 144
+Offset 33096, length 21, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: atribuíveis
+...  sendo  R  .  no  ativo  imobilizado,  que  são  atribuíveis  aos  bens relacionados  ao  trecho  tr...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 145
+Offset 42672, length 19, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: capitalizados
+...ogável  e  sem  vencimento  específico, sendo capitalizados à medida que são aprovados em assemblei...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 146
+Offset 43281, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...uido  a) Capital social Em  de setembro de  o capital social está representado por  a...
+                                           ^^^^^
+Erro: 147
+Offset 44787, length 15, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: Não há nenhum; Não há nenhuma; Não, há qualquer
+... ações ordinárias apuradas no período.  Não há qualquer efeito de diluição no cálculo do prejuí...
+                                           ^^^^^^^^^^^^^^^
+Erro: 148
+Offset 54450, length 19, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: participem
+...troladas e coligadas, que participam ou venham a participar do plano. Em outubro de , foi implantad...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 149
+Offset 56121, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ção. Em  de setembro de  e  de dezembro de  a Companhia não possuía instrumentos fina...
+                                           ^^^^^
+Erro: 150
+Offset 56452, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis para
+...(inputs) de Nível  Informações (inputs) que são observáveis para o ativo ou passivo, seja direta ou indi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 151
+Offset 57125, length 23, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não contratou nenhum; não contratou nenhuma; não, contratou quaisquer
+...rédito e risco de liquidez. A Companhia não contratou quaisquer operações com instrumentos financeiros ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 152
+Offset 57582, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...ustos. O aumento dos custos de insumos, como por exemplo, o óleo diesel (principal insumo), leva...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 153
+Offset 57875, length 16, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...e  da  possibilidade  de  a  Companhia  vir  a  incorrer  em  perdas  por  causa  de flutuações ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 154
+Offset 62306, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...eis perdas com interrupção de produção, através de apólices do tipo All Risks (Nota ). Ins...
+                                           ^^^^^^^^^^

@@ -1,0 +1,138 @@
+Erro: 44
+Offset 1120, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...industriais. As operações são efetuadas através de parques fabris localizados no Brasil, A...
+                                           ^^^^^^^^^^
+Erro: 45
+Offset 1487, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: negociadas no
+...an Depositary Receipts (ADRs) – Nível I que são negociadas no mercado de balcão (overthecounter ou OT...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 46
+Offset 1787, length 8, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: as
+...liações  e julgamento da Administração, sendo as mais relevantes divulgadas na nota expl...
+                                           ^^^^^^^^
+Erro: 47
+Offset 4763, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for menor que”.
+Suggestion: for menor que
+...ssivos assumidos). Se a contraprestação for menor do que o valor justo dos ativos líquidos adqui...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 48
+Offset 5863, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...olidadas são apresentadas em Reais (R), que é a moeda funcional da controladora e de su...
+                                           ^^^^^^^
+Erro: 49
+Offset 6097, length 14, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+...la opera, sendo  que  quando  a  moeda  for  diferente  da  moeda  funcional  de  apresentação...
+                                           ^^^^^^^^^^^^^^
+Erro: 50
+Offset 8119, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: registradas
+...s  como  mantidas  até  o  vencimento,  sendo  registradas  aos  valores  de  custo  acrescidas  d...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 51
+Offset 8854, length 16, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: suficiente
+...quidez de mercado e o nível de crédito, sendo suficiente para cobrir perdas sobre os valores a r...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 52
+Offset 11058, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ortizado até  de dezembro de . A partir de  o ágio está sujeito a teste de recuperabi...
+                                           ^^^^^
+Erro: 53
+Offset 14515, length 14, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: cobertos
+...eriodicamente por atuário independente, sendo cobertos pelos ativos garantidores do plano de b...
+                                           ^^^^^^^^^^^^^^
+Erro: 54
+Offset 17538, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: exercício, em contrapartida
+...ultados na demonstração do resultado do exercício em contrapartida de reserva de capital no Patrimônio Líq...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 55
+Offset 22649, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: porém, terão
+...unciamentos que: (i) já foram emitidos, porém terão vigência somente a partir de  de janeir...
+                                           ^^^^^^^^^^^
+Erro: 56
+Offset 23733, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores  divergentes  do...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 57
+Offset 28622, length 14, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: semelhantes às
+...s e produtos são efetuadas em condições semelhantes as realizadas com terceiros não relacionad...
+                                           ^^^^^^^^^^^^^^
+Erro: 58
+Offset 29300, length 4, Rule ID: ETC_USAGE
+Message: Deve-se utilizar a vírgula antes de ‘etc.’.
+Suggestion: , etc
+...entes (Performance Bond, seguro garantia etc.); d)  Avais e fianças A WEG S.A. conce...
+                                           ^^^^
+Erro: 59
+Offset 39008, length 12, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinados à
+... tomados pelas controladas no exterior, destinados a capital de giro, são em dólares eou nas...
+                                           ^^^^^^^^^^^^
+Erro: 60
+Offset 47362, length 12, Rule ID: PHRASAL_VERB_A
+Message: Este verbo utiliza a preposição “a”.
+Suggestion: obedecendo ao
+...alente a  do lucro líquido do exercício obedecendo o limite de  do capital social;    Retenç...
+                                           ^^^^^^^^^^^^
+Erro: 61
+Offset 48380, length 28, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou posterior cancelamento, ou
+...e Opção de Compra de Ações da Companhia ou posterior cancelamento ou alienação. Foram exercidas pelos benefi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 62
+Offset 51926, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: exercício, em contrapartida
+...ultados na demonstração do resultado do exercício em contrapartida de reserva de capital no patrimônio líq...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 63
+Offset 52131, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativo às
+...ônio líquido no montante de R  sendo R  relativo as opções realizadas e R  reversão do mont...
+                                           ^^^^^^^^^^^
+Erro: 64
+Offset 56429, length 12, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e possam
+...seguro multinacionais de primeira linha e que possam atender o Grupo  WEG  nos  países  onde...
+                                           ^^^^^^^^^^^^
+Erro: 65
+Offset 58863, length 16, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrerem
+...iundos da possibilidade das controladas virem a incorrer em perdas por conta de flutuações nas t...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 66
+Offset 68942, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...s potenciais diluidoras em  de dezembro de  o montante de . ações (. ações em  de dez...
+                                           ^^^^^

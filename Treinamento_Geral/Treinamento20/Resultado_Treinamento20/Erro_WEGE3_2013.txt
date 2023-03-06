@@ -1,0 +1,132 @@
+Erro: 22
+Offset 1153, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...triais.  As  operações  são  efetuadas  através  de  parques  fabris  localizados  no  Bras...
+                                           ^^^^^^^^^^^
+Erro: 23
+Offset 1536, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: negociadas no
+...ositary  Receipts  (ADRs)  –  Nível  I  que  são  negociadas  no  mercado  de  balcão  (overthecounter o...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 24
+Offset 1844, length 8, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: as
+...liações  e julgamento da Administração, sendo as mais relevantes divulgadas na nota expl...
+                                           ^^^^^^^^
+Erro: 25
+Offset 4919, length 16, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “for menor que”.
+Suggestion: for menor que
+...ssivos assumidos). Se a contraprestação for menor do que o valor justo dos ativos líquidos adqui...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 26
+Offset 6034, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...olidadas são apresentadas em Reais (R), que é a moeda funcional da controladora e de su...
+                                           ^^^^^^^
+Erro: 27
+Offset 6268, length 14, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferir
+...la opera, sendo  que  quando  a  moeda  for  diferente  da  moeda  funcional  de  apresentação...
+                                           ^^^^^^^^^^^^^^
+Erro: 28
+Offset 8276, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: registradas
+...s  como  mantidas  até  o  vencimento,  sendo  registradas  aos  valores  de  custo  acrescidas  d...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 29
+Offset 9014, length 16, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: suficiente
+...quidez de mercado e o nível de crédito, sendo suficiente para cobrir perdas sobre os valores a r...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 30
+Offset 14489, length 15, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: apurados
+...quido dos ativos garantidores do plano, sendo  apurados  os  custos  correspondentes  e  reconh...
+                                           ^^^^^^^^^^^^^^^
+Erro: 31
+Offset 17518, length 28, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: exercício, em contrapartida
+...os na  demonstração  do  resultado  do  exercício  em  contrapartida  de  reserva  de  capital  no  Patrimôn...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 32
+Offset 21326, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: porém, terão
+...unciamentos que: (i) já foram emitidos, porém terão vigência somente a partir de  de janeir...
+                                           ^^^^^^^^^^^
+Erro: 33
+Offset 22665, length 26, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+...iquidação  das  transações  envolvendo  essas  estimativas  poderá  resultar  em  valores  divergentes  do...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 34
+Offset 23361, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ões no Brasil São remuneradas por taxas de  a  do CDI ( a  do CDI em  de dezembro de ...
+                                           ^^^^^
+Erro: 35
+Offset 24133, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: remuneradas por
+... Letras Financeiras, no montante de R . que são remuneradas por taxas de  a  do CDI ( a  do CDI em  de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 36
+Offset 24163, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...te de R . que são remuneradas por taxas de  a  do CDI ( a  do CDI em  de dezembro de ...
+                                           ^^^^^
+Erro: 37
+Offset 40493, length 13, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: destinados à
+...tomados pelas controladas  no exterior, destinados  a capital  de giro, são em dólares eou na...
+                                           ^^^^^^^^^^^^^
+Erro: 38
+Offset 48668, length 12, Rule ID: PHRASAL_VERB_A
+Message: Este verbo utiliza a preposição “a”.
+Suggestion: obedecendo ao
+...alente a  do lucro líquido do exercício obedecendo o limite de  do capital social;    Retenç...
+                                           ^^^^^^^^^^^^
+Erro: 39
+Offset 49641, length 28, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou posterior cancelamento, ou
+...e Opção de Compra de Ações da Companhia ou posterior cancelamento ou alienação. .  Plano de opções de compra...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 40
+Offset 52580, length 28, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: exercício, em contrapartida
+...os  na demonstração  do  resultado  do  exercício  em  contrapartida  de  reserva  de  capital  no  patrimôn...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 41
+Offset 56854, length 12, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e possam
+...seguro multinacionais de primeira linha e que possam atender o Grupo  WEG  nos  países  onde...
+                                           ^^^^^^^^^^^^
+Erro: 42
+Offset 59060, length 16, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrerem
+...iundos da possibilidade das controladas virem a incorrer em perdas por conta de flutuações nas t...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 43
+Offset 67168, length 9, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: O cálculo
+...tificáveis. .  Lucro por ação a) Básico O calculo básico de lucro por ação é feito atravé...
+                                           ^^^^^^^^^
