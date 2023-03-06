@@ -1,0 +1,53 @@
+Erro: 190
+Offset 5919, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+... da Companhia são apresentadas em Real, que é a moeda  funcional  da  Companhia.  Todas...
+                                           ^^^^^^^
+Erro: 191
+Offset 8300, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+... aplicação  das  políticas  contábeis,  e,  portanto,  na determinação de estimativas relaci...
+                                           ^^^^^^^^^^^^
+Erro: 192
+Offset 12118, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e tem
+...ao valor da soma dos débitos apontados, e que tem valor histórico de aproximado de R ., c...
+                                           ^^^^^^^^^
+Erro: 193
+Offset 13720, length 34, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: seus assessores jurídicos entenderam
+... cliente. A Administração com apoio dos seus assessores jurídicos entendeu que sofreu bitributação  por  este  ser...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 194
+Offset 24077, length 16, Rule ID: CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL
+Message: O pronome relativo ‘cujo’ tem de estar ligado a nome/adj/numeral.
+...os,  não totalmente sob controle e cuja recuperabilidade é considerada incerta pela administraçã...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 195
+Offset 29067, length 3, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...eza, é a seguinte:  www.dtcom.com.br  a a a aReceitas. Prestação de serviços.      ...
+                                           ^^^
+Erro: 196
+Offset 30825, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...o  na  AGO  realizada  em    de  abril  de    o  montante  global  da remuneração anual...
+                                           ^^^^^^^
+Erro: 197
+Offset 32522, length 11, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: pago
+...da  somente  para  a  área  comercial,  sendo  pago  salário  fixo mais comissões. (b)  Pol...
+                                           ^^^^^^^^^^^
+Erro: 198
+Offset 43298, length 16, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: estava exposta; estavam expostas; estávamo expostas; estávamos expostas
+...s  financeiras  as  quais  a Companhia  estava  expostas  na  database  de    de  setembro  de  ...
+                                           ^^^^^^^^^^^^^^^^

@@ -1,0 +1,329 @@
+Erro: 291
+Offset 1318, length 1, Rule ID: CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL
+Message: O pronome relativo ‘cujo’ tem de estar ligado a nome/adj/numeral.
+...ntante de R . em  de dezembro de , cujo o vencimento final foi dia  de  janeiro  ...
+                                           ^
+Erro: 292
+Offset 6374, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...as são apresentadas em em Reais (R),    que  é  a  moeda  funcional  da  Companhia  e  de...
+                                           ^^^^^^^^^
+Erro: 293
+Offset 14184, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: Os custos incrementa; Os custos incrementar; Os custos incrementara; Os custos incrementaras; Os custos incrementarei; Os custos incrementares; Os custos incrementaria; Os custos incrementarias; Os custos incrementará; Os custos incrementarás; Os custos incrementas; Os custos incrementasse; Os custos incrementasses; Os custos incrementaste; Os custos incrementava; Os custos incrementavas; Os custos incremente; Os custos incrementei; Os custos incrementes; Os custos incremento; Os custos incrementou
+... classificadas como patrimônio líquido. Os  custos  incrementais  diretamente  atribuíveis  à  emissão  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 294
+Offset 17817, length 18, Rule ID: SER_CAPAZ_DE_CONSEGUIR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: consigam
+...ondição  necessários  para  que  esses  sejam  capazes  de  operar  da  forma pretendida pela admi...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 295
+Offset 19013, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: o
+... é calculada sobre o valor depreciável, que é o custo de um ativo, ou outro valor subst...
+                                           ^^^^^^^
+Erro: 296
+Offset 21639, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: adquiridos pela
+...s intangíveis Outros ativos intangíveis que são adquiridos pela Companhia e que têm vidas úteis finitas...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 297
+Offset 21673, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e têm
+...íveis que são adquiridos pela Companhia e que têm vidas úteis finitas são mensurados pelo...
+                                           ^^^^^^^^^
+Erro: 298
+Offset 25123, length 74, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja possível estimar os valores de forma confiável e cuja liquidação, seja
+...ltante  de  eventos  passados,  em  que seja possível estimar os valores de forma confiável e cuja liquidação seja provável. O  valor  reconhecido  como  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 299
+Offset 26441, length 58, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou itens diretamente reconhecidos no patrimônio líquido, ou
+... relacionados à combinação de negócios, ou itens diretamente reconhecidos no patrimônio líquido ou em outros resultados abrangentes. O imp...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 300
+Offset 26573, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a receber esperado sobre o lucro, ou
+... O imposto corrente é o imposto a pagar ou a receber esperado sobre o lucro ou prejuízo tributável  do  exercício,  as...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 301
+Offset 30820, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: com efeito,
+...s potencialmente conversíveis em ações, com efeito diluidor, nos períodos apresentados, no...
+                                           ^^^^^^^^^^
+Erro: 302
+Offset 38357, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...va do título. Garantias Em  de dezembro de  a Companhia possui R . (R . em  de dezemb...
+                                           ^^^^^
+Erro: 303
+Offset 39452, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...do resultado. Garantias Em  de dezembro de  a Companhia possuía R  (R . em  de dezemb...
+                                           ^^^^^
+Erro: 304
+Offset 40063, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Contudo, a
+...s  vencidos  até    de  novembro  de .  Contudo  a  Lei  nº .,  que  decorre  da  conversã...
+                                           ^^^^^^^^^^
+Erro: 305
+Offset 40584, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...  do  programa.  No  dia    de  agosto  de    a  Companhia  aderiu  ao Programa  Especi...
+                                           ^^^^^^^
+Erro: 306
+Offset 43613, length 21, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: transações, com efeito
+...Débito com controladas               As transações com efeito no resultado estão demonstradas a segui...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 307
+Offset 44614, length 8, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: foram rv; foi R; fora R
+...nanceiras  reconhecidas  no  exercício  foram  R    (R    em    de dezembro ). Em  de no...
+                                           ^^^^^^^^
+Erro: 308
+Offset 44669, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...   em    de dezembro ). Em  de novembro de  a Companhia quitou o saldo da dívida. Não...
+                                           ^^^^^
+Erro: 309
+Offset 49715, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...         Garantias Em    de  dezembro  de    a  Companhia  possui  bens  do  ativo  im...
+                                           ^^^^^^^
+Erro: 310
+Offset 52379, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...deste, foi revertida em  de outubro de  devido a transferência da Marca Trussardi para a...
+                                           ^^^^^^^^
+Erro: 311
+Offset 53402, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...ora Consolidado CDI  , a.a.  a , a.a. , a  a.a. TJLP   a.a. CDI  , a  a.a. , a.a. . ...
+                                           ^^^^
+Erro: 312
+Offset 53429, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...  a , a.a. , a  a.a. TJLP   a.a. CDI  , a  a.a. , a.a. . .   . . . .   . . . .   . ....
+                                           ^^^^
+Erro: 313
+Offset 56131, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...  a.a para   a.a para o período outubro de  a janeiro de ; carência para o pagamento ...
+                                           ^^^^^
+Erro: 314
+Offset 57780, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ancagem financeira. Em    de  dezembro  de    a  Companhia  não  atingiu  os  índices  ...
+                                           ^^^^^^^
+Erro: 315
+Offset 58141, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...ante de R  A partir de  de janeiro de , devido a dificuldade de geração  de  caixa,  a  ...
+                                           ^^^^^^^^
+Erro: 316
+Offset 58278, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...mentos  das debêntures. Em  de dezembro de  a Companhia também não atingiu os índices...
+                                           ^^^^^
+Erro: 317
+Offset 59160, length 14, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...eforço de penhora de mais um bem imóvel juntamente com um crédito decorrente de uma ação de cu...
+                                           ^^^^^^^^^^^^^^
+Erro: 318
+Offset 59285, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...e a favor da Companhia. Em  de dezembro de  o juiz determinou a avaliação, pelo ofici...
+                                           ^^^^^
+Erro: 319
+Offset 60375, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...sim o reforço de penhora. Em  de agosto de  a Companhia foi citada na execução que te...
+                                           ^^^^^
+Erro: 320
+Offset 60687, length 15, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “foi mais que”.
+Suggestion: foi mais que
+...gosto de  de um imóvel da Companhia que foi mais do que suficiente para garantir a execução. b....
+                                           ^^^^^^^^^^^^^^^
+Erro: 321
+Offset 61953, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...tritivas. Garantias Em    de  dezembro  de    o  valor  de  mercado  das  garantias  de...
+                                           ^^^^^^^
+Erro: 322
+Offset 63827, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...to de Crédito Presumido de IPI  Período de  a , Pedido de Ressarcimento de Cofins Não...
+                                           ^^^^^
+Erro: 323
+Offset 63960, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativo às
+...sarcimento  de  PISPasep  NãoCumulativo relativo as Exportações realizadas no º Trimestre d...
+                                           ^^^^^^^^^^^
+Erro: 324
+Offset 64257, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: processadas na
+...eferem a processos de clientes e outras que são processadas na justiça comum. d. Perdas possíveis, não...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 325
+Offset 65357, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...posentadorias  especiais,  do  período  de    a  no valor de R .; Auto de Infração sobr...
+                                           ^^^^^^^
+Erro: 326
+Offset 66635, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: processadas na
+...eremse a processos de clientes e outras que são processadas na justiça comum. . IMPOSTO DE RENDA E CON...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 327
+Offset 66744, length 20, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: exercício, com efeito
+...ÃO  SOCIAL a.  Apuração dos tributos do exercício com efeito no resultado Controladora     Consolida...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 328
+Offset 68971, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de cálculo
+...vida a companhia utilizou parte da base de calculo do prejuízo fiscal no montante de R . e...
+                                           ^^^^^^^^^^
+Erro: 329
+Offset 69036, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de cálculo
+...scal no montante de R . e parte da base de calculo negativa da CSLL no montante de R  No d...
+                                           ^^^^^^^^^^
+Erro: 330
+Offset 70240, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Contudo, a
+...federais vencidos até  de novembro de . Contudo a Lei nº ., que  decorre  da  conversão  ...
+                                           ^^^^^^^^^
+Erro: 331
+Offset 72161, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... de INSS entre as competências de março de  a janeiro de .  Ao  montante  dos  débito...
+                                           ^^^^^
+Erro: 332
+Offset 72569, length 8, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+... a  serem  parcelados  em    parcelas,  sendo  a primeira parcela com vencimento em  de ...
+                                           ^^^^^^^^
+Erro: 333
+Offset 74183, length 24, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecidos
+...“Selic”  e  de    da  multa  de  mora,  que  foram  reconhecidos  no  resultado  no montante  de  R  .  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 334
+Offset 74478, length 8, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+... de R  a serem parcelados em  parcelas, sendo  a  primeira  parcela  com  vencimento  pa...
+                                           ^^^^^^^^
+Erro: 335
+Offset 74644, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...m cumprimento da “MP ”, em  de dezembro de  a Companhia quitou a última parcela, exti...
+                                           ^^^^^
+Erro: 336
+Offset 75080, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ária e Extraordinária, no dia  de abril de  o grupamento das ações ordinárias e prefe...
+                                           ^^^^^
+Erro: 337
+Offset 81052, length 18, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, ao mesmo tempo
+...,  dentro  de  parâmetros  aceitáveis,  e  ao  mesmo tempo otimizar o retorno. (i)  Risco cambial ...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 338
+Offset 81195, length 18, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrerem
+...de  da  Companhia  e  suas  controladas virem  a  incorrer  em  perdas  por  causa  de  flutuações...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 339
+Offset 82887, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+..., tais como CDI e TJLP. Em  de dezembro de  a Administração considerou como cenário p...
+                                           ^^^^^
+Erro: 340
+Offset 83174, length 12, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; por isso
+...de R  .  é  corrigido  por  taxa  fixa  e  por  isso  não  está  sujeito  à  análise  de sen...
+                                           ^^^^^^^^^^^^
+Erro: 341
+Offset 85849, length 12, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e possam
+... tenham a previsibilidade de ocorrência e que possam ser mensurados com maior proximidade do...
+                                           ^^^^^^^^^^^^
+Erro: 342
+Offset 88302, length 3, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e
+...utras contas a pagar financiamentos e e e e Controladora Menos de um ano Entre um e...
+                                           ^^^
+Erro: 343
+Offset 93382, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ceiros derivativos  Em    de  dezembro  de    a  Companhia  e  suas  controladas  não  ...
+                                           ^^^^^^^
+Erro: 344
+Offset 93540, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ÇÕES DE COMPRA DE AÇÕES Em  de dezembro de  a Assembleia Geral Extraordinária aprovou...
+                                           ^^^^^
+Erro: 345
+Offset 99202, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...obre a apuração fiscal. Em  de dezembro de  a Companhia apurou o valor de R . (R . em...
+                                           ^^^^^

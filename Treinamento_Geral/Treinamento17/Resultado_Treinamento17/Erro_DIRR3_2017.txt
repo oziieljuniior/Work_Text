@@ -1,0 +1,600 @@
+Erro: 329
+Offset 4344, length 11, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; portanto
+... financeiras individuais e consolidadas e, portanto, não expressamos uma  opinião separada ...
+                                           ^^^^^^^^^^^
+Erro: 330
+Offset 5579, length 21, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: nossa auditoria temos; nossa auditoria tendais; nossa auditoria tendam; nossa auditoria tendamos; nossa auditoria tende; nossa auditoria tendei; nossa auditoria tendeis; nossa auditoria tendem; nossa auditoria tendemo; nossa auditoria tendemos; nossa auditoria tenderam; nossa auditoria tenderdes; nossa auditoria tendereis; nossa auditoria tenderem; nossa auditoria tenderemos; nossa auditoria tenderiam; nossa auditoria tendermos; nossa auditoria tenderão; nossa auditoria tenderíamos; nossa auditoria tenderíeis; nossa auditoria tendes; nossa auditoria tendessem; nossa auditoria tendeste; nossa auditoria tendestes; nossa auditoria tendiam; nossa auditoria tendêramo; nossa auditoria tendêramos; nossa auditoria tendêrei; nossa auditoria tendêreis; nossa auditoria tendêsseis; nossa auditoria tendêssemos; nossa auditoria tendíamo; nossa auditoria tendíamos; nossa auditoria tendíei; nossa auditoria tendíeis; nossa auditoria tenhais; nossa auditoria tenham; nossa auditoria tenhamos; nossa auditoria tereis; nossa auditoria teremos; nossa auditoria teriam; nossa auditoria terão; nossa auditoria teríamos; nossa auditoria teríeis; nossa auditoria tinham; nossa auditoria tivemo; nossa auditoria tivemos; nossa auditoria tiveram; nossa auditoria tiverdes; nossa auditoria tiverem; nossa auditoria tivermos; nossa auditoria tivessem; nossa auditoria tiveste; nossa auditoria tivestes; nossa auditoria tivéramo; nossa auditoria tivéramos; nossa auditoria tivérei; nossa auditoria tivéreis; nossa auditoria tivésseis; nossa auditoria tivéssemos; nossa auditoria têm; nossa auditoria tínhamo; nossa auditoria tínhamos; nossa auditoria tínhei; nossa auditoria tínheis
+...área foi considerada significativa para nossa auditoria tendo em vista que o processo de reconhecimen...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 331
+Offset 10498, length 24, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não expressamos nenhum; não expressamos nenhuma; não, expressamos qualquer
+... abrange o Relatório da Administração e não expressamos qualquer forma de conclusão de auditoria sobre e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 332
+Offset 10838, length 48, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou com nosso conhecimento obtido na auditoria, ou
+...onsistente as demonstrações financeiras ou com nosso conhecimento obtido na auditoria ou, de outra forma, aparenta estar distorc...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 333
+Offset 10998, length 6, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+...base no trabalho realizado, concluirmos que há distorção relevante no Relatório da Adm...
+                                           ^^^^^^
+Erro: 334
+Offset 14296, length 14, Rule ID: ESTAR_CLARO_DE_QUE
+Message: Possível dequeísmo: “é maior que”.
+Suggestion: é maior que
+...istorção relevante resultante de fraude é maior do que o proveniente de erro, já que a fraude ...
+                                           ^^^^^^^^^^^^^^
+Erro: 335
+Offset 17183, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...s pela governança, determinamos aqueles que foram considerados como mais significativos n...
+                                           ^^^^^^^^^
+Erro: 336
+Offset 29236, length 15, Rule ID: TER_PARTICIPIO-PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: viabiliza
+...processo construtivo padronizado, o que tem viabilizado a construção de empreendimentos em gran...
+                                           ^^^^^^^^^^^^^^^
+Erro: 337
+Offset 31608, length 25, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: a norma internacional fomo; a norma internacional fomos; a norma internacional foram; a norma internacional fordes; a norma internacional forem; a norma internacional formos; a norma internacional fossem; a norma internacional foste; a norma internacional fostes; a norma internacional fôramo; a norma internacional fôramos; a norma internacional fôrei; a norma internacional fôreis; a norma internacional fôsseis; a norma internacional fôssemos; a norma internacional iam; a norma internacional ide; a norma internacional ides; a norma internacional ireis; a norma internacional iremos; a norma internacional iriam; a norma internacional irão; a norma internacional iríamos; a norma internacional iríeis; a norma internacional vades; a norma internacional vamo; a norma internacional vamos; a norma internacional vão; a norma internacional íamo; a norma internacional íamos; a norma internacional íei; a norma internacional íeis
+...esentação das Demonstrações Contábeis e a norma internacional IAS  – Presentation of Financial Statements...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 338
+Offset 39962, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...por meio de uma participação societária de  a  dos direitos de voto.  Acordos em conj...
+                                           ^^^^^
+Erro: 339
+Offset 40923, length 29, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou joint venture for igual, ou
+...ção do Grupo nas perdas de uma coligada ou joint venture for igual ou superior ao valor contábil do investime...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 340
+Offset 41119, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou efetuado pagamentos em nome da coligada, ou
+...menos que tenha incorrido em obrigações ou efetuado pagamentos em nome da coligada ou controlada em conjunto. Os ganhos não r...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 341
+Offset 41774, length 34, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: outros resultados abrangentes serão
+...s valores anteriormente reconhecidos em outros resultados abrangentes será reclassificada para o resultado, quando...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 342
+Offset 43193, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...e consolidadas estão apresentadas em R, que é a moeda funcional da Companhia e, também,...
+                                           ^^^^^^^
+Erro: 343
+Offset 47470, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...ativo, o Grupo estabelece o valor justo através de técnicas de avaliação. Essas técnicas i...
+                                           ^^^^^^^^^^
+Erro: 344
+Offset 48350, length 25, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou falência da empresa, ou
+...e no caso de inadimplência, insolvência ou falência da empresa ou da contraparte.  de                    ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 345
+Offset 49894, length 6, Rule ID: QUE_HÁ_QUE_NÃO_HÁ
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: haver
+...s; ou (vi)  dados observáveis indicando que há uma redução mensurável nos futuros flux...
+                                           ^^^^^^
+Erro: 346
+Offset 53657, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...usto.  Os terrenos podem ser adquiridos através de parcerias com os proprietários dos terr...
+                                           ^^^^^^^^^^
+Erro: 347
+Offset 53880, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...de terrenos de imóveis a comercializar, em contrapartida a adiantamento de clientes, no momento ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 348
+Offset 54428, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...de terrenos de imóveis a comercializar, em contrapartida a contas a pagar, no momento da assinat...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 349
+Offset 56270, length 12, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e possam
+...micos futuros associados a esses custos e que possam ser mensurados com segurança. O valor c...
+                                           ^^^^^^^^^^^^
+Erro: 350
+Offset 56414, length 25, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: lançados, em contrapartida
+...dos os outros reparos e manutenções são lançados em contrapartida ao resultado do exercício, quando incor...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 351
+Offset 56954, length 22, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: seja a mês; sejam a meses; sejamos a meses
+...e que o prazo de vida útil estimado não seja inferior a  meses, e a sua depreciação é apropriada ao re...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 352
+Offset 59142, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...o ou produção de um ativo qualificável, que é um ativo que, necessariamente, demanda ...
+                                           ^^^^^
+Erro: 353
+Offset 61578, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos assuntos ou decisões de tribunais. (b) Provisão par...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 354
+Offset 66165, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em geral,
+...ndo da apuração dos tributos correntes, em geral relacionado com a mesma entidade legal ...
+                                           ^^^^^^^^
+Erro: 355
+Offset 68557, length 22, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: Os custos incrementa; Os custos incrementar; Os custos incrementara; Os custos incrementaras; Os custos incrementarei; Os custos incrementares; Os custos incrementaria; Os custos incrementarias; Os custos incrementará; Os custos incrementarás; Os custos incrementas; Os custos incrementasse; Os custos incrementasses; Os custos incrementaste; Os custos incrementava; Os custos incrementavas; Os custos incremente; Os custos incrementei; Os custos incrementes; Os custos incremento; Os custos incrementou
+...o classificadas no patrimônio líquido.  Os custos incrementais diretamente atribuíveis à emissão de no...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 356
+Offset 71962, length 11, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: assim
+...ce Nacional da Construção Civil (INCC), sendo assim determinado o montante da receita de ve...
+                                           ^^^^^^^^^^^
+Erro: 357
+Offset 73266, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: apropriados
+...apropriados ao custo do empreendimento, sendo apropriados ao resultado de acordo com as unidades ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 358
+Offset 74132, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...s são incorporados às contas a receber, em contrapartida de receita financeira. Essa receita fin...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 359
+Offset 74929, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: IASB, mas
+...uintes novas normas foram emitidas pelo IASB mas não estão em vigor para o exercício de ...
+                                           ^^^^^^^^
+Erro: 360
+Offset 76255, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...riscos e benefícios. Ela entra em vigor em o de janeiro de  e substitui a IAS CPC  "...
+                                           ^^^^
+Erro: 361
+Offset 81244, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos assuntos ou decisões de tribunais. A Companhia e su...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 362
+Offset 88728, length 4, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Água,
+...ndimentos Imobiliários Ltda. Direcional Água Branca Empreendimentos Imobiliários Ltd...
+                                           ^^^^
+Erro: 363
+Offset 89222, length 6, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Safira,
+...ndimentos Imobiliários Ltda. Direcional Safira Empreendimentos Imobiliários Ltda. Cora...
+                                           ^^^^^^
+Erro: 364
+Offset 89885, length 4, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Rubi,
+...ndimentos Imobiliários Ltda. Direcional Rubi Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^
+Erro: 365
+Offset 91439, length 4, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Rubi,
+...ndimentos Imobiliários Ltda. Direcional Rubi Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^
+Erro: 366
+Offset 91490, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Diamante,
+...ndimentos Imobiliários Ltda. Direcional Diamante Empreendimentos Imobiliários Ltda. SCP ...
+                                           ^^^^^^^^
+Erro: 367
+Offset 91610, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Trincheiras,
+... Taguatinga Engenharia Ltda. Direcional Trincheiras Empreendimentos Imobiliários Ltda. Outr...
+                                           ^^^^^^^^^^^
+Erro: 368
+Offset 92336, length 4, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Rubi,
+...ndimentos Imobiliários Ltda. Direcional Rubi Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^
+Erro: 369
+Offset 92387, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Cajueiros,
+...ndimentos Imobiliários Ltda. Direcional Cajueiros Empreendimentos Imobiliários Ltda. Gemi...
+                                           ^^^^^^^^^
+Erro: 370
+Offset 95370, length 6, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Vereda,
+...preendimentos Imobiliários Ltda. Grande Vereda Empreendimentos Imobiliários Ltda. SCP ...
+                                           ^^^^^^
+Erro: 371
+Offset 98885, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...l. A Companhia realizou em  de dezembro de  a alienação e locação do imóvel onde inst...
+                                           ^^^^^
+Erro: 372
+Offset 101084, length 37, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou qualquer plano de aposentadoria, ou
+...ão mantém planos de previdência privada ou qualquer plano de aposentadoria ou benefícios pósemprego.  de             ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 373
+Offset 102218, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Cajueiros,
+...ndimentos Imobiliários Ltda. Direcional Cajueiros Empreendimentos Imobiliários Ltda. Riac...
+                                           ^^^^^^^^^
+Erro: 374
+Offset 102748, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Trincheiras,
+...ndimentos Imobiliários Ltda. Direcional Trincheiras Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^^^^^^^^
+Erro: 375
+Offset 105526, length 6, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Vereda,
+...preendimentos Imobiliários Ltda. Grande Vereda Empreendimentos Imobiliários Ltda. Alta...
+                                           ^^^^^^
+Erro: 376
+Offset 107525, length 5, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Opala,
+...ndimentos Imobiliários Ltda. Direcional Opala Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^^
+Erro: 377
+Offset 108943, length 4, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Rubi,
+...ndimentos Imobiliários Ltda. Direcional Rubi Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^
+Erro: 378
+Offset 108994, length 5, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Âmbar,
+...ndimentos Imobiliários Ltda. Direcional Âmbar Empreendimentos Imobiliários Ltda. SCP ...
+                                           ^^^^^
+Erro: 379
+Offset 109978, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Turquesa,
+...ndimentos Imobiliários Ltda. Direcional Turquesa Empreendimentos Imobiliários Ltda. Flou...
+                                           ^^^^^^^^
+Erro: 380
+Offset 110077, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Azeviche,
+...ndimentos Imobiliários Ltda. Direcional Azeviche Empreendimentos Imobiliários Ltda. SCP ...
+                                           ^^^^^^^^
+Erro: 381
+Offset 114056, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: amortização,
+...endimentos S.A. , , .   . . Dividendos  amortização Equivalência  patrimonial Subscrição  (...
+                                           ^^^^^^^^^^^
+Erro: 382
+Offset 115941, length 5, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Opala,
+...ndimentos Imobiliários Ltda. Direcional Opala Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^^
+Erro: 383
+Offset 116049, length 6, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Safira,
+...ndimentos Imobiliários Ltda. Direcional Safira Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^^^
+Erro: 384
+Offset 116102, length 4, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Rubi,
+...ndimentos Imobiliários Ltda. Direcional Rubi Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^
+Erro: 385
+Offset 116153, length 5, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Âmbar,
+...ndimentos Imobiliários Ltda. Direcional Âmbar Empreendimentos Imobiliários Ltda. SCP ...
+                                           ^^^^^
+Erro: 386
+Offset 117100, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Turquesa,
+...ndimentos Imobiliários Ltda. Direcional Turquesa Empreendimentos Imobiliários Ltda. Flou...
+                                           ^^^^^^^^
+Erro: 387
+Offset 117199, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Azeviche,
+...ndimentos Imobiliários Ltda. Direcional Azeviche Empreendimentos Imobiliários Ltda. Arin...
+                                           ^^^^^^^^
+Erro: 388
+Offset 119552, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Cajueiros,
+...ndimentos Imobiliários Ltda. Direcional Cajueiros Empreendimentos Imobiliários Ltda. Riac...
+                                           ^^^^^^^^^
+Erro: 389
+Offset 120082, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Trincheiras,
+...ndimentos Imobiliários Ltda. Direcional Trincheiras Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^^^^^^^^
+Erro: 390
+Offset 122874, length 6, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Vereda,
+...preendimentos Imobiliários Ltda. Grande Vereda Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^^^
+Erro: 391
+Offset 125197, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: amortização,
+... , , , , , , , ,     .      Dividendos  amortização   Equivalência  patrimonial Subscrição ...
+                                           ^^^^^^^^^^^
+Erro: 392
+Offset 131180, length 6, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Vereda,
+...ndimentos Imobiliários SPE Ltda. Grande Vereda Empreendimentos Imobiliários SPE Ltda. ...
+                                           ^^^^^^
+Erro: 393
+Offset 135349, length 5, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Opala,
+...ndimentos Imobiliários Ltda. Direcional Opala Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^^
+Erro: 394
+Offset 135457, length 6, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Safira,
+...ndimentos Imobiliários Ltda. Direcional Safira Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^^^
+Erro: 395
+Offset 135510, length 4, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Rubi,
+...ndimentos Imobiliários Ltda. Direcional Rubi Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^
+Erro: 396
+Offset 135561, length 5, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Âmbar,
+...ndimentos Imobiliários Ltda. Direcional Âmbar Empreendimentos Imobiliários Ltda. SCP ...
+                                           ^^^^^
+Erro: 397
+Offset 136665, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Turquesa,
+...ndimentos Imobiliários Ltda. Direcional Turquesa Empreendimentos Imobiliários SPE S.A. F...
+                                           ^^^^^^^^
+Erro: 398
+Offset 136767, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Azeviche,
+...ndimentos Imobiliários Ltda. Direcional Azeviche Empreendimentos Imobiliários Ltda. SCP ...
+                                           ^^^^^^^^
+Erro: 399
+Offset 140537, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Cajueiros,
+...ndimentos Imobiliários Ltda. Direcional Cajueiros Empreendimentos Imobiliários Ltda. Riac...
+                                           ^^^^^^^^^
+Erro: 400
+Offset 140758, length 4, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Água,
+...ndimentos Imobiliários Ltda. Direcional Água Branca Empreendimentos Imobiliários Ltd...
+                                           ^^^^
+Erro: 401
+Offset 141018, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Trincheiras,
+...ndimentos Imobiliários Ltda. Direcional Trincheiras Empreendimentos Imobiliários Ltda. Agua...
+                                           ^^^^^^^^^^^
+Erro: 402
+Offset 143768, length 6, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Vereda,
+...preendimentos Imobiliários Ltda. Grande Vereda Empreendimentos Imobiliários Ltda. Alta...
+                                           ^^^^^^
+Erro: 403
+Offset 147036, length 5, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Opala,
+...ndimentos Imobiliários Ltda. Direcional Opala Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^^
+Erro: 404
+Offset 147144, length 6, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Safira,
+...ndimentos Imobiliários Ltda. Direcional Safira Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^^^
+Erro: 405
+Offset 147197, length 4, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Rubi,
+...ndimentos Imobiliários Ltda. Direcional Rubi Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^
+Erro: 406
+Offset 147248, length 5, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Âmbar,
+...ndimentos Imobiliários Ltda. Direcional Âmbar Empreendimentos Imobiliários Ltda. SCP ...
+                                           ^^^^^
+Erro: 407
+Offset 148356, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Turquesa,
+...ndimentos Imobiliários Ltda. Direcional Turquesa Empreendimentos Imobiliários Ltda. Flou...
+                                           ^^^^^^^^
+Erro: 408
+Offset 156882, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Diamante,
+... Taguatinga Engenharia Ltda. Direcional Diamante Empreendimentos Imobiliários Ltda.  Ôni...
+                                           ^^^^^^^^
+Erro: 409
+Offset 157150, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Ametista,
+...ndimentos Imobiliários Ltda. Direcional Ametista Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^^^^^
+Erro: 410
+Offset 157319, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Turquesa,
+...ndimentos Imobiliários Ltda. Direcional Turquesa Empreendimentos Imobiliários S.A. Direc...
+                                           ^^^^^^^^
+Erro: 411
+Offset 157470, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Azeviche,
+...ndimentos Imobiliários Ltda. Direcional Azeviche Empreendimentos Imobiliários Ltda. Gemi...
+                                           ^^^^^^^^
+Erro: 412
+Offset 157826, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Turmalina,
+...ndimentos Imobiliários Ltda. Direcional Turmalina Empreendimentos Imobiliários Ltda. Azur...
+                                           ^^^^^^^^^
+Erro: 413
+Offset 159910, length 46, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou juros variáveis com margens sobre a TJLP, ou
+...a operação, juros fixos de , a , ao ano ou juros variáveis com margens sobre a TJLP ou TJ que variam de , a , ao ano e (ii) pa...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 414
+Offset 160899, length 15, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e constitui
+...ras, lastreado em créditos imobiliários e que constitui promessa de pagamento em dinheiro. Fora...
+                                           ^^^^^^^^^^^^^^^
+Erro: 415
+Offset 162467, length 15, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e constitui
+...ras, lastreado em créditos imobiliários e que constitui promessa de pagamento em dinheiro. Fora...
+                                           ^^^^^^^^^^^^^^^
+Erro: 416
+Offset 165069, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: o
+...nsalmente, a partir da data de emissão, sendo o primeiro pagamento em  de maio de , e o...
+                                           ^^^^^^^
+Erro: 417
+Offset 165162, length 7, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: o
+...is no mesmo dia dos meses subsequentes, sendo o último pagamento devido na data de venc...
+                                           ^^^^^^^
+Erro: 418
+Offset 168407, length 6, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Safira,
+...ndimentos Imobiliários Ltda. Direcional Safira Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^^^
+Erro: 419
+Offset 173139, length 19, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não incide nenhum; não incide nenhuma; não, incide qualquer
+... R . recebidos em dinheiro sobre o qual não incide qualquer remuneração. Em dezembro , foi viabiliz...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 420
+Offset 177077, length 32, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: nossas informações trimestrais são
+...tal autorizado na data da divulgação de nossas informações trimestrais é de R. O número de ações ordinárias em q...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 421
+Offset 179795, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: recebidos, em contrapartida
+...onhece na referida rubrica, os serviços recebidos em contrapartida da outorga de opções de compra de ações...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 422
+Offset 184873, length 15, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: Sede direcionais; Seda Direcional; Sedes Direcional; Sejas Direcional; Sê Direcional
+...as e custos dos Imóveis concluídos Nova Sede Direcional Outros Total Controladora Receitas líqu...
+                                           ^^^^^^^^^^^^^^^
+Erro: 423
+Offset 185878, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Azeviche,
+...ndimentos Imobiliários Ltda. Direcional Azeviche Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^^^^^
+Erro: 424
+Offset 186847, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Turquesa,
+...ndimentos Imobiliários Ltda. Direcional Turquesa Empreendimentos Imobiliários Ltda. Agua...
+                                           ^^^^^^^^
+Erro: 425
+Offset 187834, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Turquesa,
+...ndimentos Imobiliários Ltda. Direcional Turquesa Empreendimentos Imobiliários SPE S.A. O...
+                                           ^^^^^^^^
+Erro: 426
+Offset 188289, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Diamante,
+...ndimentos Imobiliários Ltda. Direcional Diamante Empreendimentos Imobiliários Ltda. Dire...
+                                           ^^^^^^^^
+Erro: 427
+Offset 188344, length 4, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Rubi,
+...ndimentos Imobiliários Ltda. Direcional Rubi Empreendimentos Imobiliários Ltda. Amet...
+                                           ^^^^
+Erro: 428
+Offset 201492, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis pelo
+...dos preços cotados incluídas no Nível , que são observáveis pelo mercado para o ativo ou passivo, seja d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^

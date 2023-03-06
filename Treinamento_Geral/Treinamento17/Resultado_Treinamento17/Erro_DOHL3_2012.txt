@@ -1,0 +1,101 @@
+Erro: 1
+Offset 4937, length 6, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...ados  em  moeda  funcional  Reais  (R)  que  é  a  moeda  do principal  ambiente  econ...
+                                           ^^^^^^
+Erro: 2
+Offset 7224, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: designados
+...oníveis para venda são, nãoderivativos, que são designados nessa categoria ou que não são classifi...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 8959, length 24, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: Normalmente, na prática
+...  de                        créditos.  Normalmente  na  prática  são  reconhecidas  ao  valor  faturado...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 9842, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...vos imobilizados a valor justo, efetuou em  a avaliação pelo custo  atribuído.  Os  a...
+                                           ^^^^^
+Erro: 5
+Offset 17354, length 24, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: essas estimativas poderão
+... A liquidação das transações envolvendo essas estimativas poderá resultar em valores divergentes dos reg...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 17746, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e
+...u os Pronunciamentos Técnico CPC nºs ,  e , e a Instrução CVM , de  de dezembro de , ...
+                                           ^^^^^
+Erro: 7
+Offset 21871, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: e, portanto
+...não  apresentaram  riscos  relevantes,  e  portanto, dispensam a demonstração da análise de...
+                                           ^^^^^^^^^^^
+Erro: 8
+Offset 25166, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...ilizadoTotalTaxas Depreciação Vida Útil a   a Em  de dezembro de CustoDepreciação Acu...
+                                           ^^^^^
+Erro: 9
+Offset 27407, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...eImobilizadoTaxas Depreciação Vida Útil a   a Em  de dezembro de CustoDepreciação Acu...
+                                           ^^^^^
+Erro: 10
+Offset 27798, length 10, Rule ID: CRASE_CONFUSION
+Message: Esta palavra rege-se com a preposição “a”.
+Suggestion: procedeu à
+...muladaValor líquido contábilA Companhia procedeu a Revisão Anual da Vida Útil Econômica do...
+                                           ^^^^^^^^^^
+Erro: 11
+Offset 32391, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... a ,  a.a. () V.C.ReaisDolaresUfirJuros de   a.a.ReaisReaisTotal de Empréstimos e Fina...
+                                           ^^^^^^
+Erro: 12
+Offset 39410, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... respectivos valores pagos nos períodos de  a . A Companhia e sua controlada já receb...
+                                           ^^^^^
+Erro: 13
+Offset 39586, length 24, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: contabilizados
+...pécie e R . mil em ações da Eletrobrás, que foram contabilizados como resultado no exercício de , perman...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 14
+Offset 40423, length 37, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: nossos assessores jurídicos não exigem
+... possibilidade de perda, avaliada pelos nossos assessores jurídicos não exige constituição de provisão. NaturezaTribu...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 15
+Offset 42144, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: ordinárias
+...l é de R . mil representado por  ações, sendo  ordinárias e  preferenciais. A  AGOE  de    aprovo...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 16
+Offset 43219, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...ajustado na forma do artigo  da Lei nº  Em  o Conselho da Administração deliberou sob...
+                                           ^^^^^
+Erro: 17
+Offset 44730, length 1, Rule ID: CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL
+Message: O pronome relativo ‘cujo’ tem de estar ligado a nome/adj/numeral.
+...face  a  futuros  investimentos,  cujo  o  orçamento  de  Capital  será  submetid...
+                                           ^

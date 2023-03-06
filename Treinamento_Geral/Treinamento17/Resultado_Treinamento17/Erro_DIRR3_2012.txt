@@ -1,0 +1,215 @@
+Erro: 1
+Offset 890, length 15, Rule ID: TER_PARTICIPIO-PASSADO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: viabiliza
+...processo construtivo padronizado, o que tem viabilizado a construção de empreendimentos em gran...
+                                           ^^^^^^^^^^^^^^^
+Erro: 2
+Offset 4300, length 7, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: haver
+...ente não está sendo apresentada por não haverem valores a serem apresentados sob esse c...
+                                           ^^^^^^^
+Erro: 3
+Offset 13701, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos assuntos ou decisões de tribunais. A Companhia e su...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 16095, length 13, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: dependendo
+...concessão de instrumentos patrimoniais, o que depende dos termos e condições da concessão. Is...
+                                           ^^^^^^^^^^^^^
+Erro: 5
+Offset 21283, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+... do valor justo dos terrenos adquiridos através de permutas é definida em conexão com os c...
+                                           ^^^^^^^^^^
+Erro: 6
+Offset 21950, length 2, Rule ID: CUJO_LIGACAO_NOME_ADJETIVO_NUMERAL
+Message: O pronome relativo ‘cujo’ tem de estar ligado a nome/adj/numeral.
+... os imóveis concluídos, os imóveis cujo ao habitese já tenho sido expedito e averb...
+                                           ^^
+Erro: 7
+Offset 22825, length 22, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: seja a mês; sejam a meses; sejamos a meses
+...e que o prazo de vida útil estimado não seja inferior a  meses, e a sua depreciação é apropriada ao re...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 27469, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...islação tributária, a Companhia manteve em  a tributação pelo regime tributário de lu...
+                                           ^^^^^
+Erro: 9
+Offset 31167, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos assuntos ou decisões de tribunais. Ernst & Young Te...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 50160, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...adas pelo IGPM e há incidência de juros de  a.a. Ernst & Young Terco |               ...
+                                           ^^^^^
+Erro: 11
+Offset 56433, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Trincheiras,
+... Taguatinga Engenharia Ltda. Direcional Trincheiras Empreendimentos Imobiliários Ltda Direc...
+                                           ^^^^^^^^^^^
+Erro: 12
+Offset 57773, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... . .  .  . . . . . . (a)  Em  de agosto de  a companhia adquiriu  das quotas da Direc...
+                                           ^^^^^
+Erro: 13
+Offset 62237, length 37, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou qualquer plano de aposentadoria, ou
+...ão mantém planos de previdência privada ou qualquer plano de aposentadoria ou benefícios pósemprego. Ernst & Young Te...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 14
+Offset 71014, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Diamante,
+...dimentos Imobiliários Ltda.  Direcional Diamante Empreendimentos Imobiliarios Ltda  Flou...
+                                           ^^^^^^^^
+Erro: 15
+Offset 79986, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+....    . .  . . . . .  .  .  . Patrimônio liquido Receita Liquida de vendas e serviços . ...
+                                           ^^^^^^^
+Erro: 16
+Offset 80002, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquida
+.... .  .  .  . Patrimônio liquido Receita Liquida de vendas e serviços .  .  .       .  ....
+                                           ^^^^^^^
+Erro: 17
+Offset 82630, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...te Circulante Não circulante Patrimônio liquido Demonstrações dos resultados Receita Li...
+                                           ^^^^^^^
+Erro: 18
+Offset 82675, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquida
+...do Demonstrações dos resultados Receita Liquida de vendas e serviços Lucro Bruto Despes...
+                                           ^^^^^^^
+Erro: 19
+Offset 85746, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquida
+... . . . . Ernst & Young Terco |  Receita Liquida de vendas e serviços . .       .       ...
+                                           ^^^^^^^
+Erro: 20
+Offset 87179, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...te Circulante Não circulante Patrimônio liquido Demonstrações dos resultados Receita Li...
+                                           ^^^^^^^
+Erro: 21
+Offset 87224, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquida
+...do Demonstrações dos resultados Receita Liquida de vendas e serviços Lucro Bruto Despes...
+                                           ^^^^^^^
+Erro: 22
+Offset 99648, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: garantidos pelos
+...ienação fiduciária, no montante de R ., que são garantidos pelos próprios objetos dos contratos. Ernst &...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 23
+Offset 112769, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+... incidentes svendas Receita operacional liquida Consolidado   . .   . . .         .  Os...
+                                           ^^^^^^^
+Erro: 24
+Offset 118627, length 5, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Abaré,
+... Taguatinga Engenharia Ltda. Direcional Abaré Empreendimentos Imobiliários Ltda Direc...
+                                           ^^^^^
+Erro: 25
+Offset 118770, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Trincheiras,
+...ndimentos Imobiliários Ltda. Direcional Trincheiras Empreendimentos Imobiliários Ltda Direc...
+                                           ^^^^^^^^^^^
+Erro: 26
+Offset 119320, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Diamante,
+... Taguatinga Engenharia Ltda. Direcional Diamante Empreendimentos Imobiliarios Ltda Ônix ...
+                                           ^^^^^^^^
+Erro: 27
+Offset 119586, length 6, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Safira,
+... Taguatinga Engenharia Ltda. Direcional Safira Empreendimentos Imobiliarios Ltda Direc...
+                                           ^^^^^^
+Erro: 28
+Offset 120342, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Diamante,
+...ndimentos Imobiliários Ltda. Direcional Diamante Empreendimentos Imobiliarios Ltda Direc...
+                                           ^^^^^^^^
+Erro: 29
+Offset 122468, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...social passou a ser de R   Em  de abril de  o conselho de administração aprovou o aum...
+                                           ^^^^^
+Erro: 30
+Offset 122676, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...mpra de Ações Em  de julho e  de agosto de  o conselho de administração aprovou ao au...
+                                           ^^^^^
+Erro: 31
+Offset 122978, length 34, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: nossas demonstrações financeiras são
+...tal autorizado na data da divulgação de nossas demonstrações financeiras é de R.  Reservas de Capital   Reserva de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 32
+Offset 123111, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...o de ações Conforme comentado na Nota , em  a Companhia realizou uma oferta pública d...
+                                           ^^^^^
+Erro: 33
+Offset 123569, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: recebidos, em contrapartida
+...onhece na referida rubrica, os serviços recebidos em contrapartida da outorga de  opções de compra de açõe...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 34
+Offset 125802, length 19, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: calculado com
+...do um dividendo mínimo obrigatório de , que é calculado com base no lucro liquido, ajustado pelas v...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 35
+Offset 125836, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+... de , que é calculado com base no lucro liquido, ajustado pelas variações patrimoniais ...
+                                           ^^^^^^^
+Erro: 36
+Offset 126665, length 9, Rule ID: PARONYM_CALCULO_606
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: o cálculo
+...PC  (IAS ). A tabela a seguir apresenta o calculo de lucro por ação para os períodos ence...
+                                           ^^^^^^^^^
