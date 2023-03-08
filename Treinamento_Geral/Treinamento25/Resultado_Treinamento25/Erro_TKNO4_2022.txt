@@ -1,0 +1,96 @@
+Erro: 249
+Offset 1156, length 6, Rule ID: DIACRITICS
+Message: Sem o acento, essa é a forma verbal da palavra. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: móveis
+...nuou  a  atividade  de  fabricação  de  moveis  de  aço, continuando somente com a ati...
+                                           ^^^^^^
+Erro: 250
+Offset 9413, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...o um crédito de R., relativo ao período de  a , que restou integralmente compensado p...
+                                           ^^^^^
+Erro: 251
+Offset 10102, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...o no valor de R ., referente ao período de  a , que restou integralmente compensado p...
+                                           ^^^^^
+Erro: 252
+Offset 10569, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: com efeito,
+...al (STF) proferida em  de setembro de , com efeito vinculante, que tornou inconstitucional...
+                                           ^^^^^^^^^^
+Erro: 253
+Offset 63538, length 12, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: ações
+...esentado por  ações, sem valor nominal, sendo  ações preferenciais e  ordinárias. As  ações ...
+                                           ^^^^^^^^^^^^
+Erro: 254
+Offset 68798, length 46, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ControladoraConsolidadoMMMMIndústrias, em geral
+... Receita de vendas de bens eou serviços ControladoraConsolidadoMMMMIndústrias em geral (Vendas)Industrialização para terceiros...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 255
+Offset 69027, length 53, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: líquidaControladoraConsolidadoTTTTIndústrias, em geral
+...abatimentosTotal de receita operacional líquidaControladoraConsolidadoTTTTIndústrias em geral (Vendas)Industrialização para terceiros...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 256
+Offset 81623, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis para
+...eto preços cotados, incluídas no Nível  que são observáveis para o ativo ou passivo, diretamente (preços...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 257
+Offset 84741, length 58, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de instituições financeiras depositárias de recursos, ou
+...s de inadimplência de suas contrapartes ou de instituições financeiras depositárias de recursos ou de investimentos financeiros. Para miti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 258
+Offset 89491, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+... para a recomposição do capital de giro em nível mais compatível com o uso previsto de r...
+                                           ^^^^^^^^
+Erro: 259
+Offset 91917, length 14, Rule ID: DIFERENTES
+Message: Substitua por
+Suggestion: diferem
+...eja sujeito a riscos e remunerações que são diferentes daqueles outros segmentos. Os  resultad...
+                                           ^^^^^^^^^^^^^^
+Erro: 260
+Offset 93822, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: líquidoIndústrias, em Geral
+...sivoCirculanteNão circulante Patrimônio líquidoIndústrias em Geral (Vendas) Industrialização para Terceiro...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 261
+Offset 94875, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: líquidoIndústrias, em Geral
+...sivoCirculanteNão circulante Patrimônio líquidoIndústrias em Geral (Vendas) Industrialização para Terceiro...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 262
+Offset 96187, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: períodoIndústrias, em Geral
+...renda e contribuição socialResultado do períodoIndústrias em Geral (Vendas)Industrialização para Terceiros...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 263
+Offset 104063, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: com efeito,
+...xaPagamento de imobilizados no período (com efeito no período), adquiridos em exercícios a...
+                                           ^^^^^^^^^^
+Erro: 264
+Offset 105030, length 10, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: acesso às
+...os  os  colaboradores  previamente  ao  acesso  as  plantas  e escritórios, testagem RTPCR...
+                                           ^^^^^^^^^^

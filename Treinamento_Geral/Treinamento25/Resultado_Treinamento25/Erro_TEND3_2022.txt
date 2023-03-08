@@ -1,0 +1,186 @@
+Erro: 369
+Offset 8312, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e
+...A Nota Controladora Consolidado         e   e       .  .  . . . . . .   . . .  . . . ...
+                                           ^^^^^
+Erro: 370
+Offset 15221, length 7, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+...efeitos de potenciais direitos de voto, que são atualmente exercíveis ou conversíveis, ...
+                                           ^^^^^^^
+Erro: 371
+Offset 26916, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...e passivos a descoberto em  de setembro de  a)  A Companhia possui novos investimento...
+                                           ^^^^^
+Erro: 372
+Offset 27749, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...T  SPE EMP. IMOB.FIT CAMPOLIM SPEOutros.De  a .Consolidado.Total Controladora.       ...
+                                           ^^^^^
+Erro: 373
+Offset 31032, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...ÍTULOS E VALORES MOBILIÁRIOS a)  Dívida liquida e gestão do capital social Empréstimos ...
+                                           ^^^^^^^
+Erro: 374
+Offset 31205, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquida
+...ítulos e valores mobiliários (b) Dívida Liquida Patrimônio líquido  Patrimônio líquido ...
+                                           ^^^^^^^
+Erro: 375
+Offset 31631, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...a, indexados à taxa CDI com remuneração de  a . Caixa e bancos Certificado de depósit...
+                                           ^^^^^
+Erro: 376
+Offset 31896, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... de depósitos bancários com remuneração de  a  do CDI, letras do tesouro nacional, tí...
+                                           ^^^^^
+Erro: 377
+Offset 32014, length 12, Rule ID: QUE_ESTAR_CONTRACAO_PREPOSICAO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: em
+...itas (repasses de créditos associativos que estão em processo de liberação na Caixa Econômic...
+                                           ^^^^^^^^^^^^
+Erro: 378
+Offset 32485, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...dado    Até  CDI TR , a.a. Até , a.a.   a   a  Até   CDI  , a.a. Até   CDI  , a.a. At...
+                                           ^^^^^
+Erro: 379
+Offset 34322, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...nte aos períodos findos em  de setembro de  a  de dezembro de , desde que cumpridos n...
+                                           ^^^^^
+Erro: 380
+Offset 34876, length 19, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: Não criar nenhum; Não criar nenhuma; Não, criar quaisquer
+... de dividendo mínimo obrigatório; (ii)  Não criar quaisquer ônus ou gravames, ou celebrar qualquer ...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 381
+Offset 34914, length 32, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou celebrar qualquer contrato, ou
+...  Não criar quaisquer ônus ou gravames, ou celebrar qualquer contrato ou tomar qualquer outra providência que ve...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 382
+Offset 34984, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: onere
+...ou tomar qualquer outra providência que venha a onerar as ações de emissão da Alea S.A; (iii) ...
+                                           ^^^^^^^^^^^^^^
+Erro: 383
+Offset 39056, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...orrer Valor mensal Até  anos .   .  .   De  a  .   . . .   Acima de  .   . . .   . . ...
+                                           ^^^^^
+Erro: 384
+Offset 43331, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+.... . . . . . .  . . . . . . (a)  Aumento devido a garantia de litígio com a Receita Feder...
+                                           ^^^^^^^^
+Erro: 385
+Offset 45237, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ÍQUIDO . Capital social Em  de setembro de  o capital social subscrito e integralizad...
+                                           ^^^^^
+Erro: 386
+Offset 46605, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...ndo indicado de outra forma) resultado (em contrapartida ao patrimônio líquido) durante o períod...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 387
+Offset 46688, length 15, Rule ID: À_MEDIDA_EM_QUE
+Message: Substitua por “à medida que”.
+Suggestion: à medida que
+...ante o período de carência do programa, à medida em que os serviços são prestados pelos emprega...
+                                           ^^^^^^^^^^^^^^^
+Erro: 388
+Offset 48927, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... social  da  Companhia,  após  período  de    a    anos.  Para  os  administradores  e ...
+                                           ^^^^^^^
+Erro: 389
+Offset 49095, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...lecidas  pelo  Conselho  e podem variar de  a . O Plano tem duração de  anos e será d...
+                                           ^^^^^
+Erro: 390
+Offset 49162, length 15, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: limitados
+... de  anos e será dividido em Programas, sendo limitados ao máximo de opções que resulte em uma ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 391
+Offset 49482, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+... reconhecido como despesa no resultado (em contrapartida ao patrimônio líquido) durante o períod...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 392
+Offset 51829, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...pital social da Companhia, após período de  a  anos.  Mediante  a  ocorrência  do  IP...
+                                           ^^^^^
+Erro: 393
+Offset 52048, length 10, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: seja ação; sejam Ações; sejamos Ações
+...ções Alea. A quantidade final de ações, seja Ações Tenda ou Ações Alea, a que o Beneficiár...
+                                           ^^^^^^^^^^
+Erro: 394
+Offset 52599, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...o Total .  . , , , .  . Em  de setembro de  o valor de mercado das ações em tesourari...
+                                           ^^^^^
+Erro: 395
+Offset 54550, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... de término de obra (Vigências a partir de  a )  .    A  vigência  da  apólice  de  r...
+                                           ^^^^^
+Erro: 396
+Offset 60341, length 25, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: observáveis para
+...rcados  ativos  incluídos  no  Nível    que  são observáveis para o ativo ou passivo, diretamente (como p...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 397
+Offset 62187, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...bêntures da Companhia.  ) Em  setembro  de    a  operação  foi  liquidada,  zerando  se...
+                                           ^^^^^^^
+Erro: 398
+Offset 77277, length 23, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: não utilizar nenhum; não utilizar nenhuma; não, utilizar qualquer
+...devido  ao  fato  de  a  Administração  não  utilizar  qualquer  sistema  de  informação diferente das ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 399
+Offset 80461, length 18, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ), em contrapartida
+...nte de caixa (controladora e consolidado) em contrapartida de partes relacionadas. b)  Conciliação...
+                                           ^^^^^^^^^^^^^^^^^^
