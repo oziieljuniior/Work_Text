@@ -1,0 +1,96 @@
+Erro: 1
+Offset 8638, length 9, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: a
+...as  são  apresentadas  em  reais  (R),  que  é  a  moeda  funcional  da  Empresa  e  de  ...
+                                           ^^^^^^^^^
+Erro: 2
+Offset 9573, length 5, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: ser
+... apenas um segmento passível de reporte que é de geração e comercialização de energia...
+                                           ^^^^^
+Erro: 3
+Offset 13272, length 67, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienações normais de ativos financeiros são reconhecidas, ou
+...nhecimento inicial. Todas as aquisições ou alienações normais de ativos  financeiros  são  reconhecidas  ou  baixadas  com  base  na  data  de  neg...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 19605, length 30, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja liquidado ou o ativo, seja
+...período no qual se espera que o passivo seja liquidado ou o ativo seja realizado, com base nas alíquotas previ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 21593, length 28, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: registrados, em contrapartida
+...endimento, os valores provisionados são registrados em contrapartida ao ativo imobilizado em curso. Após a e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 28592, length 11, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...rgia  Elétrica  –  ABRADEE,  em  ,  que através  de  liminar  suspendeu  a  cobrança  do  v...
+                                           ^^^^^^^^^^^
+Erro: 7
+Offset 35139, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...ecebimentos futuros (dos dois o menor), em contrapartida de um ganhoperda  na  alienação  e  rec...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 35410, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+... pagamentos futuros (dos dois o menor), em contrapartida do passivo e reconhecendo uma despesa d...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 36065, length 10, Rule ID: QUE_SUBJ_VS_INF_PESS
+Message: Esta perífrase pode ser simplificada.
+Suggestion: irem; serem
+...  o arrendatário poderia utilizálos sem que fossem feitas modificações significativas.    ...
+                                           ^^^^^^^^^^
+Erro: 10
+Offset 45642, length 19, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas, e só deve ser utilizada no ínicio duma frase para efeitos de estilo.
+Suggestion: abrangendo, portanto
+...antista  Energia  S.A.  –  BSE (Nota ), abrangendo portanto as seguintes concessões de geração de e...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 49215, length 3, Rule ID: FRAGMENT_TWO_ARTICLES
+Message: Possível fragmento.
+Suggestion: o; O; o, O
+...tação de serviços ancilares firmado com o O.N.S. •  Utilizada a média de geração de...
+                                           ^^^
+Erro: 12
+Offset 58126, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...a variação do IGPDI, acrescido de juros de  a.a. Anualmente ao final de cada exercíci...
+                                           ^^^^^
+Erro: 13
+Offset 62180, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: determinado
+... do  Sistema  de Distribuição  (CUSD),  sendo  determinado  à  ANEEL  que  se  abstenha  de  aplic...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 14
+Offset 71198, length 29, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: todas nominativas escritura; todas nominativas escriturar; todas nominativas escriturara; todas nominativas escrituraras; todas nominativas escriturarei; todas nominativas escriturares; todas nominativas escrituraria; todas nominativas escriturarias; todas nominativas escriturará; todas nominativas escriturarás; todas nominativas escrituras; todas nominativas escriturasse; todas nominativas escriturasses; todas nominativas escrituraste; todas nominativas escriturava; todas nominativas escrituravas; todas nominativas escriture; todas nominativas escriturei; todas nominativas escritures; todas nominativas escrituro; todas nominativas escriturou
+...es  ordinárias  e  ações preferenciais, todas nominativas escriturais e sem valor nominal. Os principais acio...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 15
+Offset 87204, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...sco surge da possibilidade de a Empresa vir a incorrer em perdas resultantes da dificuldade de...
+                                           ^^^^^^^^^^^^^^
+Erro: 16
+Offset 88591, length 15, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e permite
+...o  Setor  Elétrico  Brasileiro  dispõe  e  que  permite  ao  Operador  Nacional  do Sistema Elé...
+                                           ^^^^^^^^^^^^^^^

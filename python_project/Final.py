@@ -11,6 +11,7 @@ from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfpage import PDFPage
 from pdfminer.pdfparser import PDFParser
 
+
 #Biblioteca que realiza análise textual
 import language_tool_python as lt
 
@@ -36,11 +37,13 @@ data_local = excel2.active
 data_local.title = "Empresas"
 data_local["A1"] = "Empresas"
 data_local["B1"] = "Qt_Erros"
+data_local["C1"] = "Qt_Paginas"
 indice_excel = 1
 
 
 #Configuração da biblioteca para análise textual 
-#tool = lt.LanguageTool("pt-BR")
+tool = lt.LanguageTool("pt-BR", config = {'requestLimit' : 10, 'timeoutRequestLimit': 60})
+print("Conectado ao servidor ...")
         
 
 
@@ -49,10 +52,6 @@ path = askdirectory(title = 'Caminho Data salva')
 path_resultado = askdirectory(title = 'Caminho onde o resultado da pesquisa deve ser salvo')
 path_saida_original = askdirectory(title = 'Caminho de Saida')
 path_texto = askdirectory(title = 'Caminho Texto')
-#path.replace("/","\\")
-#print(path)
-#'/home/oziel/Documentos/Alunos/PauloB/data/today'
-#path = 'C:\\Users\\Riallen\\Documents\\Att\\treinamento5 '
 lista_caminho = os.listdir(path)
 print(lista_caminho)
 
@@ -73,14 +72,10 @@ for caminho in lista_caminho:
     #Configuração de caminho para percorrer pastas das empresas
     path1 = path + "/" + caminho
     caminho_pdf = os.listdir(path1)
-    #print(caminho_pdf)
 
     #Contador dos erros locais de cada empresa
     erro_local = 0
 
-    tool = lt.LanguageTool("pt-BR", config = {'requestLimit' : 10, 'timeoutRequestLimit': 60})
-    print("Conectado ao servidor ...")
-    
     #Condicional para realizar a captura e análise textual
     if len(caminho_pdf) != 0:
         caminho_pdf.sort()
@@ -112,14 +107,24 @@ for caminho in lista_caminho:
             #Configuração para extração do texto
             path2 = path1 + "/" + caminho1
             output_string = StringIO()
+#                        ...
             with open(path2,'rb') as in_file:
                 parser = PDFParser(in_file)
                 doc = PDFDocument(parser)
+                #numero de paginas
+                num_pages = doc.catalog['Pages'].resolve()['Count']
+                print(f'O arquivo PDF tem {num_pages} páginas.')
                 rsrcmgr = PDFResourceManager()
                 device = TextConverter(rsrcmgr, output_string, laparams=LAParams())
                 interpreter = PDFPageInterpreter(rsrcmgr,device)
+                page_count = 0
                 for page in PDFPage.create_pages(doc):
-                    interpreter.process_page(page)
+                    if page_count < 50:
+                        interpreter.process_page(page)
+                        page_count += 1
+                    else:
+                        break
+#            ...
             #variavel de retorno da extração do texto
             text = output_string.getvalue()
             bad = ['\n', '\r','\t','\n\x0c','1','2','3','4','5','6','7','8','9','0','*','-','/','%','$','(.)','(..)','(...)','()','( )','(   )',',.','..','+']
@@ -138,6 +143,7 @@ for caminho in lista_caminho:
 
             while z <= 20:
                 try:
+                    time.sleep(3)
                     matches = tool.check(text)
                     print(len(matches))
                             
@@ -171,8 +177,10 @@ for caminho in lista_caminho:
             
             indice_planilhaeA = "A" + str(indice_excel1)
             indice_planilhaeB = "B" + str(indice_excel1)
+            indice_planilhaeC = 'C' + str(indice_excel1)
             data_local_ano[indice_planilhaeA] = caminho1
             data_local_ano[indice_planilhaeB] = erro_anual
+            data_local_ano[indice_planilhaeC] = num_pages
             indice_excel1 += 1
             
             print("Análise realizada com sucesso!")

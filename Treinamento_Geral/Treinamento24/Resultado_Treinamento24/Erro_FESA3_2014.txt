@@ -1,0 +1,384 @@
+Erro: 89
+Offset 8310, length 18, Rule ID: GRAMMATICAL_DOUBLE_NEGATIVES
+Message: Esta situação requer a utilização de ‘nenhum(a)’.
+Suggestion: Não houve nenhum; Não houve nenhuma; Não, houve qualquer
+...  .    .      .        . . . . . . .  . Não houve qualquer impacto no balanço patrimonial, demonst...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 90
+Offset 8660, length 7, Rule ID: VERB_QUE_É_VERB_SER
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: sendo
+... originais são inferiores a três meses, que são prontamente conversíveis em um montante...
+                                           ^^^^^^^
+Erro: 91
+Offset 8727, length 11, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e estão
+...íveis em um montante conhecido de caixa e que estão sujeitos a um insignificante risco de m...
+                                           ^^^^^^^^^^^
+Erro: 92
+Offset 11001, length 18, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: reconhecidos
+...anutenção em carteira até o vencimento, sendo reconhecidos inicialmente ao valor justo e subsequen...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 93
+Offset 13776, length 14, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: inferior
+...s despesas de vendas, na data do corte, sendo inferior aos valores de realização, líquidos dos...
+                                           ^^^^^^^^^^^^^^
+Erro: 94
+Offset 18335, length 14, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou serviços, ou
+..., para fins de fornecimento de produtos ou serviços ou administrativos, são registradas ao val...
+                                           ^^^^^^^^^^^^^^
+Erro: 95
+Offset 20030, length 9, Rule ID: E_QUE_VERBO_E_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: e são
+...s exclusivamente de plantios renováveis e que são destinados para produção de carvão vege...
+                                           ^^^^^^^^^
+Erro: 96
+Offset 20254, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ta ou replantio tem um ciclo aproximado de  a  anos. Os ativos biológicos são mensura...
+                                           ^^^^^
+Erro: 97
+Offset 21439, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...no preço de venda de madeira na região, através de transações observáveis. Os volumes util...
+                                           ^^^^^^^^^^
+Erro: 98
+Offset 21842, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ão capitalizadas e amortizadas às taxas de  a.a. Os gastos associados à manutenção de...
+                                           ^^^^^
+Erro: 99
+Offset 22704, length 74, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja possível estimar os valores de forma confiável e cuja liquidação, seja
+...resultantes de eventos passados, em que seja possível estimar os valores de forma confiável e cuja liquidação seja provável. O valor reconhecido como prov...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 100
+Offset 23838, length 16, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: depreciado
+... como parte do valor contábil do ativo, sendo depreciado pelo período de vida útil deste.   Prov...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 101
+Offset 24550, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos assuntos ou decisões de tribunais. .  Demais passiv...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 102
+Offset 25168, length 26, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou despesas tributáveis, ou
+...ção do resultado porque exclui receitas ou despesas tributáveis ou dedutíveis em outros exercícios, além d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 103
+Offset 31353, length 22, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: renda, em contrapartida
+...te na rubrica de despesa com imposto de renda em contrapartida no passivo circulante. Ao final de cada...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 104
+Offset 32004, length 13, Rule ID: CHAMAR_DENOMINAR_DE
+Message: Os verbos ‘chamar’ e ‘denominar’ são pronominais, a redação correta é sem preposição.
+Suggestion: denominada
+...ompanhia possui subvenção governamental denominada de "ICMS  DENSENVOLVE", conforme apresenta...
+                                           ^^^^^^^^^^^^^
+Erro: 105
+Offset 32203, length 8, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: retífica
+...onselho Deliberativo do DESENVOLVE, que retifica e ratifica a Resolução no , de  de abri...
+                                           ^^^^^^^^
+Erro: 106
+Offset 33444, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...r mensal do ICMS passível do incentivo, em o que exceder a R . , corrigido este valo...
+                                           ^^^^
+Erro: 107
+Offset 41726, length 14, Rule ID: REDUNDANCY_34_JUNTAMENTE
+Message: Pleonasmo. Substitua por:
+Suggestion: com
+...pelo STF, a Companhia vem acompanhando, juntamente com seus assessores legais, a evolução dess...
+                                           ^^^^^^^^^^^^^^
+Erro: 108
+Offset 41929, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...nstrações financeiras e em  de dezembro de  a Companhia auferiu benefício do ICMS Des...
+                                           ^^^^^
+Erro: 109
+Offset 43387, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...Essa interpretação é aplicável a partir de o de janeiro de .  IFRS  – Instrumentos F...
+                                           ^^^^
+Erro: 110
+Offset 47838, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...o surge da possibilidade de a Companhia vir a incorrer em perdas resultantes da dificuldade de...
+                                           ^^^^^^^^^^^^^^
+Erro: 111
+Offset 50682, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: incorrer
+...o decorre da possibilidade da Companhia vir a incorrer em perdas por conta das flutuações nas ...
+                                           ^^^^^^^^^^^^^^
+Erro: 112
+Offset 55778, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ao mesmo tempo,
+... continuar com suas atividades normais, ao mesmo tempo em que maximiza o retorno a todas as pa...
+                                           ^^^^^^^^^^^^^^
+Erro: 113
+Offset 61806, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ões de máquinas e equipamentos dos anos de  a , REINTEGRA e ICMS, PIS e COFINS relati...
+                                           ^^^^^
+Erro: 114
+Offset 72785, length 13, Rule ID: PHRASAL_VERB_A
+Message: Este verbo utiliza a preposição “a”.
+Suggestion: obedecidas às
+...ara consumo próprio ou comercialização, obedecidas as disposições legais pertinentes. Desde n...
+                                           ^^^^^^^^^^^^^
+Erro: 115
+Offset 72846, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ções legais pertinentes. Desde novembro de  a Damacal encontrase arrendada à Companhi...
+                                           ^^^^^
+Erro: 116
+Offset 73747, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...o  da mina Partes e peças Custo   Saldo em o de janeiro de    Adições   Baixas   Tra...
+                                           ^^^^
+Erro: 117
+Offset 75863, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...o  da mina Partes e peças Custo   Saldo em o de janeiro de    Adições   Baixas   Tra...
+                                           ^^^^
+Erro: 118
+Offset 83576, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+...nominados em Rmetro cúbico, são obtidos através de pesquisas de preço de mercado disponíve...
+                                           ^^^^^^^^^^
+Erro: 119
+Offset 85251, length 17, Rule ID: SIMPLIFICAR_CONVERTER_PARA_VERBO_INFINITIVO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: para não haver
+...ento de que este intervalo é suficiente para que não haja defasagem do saldo de valor justo dos a...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 120
+Offset 85961, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...ação das variações de valor justo Saldo em o de janeiro de    Gastos com novos plant...
+                                           ^^^^
+Erro: 121
+Offset 86488, length 17, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: insumo para
+... lenha, e na cadeia produtiva do carvão que é insumo para a produção das ferroligas.  de  (DC) Us...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 122
+Offset 88317, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...e renda devido nos anos calendário  e , em contrapartida dos depósitos efetuados no Banco do Nor...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 123
+Offset 90354, length 12, Rule ID: SIMPLIFICAR_O_QUE_VERBO_VERBOGERUNDIO
+Message: Esta perífrase pode ser simplificada.
+Suggestion: (requer)
+... maioria destes custos por vários anos, o que requer estimativas para longo prazo e por isso...
+                                           ^^^^^^^^^^^^
+Erro: 124
+Offset 90396, length 10, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; por isso
+...que requer estimativas para longo prazo e por isso, as estimativas de custos com abandono ...
+                                           ^^^^^^^^^^
+Erro: 125
+Offset 91204, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...la Companhia foi de , a.a. No exercício de  a Companhia procedeu a revisão das estima...
+                                           ^^^^^
+Erro: 126
+Offset 91220, length 10, Rule ID: CRASE_CONFUSION
+Message: Esta palavra rege-se com a preposição “a”.
+Suggestion: procedeu à
+... de , a.a. No exercício de  a Companhia procedeu a revisão das estimativas e atualizou os ...
+                                           ^^^^^^^^^^
+Erro: 127
+Offset 91663, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...amos a movimentação da provisão:  Saldo em o de janeiro de    Adição   Baixa   Atual...
+                                           ^^^^
+Erro: 128
+Offset 91949, length 37, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: seus assessores jurídicos classificaram
+...uas controladas, com base na posição de seus assessores jurídicos classificou os processos judiciais de acordo com o ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 129
+Offset 94889, length 6, Rule ID: FRAGMENT_TWO_ARTICLES
+Message: Possível fragmento.
+Suggestion: nos; a; nos, a
+...icações fiscais de lançamento de débito nos  a ), relativo aos processos DNPM nº ., .,...
+                                           ^^^^^^
+Erro: 130
+Offset 98656, length 10, Rule ID: ATRAVES_DE_POR
+Message: Pode simplificar a parafrase empregando: “por”.
+Suggestion: por
+... Impostos de Renda Retido na FonteIRRF, através de pedido de compensação para liquidação d...
+                                           ^^^^^^^^^^
+Erro: 131
+Offset 99590, length 18, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: A Companhia mantém
+...ma b.) Processos  , BA e DN – SENAISESI A Companhia mantêm discussões relativas aos questionamento...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 132
+Offset 100030, length 36, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: seus assessores jurídicos constituíram
+... º Decreto lei   Baseada na posição dos seus assessores jurídicos constituiu provisão para fazer face às perdas cons...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 133
+Offset 102407, length 4, Rule ID: FRAGMENT_TWO_ARTICLES
+Message: Possível fragmento.
+Suggestion: na; a; na, a
+...o . contra a União em , a qual tramitou na a Vara de Justiça Federal da Bahia, cujo ...
+                                           ^^^^
+Erro: 134
+Offset 102614, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...s das exportações realizadas no período de o de janeiro de  a  de abril de . A refer...
+                                           ^^^^
+Erro: 135
+Offset 102630, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...s realizadas no período de o de janeiro de  a  de abril de . A referida ação judicial...
+                                           ^^^^^
+Erro: 136
+Offset 104241, length 7, Rule ID: LP_PARONYMS
+Message: Esta palavra é um verbo. Se pretende referir-se a um nome ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+... o direito à compensação dos créditos é liquido e certo, conforme determinação judicial...
+                                           ^^^^^^^
+Erro: 137
+Offset 106109, length 4, Rule ID: FRAGMENT_TWO_ARTICLES
+Message: Possível fragmento.
+Suggestion: da; a; da, a
+...A ação foi julgada procedente pelo Juiz da a Vara Federal, reconhecendo que deve ser...
+                                           ^^^^
+Erro: 138
+Offset 107559, length 13, Rule ID: SIMPLIFICAR_CONVERTER_PARA_VERBO_INFINITIVO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: para ser
+... para exercício do juízo de retratação, para que seja adequado ao entendimento consolidado no...
+                                           ^^^^^^^^^^^^^
+Erro: 139
+Offset 108132, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...io instituído em favor da Eletrobrás. E em  a Companhia opôs Embargos de Declaração. ...
+                                           ^^^^^
+Erro: 140
+Offset 108177, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nos”?
+Suggestion: Nos
+... Companhia opôs Embargos de Declaração. Em  os embargos de Declaração foram rejeitados...
+                                           ^^^^^^
+Erro: 141
+Offset 108750, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ulsório em comento mês a mês do período de  a . O juiz singular determinou que a Elet...
+                                           ^^^^^
+Erro: 142
+Offset 114351, length 5, Rule ID: SIMPLIFICAR_QUE_E_TEM_TÊM
+Message: Esta perífrase poderá ser simplificada.
+Suggestion: com
+...es preferenciais não têm direito a voto e têm garantia estatutária de pagamento de di...
+                                           ^^^^^
+Erro: 143
+Offset 116700, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...saldos de abertura na data de transição em o de janeiro de  pelos seus valores justo...
+                                           ^^^^
+Erro: 144
+Offset 116791, length 34, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: esses ativos anteriormente divergem
+...o que o custo histórico registrado para esses ativos anteriormente diverge do valor justo de realização destes ati...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 145
+Offset 117378, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...sto atribuído às terras das controladas em o de janeiro de , em contrapartida do inv...
+                                           ^^^^
+Erro: 146
+Offset 117399, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...as das controladas em o de janeiro de , em contrapartida do investimento. O imposto de renda e a...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 147
+Offset 118234, length 17, Rule ID: QUE_FORAM_FOI_SÃO_É_SENDO
+Message: Em certos contextos, esta perífrase pode ser simplificada.
+Suggestion: distribuída
+...ela de lucros auferidos pela Companhia, que é distribuída aos acionistas a título de remuneração ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 148
+Offset 129204, length 9, Rule ID: DEPOIS_DE_APÓS
+Message: Substitua por “após”.
+Suggestion: após
+...tabelece que do resultado do exercício, depois de deduzidos os prejuízos acumulados e as ...
+                                           ^^^^^^^^^
+Erro: 149
+Offset 129423, length 12, Rule ID: PHRASAL_VERB_A
+Message: Este verbo utiliza a preposição “a”.
+Suggestion: obedecida às
+...os, a critério da Diretoria Executiva e obedecida as normas estabelecidas pela Companhia sob...
+                                           ^^^^^^^^^^^^
+Erro: 150
+Offset 129942, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...em pagos aos funcionários. No exercício de  a Companhia provisionou participações a a...
+                                           ^^^^^
+Erro: 151
+Offset 130906, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...porção de  para , com exceção nos casos em o colaborador decide contribuir mais do q...
+                                           ^^^^
+Erro: 152
+Offset 132006, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...alhando para a Ferbasa. Em  de dezembro de  a Companhia procedeu com o aporte único à...
+                                           ^^^^^

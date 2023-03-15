@@ -1,0 +1,306 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 65536 bytes for Failed to commit metaspace.
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   The process is running with CompressedOops enabled, and the Java Heap may be blocking the growth of the native heap
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+#   JVM is running with Unscaled Compressed Oops mode in which the Java heap is
+#     placed in the first 4GB address space. The Java Heap base address is the
+#     maximum limit for the native heap growth. Please use -XX:HeapBaseMinAddress
+#     to set the Java Heap base and to place the Java Heap above 4GB virtual address.
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (virtualSpaceNode.cpp:110), pid=4028, tid=9124
+#
+# JRE version:  (19.0.1+10) (build )
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (19.0.1+10-21, mixed mode, tiered, compressed oops, compressed class ptrs, g1 gc, windows-amd64)
+# No core dump will be written. Minidumps are not enabled by default on client versions of Windows
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: org.bridj.Platform$DeleteFiles C:\Users\Riallen\AppData\Local\Temp\BridJExtractedLibraries17919805201435858765\bridj.dll C:\Users\Riallen\AppData\Local\Temp\BridJExtractedLibraries17919805201435858765 C:\Users\Riallen\AppData\Local\Temp\BridJExtractedLibraries17919805201435858765\hunspell.dll
+
+Host: Pentium(R) Dual-Core  CPU      E5700  @ 3.00GHz, 2 cores, 1G,  Windows 10 , 64 bit Build 19041 (10.0.19041.2546)
+Time: Wed Mar  8 18:52:45 2023 Hora Padrão de Caracas elapsed time: 2.304081 seconds (0d 0h 0m 2s)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x000002259300e0c0):  JavaThread "Unknown thread" [_thread_in_vm, id=9124, stack(0x000000ac03200000,0x000000ac03300000)]
+
+Stack: [0x000000ac03200000,0x000000ac03300000]
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x6ee8fa]
+V  [jvm.dll+0x857a1e]
+V  [jvm.dll+0x85940e]
+V  [jvm.dll+0x859ac3]
+V  [jvm.dll+0x28291f]
+V  [jvm.dll+0x85369b]
+V  [jvm.dll+0x693276]
+V  [jvm.dll+0x6932da]
+V  [jvm.dll+0x695bd3]
+V  [jvm.dll+0x695a9e]
+V  [jvm.dll+0x693c9e]
+V  [jvm.dll+0x3c500f]
+V  [jvm.dll+0x21608b]
+V  [jvm.dll+0x5aa300]
+V  [jvm.dll+0x22567a]
+V  [jvm.dll+0x7ccb72]
+V  [jvm.dll+0x7cdfba]
+V  [jvm.dll+0x7ce2e8]
+V  [jvm.dll+0x855d21]
+V  [jvm.dll+0x855aa1]
+V  [jvm.dll+0x8201ed]
+V  [jvm.dll+0x821a4d]
+V  [jvm.dll+0x3c27fb]
+V  [jvm.dll+0x8022f1]
+V  [jvm.dll+0x44b30f]
+V  [jvm.dll+0x44cc91]
+C  [jli.dll+0x5287]
+C  [ucrtbase.dll+0x21bb2]
+C  [KERNEL32.DLL+0x17614]
+C  [ntdll.dll+0x526a1]
+
+
+---------------  P R O C E S S  ---------------
+
+Threads class SMR info:
+_java_thread_list=0x00007ffafbdcd048, length=0, elements={
+}
+
+Java Threads: ( => current thread )
+
+Other Threads:
+  0x000002259500d6e0 WorkerThread "GC Thread#0" [stack: 0x000000ac03300000,0x000000ac03400000] [id=628]
+  0x00000225950123e0 ConcurrentGCThread "G1 Main Marker" [stack: 0x000000ac03400000,0x000000ac03500000] [id=10776]
+  0x0000022595012fb0 WorkerThread "G1 Conc#0" [stack: 0x000000ac03500000,0x000000ac03600000] [id=11736]
+  0x0000022595045980 ConcurrentGCThread "G1 Refine#0" [stack: 0x000000ac03600000,0x000000ac03700000] [id=6236]
+  0x00000225950464c0 ConcurrentGCThread "G1 Service" [stack: 0x000000ac03700000,0x000000ac03800000] [id=11564]
+
+=>0x000002259300e0c0 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=9124, stack(0x000000ac03200000,0x000000ac03300000)]
+
+Threads with active compile tasks:
+
+VM state: not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread:  ([mutex/lock_event])
+[0x000002259300ae50] Metaspace_lock - owner thread: 0x000002259300e0c0
+
+Heap address: 0x00000000e2000000, size: 480 MB, Compressed Oops mode: 32-bit
+
+CDS archive(s) not mapped
+Compressed class space mapped at: 0x0000000100000000-0x0000000140000000, reserved size: 1073741824
+Narrow klass base: 0x0000000000000000, Narrow klass shift: 3, Narrow klass range: 0x140000000
+
+GC Precious Log:
+ CardTable entry size: 512
+ Card Set container configuration: InlinePtr #cards 5 size 8 Array Of Cards #cards 12 size 40 Howl #buckets 4 coarsen threshold 1843 Howl Bitmap #cards 512 size 80 coarsen threshold 460 Card regions per heap region 1 cards per card region 2048
+ CPUs: 2 total, 2 available
+ Memory: 1917M
+ Large Page Support: Disabled
+ NUMA Support: Disabled
+ Compressed Oops: Enabled (32-bit)
+ Heap Region Size: 1M
+ Heap Min Capacity: 8M
+ Heap Initial Capacity: 30M
+ Heap Max Capacity: 480M
+ Pre-touch: Disabled
+ Parallel Workers: 2
+ Concurrent Workers: 1
+ Concurrent Refinement Workers: 2
+ Periodic GC: Disabled
+
+Heap:
+ garbage-first heap   total 30720K, used 0K [0x00000000e2000000, 0x0000000100000000)
+  region size 1024K, 1 young (1024K), 0 survivors (0K)
+ Metaspace       used 826K, committed 832K, reserved 1114112K
+  class space    used 63K, committed 64K, reserved 1048576K
+
+Heap Regions: E=young(eden), S=young(survivor), O=old, HS=humongous(starts), HC=humongous(continues), CS=collection set, F=free, OA=open archive, CA=closed archive, TAMS=top-at-mark-start (previous, next)
+|   0|0x00000000e2000000, 0x00000000e2000000, 0x00000000e2100000|  0%| F|  |TAMS 0x00000000e2000000, 0x00000000e2000000| Untracked 
+|   1|0x00000000e2100000, 0x00000000e2100000, 0x00000000e2200000|  0%| F|  |TAMS 0x00000000e2100000, 0x00000000e2100000| Untracked 
+|   2|0x00000000e2200000, 0x00000000e2200000, 0x00000000e2300000|  0%| F|  |TAMS 0x00000000e2200000, 0x00000000e2200000| Untracked 
+|   3|0x00000000e2300000, 0x00000000e2300000, 0x00000000e2400000|  0%| F|  |TAMS 0x00000000e2300000, 0x00000000e2300000| Untracked 
+|   4|0x00000000e2400000, 0x00000000e2400000, 0x00000000e2500000|  0%| F|  |TAMS 0x00000000e2400000, 0x00000000e2400000| Untracked 
+|   5|0x00000000e2500000, 0x00000000e2500000, 0x00000000e2600000|  0%| F|  |TAMS 0x00000000e2500000, 0x00000000e2500000| Untracked 
+|   6|0x00000000e2600000, 0x00000000e2600000, 0x00000000e2700000|  0%| F|  |TAMS 0x00000000e2600000, 0x00000000e2600000| Untracked 
+|   7|0x00000000e2700000, 0x00000000e2700000, 0x00000000e2800000|  0%| F|  |TAMS 0x00000000e2700000, 0x00000000e2700000| Untracked 
+|   8|0x00000000e2800000, 0x00000000e2800000, 0x00000000e2900000|  0%| F|  |TAMS 0x00000000e2800000, 0x00000000e2800000| Untracked 
+|   9|0x00000000e2900000, 0x00000000e2900000, 0x00000000e2a00000|  0%| F|  |TAMS 0x00000000e2900000, 0x00000000e2900000| Untracked 
+|  10|0x00000000e2a00000, 0x00000000e2a00000, 0x00000000e2b00000|  0%| F|  |TAMS 0x00000000e2a00000, 0x00000000e2a00000| Untracked 
+|  11|0x00000000e2b00000, 0x00000000e2b00000, 0x00000000e2c00000|  0%| F|  |TAMS 0x00000000e2b00000, 0x00000000e2b00000| Untracked 
+|  12|0x00000000e2c00000, 0x00000000e2c00000, 0x00000000e2d00000|  0%| F|  |TAMS 0x00000000e2c00000, 0x00000000e2c00000| Untracked 
+|  13|0x00000000e2d00000, 0x00000000e2d00000, 0x00000000e2e00000|  0%| F|  |TAMS 0x00000000e2d00000, 0x00000000e2d00000| Untracked 
+|  14|0x00000000e2e00000, 0x00000000e2e00000, 0x00000000e2f00000|  0%| F|  |TAMS 0x00000000e2e00000, 0x00000000e2e00000| Untracked 
+|  15|0x00000000e2f00000, 0x00000000e2f00000, 0x00000000e3000000|  0%| F|  |TAMS 0x00000000e2f00000, 0x00000000e2f00000| Untracked 
+|  16|0x00000000e3000000, 0x00000000e3000000, 0x00000000e3100000|  0%| F|  |TAMS 0x00000000e3000000, 0x00000000e3000000| Untracked 
+|  17|0x00000000e3100000, 0x00000000e3100000, 0x00000000e3200000|  0%| F|  |TAMS 0x00000000e3100000, 0x00000000e3100000| Untracked 
+|  18|0x00000000e3200000, 0x00000000e3200000, 0x00000000e3300000|  0%| F|  |TAMS 0x00000000e3200000, 0x00000000e3200000| Untracked 
+|  19|0x00000000e3300000, 0x00000000e3300000, 0x00000000e3400000|  0%| F|  |TAMS 0x00000000e3300000, 0x00000000e3300000| Untracked 
+|  20|0x00000000e3400000, 0x00000000e3400000, 0x00000000e3500000|  0%| F|  |TAMS 0x00000000e3400000, 0x00000000e3400000| Untracked 
+|  21|0x00000000e3500000, 0x00000000e3500000, 0x00000000e3600000|  0%| F|  |TAMS 0x00000000e3500000, 0x00000000e3500000| Untracked 
+|  22|0x00000000e3600000, 0x00000000e3600000, 0x00000000e3700000|  0%| F|  |TAMS 0x00000000e3600000, 0x00000000e3600000| Untracked 
+|  23|0x00000000e3700000, 0x00000000e3700000, 0x00000000e3800000|  0%| F|  |TAMS 0x00000000e3700000, 0x00000000e3700000| Untracked 
+|  24|0x00000000e3800000, 0x00000000e3800000, 0x00000000e3900000|  0%| F|  |TAMS 0x00000000e3800000, 0x00000000e3800000| Untracked 
+|  25|0x00000000e3900000, 0x00000000e3900000, 0x00000000e3a00000|  0%| F|  |TAMS 0x00000000e3900000, 0x00000000e3900000| Untracked 
+|  26|0x00000000e3a00000, 0x00000000e3a00000, 0x00000000e3b00000|  0%| F|  |TAMS 0x00000000e3a00000, 0x00000000e3a00000| Untracked 
+|  27|0x00000000e3b00000, 0x00000000e3b00000, 0x00000000e3c00000|  0%| F|  |TAMS 0x00000000e3b00000, 0x00000000e3b00000| Untracked 
+|  28|0x00000000e3c00000, 0x00000000e3c00000, 0x00000000e3d00000|  0%| F|  |TAMS 0x00000000e3c00000, 0x00000000e3c00000| Untracked 
+|  29|0x00000000e3d00000, 0x00000000e3d1ebf0, 0x00000000e3e00000| 12%| E|  |TAMS 0x00000000e3d00000, 0x00000000e3d00000| Complete 
+
+Card table byte_map: [0x0000022594ca0000,0x0000022594d90000] _byte_map_base: 0x0000022594590000
+
+Marking Bits (Prev, Next): (CMBitMap*) 0x000002259500dd10, (CMBitMap*) 0x000002259500dd50
+ Prev Bits: [0x00000225abf50000, 0x00000225ac6d0000)
+ Next Bits: [0x00000225ac6d0000, 0x00000225ace50000)
+
+GC Heap History (0 events):
+No events
+
+Dll operation events (1 events):
+Event: 0.987 Loaded shared library C:\Program Files\Java\jdk-19\bin\java.dll
+
+Deoptimization events (0 events):
+No events
+
+Classes loaded (20 events):
+Event: 2.162 Loading class java/lang/BootstrapMethodError done
+Event: 2.162 Loading class java/lang/invoke/CallSite
+Event: 2.170 Loading class java/lang/invoke/CallSite done
+Event: 2.170 Loading class jdk/internal/foreign/abi/NativeEntryPoint
+Event: 2.186 Loading class jdk/internal/foreign/abi/NativeEntryPoint done
+Event: 2.186 Loading class jdk/internal/foreign/abi/ABIDescriptor
+Event: 2.186 Loading class jdk/internal/foreign/abi/ABIDescriptor done
+Event: 2.186 Loading class jdk/internal/foreign/abi/VMStorage
+Event: 2.192 Loading class jdk/internal/foreign/abi/VMStorage done
+Event: 2.192 Loading class jdk/internal/foreign/abi/UpcallLinker$CallRegs
+Event: 2.199 Loading class jdk/internal/foreign/abi/UpcallLinker$CallRegs done
+Event: 2.199 Loading class java/lang/invoke/MethodHandleNatives$CallSiteContext
+Event: 2.202 Loading class java/lang/invoke/MethodHandleNatives$CallSiteContext done
+Event: 2.202 Loading class java/lang/invoke/ConstantCallSite
+Event: 2.212 Loading class java/lang/invoke/ConstantCallSite done
+Event: 2.212 Loading class java/lang/invoke/MutableCallSite
+Event: 2.212 Loading class java/lang/invoke/MutableCallSite done
+Event: 2.212 Loading class java/lang/invoke/VolatileCallSite
+Event: 2.220 Loading class java/lang/invoke/VolatileCallSite done
+Event: 2.220 Loading class java/lang/AssertionStatusDirectives
+
+Classes unloaded (0 events):
+No events
+
+Classes redefined (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+VM Operations (0 events):
+No events
+
+Events (0 events):
+No events
+
+
+Dynamic libraries:
+0x00007ff716290000 - 0x00007ff7162a0000 	C:\Program Files\Java\jdk-19\bin\java.exe
+0x00007ffb39490000 - 0x00007ffb39688000 	C:\Windows\SYSTEM32\ntdll.dll
+0x00007ffb382b0000 - 0x00007ffb3836f000 	C:\Windows\System32\KERNEL32.DLL
+0x00007ffb36de0000 - 0x00007ffb370b2000 	C:\Windows\System32\KERNELBASE.dll
+0x00007ffb36b80000 - 0x00007ffb36c80000 	C:\Windows\System32\ucrtbase.dll
+0x00007ffb1b3c0000 - 0x00007ffb1b3db000 	C:\Program Files\Java\jdk-19\bin\VCRUNTIME140.dll
+0x00007ffb1b800000 - 0x00007ffb1b818000 	C:\Program Files\Java\jdk-19\bin\jli.dll
+0x00007ffb38120000 - 0x00007ffb381ce000 	C:\Windows\System32\ADVAPI32.dll
+0x00007ffb38b10000 - 0x00007ffb38bae000 	C:\Windows\System32\msvcrt.dll
+0x00007ffb38a10000 - 0x00007ffb38aac000 	C:\Windows\System32\sechost.dll
+0x00007ffb379b0000 - 0x00007ffb37ad5000 	C:\Windows\System32\RPCRT4.dll
+0x00007ffb376d0000 - 0x00007ffb37871000 	C:\Windows\System32\USER32.dll
+0x00007ffb37260000 - 0x00007ffb37282000 	C:\Windows\System32\win32u.dll
+0x00007ffb37ba0000 - 0x00007ffb37bcb000 	C:\Windows\System32\GDI32.dll
+0x00007ffb370c0000 - 0x00007ffb371cf000 	C:\Windows\System32\gdi32full.dll
+0x00007ffb36c80000 - 0x00007ffb36d1d000 	C:\Windows\System32\msvcp_win.dll
+0x00007ffb27d70000 - 0x00007ffb2800a000 	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\COMCTL32.dll
+0x00007ffb2a320000 - 0x00007ffb2a32a000 	C:\Windows\SYSTEM32\VERSION.dll
+0x00007ffb39410000 - 0x00007ffb39442000 	C:\Windows\System32\IMM32.DLL
+0x00007ffb1f390000 - 0x00007ffb1f39c000 	C:\Program Files\Java\jdk-19\bin\vcruntime140_1.dll
+0x00007ffb08f10000 - 0x00007ffb08f9e000 	C:\Program Files\Java\jdk-19\bin\msvcp140.dll
+0x00007ffafb250000 - 0x00007ffafbf10000 	C:\Program Files\Java\jdk-19\bin\server\jvm.dll
+0x00007ffb1e970000 - 0x00007ffb1e979000 	C:\Windows\SYSTEM32\WSOCK32.dll
+0x00007ffb37930000 - 0x00007ffb3799b000 	C:\Windows\System32\WS2_32.dll
+0x00007ffb277c0000 - 0x00007ffb277e7000 	C:\Windows\SYSTEM32\WINMM.dll
+0x00007ffb34a60000 - 0x00007ffb34a72000 	C:\Windows\SYSTEM32\kernel.appcore.dll
+0x00007ffb1dd60000 - 0x00007ffb1dd6a000 	C:\Program Files\Java\jdk-19\bin\jimage.dll
+0x00007ffb28a30000 - 0x00007ffb28c14000 	C:\Windows\SYSTEM32\DBGHELP.DLL
+0x00007ffb289e0000 - 0x00007ffb28a15000 	C:\Windows\SYSTEM32\dbgcore.DLL
+0x00007ffb371d0000 - 0x00007ffb37252000 	C:\Windows\System32\bcryptPrimitives.dll
+0x00007ffb14740000 - 0x00007ffb14766000 	C:\Program Files\Java\jdk-19\bin\java.dll
+
+dbghelp: loaded successfully - version: 4.0.5 - missing functions: none
+symbol engine: initialized successfully - sym options: 0x614 - pdb path: .;C:\Program Files\Java\jdk-19\bin;C:\Windows\SYSTEM32;C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e;C:\Program Files\Java\jdk-19\bin\server
+
+VM Arguments:
+java_command: org.bridj.Platform$DeleteFiles C:\Users\Riallen\AppData\Local\Temp\BridJExtractedLibraries17919805201435858765\bridj.dll C:\Users\Riallen\AppData\Local\Temp\BridJExtractedLibraries17919805201435858765 C:\Users\Riallen\AppData\Local\Temp\BridJExtractedLibraries17919805201435858765\hunspell.dll
+java_class_path (initial): C:\Users\Riallen\.cache\language_tool_python\LanguageTool-5.7\languagetool-server.jar
+Launcher Type: SUN_STANDARD
+
+[Global flags]
+     intx CICompilerCount                          = 2                                         {product} {ergonomic}
+     uint ConcGCThreads                            = 1                                         {product} {ergonomic}
+     uint G1ConcRefinementThreads                  = 2                                         {product} {ergonomic}
+   size_t G1HeapRegionSize                         = 1048576                                   {product} {ergonomic}
+    uintx GCDrainStackTargetSize                   = 64                                        {product} {ergonomic}
+   size_t InitialHeapSize                          = 31457280                                  {product} {ergonomic}
+   size_t MarkStackSize                            = 4194304                                   {product} {ergonomic}
+   size_t MaxHeapSize                              = 503316480                                 {product} {ergonomic}
+   size_t MaxNewSize                               = 301989888                                 {product} {ergonomic}
+   size_t MinHeapDeltaBytes                        = 1048576                                   {product} {ergonomic}
+   size_t MinHeapSize                              = 8388608                                   {product} {ergonomic}
+    uintx NonNMethodCodeHeapSize                   = 5826188                                {pd product} {ergonomic}
+    uintx NonProfiledCodeHeapSize                  = 122916026                              {pd product} {ergonomic}
+    uintx ProfiledCodeHeapSize                     = 122916026                              {pd product} {ergonomic}
+    uintx ReservedCodeCacheSize                    = 251658240                              {pd product} {ergonomic}
+     bool SegmentedCodeCache                       = true                                      {product} {ergonomic}
+   size_t SoftMaxHeapSize                          = 503316480                              {manageable} {ergonomic}
+     bool UseCompressedClassPointers               = true                           {product lp64_product} {ergonomic}
+     bool UseCompressedOops                        = true                           {product lp64_product} {ergonomic}
+     bool UseG1GC                                  = true                                      {product} {ergonomic}
+     bool UseLargePagesIndividualAllocation        = false                                  {pd product} {ergonomic}
+
+Logging:
+Log output configuration:
+ #0: stdout all=warning uptime,level,tags foldmultilines=false
+ #1: stderr all=off uptime,level,tags foldmultilines=false
+
+Environment Variables:
+PATH=C:\Users\Riallen\.pyenv\pyenv-win\versions\3.10.9;C:\Users\Riallen\.pyenv\pyenv-win\versions\3.10.9\Scripts;C:\Users\Riallen\AppData\Roaming\Python\Python310\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Pandoc\;C:\Program Files\PowerShell\7\;C:\Program Files\Git\cmd;C:\Users\Riallen\.pyenv\pyenv-win\bin;C:\Users\Riallen\AppData\Local\Microsoft\WindowsApps;C:\Users\Riallen\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\Riallen\AppData\Local\GitHubDesktop\bin;C:\Users\Riallen\AppData\Local\Programs\Microsoft VS Code\bin;
+USERNAME=Riallen
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 23 Stepping 10, GenuineIntel
+TMP=C:\Users\Riallen\AppData\Local\Temp
+TEMP=C:\Users\Riallen\AppData\Local\Temp
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS:
+ Windows 10 , 64 bit Build 19041 (10.0.19041.2546)
+OS uptime: 12 days 5:37 hours
+
+CPU: total 2 (initial active 2) (2 cores per cpu, 1 threads per core) family 6 model 23 stepping 10 microcode 0xa0c, cx8, cmov, fxsr, mmx, sse, sse2, sse3, ssse3, tsc, clflush
+
+Memory: 4k page, system-wide physical 1917M (209M free)
+TotalPageFile size 7805M (AvailPageFile size 0M)
+current process WorkingSet (physical memory assigned to process): 13M, peak: 14M
+current process commit charge ("private bytes"): 81M, peak: 91M
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (19.0.1+10-21) for windows-amd64 JRE (19.0.1+10-21), built on 2022-09-14T12:45:06Z by "mach5one" with MS VC++ 17.1 (VS2022)
+
+END.

@@ -1,0 +1,65 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 65536 bytes for Failed to commit metaspace.
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   The process is running with CompressedOops enabled, and the Java Heap may be blocking the growth of the native heap
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+#   JVM is running with Unscaled Compressed Oops mode in which the Java heap is
+#     placed in the first 4GB address space. The Java Heap base address is the
+#     maximum limit for the native heap growth. Please use -XX:HeapBaseMinAddress
+#     to set the Java Heap base and to place the Java Heap above 4GB virtual address.
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (virtualSpaceNode.cpp:110), pid=10192, tid=8588
+#
+# JRE version:  (19.0.1+10) (build )
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (19.0.1+10-21, mixed mode, tiered, compressed oops, compressed class ptrs, g1 gc, windows-amd64)
+# No core dump will be written. Minidumps are not enabled by default on client versions of Windows
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: org.bridj.Platform$DeleteFiles C:\Users\Riallen\AppData\Local\Temp\BridJExtractedLibraries11580092578964604994\bridj.dll C:\Users\Riallen\AppData\Local\Temp\BridJExtractedLibraries11580092578964604994 C:\Users\Riallen\AppData\Local\Temp\BridJExtractedLibraries11580092578964604994\hunspell.dll
+
+Host: Pentium(R) Dual-Core  CPU      E5700  @ 3.00GHz, 2 cores, 1G,  Windows 10 , 64 bit Build 19041 (10.0.19041.2546)
+Time: Wed Mar  8 18:52:45 2023 Hora Padrão de Caracas elapsed time: 2.396882 seconds (0d 0h 0m 2s)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00000173e7869be0):  JavaThread "Unknown thread" [_thread_in_vm, id=8588, stack(0x000000739f000000,0x000000739f100000)]
+
+Stack: [0x000000739f000000,0x000000739f100000]
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x6ee8fa]
+V  [jvm.dll+0x857a1e]
+V  [jvm.dll+0x85940e]
+V  [jvm.dll+0x859ac3]
+V  [jvm.dll+0x28291f]
+V  [jvm.dll+0x85369b]
+V  [jvm.dll+0x693276]
+V  [jvm.dll+0x6932da]
+V  [jvm.dll+0x695bd3]
+V  [jvm.dll+0x695a9e]
+V  [jvm.dll+0x693c9e]
+V  [jvm.dll+0x3c500f]
+V  [jvm.dll+0x21608b]
+V  [jvm.dll+0x5aa300]
+V  [jvm.dll+0x22567a]
+V  [jvm.dll+0x7ccb72]
+V  [jvm.dll+0x7cdfba]
+V  [jvm.dll+0x7ce2e8]
+V  [jvm.dll+0x855d21]
+V  [jvm.dll+0x855aa1]
+V  [jvm.dll+0x8201ed]
+V  [jvm.dll+0x821a4d]
+V  [jvm.dll+0x3c27fb]
+V  [jvm.dll+0x8022f1]
+V  [jvm.dll+0x44b30f]

@@ -1,0 +1,36 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_STACK_OVERFLOW (0xc00000fd) at pc=0x00007ffafb632753, pid=7276, tid=4100
+#
+# JRE version: Java(TM) SE Runtime Environment (19.0.1+10) (build 19.0.1+10-21)
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (19.0.1+10-21, mixed mode, sharing, tiered, compressed oops, compressed class ptrs, g1 gc, windows-amd64)
+# Problematic frame:
+# V  [jvm.dll+0x3e2753]
+#
+# No core dump will be written. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   https://bugreport.java.com/bugreport/crash.jsp
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: org.languagetool.server.HTTPServer -p 8085 --config C:\Users\Riallen\AppData\Local\Temp\tmp5gi74sjb
+
+Host: Pentium(R) Dual-Core  CPU      E5700  @ 3.00GHz, 2 cores, 1G,  Windows 10 , 64 bit Build 19041 (10.0.19041.2546)
+Time: Wed Mar  8 18:52:45 2023 Hora Padrão de Caracas elapsed time: 5162.369736 seconds (0d 1h 26m 2s)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x000001817d568060):  JavaThread "SIGINT handler" daemon [_thread_in_vm, id=4100, stack(0x0000001ba3f00000,0x0000001ba4000000)]
+
+Stack: [0x0000001ba3f00000,0x0000001ba4000000],  sp=0x0000001ba3fff2c0,  free space=1020k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x3e2753]
+V  [jvm.dll+0x6ee822]
+V  [jvm.dll+0x3e335b]
+V  [jvm.dll+0x3e35e7]
+V  [jvm.dll+0x46bd95]
+V  [jvm.dll+0x807928]
+V  [jvm.dll+0x8015fa]
