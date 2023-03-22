@@ -2,7 +2,7 @@ import pyautogui
 import time
 from PIL import Image
 import pandas as pd
-import os
+import os #Busca e acesso das pastas do S.O.
 import shutil
 
 data = pd.read_excel('C:/Users/Riallen/Documents/Att/Cias não financeiras - 12-12-2022.xlsx')
