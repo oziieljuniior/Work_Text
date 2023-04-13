@@ -1,0 +1,32 @@
+Esse código se trata de um conjunto de funções que recebem um documento em formato docx (formato de arquivo do Microsoft Word), realizam a limpeza do texto contido nele, dividem as sentenças em sílabas e geram uma série de análises e métricas para cada seção do documento.
+
+As principais funções são:
+
+- importa_documento(doc): importa o documento a ser analisado e o divide em seções, de acordo com as partes e títulos definidos em sua estrutura.
+- limpa_texto(texto_secao): recebe como entrada uma lista de strings, correspondente às seções do documento, e realiza a limpeza de cada uma delas, removendo informações indesejadas, como números, abreviações e caracteres especiais. A saída é uma lista com o texto limpo.
+- gera_resultados_limpeza(texto_clean): recebe como entrada o texto limpo e o divide em sentenças, armazenando o resultado em um arquivo docx para conferência.
+- gera_sentencas(texto_clean): recebe como entrada o texto limpo e o divide em sentenças, gerando uma lista de sentenças para cada seção do documento.
+- separa_silabas(texto_sentencas,metodo,comparacao_metodos): recebe como entrada as sentenças separadas por seção e realiza a separação das palavras em sílabas. O método utilizado para essa separação pode ser escolhido pelo usuário (1 - biblioteca Hyphenator; 2 - biblioteca Pyphen). A saída é uma lista com as sentenças separadas em sílabas.
+- medidas_sentencas(texto_sentencas,texto_silabas): recebe como entrada as sentenças separadas em sílabas e gera uma série de métricas para cada seção do documento, como número de sentenças, número de palavras por sentença, número de letras por sentença e número de sílabas por sentença. A saída é uma lista com as métricas geradas.
+- totaliza(lista): recebe como entrada uma lista de listas e retorna uma lista com a soma dos elementos de cada sublista.
+- divide_lista(L1,L2): recebe como entrada duas listas de números e retorna uma lista com a divisão dos elementos correspondentes da primeira lista pelos elementos correspondentes da segunda lista.
+- gera_saidas(parte_secao,titulo_secao,texto_secao,texto_clean,n_sentencas,n_palavras,n_letras,n_silabas, n_palavras_longas,n_sentencas_textacy,n_silabas_textacy,n_caracteres_textacy,
+n_caracteres_por_palavra_textacy,indice_fk,indice_fe,indice_gf,indice_cl,indice_smog,gera_excel=True): recebe como entrada as seções do documento, o texto limpo, as métricas das sentenças, os índices de legibilidade FK, FE, GF, CL e SMOG (calculados a partir das métricas das sentenças com a biblioteca Textacy), e gera um arquivo Excel com as principais informações e análises do documento.
+
+O objetivo geral desse código é realizar uma análise da legibilidade do documento, por meio da separação das sentenças em sílabas e do cálculo de diversos índices de legibilidade. Além disso, o código também realiza uma limpeza prévia do documento, removendo caracteres especiais, números e outras informações que possam interferir na análise da legibilidade.
+
+Os índices de legibilidade que o código calcula são uma medida da facilidade ou dificuldade de compreensão do texto. Eles são baseados em fatores como o comprimento das palavras e das frases, o número de sílabas por palavra, a complexidade da sintaxe e a presença de palavras difíceis.
+
+Algumas das medidas de legibilidade que o código pode calcular são:
+
+- Índice de Flesch-Kincaid: esse índice mede o nível de leitura necessário para compreender o texto. Ele leva em conta a média de sílabas por palavra e de palavras por frase.
+
+- Índice de Gunning Fog: esse índice também mede o nível de leitura necessário para compreender o texto, mas leva em conta o número de palavras longas (com mais de três sílabas) presentes no texto.
+
+- Índice Coleman-Liau: esse índice leva em conta o número médio de letras por palavra e o número médio de frases por palavra.
+
+- Índice SMOG: esse índice mede o nível de leitura necessário para compreender o texto, levando em conta o número de palavras longas (com mais de três sílabas) presentes no texto.
+
+Esses índices podem ser úteis para avaliar a legibilidade de textos em diferentes contextos, como na produção de textos para fins educacionais, na redação de documentos oficiais ou na comunicação com o público em geral.
+
+Por fim, é importante ressaltar que o resultado da análise de legibilidade não é uma medida absoluta da qualidade do texto, mas sim uma ferramenta que pode ser utilizada para identificar pontos de melhoria e tornar o texto mais acessível e compreensível para o público-alvo.
