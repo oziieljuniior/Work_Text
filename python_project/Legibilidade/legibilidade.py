@@ -1,8 +1,13 @@
+#Biblioteca geral, herdada do código anterior
 import re
+#Biblioteca utilizada para contagem de sentenças
 import nltk
+nltk.download('punkt')
+#Biblioteca para criação de janelas para acesso dos caminhos necessários
 from tkinter import filedialog
+#biblioteca para elaboração de planilha de resultados
 from openpyxl import Workbook
-#nltk.download('punkt')
+#bibliotecas para extração de textos, herdada do código Final.py
 from io import StringIO
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
@@ -10,8 +15,11 @@ from pdfminer.pdfdocument import PDFDocument
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfpage import PDFPage
 from pdfminer.pdfparser import PDFParser
-
+#biblioteca para acesso e movimentação entre paths
 import os
+#biblioteca para contagem de sílabas
+import pyphen
+
 
 '''
 1 - Quantidade de letras.
@@ -26,9 +34,11 @@ As demonstrações contábeis foram elaboradas seguindo os princípios contábei
 6 – Quantidade de páginas.
 '''
 
+hifenizador = pyphen.Pyphen(lang='pt')
+
 janela_data = filedialog.askdirectory()
 lista_relatorio = os.listdir(janela_data)
-lista_relatorio.sort
+lista_relatorio.sort()
 #print(lista_relatorio)
 janela_saida = filedialog.askdirectory()
 
@@ -81,33 +91,19 @@ def count_letters(text):
     """
     Retorna o número de letras em um texto.
     """
-    text = re.sub(r'[^\w\s]', '', text)
-    text = re.sub(r'\s+', '', text)
+    text = re.sub(r'[^a-zA-Z]', '', text)
     return len(text)
 
 def count_syllables(word):
     """
     Retorna o número de sílabas em uma palavra.
     """
-    vowels = 'aeiouy'
-    word = word.lower().strip(".:;?!")
-    # Trata palavras que começam com "co" e "pre", que podem ser seguidas por "e"
-    if word.startswith("co") or word.startswith("pre"):
-        word = word[2:]
-    # Trata palavras que terminam com "e"
-    if word.endswith("e"):
-        word = word[:-1]
-    # Conta o número de vogais adjacentes (ditongos)
-    count = 0
-    if len(word) > 1 and word[-2] in vowels and word[-1] == "e":
-        count -= 1
-    for i in range(1, len(word)):
-        if word[i] in vowels and word[i-1] not in vowels:
-            count += 1
-    if word.endswith("y") and word[-2] not in vowels:
-        count += 1
-    if count == 0:
-        count += 1
+    word = word.lower().strip(".:;?!,")
+
+    # Usa o hifenizador para dividir a palavra em sílabas
+    syllables = hifenizador.inserted(word)
+    count = syllables.count('-') + 1
+
     return count
 
 def count_words(text):
@@ -130,12 +126,12 @@ def count_complex_words(text):
             count += 1
     return count
 
+
 def count_sentences(text):
     """
     Retorna o número de sentenças em um texto.
     """
     sentences = nltk.sent_tokenize(text)
-    #print(sentences)
     return len(sentences)       
 
 def count_pages(path):
@@ -179,11 +175,12 @@ t = len(lista_relatorio)
 #print(t)
 i = 0
 while i < t:
-    print(15*"*-")
+    print(25*"*-")
     print(f'Estamos no arquivo {i + 1}, no total temos {t}')
     caminho_relatorio = janela_data + str('/') + lista_relatorio[i]
     text = extract_text(caminho_relatorio)
-    text = clean_text(text)
+    #text = clean_text(text)
+    #print(text)
     contar_letras = count_letters(text)
     contar_silabas = sum([count_syllables(word) for word in text.split()])
     contar_palavras = count_words(text)

@@ -1,0 +1,56 @@
+Este código realiza a análise de legibilidade de arquivos PDF em um diretório selecionado pelo usuário. A análise inclui a contagem de letras, sílabas, palavras, palavras complexas, sentenças e páginas em cada arquivo PDF. Além disso, o código calcula os índices de legibilidade Flesch Reading Ease (FRE) e Flesch-Kincaid Grade Level (FKGL). Os resultados são salvos em uma planilha do Excel.
+
+As principais funções e etapas do código são:
+
+- Importação das bibliotecas necessárias.
+- Definição de funções para:
+- Extração de texto de arquivos PDF (extract_text).
+- Contagem de letras (count_letters).
+- Contagem de sílabas (count_syllables).
+- Contagem de palavras (count_words).
+- Contagem de palavras complexas (count_complex_words).
+- Contagem de sentenças (count_sentences).
+- Contagem de páginas de um arquivo PDF (count_pages).
+- Cálculo dos índices de legibilidade Flesch Reading Ease (calculate_flesch_reading_ease) e Flesch
+- Kincaid Grade Level (calculate_flesch_kincaid_grade_level).
+- Limpeza do texto (remoção de caracteres especiais e transformação em letras minúsculas) (clean_text).
+- Seleção do diretório que contém os arquivos PDF a serem analisados (janela_data).
+- Criação e formatação das planilhas do Excel (planilha1 e planilha2).
+- Extração e análise dos textos dos arquivos PDF em um loop while:
+- Extração do texto do arquivo PDF.
+- Contagem de letras, sílabas, palavras, palavras complexas e sentenças.
+- Cálculo dos índices de legibilidade.
+- Armazenamento dos resultados na planilha do Excel.
+- Salvamento da planilha do Excel com os resultados no diretório especificado.
+
+Este código pode ser útil para analisar a legibilidade de documentos em PDF e gerar relatórios em planilhas do Excel para análise posterior.
+
+Atualização 13/04/2023
+A função count_syllables no código fornecido não é uma solução ideal para contar sílabas em palavras, principalmente para palavras em português. A função atual considera apenas vogais e algumas regras básicas para palavras que começam com "co" e "pre" ou terminam com "e". Além disso, a função tenta contar ditongos. No entanto, esta abordagem é simplista e pode não funcionar corretamente para palavras em português.
+
+Para melhorar a contagem de sílabas em palavras em português, você pode usar a biblioteca Pyphen, que é um hifenizador baseado em dicionário. A biblioteca Pyphen é específica para cada idioma e pode fornecer uma contagem de sílabas mais precisa. Aqui está como você pode instalar e usar a biblioteca Pyphen:
+
+1. Instale a biblioteca Pyphen executando o seguinte comando:
+- linux: pip install pyphen
+- Windows: python3 -m pip install pyphen
+2. Importe a biblioteca no seu código:
+import pyphen
+3. Crie uma instância do hifenizador para o idioma português e defina a função count_syllables usando o hifenizador:
+hifenizador = pyphen.Pyphen(lang='pt')
+
+def count_syllables(word):
+    """
+    Retorna o número de sílabas em uma palavra.
+    """
+    word = word.lower().strip(".:;?!,")
+
+    # Usa o hifenizador para dividir a palavra em sílabas
+    syllables = hifenizador.inserted(word)
+    count = syllables.count('-') + 1
+
+    return count
+
+Esta função atualizada deve fornecer uma contagem de sílabas mais precisa para palavras em português. No entanto, tenha em mente que a contagem de sílabas ainda pode não ser 100% precisa para todas as palavras, mas esta abordagem é geralmente melhor do que a função original fornecida no código.
+
+
+
