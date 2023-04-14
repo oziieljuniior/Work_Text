@@ -223,5 +223,5 @@ while i < t:
 
 print("Análise finalizada")
 name1 = '/Analise_Legibilidade.xlsx'
-path_saida = janela_data + name1
+path_saida = janela_saida + name1
 planilha2.save(path_saida)
