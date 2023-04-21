@@ -42,17 +42,6 @@ lista_relatorio.sort()
 #print(lista_relatorio)
 janela_saida = filedialog.askdirectory()
 
-planilha1 = Workbook()
-data_geral = planilha1.active
-data_geral.title = "Data Geral"
-data_geral["A2"] = "Empresas"
-data_geral["B1"] = "Qt. de letras"
-data_geral["C1"] = "Qt. de sílabas"
-data_geral["D1"] = "Qt. de palavras"
-data_geral["E1"] = "Qt. de pal. complexas"
-data_geral["F1"] = "Qt. de Sentenças"
-data_geral["G1"] = "Qt. de páginas"
-
 planilha2 = Workbook()
 data_local = planilha2.active
 data_local.title = "Data Local"
@@ -63,8 +52,16 @@ data_local["D1"] = "Qt. de palavras"
 data_local["E1"] = "Qt. de pal. complexas"
 data_local["F1"] = "Qt. de Sentenças"
 data_local["G1"] = "Qt. de páginas"
-data_local["H1"] = "CFRE"
-data_local["I1"] = "CFKGL"
+data_local["H1"] = "FLF"
+data_local["I1"] = "FRE"
+data_local["J1"] = "IG"
+data_local["K1"] = "FKGL"
+data_local["L1"] = "ING"
+data_local["M1"] = "ILA"
+data_local["N1"] = "ICL"
+data_local["O1"] = "ILG"
+
+
 indice_local = 2
 
 def extract_text(path):
@@ -143,26 +140,94 @@ def count_pages(path):
         document = PDFDocument(parser)
         return len(list(PDFPage.create_pages(document)))
 
+def calculate_FLF(text):
+    """
+    Retorna a medidade de facilidade de leitura, retornando um índice de 0 - 100. Indicado na planilha na coluna FLF
+    
+    """
+    
+    num_syllables = sum([count_syllables(word) for word in text.split()])
+    num_words = count_words(text)
+    num_sentences = count_sentences(text)
+    cp = num_syllables / num_words
+    cf = num_words / num_sentences
+    FLF = 206.835 - (84.6*cp) - (1.015*cf)
+    return round(FLF, 2)
+
 def calculate_flesch_reading_ease(text):
     """
-    Retorna o índice de legibilidade de Flesch Reading Ease. Na planilha ele está indicado na coluna cfre.
+    Retorna o índice de legibilidade de Flesch Reading Ease. Na planilha ele está indicado na coluna FRE.
     """
     num_sentences = count_sentences(text)
     num_words = count_words(text)
     num_syllables = sum([count_syllables(word) for word in text.split()])
-    FRE = 206.835 - 1.015 * (num_words / num_sentences) - 84.6 * (num_syllables / num_words)
+    cp = num_words / num_sentences
+    cf = num_syllables / num_words
+    FRE = 226 - (1.04 * cp) - (84.6 * cf)
     return round(FRE, 2)
+
+def calculate_indice_gulpease(text):
+    """
+    Retorna o indice de legibilidade de Gulpease. Indicado na coluna da planilha como IG
+    """
+    num_sentences = count_sentences(text)
+    num_letters = count_letters(text)
+    num_words = count_words(text)
+    IG = 89 + (((300*num_sentences) - (10*num_letters)) / num_words)
+    return round(IG, 2)
 
 def calculate_flesch_kincaid_grade_level(text):
     """
-    Retorna o índice de legibilidade de Flesch-Kincaid Grade Level. Na planilha ele está indicado na coluna cfkgl.
+    Retorna o índice de legibilidade de Flesch-Kincaid Grade Level. Na planilha ele está indicado na coluna FKGL.
     """
     num_sentences = count_sentences(text)
     num_words = count_words(text)
     num_syllables = sum([count_syllables(word) for word in text.split()])
-    FKGL = 0.39 * (num_words / num_sentences) + 11.8 * (num_syllables / num_words) - 15.59
+    FKGL = (0.36 * (num_words / num_sentences)) + (10.4 * (num_syllables / num_words)) - 18
     return round(FKGL, 2)
 
+def calculate_gunning_fog_index(text):
+    """
+    Retorna o índice de nebulosidade de Gunning. Indicado na coluna da planilha como ING
+    """
+    num_words = count_words(text)
+    num_sentence = count_sentences(text)
+    num_complex_words = count_complex_words(text)
+    ING = (0.49 * (num_words / num_sentence)) + (19 * (num_complex_words / num_words))
+    return round(ING,2)
+
+def calculate_automated_readability_index(text):
+    """ 
+    Retorna o indice de leiturabilidade automatizado. Indicado na coluna da planilha como ILA
+    """
+    num_letters = count_letters(text)
+    num_words = count_words(text)
+    num_sentence = count_sentences(text)
+    ILA = (4.6 * (num_letters / num_words)) + (0.44*(num_words / num_sentence)) - 20
+    return round(ILA,2)
+
+def calculate_coleman_liau_index(text):
+    """ 
+    Retorna o indice de Coleman-Liau. Indicado na coluna da planilha como ICL
+    """
+    num_letters = count_letters(text)
+    num_words = count_words(text)
+    num_sentence = count_sentences(text)
+    ICL = (5.4*(num_letters / num_words)) - (21 * (num_sentence / num_words)) - 14
+    return round(ICL, 2)
+
+def calculate_legibilidade_geral(text):
+    """ 
+    Retorna o inde de legibilidade geral. Indicado na coluna da planilha como ILG
+    """
+    NG = calculate_flesch_kincaid_grade_level(text)
+    ING = calculate_gunning_fog_index(text)
+    ILA = calculate_automated_readability_index(text)
+    ICL = calculate_coleman_liau_index(text)
+    ILG = ((NG + ING + ILA + ICL) / 4)
+    return round(ILG, 2)
+    
+    
 def clean_text(text):
     """
     Remove caracteres especiais e transforma o texto em letras minúsculas.
@@ -188,10 +253,17 @@ while i < t:
     contar_sentenca = count_sentences(text)
     contar_paginas = count_pages(caminho_relatorio)
     # Calcula os índices de legibilidade
+    FLF = calculate_FLF(text)
     FRE = calculate_flesch_reading_ease(text)
+    IG = calculate_indice_gulpease(text)
     FKGL = calculate_flesch_kincaid_grade_level(text)
+    ING = calculate_gunning_fog_index(text)
+    ILA = calculate_automated_readability_index(text)
+    ICL = calculate_coleman_liau_index(text)
+    ILG = calculate_legibilidade_geral(text)
+    
     print(lista_relatorio[i])
-    print([contar_letras, contar_silabas, contar_palavras, contar_palavras_c, contar_sentenca, contar_paginas, FRE, FKGL])    
+    print(f"RESUMO\nLetras: {contar_letras}\nSilabas: {contar_silabas}\nPalavras: {contar_palavras}\nPalavras Complexas: {contar_palavras_c}\nSentenças: {contar_sentenca}\nPaginas: {contar_paginas}\nFLF: {FLF}\nFRE: {FRE}\nIG: {IG}\nFKGL: {FKGL}\nING: {ING}\nILA: {ILA}\nICL: {ICL}\nILG: {ILG} ")
     
     #print(lista_relatorio[i])
     name = lista_relatorio[i].split('_')
@@ -205,6 +277,12 @@ while i < t:
     indice_planilha_G = 'G' + str(indice_local)
     indice_planilha_H = 'H' + str(indice_local)
     indice_planilha_I = 'I' + str(indice_local)
+    indice_planilha_J = 'J' + str(indice_local)
+    indice_planilha_K = 'K' + str(indice_local)
+    indice_planilha_L = 'L' + str(indice_local)
+    indice_planilha_M = 'M' + str(indice_local)
+    indice_planilha_N = 'N' + str(indice_local)
+    indice_planilha_O = 'O' + str(indice_local)
     
     data_local[indice_planilha_A] = name[0]
     data_local[indice_planilha_B] = contar_letras
@@ -213,8 +291,15 @@ while i < t:
     data_local[indice_planilha_E] = contar_palavras_c
     data_local[indice_planilha_F] = contar_sentenca
     data_local[indice_planilha_G] = contar_paginas
-    data_local[indice_planilha_H] = FRE
-    data_local[indice_planilha_I] = FKGL
+    data_local[indice_planilha_H] = FLF
+    data_local[indice_planilha_I] = FRE
+    data_local[indice_planilha_J] = IG
+    data_local[indice_planilha_K] = FKGL
+    data_local[indice_planilha_L] = ING
+    data_local[indice_planilha_M] = ILA
+    data_local[indice_planilha_N] = ICL
+    data_local[indice_planilha_O] = ILG
+    
     
     
     
