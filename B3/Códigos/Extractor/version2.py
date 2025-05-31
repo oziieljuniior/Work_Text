@@ -8,8 +8,8 @@ import pandas as pd
 import time
 
 # === CONFIGURAÇÕES ===
-caminho_driver = '/home/darkcover/Documentos/B3/WebDrivers/chromedriver-linux64/chromedriver'
-caminho_excel = '/home/darkcover/Documentos/B3/CNFB3.xlsx'
+caminho_driver = '/home/darkcover1/Documentos/Work_Text/B3/WebDrivers/chromedriver-linux64_pc2/chromedriver'
+caminho_excel = '/home/darkcover1/Documentos/Work_Text/B3/CNFB3.xlsx'
 url_b3 = 'https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/empresas-listadas.htm'
 
 # === FUNÇÃO AUXILIAR ===
@@ -121,19 +121,31 @@ for ticker in empresas:
                                 botao_pdf = wait.until(EC.element_to_be_clickable((By.ID, "btnGeraRelatorioPDF")))
                                 print("📄 Botão 'Salvar em PDF' localizado com sucesso.")
                                 botao_pdf.click()  # ← só clique se realmente quiser baixar agora
-                                time.sleep(2)
-
+                                time.sleep(5)
                                 # Espera o checkbox "Todos" da árvore jstree aparecer e clica para desmarcar
+                                ##
+                                # Aguarda o iframe do modal abrir
                                 try:
-                                    checkbox_todos = wait.until(
-                                        EC.element_to_be_clickable((By.CSS_SELECTOR, ".jstree-icon.jstree-checkbox"))
-                                    )
-                                    checkbox_todos.click()
-                                    print("☑️ Checkbox 'Todos' desmarcado.")
-                                    time.sleep(1)
-                                except Exception as e:
-                                    print(f"❌ Não foi possível desmarcar 'Todos': {e}")
+                                    iframe_modal = wait.until(EC.presence_of_element_located((By.ID, "iFrameModal")))
+                                    driver.switch_to.frame(iframe_modal)
+                                    print("🧭 Entrou no iframe do modal com sucesso.")
+                                    time.sleep(2)
+                                    # Clica no checkbox da raiz (Todos)
+                                    try:
+                                        checkbox_todos = wait.until(
+                                            EC.element_to_be_clickable((By.CSS_SELECTOR, ".jstree-anchor > .jstree-checkbox"))
+                                        )
+                                        checkbox_todos.click()
+                                        print("☑️ Checkbox 'Todos' desmarcado dentro do modal.")
+                                        time.sleep(1)
+                                    except Exception as e:
+                                        print(f"❌ Não foi possível desmarcar 'Todos' no iframe: {e}")
+                                    # Voltar ao contexto principal da aba (fora do iframe)
+                                    driver.switch_to.default_content()
 
+                                except Exception as e:
+                                    print(f"❌ Erro ao acessar o iframe do modal: {e}")
+                                ##
 
                                 # Fechar a aba depois (opcional):
                                 driver.close()
