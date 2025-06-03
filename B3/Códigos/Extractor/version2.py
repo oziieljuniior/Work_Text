@@ -5,17 +5,29 @@ from selenium.webdriver.support.ui import WebDriverWait, Select
 from selenium.webdriver.support import expected_conditions as EC
 
 import pandas as pd
+import numpy as np
 import time
+import os
+import shutil
+
+import pyautogui
+from PIL import ImageGrab, Image
 
 # === CONFIGURAÇÕES ===
 caminho_driver = '/home/darkcover1/Documentos/Work_Text/B3/WebDrivers/chromedriver-linux64_pc2/chromedriver'
 caminho_excel = '/home/darkcover1/Documentos/Work_Text/B3/CNFB3.xlsx'
 url_b3 = 'https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/empresas-listadas.htm'
+text0 = 'Todos'
+textod = ['Comentarios dos diretores', 'Comentario dos diretores']
+textog = ['5. Gerenciamento de riscos e controles internos', '5. Politica de gerenciamento de riscos e controles internos']
+text3 = 'Gerar PDF'
+
+path_file1 = '/home/darkcover1/Documentos/Work_Text/B3/Códigos/Extractor/todos.png'
 
 # === FUNÇÃO AUXILIAR ===
 def abrir_pagina_inicial(driver, wait):
     driver.get(url_b3)
-    time.sleep(2)
+    time.sleep(20)
     try:
         botao_cookies = WebDriverWait(driver, 5).until(
             EC.element_to_be_clickable((By.ID, "onetrust-accept-btn-handler"))
@@ -34,12 +46,29 @@ empresas = df['TICKER'].dropna().tolist()
 
 service = Service(executable_path=caminho_driver)
 driver = webdriver.Chrome(service=service)
+
+driver.maximize_window()
+
 wait = WebDriverWait(driver, 20)
 
 abrir_pagina_inicial(driver, wait)
 
 for ticker in empresas:
     print(f"\n🔍 Buscando empresa: {ticker}")
+    
+    path = '/home/darkcover1/Documentos/Work_Text/B3/Códigos/Extractor/Data/'+ticker
+    lista_empresas = os.listdir('/home/darkcover1/Documentos/Work_Text/B3/Códigos/Extractor/Data')
+    catch = False
+    for i in range(len(lista_empresas)):
+        print(lista_empresas[i], ticker)
+        if lista_empresas[i] == ticker:
+            catch = True
+            continue
+    if catch is True:
+        continue
+    
+    os.makedirs(path)
+    relatorios_info = []
 
     try:
         # Preencher campo de busca
@@ -99,6 +128,11 @@ for ticker in empresas:
                             )
                             href = link_ref.get_attribute("href")
                             print(f"📝 Formulário de Referência encontrado para {ano}: {href}")
+                            name_ajustado = href.split('=')
+                            save_me = ticker+"_"+name_ajustado[1]+"_"+str(ano) 
+                            print(save_me)
+                            relatorios_info.append(save_me)
+                            
 
                             # Salva o identificador da aba atual
                             aba_original = driver.current_window_handle
@@ -121,31 +155,122 @@ for ticker in empresas:
                                 botao_pdf = wait.until(EC.element_to_be_clickable((By.ID, "btnGeraRelatorioPDF")))
                                 print("📄 Botão 'Salvar em PDF' localizado com sucesso.")
                                 botao_pdf.click()  # ← só clique se realmente quiser baixar agora
-                                time.sleep(5)
-                                # Espera o checkbox "Todos" da árvore jstree aparecer e clica para desmarcar
-                                ##
-                                # Aguarda o iframe do modal abrir
-                                try:
-                                    iframe_modal = wait.until(EC.presence_of_element_located((By.ID, "iFrameModal")))
-                                    driver.switch_to.frame(iframe_modal)
-                                    print("🧭 Entrou no iframe do modal com sucesso.")
-                                    time.sleep(2)
-                                    # Clica no checkbox da raiz (Todos)
+                                ##########
+                                # Espera o checkbox "Todos" da árvore jstree aparecer e clica para desmarcar                    
+                                print('order 1')
+                                #1) ctr + f -> 'Todos' -> enter
+                                #2) Procura frame 1x1(em loop limitado(20 chamdas) -> clica na caixa
+                                #3) Repete o processo para as outras frases
+                                #4) Finaliza o processo chamando para baixar o pdf -> Salva em um caminho especifico
+                                k1 = 0
+                                while k1 <= 5:
+                                    time.sleep(10)
                                     try:
-                                        checkbox_todos = wait.until(
-                                            EC.element_to_be_clickable((By.CSS_SELECTOR, ".jstree-anchor > .jstree-checkbox"))
-                                        )
-                                        checkbox_todos.click()
-                                        print("☑️ Checkbox 'Todos' desmarcado dentro do modal.")
-                                        time.sleep(1)
-                                    except Exception as e:
-                                        print(f"❌ Não foi possível desmarcar 'Todos' no iframe: {e}")
-                                    # Voltar ao contexto principal da aba (fora do iframe)
-                                    driver.switch_to.default_content()
+                                        pyautogui.hotkey('ctrl','f')
+                                        pyautogui.write(text0, interval = 0.05)
+                                        #pyautogui.hotkey('ctrl', 'v')
+                                        pyautogui.press('enter')
+                                        print(f'Chamada: {text0} -> Screenshot + Procura')                                                        
+                                        # Agora varre a tela procurando essa palavra
+                                        im11 = Image.open('todos.png')
+                                        guide = pyautogui.locateOnScreen(im11, confidence=0.9)
+                                        # Verificando se a imagem foi encontrada
+                                        if guide is not None:
+                                            x = guide.left  # Posição X
+                                            y = guide.top   # Posição Y
+                                            click1 = (x,y)
+                                            print(f"Posição X: {x}, Posição Y: {y}")
+                                            pyautogui.click(click1)
+                                            k1 = 6
+                                            time.sleep(2)
+                                            
+                                            k2 = 0
+                                            n1 = 0
+                                            text1 = textod[n1]
+                                            while k2 <= 5:
+                                                time.sleep(3)
+                                                try:
+                                                    pyautogui.hotkey('ctrl','f')
+                                                    print(text1)
+                                                    pyautogui.write(text1, interval = 0.05)
+                                                    #pyautogui.hotkey('ctrl', 'v')
+                                                    pyautogui.press('enter')
+                                                    time.sleep(2)
 
-                                except Exception as e:
-                                    print(f"❌ Erro ao acessar o iframe do modal: {e}")
-                                ##
+                                                    print(f'Chamada: {text1} -> Screenshot + Procura')                                                        
+                                                    # Agora varre a tela procurando essa palavra
+                                                    n2 = str(n1 + 1)
+                                                    name1 = 'comentarios'+n2+'.png'
+                                                    print(name1)
+                                                    im12 = Image.open(name1)
+                                                    guide = pyautogui.locateOnScreen(im12, confidence=0.9)
+                                                    # Verificando se a imagem foi encontrada
+                                                    if guide is not None:
+                                                        x = guide.left  # Posição X
+                                                        y = guide.top   # Posição Y
+                                                        click1 = (x,y)
+                                                        print(f"Posição X: {x}, Posição Y: {y}")
+                                                        pyautogui.click(click1)
+                                                        k2 = 6
+                                                        time.sleep(2)
+
+                                                        k3 = 0
+                                                        n3 = 0
+                                                        text2 = textog[n3]
+                                                        while k3 <= 5:
+                                                            time.sleep(3)
+                                                            try:
+                                                                pyautogui.hotkey('ctrl','f')
+                                                                print(text2)
+                                                                pyautogui.write(text2, interval = 0.05)
+                                                                #pyautogui.hotkey('ctrl', 'v')
+                                                                pyautogui.press('enter')
+                                                                time.sleep(2)
+
+                                                                print(f'Chamada: {text2} -> Screenshot + Procura')                                                        
+                                                                # Agora varre a tela procurando essa palavra
+                                                                n4 = str(n3 + 1)
+                                                                name2 = 'gerenciamento'+n4+'.png'
+                                                                print(name2)
+                                                                im13 = Image.open(name2)
+                                                                guide = pyautogui.locateOnScreen(im13, confidence=0.9)
+                                                                # Verificando se a imagem foi encontrada
+                                                                if guide is not None:
+                                                                    x = guide.left  # Posição X
+                                                                    y = guide.top   # Posição Y
+                                                                    click1 = (x,y)
+                                                                    print(f"Posição X: {x}, Posição Y: {y}")
+                                                                    pyautogui.click(click1)
+                                                                    k3 = 6
+
+                                                                    pyautogui.click((1357, 686))
+                                                                    time.sleep(2)
+                                                                    pyautogui.click((701, 602))
+                                                                    time.sleep(45)
+                                                                    
+                                                            except:
+                                                                print(f'Botão "Gerenciamento" não encontrado"')
+                                                                k3 += 1
+                                                                if n3  > len(textog):
+                                                                    n3 = 0
+                                                                    text2 = textog[n3]
+                                                                else:
+                                                                    n3+=1
+                                                                    text2 = textog[n3]
+                                                                    
+                                                except:
+                                                    print(f'Botão "Comentario dos diretores" não encontrado"')
+                                                    k2 += 1
+                                                    if n1  > len(textod):
+                                                        n1 = 0
+                                                        text1 = textod[n1]
+                                                    else:
+                                                        n1+=1
+                                                        text1 = textod[n1]
+                                    except:
+                                        print(f'Botão "Todos" não encontrado')   
+                                        k1 += 1     
+                                ##########
 
                                 # Fechar a aba depois (opcional):
                                 driver.close()
@@ -181,6 +306,22 @@ for ticker in empresas:
             alerta = wait.until(EC.presence_of_element_located((By.XPATH, '//div[@role="alert" and contains(text(), "Não há dados disponíveis")]')))
             print(f"❌ Empresa não encontrada: {ticker}")
             time.sleep(2)
+
+        lista_final = os.listdir('/home/darkcover1/Downloads/')
+        #print(lista_final)
+        print(len(lista_final))
+        for i in range(len(lista_final)):
+            name1 = lista_final[i].split("_")
+            for j in range(len(relatorios_info)):
+                name2 = relatorios_info[j].split("_")
+                print(name1, name2)
+                print(name1[0], name2[1])
+                if name1[0] == name2[1]:
+                    name_origem = '/home/darkcover1/Downloads/'+lista_final[i]
+                    name_final =  path+"/"+str(name2[0])+'_'+str(name2[2])+'.pdf'
+                    print(f'nome original: {name_origem} \nnome final: {name_final}')
+                    shutil.move(name_origem, name_final)
+                
 
     except Exception as e:
         print(f"❌ Erro ao processar {ticker}: {e}")

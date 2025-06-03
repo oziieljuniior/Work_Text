@@ -6,8 +6,9 @@ while i <= 20:
     im7 = ImageGrab.grab().save("im2.jpeg")
     im8 = Image.open("im2.jpeg")
     #[(1, (1, 44, 99))] [(1, (247, 255, 255))]
-    area3 = (416, 411, 417, 412)
-    area4 = (416, 411, 417, 412)
+    #(636, 400)
+    area3 = (636, 400, 637, 401)
+    area4 = (417, 677, 418, 678)
     #[(1, (1, 44, 99))] [(1, (247, 255, 255))]
     im9_corte1 = im8.crop(area3)
     im10_corte2 = im8.crop(area4)
