@@ -60,8 +60,8 @@ for ticker in empresas:
     lista_empresas = os.listdir('/home/darkcover1/Documentos/Work_Text/B3/Códigos/Extractor/Data')
     catch = False
     for i in range(len(lista_empresas)):
-        print(lista_empresas[i], ticker)
         if lista_empresas[i] == ticker:
+            print(lista_empresas[i], ticker)
             catch = True
             continue
     if catch is True:
