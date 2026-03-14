@@ -112,7 +112,7 @@ def analisar_texto(texto):
 
                 break
 
-            except lt.LanguageToolError:
+            except lt.LanguageTool:
 
                 print("Erro de conexão. Reiniciando servidor...")
 
