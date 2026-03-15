@@ -1,0 +1,56 @@
+# =========================
+# Dados grandes
+# =========================
+2/
+data/
+datasets/
+
+# Arquivos de dados comuns
+*.csv
+*.parquet
+*.feather
+*.hdf5
+*.sqlite
+*.db
+
+# =========================
+# Ambiente Python
+# =========================
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Sistema operacional
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Build / distribuição
+# =========================
+build/
+dist/
+*.egg-info/
