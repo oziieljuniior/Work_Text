@@ -1,0 +1,60 @@
+Erro: 1
+Offset 3292, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, mas
+...PARTICIPACOES S.A.  Versão :   PÁGINA:  de        mas devido a renegociações em , mantiveram ...
+                                           ^^^^^^^^^^^^^
+Erro: 2
+Offset 16592, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...rcício social encerrado em  de dezembro de  a constituição, aquisição ou alienação de...
+                                           ^^^^^
+Erro: 3
+Offset 16739, length 3, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: À
+...deu para a sua controlada Ammo Varejo S.A a totalidade do investimento na CS Tecnol...
+                                           ^^^
+Erro: 4
+Offset 8724, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: vínculo
+...rantia sobre as parcelas a receber, por vinculo das receitas e quotas do Fundo de Parti...
+                                           ^^^^^^^
+Erro: 5
+Offset 8956, length 6, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: havia
+... :   PÁGINA:  de   Em  de dezembro de , haviam  parcelas vencidas. A Administração da ...
+                                           ^^^^^^
+Erro: 6
+Offset 14200, length 17, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: é supervisionada; são supervisionadas
+...omo a eficiência dos controles internos é supervisionadas pela administração do emissor, indicand...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 7928, length 46, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou denúncias não sofrerá nenhuma retaliação, ou
+... qualquer meio direto para manifestação ou denúncias não sofrerá nenhuma retaliação ou punição em função disto.  Visando a gar...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 8420, length 46, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou denúncias não sofrerá nenhuma retaliação, ou
+... qualquer meio direto para manifestação ou denúncias não sofrerá nenhuma retaliação ou punição em função disto.   iv. órgão do...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 9446, length 31, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou indicações do ato ilícito, ou
+...as eventuais provas juntadas à denúncia ou indicações do ato ilícito ou inapropriado podendo vir a ser: a) arqu...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 12413, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, ao mesmo tempo
+...nuidade de suas atividades operacionais e ao mesmo tempo maximizar o retorno aos seus acionistas...
+                                           ^^^^^^^^^^^^^^^^

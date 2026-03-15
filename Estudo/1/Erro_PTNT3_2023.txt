@@ -1,0 +1,54 @@
+Erro: 1
+Offset 16759, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...dada totalizou R , milhões no exercício de  o que representa um crescimento de , comp...
+                                           ^^^^^
+Erro: 2
+Offset 1656, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+.... INDUSTRIA TEXTIL  Versão :   PÁGINA:  de   a)  Derivativos: a Controladora mantém in...
+                                           ^^^^^^
+Erro: 3
+Offset 7313, length 8, Rule ID: DIACRITICS
+Message: Se for um erro ortográfico, substitua por “dá lucro”. Se for um erro de concordância, substitua por , “do lucro” ou “dos lucros”.
+Suggestion: dá lucro; do lucro; dos lucros; da Lucro
+...e o incremento das receitas e a melhora da lucro bruto da Companhia que foi de , no exer...
+                                           ^^^^^^^^
+Erro: 4
+Offset 15947, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+.... INDUSTRIA TEXTIL  Versão :   PÁGINA:  de   a. Introdução ou alienação de segmento op...
+                                           ^^^^^^
+Erro: 5
+Offset 16291, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+.... INDUSTRIA TEXTIL  Versão :   PÁGINA:  de   a. Mudanças significativas nas práticas c...
+                                           ^^^^^^
+Erro: 6
+Offset 16350, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...gnificativas nas práticas contábeis Não houveram mudanças significativas nas práticas co...
+                                           ^^^^^^^^
+Erro: 7
+Offset 16574, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...ses presentes no parecer do auditor Não houveram ressalvas ou ênfases no relatório dos a...
+                                           ^^^^^^^^
+Erro: 8
+Offset 16668, length 77, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou ênfases no relatório dos auditores do exercício Não houveram ressalvas, ou
+...es do exercício  Não houveram ressalvas ou ênfases no relatório dos auditores do exercício  Não houveram ressalvas ou ênfases no relatório dos auditores do e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 392, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: administração,
+... contábeis”) foram reclassificadas pela administração quando necessário, para manter a base d...
+                                           ^^^^^^^^^^^^^

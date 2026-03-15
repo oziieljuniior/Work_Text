@@ -1,0 +1,60 @@
+Erro: 1
+Offset 12709, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...raram o valor agregado. Em  de dezembro de  o saldo das provisões existentes, de conh...
+                                           ^^^^^
+Erro: 2
+Offset 13280, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...s base de cálculo (do período de agosto de  a dezembro de ). O valor do crédito, líqu...
+                                           ^^^^^
+Erro: 3
+Offset 14377, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+... imposto de renda. . No mês de setembro de  o Supremo Tribunal Federal  STF encerrou ...
+                                           ^^^^^
+Erro: 4
+Offset 15219, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: crédito
+...imposto de renda e a constituição de um credito tributário no ativo patrimonial, cujos ...
+                                           ^^^^^^^
+Erro: 5
+Offset 15305, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... valores totalizam R , milhões . No ano de  a Companhia aferiu ganhos referentes à ve...
+                                           ^^^^^
+Erro: 6
+Offset 18165, length 8, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Espírito
+...escimento das importações pelo porto do Espirito Santo, pela boa diversificação de clien...
+                                           ^^^^^^^^
+Erro: 7
+Offset 13194, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...em sua utilização de ativos, em janeiro de  a controlada Tegma Logística de Veículos ...
+                                           ^^^^^
+Erro: 8
+Offset 18076, length 128, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou arbitrais Não se aplica à Companhia pelo fato de não haver restrições à distribuição de dividendos impostas por legislação, ou
+...os, decisões judiciais, administrativas ou arbitrais Não se aplica à Companhia pelo fato de não haver restrições à distribuição de dividendos impostas por legislação ou regulamentação especial aplicável ao em...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 12660, length 30, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou recebimento de vantagens, ou
+...rnecedores e parceiros; (iii) concessão ou recebimento de vantagens ou benefícios; (iv) conflito de interesses...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 6982, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...etidas, aplica as medidas disciplinares e ou outras medidas julgadas cabíveis para r...
+                                           ^^^^

@@ -1,0 +1,60 @@
+Erro: 1
+Offset 5659, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretam
+...ao consumidor, entre outros eventos que acarretam na diminuição do poder do consumo; restriç...
+                                           ^^^^^^^^^^^^
+Erro: 2
+Offset 6254, length 49, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou reputação decorrente de processos judiciais, ou
+...uemse impacto negativo sobre sua imagem ou reputação decorrente de processos judiciais ou administrativos, fiscalização por difer...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 4870, length 32, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou patrocínio do Grupo Simpar, ou
+...jurídica, interessada em receber doação ou patrocínio do Grupo Simpar ou do Instituto Júlio Simões. A Política d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 11596, length 11, Rule ID: DIACRITICS
+Message: Se for um erro ortográfico, substitua por “dá adotados”. Se for um erro de concordância, substitua por “da adotadas”, “do adotado” ou “dos adotados”.
+Suggestion: dá adotados; da adotadas; do adotado; dos adotados; da Adotados
+...dos processos e dos normativos internos da adotados pela Companhia. Além dos procedimentos ...
+                                           ^^^^^^^^^^^
+Erro: 5
+Offset 826, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...apital próprio , , , ,  Em  de setembro de  o saldo de capital de terceiros era de R....
+                                           ^^^^^
+Erro: 6
+Offset 1003, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+... principalmente da captação do CRA III. Em  o saldo de capital próprio era de R. mil ...
+                                           ^^^^^
+Erro: 7
+Offset 1154, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...as reservas de capital. Em  de dezembro de  o saldo de capital de terceiros era de R....
+                                           ^^^^^
+Erro: 8
+Offset 1593, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...idendos aos acionistas. Em  de dezembro de  o saldo de capital de terceiros era de R....
+                                           ^^^^^
+Erro: 9
+Offset 3082, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: que, em geral
+...e tem demandado investimentos em ativos que em geral possuem um mercado secundário líquido. ...
+                                           ^^^^^^^^^^^^
+Erro: 10
+Offset 4429, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...lante”. Adicionalmente, em  de setembro de  a Companhia possuía R.. milhões em veícul...
+                                           ^^^^^

@@ -1,0 +1,84 @@
+Erro: 1
+Offset 12442, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Operação,
+...instrumento contratado.   Controladora  Operação Moeda Cenário Provável  (Valor Contábil...
+                                           ^^^^^^^^
+Erro: 2
+Offset 14296, length 12, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: são operações; é Operação
+... Companhia (quando receitas ou despesas são Operação Moeda Cenário Provável  (Valor Contábil...
+                                           ^^^^^^^^^^^^
+Erro: 3
+Offset 9389, length 7, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ou seja,
+...eviamente no momento de seu vencimento, ou seja os contratos a termo contratados pela C...
+                                           ^^^^^^^
+Erro: 4
+Offset 14363, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Descrição,
+...tal USD . .  R  (.) (.)   Controladora  Descrição  Valor de referência Valor justo (Notio...
+                                           ^^^^^^^^^
+Erro: 5
+Offset 15315, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+....  Controladora     Descrição Até  dias De  a  dias Total líquido     NDF . . . Total...
+                                           ^^^^^
+Erro: 6
+Offset 15568, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+....  Controladora     Descrição Até  dias De  a  dias Total líquido     NDF  €   . Tota...
+                                           ^^^^^
+Erro: 7
+Offset 1456, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...   RANDONCORP S.A.  Versão :   PÁGINA:  de    a) Condições financeiras e patrimoniais g...
+                                           ^^^^^^^
+Erro: 8
+Offset 1873, length 44, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: os diferentes setores econômicos proporcionam; os diferentes setores econômicos, proporciona
+...ão diversificada dos negócios com todos os diferentes setores econômicos proporciona resultados consistentes, equilibrados e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 6779, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...tividade e rentabilidade dos negócios.  Em  a Companhia encerrou seu exercício com bo...
+                                           ^^^^^
+Erro: 10
+Offset 14670, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...a) não forem atingidos. Em  de dezembro de  os índices estabelecidos estavam sendo ate...
+                                           ^^^^^^
+Erro: 11
+Offset 16938, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...a) não forem atingidos. Em  de dezembro de  os contratos de financiamento da Randon S....
+                                           ^^^^^^
+Erro: 12
+Offset 19760, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...MS gerado mensalmente, com uma carência de  a  meses e prazo de pagamento entre  a  m...
+                                           ^^^^^
+Erro: 13
+Offset 1069, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...últimos exercícios:        No exercício de  a distribuição entre os períodos que fora...
+                                           ^^^^^
+Erro: 14
+Offset 7235, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...   RANDONCORP S.A.  Versão :   PÁGINA:  de   a. Introdução ou alienação de segmento op...
+                                           ^^^^^^

@@ -1,0 +1,78 @@
+Erro: 1
+Offset 6481, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+... norma a não exposição de seus passivos e ou ativos a descasamento de moedas, haja v...
+                                           ^^^^
+Erro: 2
+Offset 11220, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... período compreendido entre  de janeiro de  a  de dezembro de  foi de R . milhões (co...
+                                           ^^^^^
+Erro: 3
+Offset 18829, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...          .    Debêntures  Em  de junho de  a Companhia emitiu  (duzentos e quarenta)...
+                                           ^^^^^
+Erro: 4
+Offset 5907, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...s de riscos trabalhistas e cíveis e em  houveram receitas de vendas de imóveis da Battis...
+                                           ^^^^^^^^
+Erro: 5
+Offset 13252, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...te de créditos de PIS e Cofins dos anos de  a , previsto na legislação e que serão co...
+                                           ^^^^^
+Erro: 6
+Offset 19858, length 43, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não há eventos, ou
+...bléia Geral Extraordinária.  c) Eventos ou operações não usuais   Não há eventos ou operações não usuais praticadas por nós...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 3307, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ontrolada em conjunto.  Em  de novembro de  a controlada Battistella Veículos Pesados...
+                                           ^^^^^
+Erro: 8
+Offset 14110, length 26, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou despesas tributáveis, ou
+...ão do resultado, porque exclui receitas ou despesas tributáveis ou dedutíveis em outros exercícios, além d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 15625, length 30, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja liquidado ou o ativo, seja
+...período no qual se espera que o passivo seja liquidado ou o ativo seja realizado, com base nas alíquotas previ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 17774, length 21, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou perdas na venda, ou
+...uso contínuo do ativo. Quaisquer ganhos ou perdas na venda ou baixa de um item do imobilizado são det...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 3243, length 74, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja possível estimar os valores de forma confiável e cuja liquidação, seja
+... resultante de eventos passados, em que seja possível estimar os valores de forma confiável e cuja liquidação seja provável.  O valor reconhecido como pro...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 5076, length 63, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienações normais de ativos financeiros são reconhecidas, ou
+...nhecimento inicial. Todas as aquisições ou alienações normais de ativos financeiros são reconhecidas ou baixadas com base na data de negociação...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 7971, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... oferta foram utilizados:  Em  de junho de  a Companhia realizou uma oferta pública c...
+                                           ^^^^^

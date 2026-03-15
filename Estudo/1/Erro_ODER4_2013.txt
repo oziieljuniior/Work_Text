@@ -1,0 +1,30 @@
+Erro: 1
+Offset 1414, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...cativo, passando de  em  para  em , e , em  a companhia tem mantido a sua política de...
+                                           ^^^^^
+Erro: 2
+Offset 18005, length 11, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ERVAS ODERICH S.A.  Versão :   PÁGINA:  de        a. Riscos para os quais se busca proteção...
+                                           ^^^^^^^^^^^
+Erro: 3
+Offset 1508, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ao mesmo tempo,
+...e produtos com foco no mercado externo, ao mesmo tempo em que diminuirá significativamente des...
+                                           ^^^^^^^^^^^^^^
+Erro: 4
+Offset 14359, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...  a Companhia optou em aplicar a partir de  os pronunciamentos contábeis (CPC) e inter...
+                                           ^^^^^^
+Erro: 5
+Offset 1788, length 26, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou despesas tributáveis, ou
+...ão do resultado, porque exclui receitas ou despesas tributáveis ou dedutíveis em outros exercícios, além d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^

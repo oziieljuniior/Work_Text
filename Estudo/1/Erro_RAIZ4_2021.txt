@@ -1,0 +1,24 @@
+Erro: 1
+Offset 5124, length 46, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou divulgação não autorizada de informações, ou
+...onsistem na perda, uso indevido, acesso ou divulgação não autorizada de informações ou dados pessoais de partes interessadas, ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 5809, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+... maximizar o valor); (ii) Transferência e  ou compartilhamento de riscos; (iii) Encer...
+                                           ^^^^^
+Erro: 3
+Offset 6835, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...Administração concluiu que em  de março de  a Companhia mantinha controles internos a...
+                                           ^^^^^
+Erro: 4
+Offset 7123, length 34, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou ofertas de títulos de dívida, ou
+...e financiamentos de curto e longo prazo ou ofertas de títulos de dívida ou de capital no mercado brasileiro e merc...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

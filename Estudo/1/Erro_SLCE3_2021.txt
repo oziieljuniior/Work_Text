@@ -1,0 +1,108 @@
+Erro: 1
+Offset 2242, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...resultados e a nossa imagem   As pragas e ou doenças que poderão afetar as nossas co...
+                                           ^^^^
+Erro: 2
+Offset 2355, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...esso de produção podendo serem evitadas e ou reduzidas através de controle biológico...
+                                           ^^^^
+Erro: 3
+Offset 7063, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...dem se manifestar de diversas maneiras, como por exemplo, atos fraudulentos, interrupção do negó...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 10853, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...a identificação de deficiências, falhas e ou não cumprimento de regras. . Gerenciame...
+                                           ^^^^
+Erro: 5
+Offset 13209, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Contudo, sem
+...cício social findo em  de dezembro de . Contudo sem considerações significativas em relação...
+                                           ^^^^^^^^^^^
+Erro: 6
+Offset 2465, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+....A.  Versão :   PÁGINA:  de    : No ano de  a dívida líquida ajustada apresentou redu...
+                                           ^^^^^
+Erro: 7
+Offset 3039, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...no longo prazo em  para  em .  : No ano de  a dívida líquida ajustada mantevese em pa...
+                                           ^^^^^
+Erro: 8
+Offset 3221, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...ento de , no ano de  para , no ano de . Em  o CDI (Certificado de Depósito Interbancá...
+                                           ^^^^^
+Erro: 9
+Offset 3331, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+..., uma queda de , comparado o fechamento de  a ,.  A redução da taxa de endividamento ...
+                                           ^^^^^
+Erro: 10
+Offset 3866, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...o com remuneração a  do CDI.   : No ano de  a dívida mantevese em patamar semelhante ...
+                                           ^^^^^
+Erro: 11
+Offset 4004, length 1, Rule ID: DIACRITICS
+Message: Verifique se não quis escrever “à” ou “a”.
+Suggestion: à; a
+...redução da taxa de endividamento devido á liquidação antecipada de dívida com tax...
+                                           ^
+Erro: 12
+Offset 4879, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... carência, e se darão entre os períodos de  a .     Linha de Crédito Taxas médias anu...
+                                           ^^^^^
+Erro: 13
+Offset 16439, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...  Despesas Antecipadas  Em  de dezembro de  o saldo de despesas antecipadas finalizou...
+                                           ^^^^^
+Erro: 14
+Offset 16844, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...o mantidos para Venda  Em   de dezembro de  o saldo da conta Ativos Mantidos para Ven...
+                                           ^^^^^
+Erro: 15
+Offset 5427, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ndos a Pagar, apresenta em  de dezembro de  o saldo de R. mil versus R. mil em  de de...
+                                           ^^^^^
+Erro: 16
+Offset 8003, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...uição Social Diferidos  Em  de dezembro de  o saldo desta conta totalizou em R. mil v...
+                                           ^^^^^
+Erro: 17
+Offset 1326, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... SLC AGRICOLA S.A.  Versão :   PÁGINA:  de    a. introdução ou alienação de segmento op...
+                                           ^^^^^^^
+Erro: 18
+Offset 5438, length 97, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou o valor dos fluxos de caixa baseados na taxa de juros de referência do item objeto de hedge, ou
+...rma suscitar incertezas sobre o período ou o valor dos fluxos de caixa baseados na taxa de juros de referência do item objeto de hedge ou do instrumento de hedge. Essas alteraçõ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

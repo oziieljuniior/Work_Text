@@ -1,0 +1,150 @@
+Erro: 1
+Offset 7153, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...atériaprima e financiamentos em geral.  Em  a Companhia concluiu as negociações, que ...
+                                           ^^^^^
+Erro: 2
+Offset 11579, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquida
+...es e Amortizações..EBITDA(.)(..)Receita Liquida..   ..    das Receitas, p.p.,. Condiçõe...
+                                           ^^^^^^^
+Erro: 3
+Offset 14154, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: crédito
+...ação PPE..                    Cedula de credito bancario.                       valor p...
+                                           ^^^^^^^
+Erro: 4
+Offset 14338, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Crédito
+...               Antecipação de Cessão de Credito.                         Confissão de d...
+                                           ^^^^^^^
+Erro: 5
+Offset 18221, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ade de investimento.    Em  de dezembro de  a Companhia conclui as negociações e cele...
+                                           ^^^^^
+Erro: 6
+Offset 19108, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: dívida, mas
+...mente não houve troca do instrumento de dívida mas se fez necessário  o ajuste do valor co...
+                                           ^^^^^^^^^^
+Erro: 7
+Offset 4615, length 20, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: as receitas liquidam; as receitas, liquidas
+... anterior. O custo dos produtos superou as receitas liquidas em .  O Custo do Metal em Reais diminui...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 5092, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: das; dê as
+...   DespesasReceitas Operacionais No ano de  as Despesas Operacionais foram de R, milhõ...
+                                           ^^^^^^
+Erro: 9
+Offset 7647, length 8, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Contínua
+...ntra um prejuízo de R, milhões em .    (Continua na próxima página)                     ...
+                                           ^^^^^^^^
+Erro: 10
+Offset 15978, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: crédito
+... operações com fornecedores e cartas de credito envolvendo também os estoques com saída...
+                                           ^^^^^^^
+Erro: 11
+Offset 16111, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nas”?
+Suggestion: nas
+...inanceiros no valor de R, em , enquanto em  as Atividades Operacionais resultaram em R...
+                                           ^^^^^^
+Erro: 12
+Offset 16294, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: crédito
+... operações com fornecedores e cartas de credito envolvendo também os estoques com saída...
+                                           ^^^^^^^
+Erro: 13
+Offset 16675, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+... entrada, enquanto para o mesmo período de  o resultado líquido de ingressos e resgat...
+                                           ^^^^^
+Erro: 14
+Offset 17339, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...e R, milhões, enquanto no mesmo período de  o montante foi de R, milhões.  . Condiçõe...
+                                           ^^^^^
+Erro: 15
+Offset 467, length 11, Rule ID: PARONYM_OFICIO_227
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: pelo ofício
+...atendendo o CPC  – Estoques e reforçado pelo oficio circular da CVM , onde no item   do CPC...
+                                           ^^^^^^^^^^^
+Erro: 16
+Offset 5050, length 27, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: compensatórias, por exemplo
+...rigem a diferenças temporárias iguais e compensatórias  por exemplo, arrendamentos e passivos de custos de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 17
+Offset 7296, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: controladas, pois
+...uais e consolidadas da Companhia e suas controladas pois, devido à relevância do assunto descrit...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 18
+Offset 8999, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: no entanto,
+...vos, existem indicadores de impairment, no entanto a Companhia não efetuou a avaliação do ...
+                                           ^^^^^^^^^^
+Erro: 19
+Offset 9504, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...CUPERAÇÃO JUDICIAL  Versão :   PÁGINA:  de    a. introdução ou alienação de segmento op...
+                                           ^^^^^^^
+Erro: 20
+Offset 9978, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...CUPERAÇÃO JUDICIAL  Versão :   PÁGINA:  de   a. EBITDA     O EBITDA Ajustado, que excl...
+                                           ^^^^^^
+Erro: 21
+Offset 10355, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...íquido e Lucro Líquido Ajustado  No ano de  a Companhia gerou um Prejuízo Líquido de ...
+                                           ^^^^^
+Erro: 22
+Offset 16075, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...CUPERAÇÃO JUDICIAL  Versão :   PÁGINA:  de   a. Ativos e passivos detidos pela Companh...
+                                           ^^^^^^
+Erro: 23
+Offset 16887, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...guintes:      Até  Ano.     .     .     de  a  anos.    .    .     acima de  anos.   ...
+                                           ^^^^^
+Erro: 24
+Offset 17366, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...CUPERAÇÃO JUDICIAL  Versão :   PÁGINA:  de   a. Investimentos, incluindo:  i. Descriçã...
+                                           ^^^^^^
+Erro: 25
+Offset 19245, length 95, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou serviços Não foram realizados gastos significativos no desenvolvimento de novos produtos, ou
+...ia no desenvolvimento de novos produtos ou serviços  Não foram realizados gastos significativos no desenvolvimento de novos produtos ou serviços.  . Planos de negócios        ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

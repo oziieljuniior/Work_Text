@@ -1,0 +1,60 @@
+Erro: 1
+Offset 18875, length 30, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou demissão por justa causa, ou
+...MRS, advertência por escrito, suspensão ou demissão por justa causa ou sem justa causa. Poderão ser tomadas, a...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 8641, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...eiras e patrimoniais gerais em   No ano de  a MRS apresentou o melhor resultado de su...
+                                           ^^^^^
+Erro: 3
+Offset 2035, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...ícios sociais, notese que foi realizada em  a ª emissão de debêntures da Companhia, n...
+                                           ^^^^^
+Erro: 4
+Offset 2104, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+... da Companhia, no valor de R  milhões e em  a ª emissão de debêntures da Companhia, n...
+                                           ^^^^^
+Erro: 5
+Offset 8642, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...BNDES para que nas medições de dezembro de  o índice Dívida LíquidaEBITDA fosse repac...
+                                           ^^^^^
+Erro: 6
+Offset 18226, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...ida de serviços A diretoria comenta que em  a Companhia registrou faturamento líquido...
+                                           ^^^^^
+Erro: 7
+Offset 19246, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...aturamento, comentadas no item “Receita liquida de serviços”.  Despesas com vendas A di...
+                                           ^^^^^^^
+Erro: 8
+Offset 19910, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Em contrapartida,
+...s, despesas com organização e sistemas. Em contrapartida houve redução, basicamente, nos honorár...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 10681, length 27, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: reconheceu, em contrapartida
+... de Contratos com Clientes, a Companhia reconheceu em contrapartida ao contas a receber de indenização uma ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 861, length 27, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: reconheceu, em contrapartida
+... de Contratos com Clientes, a Companhia reconheceu em contrapartida ao contas a receber de indenização uma ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^

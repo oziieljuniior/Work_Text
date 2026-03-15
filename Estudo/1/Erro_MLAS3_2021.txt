@@ -1,0 +1,78 @@
+Erro: 1
+Offset 2844, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...ode se manifestar de diversas maneiras, como por exemplo, atos fraudulentos, interrupção do negó...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 4674, length 50, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou uso indevido de dados pessoais confidenciais, ou
+...ção: tratase do risco associado à perda ou uso indevido de dados pessoais confidenciais ou informações confidenciais, podendo amea...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 8512, length 37, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou aplicações de eventuais sanções, ou
+...a mitigar o risco de perda de reputação ou aplicações de eventuais sanções ou multas em decorrência do risco de confo...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 12240, length 40, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou contribuir com fundos corporativos, ou
+...hum colaborador deve prometer, oferecer ou contribuir com fundos corporativos ou quaisquer outros ativos empresariais pa...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 18523, length 47, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou terceiros poderão resultar em advertência, ou
+...a. Eventuais violações por fornecedores ou terceiros poderão resultar em advertência ou rescisão do contrato, sempre que aplicá...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 11340, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...rado no período de  meses, de  de abril de  a  de março de .  () Liquidez Corrente si...
+                                           ^^^^^
+Erro: 7
+Offset 13141, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ingindo ,, enquanto que ao final do ano de  o indicador estava em ,.  (b) Estrutura d...
+                                           ^^^^^
+Erro: 8
+Offset 10764, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Móbile
+...acional líquida proveniente da linha de Mobile Devices, no montante de R , milhões ou ...
+                                           ^^^^^^
+Erro: 9
+Offset 12806, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...das  No exercício findo em  de dezembro de  a Companhia reconheceu receita de R , mil...
+                                           ^^^^^
+Erro: 10
+Offset 16430, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Móbile
+...acional líquida proveniente da linha de Mobile Devices e Office & IT supplies. Por out...
+                                           ^^^^^^
+Erro: 11
+Offset 17024, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...idos foi superior à variação da receita liquida acima indicada, especialmente em função...
+                                           ^^^^^^^
+Erro: 12
+Offset 19293, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+... dezembro de , variação de R , milhões. Em  a Companhia captou R , milhões, aproveita...
+                                           ^^^^^
+Erro: 13
+Offset 3627, length 60, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a itens reconhecidos diretamente no patrimônio líquido, ou
+...lacionados a uma combinação de negócios ou a itens reconhecidos diretamente no patrimônio líquido ou em outros resultados abrangentes.   Con...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

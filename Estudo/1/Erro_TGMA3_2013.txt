@@ -1,0 +1,114 @@
+Erro: 1
+Offset 3895, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquida
+...os.,..,Receita Bruta Total..,..,Receita Liquida Total..,..,EBITDA Ajustado(.).,..,Marge...
+                                           ^^^^^^^
+Erro: 2
+Offset 4912, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+..., maior que o apresentado no T.  No ano de  a receita atingiu R , bilhão, crescimento...
+                                           ^^^^^
+Erro: 3
+Offset 11130, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...possibilidades de sinergias comerciais, como por exemplo, a oferta de novos serviços para os cli...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 14613, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...m num patamar bastante elevado, fazendo de  o melhor ano da história do setor. Segund...
+                                           ^^^^^
+Erro: 5
+Offset 16564, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...iciência operacional.   Em , aumentamos em  a nossa área de armazenagem coberta, que ...
+                                           ^^^^^
+Erro: 6
+Offset 17978, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ao mesmo tempo,
+...denciam a capturar essas oportunidades, ao mesmo tempo em que manteremos a nossa estratégia de...
+                                           ^^^^^^^^^^^^^^
+Erro: 7
+Offset 18771, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ercício social findo em .  Em  de junho de  a Moody‘s divulgou relatório comunicando ...
+                                           ^^^^^
+Erro: 8
+Offset 4588, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...ço dos principais insumos da companhia (como por exemplo, combustível, pessoal, manutenção, entr...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 6636, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: práticas
+...do auditor.  Não existiram mudanças nas praticas contábeis em relação ao exercício findo...
+                                           ^^^^^^^^
+Erro: 10
+Offset 6777, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: práticas
+...m efeitos proveniente de alterações das praticas contábeis nas demonstrações financeiras...
+                                           ^^^^^^^^
+Erro: 11
+Offset 10150, length 42, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou segregados em parcela de curto prazo, ou
+...assificados como de curto e longo prazo ou segregados em parcela de curto prazo ou de longo prazo com base em uma avaliaçã...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 11833, length 123, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou no consumo esperado dos benefícios econômicosfuturos desses ativos são contabilizadas por meio de mudanças no período, ou
+... social. Mudanças na vida útil estimada ou no consumo esperado dos benefícios econômicosfuturos desses ativos são contabilizadas por meio de mudanças no período ou método de amortização, conforme o caso,...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 16411, length 25, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: lançados, em contrapartida
+...dos os outros reparos e manutenções são lançados em contrapartida ao resultado do exercício, quando incor...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 14
+Offset 18894, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...e obrigações similares, a probabilidade de a Companhia e de suas Controladas liquidá...
+                                           ^^^^
+Erro: 15
+Offset 366, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos assuntos ou decisões de tribunais.   Passivos conti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 16
+Offset 3544, length 49, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja provável que a diferença temporária não, seja
+...mpanhia e suas Controladas, e desde que seja provável que a diferença temporária não seja revertida em um futuro previsível.  Os ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 17
+Offset 3806, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em geral,
+...o da apuração dos tributos competentes, em geral quando relacionado com a mesma entidade...
+                                           ^^^^^^^^
+Erro: 18
+Offset 6016, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: exercício, em contrapartida
+...hece, quando aplicável, no resultado do exercício em contrapartida do patrimônio líquido o efeito decorren...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 19
+Offset 15946, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou permitido por outras normas IFRS, ou
+... aplicálo quando seu uso já é requerido ou permitido por outras normas IFRS ou US GAAP. A Companhia e suas Controladas...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

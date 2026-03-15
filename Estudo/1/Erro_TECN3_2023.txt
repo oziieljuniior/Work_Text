@@ -1,0 +1,42 @@
+Erro: 1
+Offset 8780, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...equivalentes de caixa.  Em  de dezembro de  a dívida líquida da Companhia totalizou R...
+                                           ^^^^^
+Erro: 2
+Offset 17200, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...e.  No encerramento do exercício social de  a receita bruta do Grupo Technos atingiu ...
+                                           ^^^^^
+Erro: 3
+Offset 1869, length 15, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, Entretanto
+...ia    TECHNOS S.A.  Versão :   PÁGINA:  de   Entretanto, a receita auferida por pessoa jurídica...
+                                           ^^^^^^^^^^^^^^^
+Erro: 4
+Offset 6475, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: e, por outro lado
+...to do dólar médio do estoque mais alto  e por outro lado, a boa gestão de obsolescência de estoq...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 15326, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...iamento foi de R , milhões em  enquanto em  a Companhia aplicou R , mil.  Caixa líqui...
+                                           ^^^^^
+Erro: 6
+Offset 6832, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+...s dois últimos exercícios.   c) Eventos ou operações não usuais  Não houve eventos ou operação não usuais realizadas pela Com...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 14641, length 61, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de reserva de lucros existentes no último balanço anual, ou
+...rmediários à conta de lucros acumulados ou de reserva de lucros existentes no último balanço anual ou semestral. Foi aprovada, “ad referendum...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

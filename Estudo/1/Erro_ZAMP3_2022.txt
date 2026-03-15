@@ -1,0 +1,42 @@
+Erro: 1
+Offset 1804, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: contínua
+...ades da Companhia, objetivando melhoria continua das práticas de gestão de riscos, contr...
+                                           ^^^^^^^^
+Erro: 2
+Offset 4379, length 27, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou intranet da Companhia, ou
+...Companhia podem ser acessados pelo site ou intranet da Companhia ou call center (pelo telefone ), com dispo...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 9891, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: restaurantes, Além disso
+...Free Standing    Franqueado    Total de restaurantes    Além disso, considerando os  restaurantes próprios...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 4184, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...e cada mês, durante o período de  março de  a  de março de , e mensalmente durante o ...
+                                           ^^^^^
+Erro: 5
+Offset 5057, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...a mês, durante o período de  de janeiro de  a  de janeiro de , e mensalmente durante ...
+                                           ^^^^^
+Erro: 6
+Offset 11809, length 8, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: cláusula
+...repactuada em CDI  , a.m. e alterando a clausula restritiva em relação a índices finance...
+                                           ^^^^^^^^
+Erro: 7
+Offset 16130, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...erência    ZAMP SA  Versão :   PÁGINA:  de   os efeitos do CPC (R)IFRS conforme critéri...
+                                           ^^^^^^^

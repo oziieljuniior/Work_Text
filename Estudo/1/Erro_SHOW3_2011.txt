@@ -1,0 +1,42 @@
+Erro: 1
+Offset 14800, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou desvalorização do Peso Argentino, ou
+...concluímos que uma eventual valorização ou desvalorização do Peso Argentino ou do Peso Chileno poderá impactar as noss...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 15336, length 20, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: liquidez, Além disso
+...ncerrado em  de dezembro de .  Risco de liquidez  Além disso, estamos constantemente monitorando o r...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 15641, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...NTRETENIMENTO S.A.  Versão :   PÁGINA:  de   a. riscos para os quais se busca proteção...
+                                           ^^^^^^
+Erro: 4
+Offset 18681, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...NTRETENIMENTO S.A.  Versão :   PÁGINA:  de   a. Resultados das operações do emissor, e...
+                                           ^^^^^^
+Erro: 5
+Offset 7668, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...NTRETENIMENTO S.A.  Versão :   PÁGINA:  de   a. Introdução ou alienação de segmento op...
+                                           ^^^^^^
+Erro: 6
+Offset 8957, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...NTRETENIMENTO S.A.  Versão :   PÁGINA:  de   a. Mudanças significativas nas práticas c...
+                                           ^^^^^^
+Erro: 7
+Offset 3352, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: vínculo
+...os provisão. Entretanto, com relação ao vinculo com a empresa CIE Internacional, consti...
+                                           ^^^^^^^

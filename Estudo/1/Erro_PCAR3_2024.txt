@@ -1,0 +1,42 @@
+Erro: 1
+Offset 8154, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: pública
+...s operacionais, em linha com a projeção publica de margem EBITDA Ajustado entre  e  em ...
+                                           ^^^^^^^
+Erro: 2
+Offset 12582, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...rculante:    Consolidado    Ano  Em     De  a  anos  . De  a  anos  . De  a  anos   D...
+                                           ^^^^^
+Erro: 3
+Offset 12597, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...nsolidado    Ano  Em     De  a  anos  . De  a  anos  . De  a  anos   De  a  anos   Ap...
+                                           ^^^^^
+Erro: 4
+Offset 14525, length 29, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Arrendamento, em contrapartida
+...início do arrendamento, como Passivo de Arrendamento em contrapartida ao Direito de Uso, ambos descontados a ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 15973, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+... Aluguel  Consolidado    Em  Até  ano   De  a  anos  . Mais de  anos  .    Valor pres...
+                                           ^^^^^
+Erro: 6
+Offset 11090, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...s no ativo circulante.   Em  de outubro de  o Conselho de Administração do GPA aprovo...
+                                           ^^^^^
+Erro: 7
+Offset 13165, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Contudo, testes
+...ntivos não estão operando efetivamente. Contudo testes e revisões adicionais foram realizadas ...
+                                           ^^^^^^^^^^^^^^

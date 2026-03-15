@@ -1,0 +1,60 @@
+Erro: 1
+Offset 8052, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: pública
+...s operacionais, em linha com a projeção publica de margem EBITDA ajustada entre  e  em ...
+                                           ^^^^^^^
+Erro: 2
+Offset 13432, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...Mercantil”.  AnoConsolidadoDe  a  anos..De  a  anos..De  a  anos..De  a  anos.Após  a...
+                                           ^^^^^
+Erro: 3
+Offset 13445, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...AnoConsolidadoDe  a  anos..De  a  anos..De  a  anos..De  a  anos.Após  anosSubtotal.....
+                                           ^^^^^
+Erro: 4
+Offset 13458, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...oDe  a  anos..De  a  anos..De  a  anos..De  a  anos.Após  anosSubtotal..Custos de cap...
+                                           ^^^^^
+Erro: 5
+Offset 14504, length 29, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Arrendamento, em contrapartida
+...início do arrendamento, como Passivo de Arrendamento em contrapartida ao Direito de Uso, ambos descontados a ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 17422, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...                                        De  a  anos.                                 ...
+                                           ^^^^^
+Erro: 7
+Offset 14701, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Portanto, desde
+...trega de  do total de lojas ao Assaí.   Portanto desde o primeiro trimestre de , o ganho líqui...
+                                           ^^^^^^^^^^^^^^
+Erro: 8
+Offset 16651, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ximadamente  no Éxito.  Em  de dezembro de  a Companhia apresentou o pedido de regist...
+                                           ^^^^^
+Erro: 9
+Offset 5930, length 36, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou recebimento de valor monetário, ou
+...dos neste documento referemse à: oferta ou recebimento de valor monetário ou equivalentes, pagamentos de facilitação...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 8209, length 24, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: colaboradores, na prática
+... procedimentos a serem observados pelos colaboradores na prática de receber e oferecer brindes, presente...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^

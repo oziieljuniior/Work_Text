@@ -1,0 +1,42 @@
+Erro: 1
+Offset 1931, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...mandas dos mercados em que atua, no ano de  a Companhia registrou um recuo de , da Re...
+                                           ^^^^^
+Erro: 2
+Offset 9761, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...ntoEm até  meses....De  meses a  ano....De  a  anos....De  a  anos....Acima de  anos....
+                                           ^^^^^
+Erro: 3
+Offset 9776, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...s....De  meses a  ano....De  a  anos....De  a  anos....Acima de  anos....Total de Emp...
+                                           ^^^^^
+Erro: 4
+Offset 17205, length 24, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo, impacto
+...ipalmente com base em fatores externos, como por exemplo impacto no cenário econômico.  . Descrição dos ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 17657, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...tividade de auditoria independente  Não houveram deficiências e recomendações presentes ...
+                                           ^^^^^^^^
+Erro: 6
+Offset 18383, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...nduta  A Companhia implantou em janeiro de  o código de ética e conduta, aprovado pel...
+                                           ^^^^^
+Erro: 7
+Offset 19653, length 110, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou aumento na exposição do emissor a tais riscos Não houve alterações significativas nos principais riscos, ou
+...inda, eventuais expectativas de redução ou aumento na exposição do emissor a tais riscos  Não houve alterações significativas nos principais riscos ou na política de gerenciamento de riscos,...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

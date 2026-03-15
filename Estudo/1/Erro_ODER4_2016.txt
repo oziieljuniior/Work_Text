@@ -1,0 +1,42 @@
+Erro: 1
+Offset 10589, length 7, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: término
+... custos financeiros, fizeram com que ao termino do exercício de , a empresa nãotenha co...
+                                           ^^^^^^^
+Erro: 2
+Offset 12252, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: fábricas
+...ia do desempenho operacional das nossas fabricas, deforma mais econômica e eficiente.Est...
+                                           ^^^^^^^^
+Erro: 3
+Offset 14642, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...lS.A.Cap. GiroUSdezVariação Cambial Jrs de  a  aa...Banco Santander S.A.Cap. GiroUSab...
+                                           ^^^^^
+Erro: 4
+Offset 14709, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... S.A.Cap. GiroUSabrVariação Cambial Jrs de  a , aa...Banco Bradesco S.A.Cap. GiroUSju...
+                                           ^^^^^
+Erro: 5
+Offset 14848, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... S.A.Cap. GiroUSjulVariação Cambial Jrs de  a  aa..Banco Citibank S.A.Cap. GiroUSnovV...
+                                           ^^^^^
+Erro: 6
+Offset 97, length 7, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: término
+... custos financeiros, fizeram com que ao termino do exercício de , a empresa nãotenha co...
+                                           ^^^^^^^
+Erro: 7
+Offset 2044, length 7, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: término
+... custos financeiros, fizeram com que ao termino do exercício de , a empresa nãotenha co...
+                                           ^^^^^^^

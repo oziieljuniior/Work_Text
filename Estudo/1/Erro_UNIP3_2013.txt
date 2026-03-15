@@ -1,0 +1,150 @@
+Erro: 1
+Offset 5041, length 14, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: esses riscos são; esses riscos, é
+...os e gerimos de forma adequada e eficaz esses riscos é crucial para a nossa lucratividade.  A ...
+                                           ^^^^^^^^^^^^^^
+Erro: 2
+Offset 13800, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...s aportados em  de junho de , sendo que em  o índice caiu para ,, a redução do índice...
+                                           ^^^^^
+Erro: 3
+Offset 15374, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+... , o índice de liquidez geral era de ,, em  o mesmo índice apresentou uma pequena red...
+                                           ^^^^^
+Erro: 4
+Offset 15780, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... curto, como no longo prazo, no período de  a  a Companhia faz frente às obrigações a...
+                                           ^^^^^
+Erro: 5
+Offset 17214, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...ção de nossas disponibilidades de caixa em nível que acreditamos apropriado para o desem...
+                                           ^^^^^^^^
+Erro: 6
+Offset 609, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...al líquida:   A receita líquida atingiu em  o valor de R , milhões, sendo que em  evo...
+                                           ^^^^^
+Erro: 7
+Offset 700, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+... passando ao patamar de R , milhões, já em  a evolução foi de  fechando o exercício e...
+                                           ^^^^^
+Erro: 8
+Offset 935, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...(mesma variação da receita líquida), já em  o CPV foi de R , milhões, apresentando um...
+                                           ^^^^^
+Erro: 9
+Offset 1095, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...scendo  em  para o valor de R ,, no ano de  a evolução foi de , com um resultado brut...
+                                           ^^^^^
+Erro: 10
+Offset 1252, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...am a mesma margem de , sendo que no ano de  a margem bruta evoluiu para .  EBITDA:  O...
+                                           ^^^^^
+Erro: 11
+Offset 1367, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...s, sendo que em  foi de R , milhões, já em  o EBITDA foi de R , milhões, com a margem...
+                                           ^^^^^
+Erro: 12
+Offset 4331, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...omo receita financeira. Em  de dezembro de  a Companhia mantinha R , milhões (R , mil...
+                                           ^^^^^
+Erro: 13
+Offset 4916, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...execução fiscal de excontrolada. No ano de  o saldo evolui para R , milhões, essa evo...
+                                           ^^^^^
+Erro: 14
+Offset 5376, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...saldo de R, milhões, já em  de dezembro de  o saldo era de R , milhões, representado ...
+                                           ^^^^^
+Erro: 15
+Offset 11102, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+... de , milhões (julho a dez), sendo que, em  o resultado de equivalência da coligada, ...
+                                           ^^^^^
+Erro: 16
+Offset 11773, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...iar fortemente a receita da Companhia.  Em  a Carbocloro teve um aumento no volume do...
+                                           ^^^^^
+Erro: 17
+Offset 14905, length 75, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou diminuído pelo reconhecimento da participação da Companhia nos lucros, ou
+...rmente o seu valor contábil é aumentado ou diminuído pelo reconhecimento da participação da Companhia nos lucros ou prejuízos do período, gerados pelas inv...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 18
+Offset 15059, length 63, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou prejuízo do período das investidas é reconhecida no lucro, ou
+...vestidas. A parte da Companhia no lucro ou prejuízo do período das investidas é reconhecida no lucro ou prejuízo do período. As distribuições r...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 19
+Offset 3991, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Na prática,
+...iquidação duvidosa “PCLD” (impairment). Na prática são reconhecidas ao valor faturado (val...
+                                           ^^^^^^^^^^
+Erro: 20
+Offset 8090, length 25, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: lançados, em contrapartida
+...dos os outros reparos e manutenções são lançados em contrapartida ao resultado do exercício, quando incor...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 21
+Offset 11705, length 53, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja provável que uma parte ou todo o empréstimo, seja
+...da transação do empréstimo, uma vez que seja provável que uma parte ou todo o empréstimo seja sacado. Nesse caso, a taxa é diferida a...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 22
+Offset 15247, length 49, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja provável que a diferença temporária não, seja
+... controlado pela Companhia, e desde que seja provável que a diferença temporária não seja revertida em um futuro previsível.  Os ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 23
+Offset 17193, length 10, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: referência
+...futuras estimadas de caixa, usando como referencia taxas de juros de títulos de longo praz...
+                                           ^^^^^^^^^^
+Erro: 24
+Offset 2190, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...s são incorporados às contas a receber, em contrapartida de receita financeira. Essa receita fin...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 25
+Offset 9224, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: pública
+...e   . Caso o emissor tenha feito oferta publica de distribuição de valores mobiliários,...
+                                           ^^^^^^^

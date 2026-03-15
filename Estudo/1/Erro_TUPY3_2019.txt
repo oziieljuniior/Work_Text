@@ -1,0 +1,162 @@
+Erro: 1
+Offset 2809, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+... item . deste Formulário de Referência, como por exemplo:   Falhas nos equipamentos, atrasos na...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 2876, length 106, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou perdas inesperadas em qualquer das instalações da Companhia podem levar a restrições em sua produção, ou
+... nos equipamentos, atrasos nas entregas ou perdas inesperadas em qualquer das instalações da Companhia podem levar a restrições em sua produção ou serviços ou ao encerramento de suas ati...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 4065, length 28, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou na condição financeira, ou
+...hia com seus distribuidores principais, ou na condição financeira ou no desempenho destes podem afetar adver...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 18166, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...ulante) de , em , , em  e , em .  Em  e em  a Companhia identificou retomada em algum...
+                                           ^^^^^
+Erro: 5
+Offset 7378, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...zembro de . Durante os exercícios de  e de  a Companhia não efetuou captações. Em  fo...
+                                           ^^^^^
+Erro: 6
+Offset 8262, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...es financeiras de médio e grande porte, em nível que acredita apropriado para o desempen...
+                                           ^^^^^^^^
+Erro: 7
+Offset 9555, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...stimos e financiamentos de longo prazo. Em  o total do endividamento bancário era de ...
+                                           ^^^^^
+Erro: 8
+Offset 11952, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...te: (a) Senior Unsecured Notes Em julho de  a Companhia concluiu a emissão de títulos...
+                                           ^^^^^
+Erro: 9
+Offset 12781, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...  Préembarque (PSI) Durante o exercício de  a Companhia amortizou integralmente o sal...
+                                           ^^^^^
+Erro: 10
+Offset 15050, length 33, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou consolidações com terceiros, ou
+...enção das atividades produtivas, fusões ou consolidações com terceiros ou qualquer alienação de todo ou parte sub...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 1091, length 7, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: acúmulo
+... brasileiro e consequente diminuição do acumulo de créditos, no entanto ainda é insufic...
+                                           ^^^^^^^
+Erro: 12
+Offset 1112, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: no entanto,
+...ente diminuição do acumulo de créditos, no entanto ainda é insuficiente para neutralizar a...
+                                           ^^^^^^^^^^
+Erro: 13
+Offset 3007, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ficou créditos extemporâneos do período de  a  que não foram apurados quando do cálcu...
+                                           ^^^^^
+Erro: 14
+Offset 10732, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nos”?
+Suggestion: Nos
+... mais como custo dos produtos vendidos. Em  os impactos são da ordem de R. (R. em ). A...
+                                           ^^^^^^
+Erro: 15
+Offset 11524, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...o de , devese principalmente:  Em maio de  a Companhia iniciou processo de restrutur...
+                                           ^^^^^
+Erro: 16
+Offset 17994, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...são :   PÁGINA:  de       iii. Estoques Em  a valorização dos estoques foi fortemente...
+                                           ^^^^^
+Erro: 17
+Offset 2079, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “ao”?
+Suggestion: ao
+...de     iii. Intangível Quando comparado a  o saldo de intangível em  de dezembro de ...
+                                           ^^^^
+Erro: 18
+Offset 3080, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “ao”?
+Suggestion: ao
+...rculante  i. Fornecedores Em comparação a  o saldo de fornecedores cresceu , em funç...
+                                           ^^^^
+Erro: 19
+Offset 12438, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “ao”?
+Suggestion: ao
+... de     ix. Intangível Quando comparado a  o saldo de intangível em  de dezembro de ...
+                                           ^^^^
+Erro: 20
+Offset 13432, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “ao”?
+Suggestion: ao
+...rculante  i. Fornecedores Em comparação a  o saldo de fornecedores cresceu , em funç...
+                                           ^^^^
+Erro: 21
+Offset 5159, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...   Para as receitas o mercado externo, em  o aumento foi de , quando comparado a . E...
+                                           ^^^^^
+Erro: 22
+Offset 13030, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ucata) foram estimados. Em  de dezembro de  o modelo demonstrou que o valor recuperáv...
+                                           ^^^^^
+Erro: 23
+Offset 13646, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...lizado em  de dezembro de . Em setembro de  a Companhia alienou sua operação de venda...
+                                           ^^^^^
+Erro: 24
+Offset 13974, length 48, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não ocorreram eventos, ou
+...os três exercícios sociais. (c) Eventos ou operações não usuais Não ocorreram eventos ou operações não usuais nos últimos três e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 25
+Offset 15928, length 21, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: for a mês; forem a meses; formos a meses
+...ulante, quando o vencimento do contrato for superior a  meses. ii. IFRS  – Instrumentos financeiros (...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 26
+Offset 9370, length 36, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou mais eventos futuros ocorrerem, ou
+...ontingências serão resolvidas quando um ou mais eventos futuros ocorrerem ou deixarem de ocorrer. Tipicamente, a oco...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 27
+Offset 12463, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ência    TUPY S.A.  Versão :   PÁGINA:  de     a) Os ativos e passivos detidos pela Comp...
+                                           ^^^^^^^^

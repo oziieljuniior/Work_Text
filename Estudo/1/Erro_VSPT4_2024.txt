@@ -1,0 +1,90 @@
+Erro: 1
+Offset 5315, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...tante de R .. (  R ..). Ao longo do ano de  a FCA emitiu uma Debenture de R  milhões ...
+                                           ^^^^^
+Erro: 2
+Offset 16178, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...das no exercício. Prejuízo do exercício Em  a empresa apurou um prejuízo de R , milhõ...
+                                           ^^^^^
+Erro: 3
+Offset 7237, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...ens supracitados. Prejuízo do exercício Em  a empresa apurou um prejuízo de R ., milh...
+                                           ^^^^^
+Erro: 4
+Offset 12127, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nos”?
+Suggestion: Nos
+...nceiro da Companhia, quando relevante.  Em  os negócios da Companhia foram desenvolvid...
+                                           ^^^^^^
+Erro: 5
+Offset 13072, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...R ,  Diesel (RL) R , R , R ,   Inflação Em  o índice de inflação no Brasil retornou p...
+                                           ^^^^^
+Erro: 6
+Offset 13674, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...adas dos clientes, protegendo a receita liquida. Taxa de Juros O resultado financeiro d...
+                                           ^^^^^^^
+Erro: 7
+Offset 13893, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Em geral,
+...nciamentos e debêntures de longo prazo. Em geral as dívidas da FCA estão expostas ao CDI...
+                                           ^^^^^^^^
+Erro: 8
+Offset 18204, length 24, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: nem o lucro contábil, nem
+... combinação de negócios e que não afeta nem o lucro contábil nem o lucro tributável.  Após as alterações...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 4588, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ácia do hedge não se enquadrar na faixa de  a  e a relação de hedge estiver sujeita a...
+                                           ^^^^^
+Erro: 10
+Offset 4879, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...cia retrospectiva estiver fora da faixa de  a . A Companhia continuará a aplicar as a...
+                                           ^^^^^
+Erro: 11
+Offset 7077, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: em, ou antes
+...ava os pagamentos originalmente devidos em ou antes de  de junho de .  Em março de , o Boar...
+                                           ^^^^^^^^^^^
+Erro: 12
+Offset 7317, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: em, ou antes
+... esses pagamentos originalmente devidos em ou antes de  de junho de . No exercício social c...
+                                           ^^^^^^^^^^^
+Erro: 13
+Offset 11450, length 15, Rule ID: À_MEDIDA_EM_QUE
+Message: Substitua por “à medida que”.
+Suggestion: à medida que
+...s benefícios fiscais que esta faça jus, à medida em que esta apurar lucros tributáveis, até o l...
+                                           ^^^^^^^^^^^^^^^
+Erro: 14
+Offset 14514, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...al) (,)  , Margem EBITDA ( de receita)  a    a  Taxa de desconto nominal   ,  ,  O vol...
+                                           ^^^^^^
+Erro: 15
+Offset 1148, length 92, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou arbitrais Não existem restrições à distribuição de dividendos impostas por legislação, ou
+...os, decisões judiciais, administrativas ou arbitrais  Não existem restrições à distribuição de dividendos impostas por legislação ou regulamento especialmente aplicável à n...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

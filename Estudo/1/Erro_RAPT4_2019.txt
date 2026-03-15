@@ -1,0 +1,114 @@
+Erro: 1
+Offset 2495, length 7, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: Ao nível
+...tamente à Diretoria e Comitê Executivo. A nível de Presidência das Empresas Randon, cab...
+                                           ^^^^^^^
+Erro: 2
+Offset 9529, length 7, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: Ao nível
+... os colaboradores das Empresas Randon.  A nível de Presidência das Empresas Randon, cab...
+                                           ^^^^^^^
+Erro: 3
+Offset 16297, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretou
+...orridas na expedição da Companhia o que acarretou em falhas no controle dos estoques. Ao rea...
+                                           ^^^^^^^^^^^^
+Erro: 4
+Offset 18360, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretou
+...ado na controladora Frasle S.A.), o que acarretou na posterior invalidação do procedimento d...
+                                           ^^^^^^^^^^^^
+Erro: 5
+Offset 834, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...amostra de  usuários criados no período de  a  (população = ) nos sistemas SAP ECP eo...
+                                           ^^^^^
+Erro: 6
+Offset 1800, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...igados da Randon Implementos no período de  a  (população = ) nos sistemas SAP ECP eo...
+                                           ^^^^^
+Erro: 7
+Offset 6066, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: que, em geral
+...izados de forma manualnão automatizada, que em geral, envolvem julgamento crítico por parte ...
+                                           ^^^^^^^^^^^^
+Erro: 8
+Offset 14616, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+... Live para o sistema Spark (fevereiro), houveram dificuldades de realização e registro d...
+                                           ^^^^^^^^
+Erro: 9
+Offset 15337, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+... Live para o sistema Spark (fevereiro), houveram dificuldades de realização e registro d...
+                                           ^^^^^^^^
+Erro: 10
+Offset 16117, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...xecutamos na primeira semana de janeiro de  o inventário geral do Almoxarifado  (Expe...
+                                           ^^^^^
+Erro: 11
+Offset 1551, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+... Live para o sistema Spark (fevereiro), houveram dificuldades de realização e registro d...
+                                           ^^^^^^^^
+Erro: 12
+Offset 3209, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+... Live para o sistema Spark (fevereiro), houveram dificuldades de realização e registro d...
+                                           ^^^^^^^^
+Erro: 13
+Offset 5211, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: ., Além disso
+...a) do Comitê de Arquitetura e Governança. Além disso, será alinhado com a TIVIT para que tod...
+                                           ^^^^^^^^^^^^
+Erro: 14
+Offset 10017, length 17, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: a Companhia detém; a Companhia, detêm
+...sórias e cartas fiança. Adicionalmente, a Companhia detêm contratos de financiamentos no valor de...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 15
+Offset 11204, length 17, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: a Companhia detém; a Companhia, detêm
+... há notas promissórias. Adicionalmente, a Companhia detêm contratos de financiamentos no valor de...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 16
+Offset 18942, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...   RANDONCORP S.A.  Versão :   PÁGINA:  de   a. Introdução ou alienação de segmento op...
+                                           ^^^^^^
+Erro: 17
+Offset 4458, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...   RANDONCORP S.A.  Versão :   PÁGINA:  de   a. Mudanças significativas nas práticas c...
+                                           ^^^^^^
+Erro: 18
+Offset 4958, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...la Companhia. CPC IFRS  Em º de janeiro de  a Companhia adotou o CPC IFRS . Ele orien...
+                                           ^^^^^
+Erro: 19
+Offset 12359, length 50, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou sempre que houver qualquer evidência interna, ou
+...tua teste de recuperação de seus ativos ou sempre que houver qualquer evidência interna ou externa que o ativo possa apresentar pe...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

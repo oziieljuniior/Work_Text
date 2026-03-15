@@ -1,0 +1,66 @@
+Erro: 1
+Offset 3036, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: porém, não
+...das a vencimento antecipado, incluindo, porém não limitadas, àquelas que obrigam a Compan...
+                                           ^^^^^^^^^
+Erro: 2
+Offset 16493, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...INVESTIMENTOS S.A.  Versão :   PÁGINA:  de   o cliente. Outrossim, os diretores entend...
+                                           ^^^^^^
+Erro: 3
+Offset 12193, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...Hapvida. (iv) Premium Saúde Em novembro de  a Companhia celebrou, por meio de sua sub...
+                                           ^^^^^
+Erro: 4
+Offset 17342, length 50, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais com relação à Companhia, ou
+...s exercícios sociais, quaisquer eventos ou operações não usuais com relação à Companhia ou suas atividades que não tenham sido rep...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 7343, length 33, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: seus efeitos automaticamente casam; seus efeitos, automaticamente caso
+...o tributária de trato sucessivo), perde seus efeitos automaticamente caso o STF se pronuncie, posteriormente, em ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 7783, length 47, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja desconstituída e o respectivo tributo, seja
+...que, nos casos em que uma coisa julgada seja desconstituída e o respectivo tributo seja considerado devido, devem ser respeitad...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 8748, length 15, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: então; portanto
+...do tributo (Decisão ISS Hapvida). Desde então, portanto, a Operadora Hapvida não vem realizando...
+                                           ^^^^^^^^^^^^^^^
+Erro: 8
+Offset 17572, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...maior que ; ➢ Alta: Quadrimestralmente  de  a ; ➢ Média: Semestralmente  de  a ; ➢ Ba...
+                                           ^^^^^
+Erro: 9
+Offset 17605, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...mente  de  a ; ➢ Média: Semestralmente  de  a ; ➢ Baixa: Anual  de  a ; ➢ Muito Baixa...
+                                           ^^^^^
+Erro: 10
+Offset 17629, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...Semestralmente  de  a ; ➢ Baixa: Anual  de  a ; ➢ Muito Baixa: Bienal  menor que .  •...
+                                           ^^^^^
+Erro: 11
+Offset 5825, length 7, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...e Riscos e Controles Internos, que atua a nível gerencial através da Gerência de Gestão...
+                                           ^^^^^^^

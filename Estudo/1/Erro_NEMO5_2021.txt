@@ -1,0 +1,12 @@
+Erro: 1
+Offset 11451, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...bleia Geral Extraordinária de  de abril de  a controlada da Companhia, anteriormente ...
+                                           ^^^^^
+Erro: 2
+Offset 17509, length 60, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de segmento operacional Não houve introdução, ou
+...resultados da Companhia:  a) Introdução ou alienação de segmento operacional Não houve introdução ou alienação de segmento operacional no pe...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

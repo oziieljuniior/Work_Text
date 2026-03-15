@@ -1,0 +1,30 @@
+Erro: 1
+Offset 15249, length 8, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: cláusula
+...repactuada em CDI  , a.m. e alterando a clausula restritiva em relação a índices finance...
+                                           ^^^^^^^^
+Erro: 2
+Offset 12631, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...aluguéis de R, milhões. Em  de dezembro de  a Companhia registrou R, milhões, enquant...
+                                           ^^^^^
+Erro: 3
+Offset 17441, length 11, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: específicas
+...ria e estratégia, que incluem campanhas especificas, e descontos promocionais como cupons f...
+                                           ^^^^^^^^^^^
+Erro: 4
+Offset 7756, length 44, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+... acionária pela Companhia.  (c) eventos ou operações não usuais Não houve eventos ou operações não usuais com efeitos releva...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 14284, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nas”?
+Suggestion: nas
+...ter e reúso de água) até ; e f) Reduzir em  as emissões de gases de efeito estufa em n...
+                                           ^^^^^^

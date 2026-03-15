@@ -1,0 +1,48 @@
+Erro: 1
+Offset 1147, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...confiabilidade dos serviços prestados.  Em  a receita líquida atingiu R . milhões, cr...
+                                           ^^^^^
+Erro: 2
+Offset 9836, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: IFRS, pois
+...o, estes estão fora do alcance da CPC   IFRS  pois não há risco de seguro e, por isso, ser...
+                                           ^^^^^^^^^^
+Erro: 3
+Offset 19112, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: mesma, pois
+...e alterações significativas no valor da mesma pois, nos períodos analisados, dado a políti...
+                                           ^^^^^^^^^^
+Erro: 4
+Offset 13122, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+...  Versão :   PÁGINA:  de     c) Eventos ou operações não usuais  Não houve eventos ou operações não usuais no exercício socia...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 1364, length 8, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: a título
+...ãoOs acionistas terão direito a receber a titulo de dividendos, em cada exercicio, um pe...
+                                           ^^^^^^^^
+Erro: 6
+Offset 1700, length 8, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: a título
+...s.Os acionistas terão direito a receber a titulo de dividendos, em cada exercicio, um pe...
+                                           ^^^^^^^^
+Erro: 7
+Offset 2036, length 8, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: a título
+...s.Os acionistas terão direito a receber a titulo de dividendos, em cada exercicio, um pe...
+                                           ^^^^^^^^
+Erro: 8
+Offset 17904, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...   ODONTOPREV S.A.  Versão :   PÁGINA:  de    a. as principais práticas de controles in...
+                                           ^^^^^^^

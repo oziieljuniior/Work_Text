@@ -1,0 +1,18 @@
+Erro: 1
+Offset 3005, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+... norma a não exposição de seus passivos e ou ativos a descasamento de moedas, haja v...
+                                           ^^^^
+Erro: 2
+Offset 9143, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...levantamento de créditos extemporâneos, de  a . Outras Contas a receber:  O valor a r...
+                                           ^^^^^
+Erro: 3
+Offset 9882, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+... desse segmento.  Resultado Financeiro: Em  a Companhia apresentou saldo negativo de ...
+                                           ^^^^^

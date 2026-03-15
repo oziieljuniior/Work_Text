@@ -1,0 +1,42 @@
+Erro: 1
+Offset 3735, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...riscos  relacionados  à  instabilidade  e  ou  indisponibilidade  do  ambiente  de  t...
+                                           ^^^^^
+Erro: 2
+Offset 12033, length 46, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou sempre que proposto pela Diretoria, ou
+...i)  validar,  por  iniciativa  própria  ou  sempre  que  proposto  pela  Diretoria  ou  pelo  Comitê  de  Auditoria,  as  ques...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 18565, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...  de  amortização.  Em    de  dezembro  de    o  custo  médio  ponderado  da  dívida  e...
+                                           ^^^^^^^
+Erro: 4
+Offset 13015, length 13, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: foram devidos; foi devido; fora devido
+...    e  ,  onde  os  principais  pontos  foram  devido:  (i)  adiantamento  por  conta  de  im...
+                                           ^^^^^^^^^^^^^
+Erro: 5
+Offset 2213, length 13, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: foram devidos; foi devido; fora devido
+...    e  ,  onde  os  principais  pontos  foram  devido:  à  redução  de  R,  milhões  em  adia...
+                                           ^^^^^^^^^^^^^
+Erro: 6
+Offset 7656, length 11, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarreta
+...a.a.;  : Inflação  a.a. = ,a.a.), o que acarreta em uma redução do passivo atuarial.  i..  ...
+                                           ^^^^^^^^^^^
+Erro: 7
+Offset 17127, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+... em  de dezembro de ,  e .  c.  eventos ou operações não usuais  Não houve eventos ou operações não usuais relevantes nos exe...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

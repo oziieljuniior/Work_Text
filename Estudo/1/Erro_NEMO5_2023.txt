@@ -1,0 +1,30 @@
+Erro: 1
+Offset 3608, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...tado e de fluxo de caixa   No exercício de  a Companhia (i) pagou dividendos intermed...
+                                           ^^^^^
+Erro: 2
+Offset 3983, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...or de R  mil.  Além disso, no exercício de  a Companhia concedeu mútuos a sua empresa...
+                                           ^^^^^
+Erro: 3
+Offset 7315, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+...de participação societária.  c. eventos ou operações não usuais  Não houve eventos ou operações não usuais.  . Efeitos releva...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 15408, length 62, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de reservas de lucros existentes no último balanço anual, ou
+...ermediário à conta de lucros acumulados ou de reservas de lucros existentes no último balanço anual ou semestral, por conta do dividendo anual...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 4440, length 15, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, Além disso
+...UZANO HOLDING S.A.  Versão :   PÁGINA:  de   Além disso, a Suzano S.A. possui limite de hedge e...
+                                           ^^^^^^^^^^^^^^^

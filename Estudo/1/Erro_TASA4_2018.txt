@@ -1,0 +1,84 @@
+Erro: 1
+Offset 4144, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: prática
+...nanceiras  a  Companhia  utiliza  como  pratica  a  revisão  de lançamentos  contábeis,...
+                                           ^^^^^^^
+Erro: 2
+Offset 4583, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...roles, estas são tratadas primeiramente em nível operacional; num segundo momento, áreas...
+                                           ^^^^^^^^
+Erro: 3
+Offset 12652, length 11, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarreta
+...falta de atendimento ao disposto acima, acarreta em registro e apresentação incorretos nas ...
+                                           ^^^^^^^^^^^
+Erro: 4
+Offset 13525, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...s  Situação observada Identificamos que em  a Administração passou a efetuar análise ...
+                                           ^^^^^
+Erro: 5
+Offset 14270, length 11, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarreta
+...a de aderência aos critérios do CPC (R) acarreta no reconhecimento e contabilização indevid...
+                                           ^^^^^^^^^^^
+Erro: 6
+Offset 17109, length 25, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: suas notas explicativas são; suas notas explicativas, é
+...aboração de demonstrações financeiras e suas notas explicativas é moroso e suscetível a erros, compromete...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 18170, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+...provação e homologação em mudanças pode acarretar no risco de implementação de modificações ...
+                                           ^^^^^^^^^^^^
+Erro: 8
+Offset 1999, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: por exemplo,
+...endas que não transitem pela logística, por exemplo aços ou peças vendidas a fornecedores, ...
+                                           ^^^^^^^^^^^
+Erro: 9
+Offset 2395, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+...o controle e identificação rápida, pode acarretar em desconforto com autoridades locais e in...
+                                           ^^^^^^^^^^^^
+Erro: 10
+Offset 19996, length 4, Rule ID: FORMAL_PRA_PARA
+Message: Em contextos mais formais, prefira “para”.
+Suggestion: para os
+...am o exercícioda cidadania.b) induzir a pros
+                                           ^^^^
+Erro: 11
+Offset 4304, length 36, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou utilizála em benefício próprio, ou
+...URUS ao mercado, bem como não divulgála ou utilizála em benefício próprio ou de outros, observado o Manual de Condut...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 5037, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: câmbio
+..., a.a.  .  .  .  .      Adiantamento de cambio USD , a.a.  .  .  .  .      Capital de ...
+                                           ^^^^^^
+Erro: 13
+Offset 2654, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ao dólar de fechamento de . Já ao final de  o dólar de fechamento havia depreciadose ...
+                                           ^^^^^
+Erro: 14
+Offset 3907, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “neste”?
+Suggestion: Neste
+...rdinária realizada em  de setembro de . Em  este valor foi contabilizado como adiantamen...
+                                           ^^^^^^^^

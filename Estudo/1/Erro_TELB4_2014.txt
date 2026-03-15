@@ -1,0 +1,30 @@
+Erro: 1
+Offset 13572, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+... de contribuições por parte da TELEBRAS e ou dos participantes. Cabe ressaltar que a...
+                                           ^^^^
+Erro: 2
+Offset 17841, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...em vista as decisões acima mencionadas, em  a TELEBRAS efetuou a provisão de R. mil. ...
+                                           ^^^^^
+Erro: 3
+Offset 876, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...que estaria repassando à TELEBRAS ainda em  a importância de R. mil. Ocorre, porém, q...
+                                           ^^^^^
+Erro: 4
+Offset 6373, length 23, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: destes, em contrapartida
+... à participação nos resultados líquidos destes em contrapartida de resultado de equivalência patrimonia...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 6949, length 30, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou ainda sempre que eventos, ou
+...r evidências de perdas não recuperáveis ou ainda sempre que eventos ou alterações nas circunstâncias indicarem...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

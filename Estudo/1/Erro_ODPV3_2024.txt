@@ -1,0 +1,18 @@
+Erro: 1
+Offset 9438, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: IFRS, pois
+...o, estes estão fora do alcance da CPC   IFRS  pois não há risco de seguro e, por isso, são...
+                                           ^^^^^^^^^^
+Erro: 2
+Offset 13023, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+...PÁGINA:  de                  c) Eventos ou operações não usuais  Não houve eventos ou operações não usuais no exercício socia...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 565, length 8, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: a título
+...ãoOs acionistas terão direito a receber a titulo de dividendos, em cada exercicio, um pe...
+                                           ^^^^^^^^

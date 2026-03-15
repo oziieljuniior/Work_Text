@@ -1,0 +1,36 @@
+Erro: 1
+Offset 817, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+....  Controladora     Descrição Até  dias De  a  dias Total líquido     NDF . . . Total...
+                                           ^^^^^
+Erro: 2
+Offset 9366, length 44, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: os diferentes setores econômicos proporcionam; os diferentes setores econômicos, proporciona
+...ão diversificada dos negócios com todos os diferentes setores econômicos proporciona resultados consistentes, equilibrados e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 13860, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...tividade e rentabilidade dos negócios.  Em  a Companhia encerrou seu exercício com bo...
+                                           ^^^^^
+Erro: 4
+Offset 19098, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...a) não forem atingidos. Em  de dezembro de  os índices estabelecidos estavam sendo ate...
+                                           ^^^^^^
+Erro: 5
+Offset 19501, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...MS gerado mensalmente, com uma carência de  a  meses e prazo de pagamento entre  a  m...
+                                           ^^^^^
+Erro: 6
+Offset 12762, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...mais que no período de  de R , bilhões. Em  o indicador encerrou em R , milhões.  Com...
+                                           ^^^^^

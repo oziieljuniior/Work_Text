@@ -1,0 +1,102 @@
+Erro: 1
+Offset 3228, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+... Em até  meses . . De  meses a  ano . . De  a  anos . . De  a  anos . . De  a  anos  ...
+                                           ^^^^^
+Erro: 2
+Offset 3244, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+... . De  meses a  ano . . De  a  anos . . De  a  anos . . De  a  anos  . Acima de  anos...
+                                           ^^^^^
+Erro: 3
+Offset 3260, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...ano . . De  a  anos . . De  a  anos . . De  a  anos  . Acima de  anos   Total de empr...
+                                           ^^^^^
+Erro: 4
+Offset 4187, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... Demonstração do Resultado No exercício de  a Receita Operacional Líquida (ROL) total...
+                                           ^^^^^
+Erro: 5
+Offset 4614, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...tivo em R . mil, representando  da ROL. Em  a Companhia registrou um lucro de R . mil...
+                                           ^^^^^
+Erro: 6
+Offset 7025, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nos”?
+Suggestion: Nos
+...erialmente os resultados operacionais   Em  os principais índices de compras de matéri...
+                                           ^^^^^^
+Erro: 7
+Offset 13490, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Crédito
+...ituação financeira com apoio da área de Credito, onde a partir de então, determina o va...
+                                           ^^^^^^^
+Erro: 8
+Offset 745, length 48, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou com nosso conhecimento obtido na auditoria, ou
+...sistente com as demonstrações contábeis ou com nosso conhecimento obtido na auditoria ou, de outra forma, aparenta estar distorc...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 2047, length 25, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de suas controladas, ou
+...nistração pretenda liquidar a Companhia ou de suas controladas ou cessar suas operações ou de suas contro...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 701, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...atado de  de março de : Em  de dezembro de  o saldo líquido da conta imobilizado era ...
+                                           ^^^^^
+Erro: 11
+Offset 1901, length 48, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou com nosso conhecimento obtido na auditoria, ou
+...sistente com as demonstrações contábeis ou com nosso conhecimento obtido na auditoria ou, de outra forma, aparenta estar distorc...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 3350, length 25, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de suas controladas, ou
+...nistração pretenda liquidar a Companhia ou de suas controladas ou cessar suas operações ou de suas contro...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 10261, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+... opinião com Ressalva   Em  de dezembro de  o saldo líquido da conta imobilizado era ...
+                                           ^^^^^
+Erro: 14
+Offset 14840, length 50, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou com o nosso conhecimento obtido na auditoria, ou
+...stente com as demonstrações financeiras ou com o nosso conhecimento obtido na auditoria ou, de outra forma, aparenta estar distorc...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 15
+Offset 15981, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...e participação societária  No exercício de  a Companhia vendeu a totalidade de sua pa...
+                                           ^^^^^
+Erro: 16
+Offset 19535, length 21, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou compra de ações, ou
+...to, nas operações de resgate, reembolso ou compra de ações ou na incorporação ao Capital Social.   c....
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 17
+Offset 4068, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...lvimento de novos produtos ou serviços  Em  a Companhia investiu R . mil em projetosc...
+                                           ^^^^^

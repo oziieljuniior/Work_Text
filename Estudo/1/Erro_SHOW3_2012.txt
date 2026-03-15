@@ -1,0 +1,48 @@
+Erro: 1
+Offset 13584, length 20, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: liquidez, Além disso
+...temente, de nossas operações.  Risco de liquidez  Além disso, estamos constantemente monitorando o r...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 16955, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...NTRETENIMENTO S.A.  Versão :   PÁGINA:  de    a. Condições financeiras e patrimoniais g...
+                                           ^^^^^^^
+Erro: 3
+Offset 2684, length 31, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou na nossa geração de caixa, ou
+... mudanças no nosso plano de crescimento ou na nossa geração de caixa ou caso optemos por refinanciar as linhas ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 15768, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...icado pela destinação de parte do lucro liquido para reserva legal, de acordo com a lei...
+                                           ^^^^^^^
+Erro: 5
+Offset 11093, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...icado pela destinação de parte do lucro liquido para reserva legal, de acordo com a lei...
+                                           ^^^^^^^
+Erro: 6
+Offset 2227, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nos”?
+Suggestion: nos
+... de uma peça de maior duração, enquanto em  os espetáculos em cartaz eram mais simples...
+                                           ^^^^^^
+Erro: 7
+Offset 11740, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: vínculo
+...os provisão. Entretanto, com relação ao vinculo com a empresa CIE Internacional, consti...
+                                           ^^^^^^^
+Erro: 8
+Offset 17608, length 8, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: aluguéis
+...arrendamento mercantil relacionados aos alugueis das casas de espetáculos, cartas de gar...
+                                           ^^^^^^^^

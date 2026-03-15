@@ -1,0 +1,90 @@
+Erro: 1
+Offset 18940, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: contábeis, mas
+...distorções relevantes nas demonstrações contábeis mas, apesar disso, envidará todos os seus e...
+                                           ^^^^^^^^^^^^^
+Erro: 2
+Offset 17794, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...iu para a redução do capital empregado. Em  o ROIC da Copmanhia foi de ,, em função d...
+                                           ^^^^^
+Erro: 3
+Offset 1332, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...ão) no valor de R  milhões que venceria em  a um custo de CDI  ,. Com isso, reduzimos...
+                                           ^^^^^
+Erro: 4
+Offset 6470, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... negociada foi de CDI, a.a. Em dezembro de  a taxa de juros desse contrato era de , a...
+                                           ^^^^^
+Erro: 5
+Offset 14085, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Companhia,
+...te vencidas as debêntures emitidas pela Companhia caso:  Haja alteração do atual control...
+                                           ^^^^^^^^^
+Erro: 6
+Offset 19937, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: crédito
+... R , milhões em razão da compensação do credito tributário referente a PISCOFINS (ref. ...
+                                           ^^^^^^^
+Erro: 7
+Offset 3062, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...nhia). Passivo atuarial Em  de dezembro de  a Companhia constituiu a provisão do pass...
+                                           ^^^^^
+Erro: 8
+Offset 4605, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... COFINS que abrange o período de agosto de  a fevereiro de  que foi fundamentado na d...
+                                           ^^^^^
+Erro: 9
+Offset 10807, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... SELIC. Os créditos do período de março de  a novembro de  já haviam sido reconhecido...
+                                           ^^^^^
+Erro: 10
+Offset 12463, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ados abrangem apenas o período de março de  a dezembro de . O impacto no resultado fo...
+                                           ^^^^^
+Erro: 11
+Offset 1053, length 10, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: distâncias
+...Divisão Automotiva; (ii) a evolução das distancias médias das entregas de veículos na Divi...
+                                           ^^^^^^^^^^
+Erro: 12
+Offset 2586, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... SELIC. Os créditos do período de março de  a novembro de  já haviam sido reconhecido...
+                                           ^^^^^
+Erro: 13
+Offset 5354, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ados abrangem apenas o período de março de  a dezembro de . O impacto no resultado fo...
+                                           ^^^^^
+Erro: 14
+Offset 10903, length 23, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: foram totalmente objetos; foi totalmente objeto; fora totalmente objeto
+...mpréstimos modalidade . em USD, mas que foram totalmente objeto de operações de swap para R, o principa...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 15
+Offset 13397, length 84, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Nos últimos três exercícios sociais não ocorreram eventos, ou
+... à criação da joint venture. c. eventos ou operações não usuais Nos últimos três exercícios sociais não ocorreram eventos ou operações não usuais que geraram efeito...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

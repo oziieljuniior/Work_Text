@@ -1,0 +1,24 @@
+Erro: 1
+Offset 11050, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: papéis
+... apoiar as políticas de gestão, definir papeis e responsabilidades, identificar mudanç...
+                                           ^^^^^^
+Erro: 2
+Offset 5290, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+... para o exercício findo em  de dezembro de  os auditores independentes da Companhia em...
+                                           ^^^^^^
+Erro: 3
+Offset 5898, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...o anual composta de , ao ano no período de  a .   Os mercados específicos nos quais a...
+                                           ^^^^^
+Erro: 4
+Offset 34, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, ao mesmo tempo
+unto a uma instituição financeira e ao mesmo tempo contrata um swap para troca dessa obrig...
+                                  ^^^^^^^^^^^^^^^^

@@ -1,0 +1,72 @@
+Erro: 1
+Offset 3789, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nas”?
+Suggestion: nas
+...ltados em moeda forte.  Neste contexto, em  as receitas ao mercado externo somaram US ...
+                                           ^^^^^^
+Erro: 2
+Offset 5596, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nos”?
+Suggestion: nos
+...o resultado financeiro, foram destaques em  os efeitos positivos de hiperinflação e re...
+                                           ^^^^^^
+Erro: 3
+Offset 10414, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...úblicos federais. A remuneração média é de  a  do CDI ou equivalente ( a  em  de deze...
+                                           ^^^^^
+Erro: 4
+Offset 15479, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...nanciamento relevantes  Ao longo do ano de  a Companhia não realizou nenhuma captação...
+                                           ^^^^^
+Erro: 5
+Offset 4502, length 18, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo, a
+... das unidades onde temos outros sócios, como por exemplo a Frasle S.A. . Condições financeiras e p...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 13484, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...ormance das unidades onde temos sócios, como por exemplo, a Frasle S.A.       ∆  EBIT  ..  ..  ,...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 15788, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...erviços Financeiros e Digitais adquiriu em  a empresa DB, que desenvolve softwares pa...
+                                           ^^^^^
+Erro: 8
+Offset 18122, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+... Companhia pela desvalorização cambial. Em  o Peso Argentino sofreu uma forte desvalo...
+                                           ^^^^^
+Erro: 9
+Offset 19274, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...inal do exercício, foi de R ,, enquanto em  o valor era de R ,, no mesmo período, e c...
+                                           ^^^^^
+Erro: 10
+Offset 10006, length 29, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou capacidade de pagamento, ou
+...dor de liquidez, desempenho operacional ou capacidade de pagamento ou outras medições de desempenho operacion...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 19528, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: no entanto,
+... operacional e financeiro da Companhia, no entanto não é uma medida estabelecida de acordo...
+                                           ^^^^^^^^^^
+Erro: 12
+Offset 13250, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; ou
+...onal e captações de recursos com bancos e, ou, a mercado.  A Companhia possui acesso ...
+                                           ^^^^^

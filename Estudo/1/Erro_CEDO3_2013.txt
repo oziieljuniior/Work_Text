@@ -1,0 +1,54 @@
+Erro: 1
+Offset 2054, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...reconhecidos em “receitas financeiras”, em contrapartida de “outras provisões” para o saldo de d...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 2426, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...OS CEDRO CACHOEIRA  Versão :   PÁGINA:  de   a) ITAU BBA  Contratos com Posição Passiv...
+                                           ^^^^^^
+Erro: 3
+Offset 17955, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...OS CEDRO CACHOEIRA  Versão :   PÁGINA:  de   a. condições financeiras e patrimoniais g...
+                                           ^^^^^^
+Erro: 4
+Offset 9580, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...OS CEDRO CACHOEIRA  Versão :   PÁGINA:  de   a. resultados das operações do emissor, e...
+                                           ^^^^^^
+Erro: 5
+Offset 11813, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...OS CEDRO CACHOEIRA  Versão :   PÁGINA:  de   a. mudanças significativas nas práticas c...
+                                           ^^^^^^
+Erro: 6
+Offset 15641, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...S. Tal ênfase não aparece nos pareceres de   a . Nas demonstrações relativas ao exercí...
+                                           ^^^^^^
+Erro: 7
+Offset 16191, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “neste”?
+Suggestion: Neste
+...ns de IFRS seria custo ou valor justo.” Em  este parágrafo de ênfase continua, porém as ...
+                                           ^^^^^^^^
+Erro: 8
+Offset 16230, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: porém, as
+... Em  este parágrafo de ênfase continua, porém as Demonstrações Financeiras foram auditad...
+                                           ^^^^^^^^
+Erro: 9
+Offset 1733, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos assuntos ou decisões de tribunais. c. Reconheciment...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

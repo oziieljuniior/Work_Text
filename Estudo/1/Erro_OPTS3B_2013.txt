@@ -1,0 +1,18 @@
+Erro: 1
+Offset 6338, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: das; dê as
+... No exercício encerrado em  de dezembro de  as outras despesas operacionais totalizara...
+                                           ^^^^^^
+Erro: 2
+Offset 5061, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+... passivos de longa maturação que possam acarretar em avaliações com correspondência no resul...
+                                           ^^^^^^^^^^^^
+Erro: 3
+Offset 5391, length 14, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou passivos, ou
+...o de ativos imobilizados ou intangíveis ou passivos ou contingências de natureza ambiental.   ...
+                                           ^^^^^^^^^^^^^^

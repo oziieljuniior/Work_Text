@@ -1,0 +1,48 @@
+Erro: 1
+Offset 12511, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+... parte do escopo contratado do Cliente, como por exemplo, tecnologia omnichannel, fullfilment e ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 13192, length 22, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo, ações
+...r final e não se referem a mercadorias, como por exemplo ações de endomarketing, ações de marketing e ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 14415, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...  de participação. Ecomsur Em  de abril de  a Companhia adquiriu dos acionistas minor...
+                                           ^^^^^
+Erro: 4
+Offset 6727, length 44, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou pela existência de processos em aberto, ou
+...gras, regulamentos e políticas internas ou pela existência de processos em aberto ou processos futuros que possam resultar e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 19988, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: das; dê as
+...ar as sanções a serem aplicadas no caso de as denúnc
+                                           ^^^^^
+Erro: 6
+Offset 12313, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...aboração das demonstrações financeiras, como por exemplo: (a) data definida para receber os bala...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 19011, length 55, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou políticas relacionadas ao programa de integridade, ou
+...mento e eficácia; o Propor novas normas ou políticas relacionadas ao programa de integridade ou a revisão das já existentes; e o Conduz...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 2073, length 49, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou demais terceiros contratados pela Companhia, ou
+...lientes, intermediários, representantes ou demais terceiros contratados pela Companhia ou qualquer outra pessoa, entidade ou auto...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

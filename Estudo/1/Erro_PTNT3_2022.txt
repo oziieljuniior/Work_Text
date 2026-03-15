@@ -1,0 +1,36 @@
+Erro: 1
+Offset 9887, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+.... INDUSTRIA TEXTIL  Versão :   PÁGINA:  de   a. Introdução ou alienação de segmento op...
+                                           ^^^^^^
+Erro: 2
+Offset 10231, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+.... INDUSTRIA TEXTIL  Versão :   PÁGINA:  de   a. Mudanças significativas nas práticas c...
+                                           ^^^^^^
+Erro: 3
+Offset 10290, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...gnificativas nas práticas contábeis Não houveram mudanças significativas nas práticas co...
+                                           ^^^^^^^^
+Erro: 4
+Offset 10514, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...ses presentes no parecer do auditor Não houveram ressalvas ou ênfases no relatório dos a...
+                                           ^^^^^^^^
+Erro: 5
+Offset 10608, length 77, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou ênfases no relatório dos auditores do exercício Não houveram ressalvas, ou
+...es do exercício  Não houveram ressalvas ou ênfases no relatório dos auditores do exercício  Não houveram ressalvas ou ênfases no relatório dos auditores do e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 3456, length 25, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: lançados, em contrapartida
+...segurança. Os reparos e manutenções são lançados em contrapartida ao resultado do exercício, quando incor...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^

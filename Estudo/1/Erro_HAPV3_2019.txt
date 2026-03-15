@@ -1,0 +1,24 @@
+Erro: 1
+Offset 15903, length 67, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou melhorias reportadas pelos auditores apresentam probabilidade, ou
+...dministração, nenhuma das recomendações ou melhorias reportadas pelos auditores apresentam probabilidade ou magnitude que possam causar distorções ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 5737, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...INVESTIMENTOS S.A.  Versão :   PÁGINA:  de   o aumento da receita líquida, bem como a ...
+                                           ^^^^^^
+Erro: 3
+Offset 10326, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... passou de R , para R , de  de dezembro de  a  de dezembro de ; e (v) reajuste médio ...
+                                           ^^^^^
+Erro: 4
+Offset 10668, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... passou de R , para R , de  de dezembro de  a  de dezembro de . Mesmo em um cenário e...
+                                           ^^^^^

@@ -1,0 +1,84 @@
+Erro: 1
+Offset 3113, length 15, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, Além disso
+...   RANDONCORP S.A.  Versão :   PÁGINA:  de   Além disso, a Companhia possui uma área de auditor...
+                                           ^^^^^^^^^^^^^^^
+Erro: 2
+Offset 18177, length 23, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou publicado no todo, ou
+...dministração, não devendo ser utilizado ou publicado no todo ou em parte, para nenhum outro propósito s...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 19294, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: que, em geral
+...izados de forma manualnão automatizada, que em geral, envolvem julgamento crítico por parte ...
+                                           ^^^^^^^^^^^^
+Erro: 4
+Offset 8024, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: e, além disso
+...ustes conforme políticas estabelecidas, e além disso a área de Acuracidade dos Estoques fará...
+                                           ^^^^^^^^^^^^
+Erro: 5
+Offset 17982, length 15, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, Além disso
+...   RANDONCORP S.A.  Versão :   PÁGINA:  de   Além disso, os diretores entendem que os níveis at...
+                                           ^^^^^^^^^^^^^^^
+Erro: 6
+Offset 5739, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretou
+...  O baixo nível de atividade do ano de  acarretou em uma diminuição da geração caixa bruta d...
+                                           ^^^^^^^^^^^^
+Erro: 7
+Offset 18147, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...a) não forem atingidos. Em  de dezembro de  o contrato apresentou um desenquadramento...
+                                           ^^^^^
+Erro: 8
+Offset 18429, length 17, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: a Companhia detém; a Companhia, detêm
+... performance pactuados. Adicionalmente, a Companhia detêm contratos de financiamentos no valor de...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 91, length 17, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: a Companhia detém; a Companhia, detêm
+... há notas promissórias. Adicionalmente, a Companhia detêm contratos de financiamentos no valor de...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 933, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...e das captações tem taxa fixa que varia de  a , a.a..  Debêntures As debêntures refer...
+                                           ^^^^^
+Erro: 11
+Offset 1956, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...MS gerado mensalmente, com uma carência de  a  meses e prazo de pagamento entre  a  m...
+                                           ^^^^^
+Erro: 12
+Offset 2072, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...corrigido pelo IPCAIBGE e taxa de juros de  a.a. Na parcela do débito com pagamento p...
+                                           ^^^^^
+Erro: 13
+Offset 3685, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...   RANDONCORP S.A.  Versão :   PÁGINA:  de   o prazo pelo cliente. O prazo médio de ve...
+                                           ^^^^^^
+Erro: 14
+Offset 17625, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: câmbio
+...terno está ligada a variação da taxa de cambio. A companhia adota postura conservadora...
+                                           ^^^^^^

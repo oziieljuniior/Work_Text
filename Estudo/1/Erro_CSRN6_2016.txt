@@ -1,0 +1,138 @@
+Erro: 1
+Offset 3462, length 32, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: as principais iniciativas adotam; as principais iniciativas, adotas
+...efetividade da política adotada: Dentre as principais iniciativas adotas pelo Grupo Neoenergia em sua estrutura ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 12128, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...a o risco de juros ou índice de preços, como por exemplo, dívidas e empréstimos em Real atrelada...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 15643, length 3, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: À
+...erintendência de Gestão de Recursos e M&A a execução das operações que envolvam der...
+                                           ^^^
+Erro: 4
+Offset 1840, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...anceiras e patrimoniais gerais   No ano de  a Companhia apresentou, segundo sua Demon...
+                                           ^^^^^
+Erro: 5
+Offset 15662, length 7, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...o Fixo eou que elevem seu endividamento a nível superior a  do seu Ativo Fixo.Não háCos...
+                                           ^^^^^^^
+Erro: 6
+Offset 15983, length 15, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou obsoletos, ou
+...vo quando se tratar de bens inservíveis ou obsoletos ou de bens que sejam substituídos por novo...
+                                           ^^^^^^^^^^^^^^^
+Erro: 7
+Offset 18277, length 49, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de parte considerável do negócio do Tomador, ou
+...á ou disporá, por outros meios, de todo ou de parte considerável do negócio do Tomador ou  do ativo do Tomador, ressalvadas as di...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 11346, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, com efeito
+...ário com vigência a partir de  de março de  com efeito médio de ,. Também está contemplado nes...
+                                           ^^^^^^^^^^^^^^
+Erro: 9
+Offset 11644, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...ara o aumento da receita.Foram vendidos em  o volume de . GWh, contra um volume de . ...
+                                           ^^^^^
+Erro: 10
+Offset 19238, length 14, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretando
+...os inferiores aos valores provisionados acarretando em reversão com destaque proc. fiscal INSS...
+                                           ^^^^^^^^^^^^^^
+Erro: 11
+Offset 4650, length 10, Rule ID: PARONYM_CALCULO_606
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de cálculo
+...vigentes para o setor ou na metodologia de calculo das tarifas pode afetar a receita da Co...
+                                           ^^^^^^^^^^
+Erro: 12
+Offset 8405, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, com efeito
+...ário com vigência a partir de  de março de  com efeito médio de ,. Também está contemplado nes...
+                                           ^^^^^^^^^^^^^^
+Erro: 13
+Offset 9151, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...rgia adquirida para revenda:  a. No ano de  os custos estavam abatidos pelos valores d...
+                                           ^^^^^^
+Erro: 14
+Offset 12691, length 10, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: específica
+...ia elétrica, com a inclusão de cláusula especifica que permite o reconhecimento dos ativos...
+                                           ^^^^^^^^^^
+Erro: 15
+Offset 16182, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...o foi de apenas ,.  Mercado por Classe  Em  a COSERN registrou .. consumidores ativad...
+                                           ^^^^^
+Erro: 16
+Offset 19381, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+... Hiper Prudente e Hiper Roberto Freire. Em  o mercado livre representou cerca de  da ...
+                                           ^^^^^
+Erro: 17
+Offset 640, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+... foi de apenas ,.   Mercado por Classe  Em  a COSERN registrou .. consumidores ativad...
+                                           ^^^^^
+Erro: 18
+Offset 3790, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+... Hiper Prudente e Hiper Roberto Freire. Em  o mercado livre representou cerca de  da ...
+                                           ^^^^^
+Erro: 19
+Offset 6808, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... pela ANEEL terão vigência de  de abril de  a  de abril de .  Em : Reajuste Tarifário...
+                                           ^^^^^
+Erro: 20
+Offset 7330, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... pela ANEEL terão vigência de  de abril de  a  de abril de .   c. Impacto da inflação...
+                                           ^^^^^
+Erro: 21
+Offset 11664, length 9, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; porém
+...dos volumes de dívida na comparação de  e , porém, o aumento dos juros praticados no merc...
+                                           ^^^^^^^^^
+Erro: 22
+Offset 18555, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...os de trabalho a menos. Natal registrou em  o menor fluxo de voos e passageiros dos ú...
+                                           ^^^^^
+Erro: 23
+Offset 13364, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos assuntos ou decisões de tribunais.   Provisão para...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

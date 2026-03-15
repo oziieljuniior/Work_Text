@@ -1,0 +1,30 @@
+Erro: 1
+Offset 4722, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...s compromissos financeiros assumidos:   Em  a Companhia possuía um caixa disponível e...
+                                           ^^^^^
+Erro: 2
+Offset 8886, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+......Em até  meses....De  meses a  ano....De  a  anos....De  a  anos....De  a  anos.......
+                                           ^^^^^
+Erro: 3
+Offset 8901, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...s....De  meses a  ano....De  a  anos....De  a  anos....De  a  anos....Acima de  anos....
+                                           ^^^^^
+Erro: 4
+Offset 8916, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...a  ano....De  a  anos....De  a  anos....De  a  anos....Acima de  anos....Total de Emp...
+                                           ^^^^^
+Erro: 5
+Offset 1781, length 21, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou compra de ações, ou
+...to, nas operações de resgate, reembolso ou compra de ações ou na incorporação ao capital social. O mo...
+                                           ^^^^^^^^^^^^^^^^^^^^^

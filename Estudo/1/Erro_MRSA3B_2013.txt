@@ -1,0 +1,30 @@
+Erro: 1
+Offset 13384, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...s.  A adesão ao PPE II reduziu em torno de  o valor do parcelamento referente ao PPE ...
+                                           ^^^^^
+Erro: 2
+Offset 17383, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...zaram ganho de R, milhões, enquanto que em  o valor foi R, milhão.  Ajuste de Estoque...
+                                           ^^^^^
+Erro: 3
+Offset 1622, length 51, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não ocorreram eventos, ou
+...lano com este propósito.    c.  eventos ou operações não usuais    Não ocorreram eventos ou operações não usuais.      . Comentário...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 9681, length 65, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos fatos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos fatos ou decisões de tribunais, as provisões são...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 10436, length 13, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou menores, ou
+...udiciais, taxas de desligamento maiores ou menores ou períodos de vida mais curtos ou longos ...
+                                           ^^^^^^^^^^^^^

@@ -1,0 +1,36 @@
+Erro: 1
+Offset 15073, length 21, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: de, Em contrapartida
+...MRS LOGISTICA S.A.  Versão :   PÁGINA:  de   Em contrapartida, em , a Companhia teve um aumento de R,...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 17635, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...s.  A adesão ao PPE II reduziu em torno de  o valor do parcelamento referente ao PPE ...
+                                           ^^^^^
+Erro: 3
+Offset 13064, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, Portanto
+...MRS LOGISTICA S.A.  Versão :   PÁGINA:  de    Portanto, em  de dezembro de  e , as parcelas re...
+                                           ^^^^^^^^^^^^^^
+Erro: 4
+Offset 15011, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...s.  A adesão ao PPE II reduziu em torno de  o valor do parcelamento referente ao PPE ...
+                                           ^^^^^
+Erro: 5
+Offset 2242, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...   Desde sua constituição em  de agosto de  a Companhia não constituiu, adquiriu ou a...
+                                           ^^^^^
+Erro: 6
+Offset 2418, length 51, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não ocorreram eventos, ou
+...plano com este propósito.   c.  eventos ou operações não usuais    Não ocorreram eventos ou operações não usuais.      . Comentário...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

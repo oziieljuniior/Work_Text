@@ -1,0 +1,48 @@
+Erro: 1
+Offset 3007, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+... norma a não exposição de seus passivos e ou ativos a descasamento de moedas, haja v...
+                                           ^^^^
+Erro: 2
+Offset 9193, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nesse”?
+Suggestion: nesse
+...a e safra recorde de grãos. Além disso, em  esse segmento de mercado havia sofrido por c...
+                                           ^^^^^^^^
+Erro: 3
+Offset 11378, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... semestralidade compensado de fevereiro de  a março de . Em  houve formalização de ac...
+                                           ^^^^^
+Erro: 4
+Offset 7270, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nesse”?
+Suggestion: nesse
+...a e safra recorde de grãos. Além disso, em  esse segmento de mercado havia sofrido por c...
+                                           ^^^^^^^^
+Erro: 5
+Offset 12259, length 43, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não há eventos, ou
+...de participação societária.  c) Eventos ou operações não usuais   Não há eventos ou operações não usuais praticadas pela Co...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 14516, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: práticas
+...Conforme previsto no CPC , mudanças nas praticas contábeis requerem aplicação retrospect...
+                                           ^^^^^^^^
+Erro: 7
+Offset 17848, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...plicativa nº , a partir de º de janeiro de  os componentes do ativo e passivo, as rece...
+                                           ^^^^^^
+Erro: 8
+Offset 3207, length 74, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja possível estimar os valores de forma confiável e cuja liquidação, seja
+... resultante de eventos passados, em que seja possível estimar os valores de forma confiável e cuja liquidação seja provável.  O valor reconhecido como pro...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

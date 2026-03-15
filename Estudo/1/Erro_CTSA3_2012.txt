@@ -1,0 +1,48 @@
+Erro: 1
+Offset 9602, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, ao mesmo tempo
+...nuidade de suas atividades operacionais e ao mesmo tempo maximizar o retorno aos seus acionistas...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 6675, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...lores contábeis.   No exercício de  não houveram alterações nas demonstrações financeira...
+                                           ^^^^^^^^
+Erro: 3
+Offset 6997, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...vo de resultados obtidos nos exercícios de  a :  R milhões        Receita operacional...
+                                           ^^^^^
+Erro: 4
+Offset 18757, length 63, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de participação societária Não houve aquisição, ou
+...eracional.   b. Constituição, aquisição ou alienação de participação societária  Não houve aquisição ou alienação de participação societária.  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 18872, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+...e participação societária.   c. Eventos ou operações não usuais  Não houve eventos ou operações não usuais na Companhia.  . C...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 13517, length 31, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exercido sem substituição, ou
+...e hedge expira ou é vendido, finalizado ou exercido sem substituição ou rolagem, ou se a sua designação como um...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 15060, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...ão para perdas com itens descontinuados e ou obsoletos. Os valores de realização líq...
+                                           ^^^^
+Erro: 8
+Offset 5601, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ública de ações da Companhia no período de  a .  b. Desvios relevantes entre a aplica...
+                                           ^^^^^

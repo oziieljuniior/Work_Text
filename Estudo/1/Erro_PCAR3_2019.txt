@@ -1,0 +1,72 @@
+Erro: 1
+Offset 12617, length 41, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou outras violações ao Código de Ética, ou
+...álises de suspeita de corrupção, fraude ou outras violações ao Código de Ética ou Política Anticorrupção por parte de col...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 17062, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...ores, de clientes, parceiros comerciais e ou qualquer outro público de relacionament...
+                                           ^^^^
+Erro: 3
+Offset 18973, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...o foi de R. milhões, sendo  de setembro de  o vencimento da ª série e  de setembro de...
+                                           ^^^^^
+Erro: 4
+Offset 19016, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+... o vencimento da ª série e  de setembro de  o da ª série, com juros de , do CDI para ...
+                                           ^^^^^
+Erro: 5
+Offset 8628, length 9, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nesses”?
+Suggestion: Nesses
+...  () Exclui os efeitos não recorrentes. Em  esses efeitos totalizaram R  milhões no Assaí...
+                                           ^^^^^^^^^
+Erro: 6
+Offset 16363, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nos”?
+Suggestion: Nos
+...u ,, patamar superior ao de  em , p.p.. Em  os efeitos não recorrentes totalizaram R  ...
+                                           ^^^^^^
+Erro: 7
+Offset 17000, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nas”?
+Suggestion: Nas
+...tras Despesas e Receitas Operacionais   Em  as outras despesas e receitas operacionais...
+                                           ^^^^^^
+Erro: 8
+Offset 616, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...embolso nas atividades de financiamento em  a . As disponibilidades representavam , d...
+                                           ^^^^^
+Erro: 9
+Offset 4743, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+... a equivalência da FIC. Em  de dezembro de  os investimentos representavam , do ativo ...
+                                           ^^^^^^
+Erro: 10
+Offset 12308, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...endos recebidos da FIC. Em  de dezembro de  os investimentos representavam , do ativo ...
+                                           ^^^^^^
+Erro: 11
+Offset 3827, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...lvimento do setor alimentar.   Ao longo de  a Companhia buscou ativamente a venda a p...
+                                           ^^^^^
+Erro: 12
+Offset 4891, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...inistração aprovou no dia  de fevereiro de  a celebração de novo contrato de TRS, aut...
+                                           ^^^^^

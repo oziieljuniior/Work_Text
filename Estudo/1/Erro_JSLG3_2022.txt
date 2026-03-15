@@ -1,0 +1,204 @@
+Erro: 1
+Offset 13104, length 10, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: específico
+...ntos financeiros com o objetivo único e especifico de proteção patrimonial e previsibilida...
+                                           ^^^^^^^^^^
+Erro: 2
+Offset 6722, length 42, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou patrocínio do Grupo Econômico da JSL, ou
+...jurídica, interessada em receber doação ou patrocínio do Grupo Econômico da JSL ou do Instituto Júlio Simões. A Política d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 13894, length 11, Rule ID: DIACRITICS
+Message: Se for um erro ortográfico, substitua por “dá adotados”. Se for um erro de concordância, substitua por “da adotadas”, “do adotado” ou “dos adotados”.
+Suggestion: dá adotados; da adotadas; do adotado; dos adotados; da Adotados
+...dos processos e dos normativos internos da adotados pela Companhia. Além dos procedimentos ...
+                                           ^^^^^^^^^^^
+Erro: 4
+Offset 10074, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...ições Financeiras e Patrimoniais Gerais Em  a JSL reportou uma receita bruta total de...
+                                           ^^^^^
+Erro: 5
+Offset 10415, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...nsmoreno, Fadel, Rodomeu, TPC e Marvel. Em  a JSL reportou uma receita bruta total de...
+                                           ^^^^^
+Erro: 6
+Offset 12568, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ríodo de implantação que varia na média de  a  dias (intervalo este, que compreende g...
+                                           ^^^^^
+Erro: 7
+Offset 18205, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: que, em geral
+...l tem demandado investimentos em ativos que em geral possuem um mercado secundário líquido. ...
+                                           ^^^^^^^^^^^^
+Erro: 8
+Offset 762, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: que, em geral
+...e tem demandado investimentos em ativos que em geral possuem um mercado secundário líquido. ...
+                                           ^^^^^^^^^^^^
+Erro: 9
+Offset 1067, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: que, em geral
+...e tem demandado investimentos em ativos que em geral possuem . Comentários dos diretores  . ...
+                                           ^^^^^^^^^^^^
+Erro: 10
+Offset 2725, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...milhões e R , milhões, respectivamente. Em  a utilização do caixa concentrouse princi...
+                                           ^^^^^
+Erro: 11
+Offset 7716, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...gor em  de dezembro de : . Em  de março de  os contratos referentes a ª e ª emissão de...
+                                           ^^^^^^
+Erro: 12
+Offset 10237, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: primeira,
+...ida foi de . mil CRA, sendo (i) R . mil primeira série; e, (ii) ., segunda série. O valo...
+                                           ^^^^^^^^
+Erro: 13
+Offset 11123, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...uneração é IPCA  , a.a. Em  de dezembro de  o saldo devedor em aberto desse contrato ...
+                                           ^^^^^
+Erro: 14
+Offset 11704, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...uneração é IPCA  , a.a. Em  de dezembro de  o saldo devedor em aberto desse contrato ...
+                                           ^^^^^
+Erro: 15
+Offset 18008, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... Companhia informam que em  de setembro de  a JSL firmou um contrato de abertura de c...
+                                           ^^^^^
+Erro: 16
+Offset 6791, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...rência    JSL S.A.  Versão :   PÁGINA:  de   o que representou uma variação negativa d...
+                                           ^^^^^^
+Erro: 17
+Offset 11453, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...rcício social encerrado em  de dezembro de  os saldos foram de R . mil e de R . mil. E...
+                                           ^^^^^^
+Erro: 18
+Offset 11962, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ssos clientes. Estoques Em  de dezembro de  a rubrica de “estoques” apresentou saldo ...
+                                           ^^^^^
+Erro: 19
+Offset 12825, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... variações: Imobilizado Em  de dezembro de  a rubrica de “imobilizado” apresentou sal...
+                                           ^^^^^
+Erro: 20
+Offset 13111, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...eu e Marvel. Intangível Em  de dezembro de  a rubrica de “intangível” apresentou sald...
+                                           ^^^^^
+Erro: 21
+Offset 13309, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...sas. Passivo circulante Em  de dezembro de  o passivo circulante era de R .. mil em c...
+                                           ^^^^^
+Erro: 22
+Offset 14254, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+... Passivo não circulante Em  de dezembro de  o passivo não circulante era de R .. mil ...
+                                           ^^^^^
+Erro: 23
+Offset 15580, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...il.  Patrimônio líquido Em  de dezembro de  o patrimônio líquido é de R .. mil em com...
+                                           ^^^^^
+Erro: 24
+Offset 19162, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...rcício social encerrado em  de dezembro de  os saldos foram de R . mil e de R .. mil. ...
+                                           ^^^^^^
+Erro: 25
+Offset 706, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... variações: Imobilizado Em  de dezembro de  a rubrica de “imobilizado” apresentou sal...
+                                           ^^^^^
+Erro: 26
+Offset 984, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ios de  e .  Intangível Em  de dezembro de  a rubrica de “intangível” apresentou sald...
+                                           ^^^^^
+Erro: 27
+Offset 1407, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...R .. Passivo circulante Em  de dezembro de  o passivo circulante era de R . mil em co...
+                                           ^^^^^
+Erro: 28
+Offset 3186, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+... Passivo não circulante Em  de dezembro de  o passivo não circulante era de R .. mil ...
+                                           ^^^^^
+Erro: 29
+Offset 3515, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...stimos e financiamentos Em  de dezembro de  a rubrica de “Empréstimos e Financiamento...
+                                           ^^^^^
+Erro: 30
+Offset 3757, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... circulante. Debêntures Em  de dezembro de  a rubrica de “Debêntures” apresentou sald...
+                                           ^^^^^
+Erro: 31
+Offset 4007, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...buição social diferidos Em  de dezembro de  a rubrica de “Imposto de renda e contribu...
+                                           ^^^^^
+Erro: 32
+Offset 4309, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ia.  Patrimônio líquido Em  de dezembro de  o patrimônio líquido é de R .. mil em com...
+                                           ^^^^^
+Erro: 33
+Offset 12162, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ao mesmo tempo,
+...iu para melhorar a estrutura de capital ao mesmo tempo em que acelerou o plano de crescimento ...
+                                           ^^^^^^^^^^^^^^
+Erro: 34
+Offset 13529, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...Holding Ltda. (“Fadel”) Em  de novembro de  a Companhia adquiriu  das ações de emissã...
+                                           ^^^^^

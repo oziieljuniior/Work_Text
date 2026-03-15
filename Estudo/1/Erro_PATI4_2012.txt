@@ -1,0 +1,54 @@
+Erro: 1
+Offset 1079, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: prática
+...mento pelas usinas siderúrgicas a mesma pratica a política de manter um estoque em zona...
+                                           ^^^^^^^
+Erro: 2
+Offset 7915, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...CDI  , a.m.  Bco.BradescoFinames e  Fev a   a.a.  CDI  .R A  BB.Leasing Abr    , a. a...
+                                           ^^^^^
+Erro: 3
+Offset 11872, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquida
+...  ConsolidadoR Mil              Receita Liquida . . .Custos dos Prod. Vendidos (.) (.) ...
+                                           ^^^^^^^
+Erro: 4
+Offset 15106, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...CULANTE  Patrimônio Líquido  No período de  o Capital Social foi aumentado de R , mil...
+                                           ^^^^^
+Erro: 5
+Offset 16539, length 22, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: metalmecânica, em geral
+...ndústria de eletrodomésticos, indústria metalmecânica em geral.    ii. fatores que afetaram materialme...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 16661, length 7, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...eracionais  Os fatores da macroeconomia a nível nacional eou mundial, estribados nas cr...
+                                           ^^^^^^^
+Erro: 7
+Offset 18702, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...o de participação societária  No inicio de  a Controladora L. P. Aços Comércio e Part...
+                                           ^^^^^
+Erro: 8
+Offset 18917, length 49, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não ocorreram eventos, ou
+...social da Panatlântica SA..  c) eventos ou operações não usuais  Não ocorreram eventos ou operações diversas das que a empresa pr...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 3275, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...tantes da oferta foram utilizados   Não houveram  ofertas  públicas.   b) se houve desvi...
+                                           ^^^^^^^^

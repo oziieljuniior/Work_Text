@@ -1,0 +1,78 @@
+Erro: 1
+Offset 9803, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...os, bem como ajudar a definir controles e ou monitorar riscos e controles da primeir...
+                                           ^^^^
+Erro: 2
+Offset 15958, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...bem como pela avaliação de sua eficácia em nível de entidade, financeiros e de tecnologi...
+                                           ^^^^^^^^
+Erro: 3
+Offset 3025, length 54, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou infrinjam os princípios da administração pública, ou
+... causem prejuízos ao patrimônio público ou infrinjam os princípios da administração pública ou compromissos internacionais assumidos p...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 7828, length 54, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou infrinjam os princípios da administração pública, ou
+... causem prejuízos ao patrimônio público ou infrinjam os princípios da administração pública ou compromissos internacionais assumidos p...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 18413, length 14, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou ilícitos, ou
+...iscos de cometimento de irregularidades ou ilícitos ou da existência de vulnerabilidades nas p...
+                                           ^^^^^^^^^^^^^^
+Erro: 6
+Offset 2683, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ais rubricas patrimoniais entre os anos de  a , a análise vertical (AV), a análise ho...
+                                           ^^^^^
+Erro: 7
+Offset 17131, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ará suspenso no período de  de dezembro de  a  de maio de ; ii) O pagamento dos juros...
+                                           ^^^^^
+Erro: 8
+Offset 17274, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ará suspenso no período de  de dezembro de  a  de novembro de ;  iii) Os juros apurad...
+                                           ^^^^^
+Erro: 9
+Offset 17349, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ros apurados no período de  de dezembro de  a  de novembro de  serão capitalizados me...
+                                           ^^^^^
+Erro: 10
+Offset 18181, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...as de amortização e juros, de  de junho de  a  de dezembro de . Não há nenhum outro r...
+                                           ^^^^^
+Erro: 11
+Offset 9121, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...o de um ativo (Direito de Uso de Ativo) em contrapartida de um passivo para tais contratos. Com ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 19526, length 92, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: seja como o resultado de decisões de descontinuar atividades relacionadas a tais ativos, seja
+...or recuperável dos ativos da Companhia, seja como o resultado de decisões de descontinuar atividades relacionadas a tais ativos seja em caso de haver evidências de que as r...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 10905, length 28, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: patrimonial, em contrapartida
+...r uma provisão (passivo) no seu balanço patrimonial em contrapartida de uma despesa no resultado do exercíci...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^

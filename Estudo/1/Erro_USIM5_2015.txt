@@ -1,0 +1,228 @@
+Erro: 1
+Offset 15708, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...o para racionamento de energia elétrica e ou água, os resultados e condições finance...
+                                           ^^^^
+Erro: 2
+Offset 17088, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ao mesmo tempo,
+...ão a compatibilização dessas variáveis, ao mesmo tempo em que  . Gerenciamento de riscos e con...
+                                           ^^^^^^^^^^^^^^
+Erro: 3
+Offset 3406, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+... possam ter impacto sobre a Companhia.  Em  a Lei Anticorrupção foi tema de curso pre...
+                                           ^^^^^
+Erro: 4
+Offset 12590, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...tos da Companhia, com vencimentos até . Em  o saldo devedor destas operações era de R...
+                                           ^^^^^
+Erro: 5
+Offset 12896, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...uente em Cubatão, com vencimentos até . Em  o saldo devedor destas operações era de R...
+                                           ^^^^^
+Erro: 6
+Offset 13110, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+... capital de giro, com vencimentos até . Em  o saldo devedor destas operações era de R...
+                                           ^^^^^
+Erro: 7
+Offset 13713, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...s mencionados títulos.  Em  de dezembro de  a Companhia exerceu a cláusula de resgate...
+                                           ^^^^^
+Erro: 8
+Offset 14012, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+... os desembolsos financeiros projetados. Em  o saldo devedor destas operações era de R...
+                                           ^^^^^
+Erro: 9
+Offset 14401, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...s planos de investimentos da companhia. Em  o saldo devedor desta operação era de R ,...
+                                           ^^^^^
+Erro: 10
+Offset 14587, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...ontrato foi liquidado em fevereiro de . Em  o saldo devedor desta operação era de R  ...
+                                           ^^^^^
+Erro: 11
+Offset 18409, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquido
+...   PÁGINA:  de     Passivo e Patrimônio Liquido    AV ()     AV ()     AV ()   Análise ...
+                                           ^^^^^^^
+Erro: 12
+Offset 1281, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+... Receber de Clientes apresentou redução de  o equivalente a R  milhões, principalment...
+                                           ^^^^^
+Erro: 13
+Offset 1464, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...es Os Estoques apresentaram uma redução de  o equivalente a R  milhões, principalment...
+                                           ^^^^^
+Erro: 14
+Offset 8613, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...prazo de vencimento em seis anos e taxa de  a.a   do CDI.  Provisão para demandas jud...
+                                           ^^^^^
+Erro: 15
+Offset 13072, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nas”?
+Suggestion: Nas
+...etos.  Despesas e receitas operacionais Em  as despesas e receitas operacionais reduzi...
+                                           ^^^^^^
+Erro: 16
+Offset 15280, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...e bens e serviços No ano de , a receita liquida consolidada da Companhia alcançou R, bi...
+                                           ^^^^^^^
+Erro: 17
+Offset 17278, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nas”?
+Suggestion: Nas
+...de .   Despesas e receitas operacionais Em  as despesas operacionais consolidadas fora...
+                                           ^^^^^^
+Erro: 18
+Offset 2739, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...o segmento de estruturas.  No exercício de  a receita líquida consolidada alcançou R,...
+                                           ^^^^^
+Erro: 19
+Offset 2818, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...çou R, bilhões, superior em , à receita liquida de  que foi de R, bilhões, decorrente p...
+                                           ^^^^^^^
+Erro: 20
+Offset 4208, length 15, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: foram inferiores; foi inferior; fora inferior
+...s realizadas pela unidade de Siderurgia foram  inferior ao volume vendido em . O mix de destino...
+                                           ^^^^^^^^^^^^^^^
+Erro: 21
+Offset 5993, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...ade de Mineração, no ano de , a receita liquida por tonelada foi , inferior ao ano de ,...
+                                           ^^^^^^^
+Erro: 22
+Offset 6543, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...de mercado do minério de ferro.  No ano de  os preços de venda dos produtos siderúrgic...
+                                           ^^^^^^
+Erro: 23
+Offset 7805, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+... impacto limitado no ano de . A receita liquida por tonelada de produtos siderúrgicos e...
+                                           ^^^^^^^
+Erro: 24
+Offset 12466, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ERAIS S.A.USIMINAS  Versão :   PÁGINA:  de    a) Introdução ou alienação de segmento op...
+                                           ^^^^^^^
+Erro: 25
+Offset 12722, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...o nos segmentos operacionais descritos. Em  a Companhia alienou sua participação na c...
+                                           ^^^^^
+Erro: 26
+Offset 16341, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ERAIS S.A.USIMINAS  Versão :   PÁGINA:  de    a) Mudanças significativas nas práticas c...
+                                           ^^^^^^^
+Erro: 27
+Offset 13222, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ERAIS S.A.USIMINAS  Versão :   PÁGINA:  de     a) grau de eficiência de tais controles, ...
+                                           ^^^^^^^^
+Erro: 28
+Offset 16079, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ERAIS S.A.USIMINAS  Versão :   PÁGINA:  de   a) Como os recursos resultantes da oferta...
+                                           ^^^^^^
+Erro: 29
+Offset 16782, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ERAIS S.A.USIMINAS  Versão :   PÁGINA:  de     a) os ativos e passivos detidos pelo emis...
+                                           ^^^^^^^^
+Erro: 30
+Offset 18837, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...de ferro por ano em regime take or pay. Em  o volume contratual foi cumprido em sua p...
+                                           ^^^^^
+Erro: 31
+Offset 858, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ento de energia elétrica para o período de  a , de cerca de  MW médios anuais. No fin...
+                                           ^^^^^
+Erro: 32
+Offset 1054, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...razo contratual para  anos ( de Janeiro de  a  de dezembro de ).  Em decorrência dess...
+                                           ^^^^^
+Erro: 33
+Offset 1266, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...a cerca de  MW médios anuais no período de  a , reduzindo para  MW médios anuais de  ...
+                                           ^^^^^
+Erro: 34
+Offset 1307, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...e  a , reduzindo para  MW médios anuais de  a . O segundo documento é um Termo de Ces...
+                                           ^^^^^
+Erro: 35
+Offset 1749, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...zem cerca de R , bilhões para o período de  a . Os contratos mencionados têm take or ...
+                                           ^^^^^
+Erro: 36
+Offset 2018, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...COMGÁS A USIMINAS e a COMGÁS celebraram em  o contrato de fornecimento firme de gás n...
+                                           ^^^^^
+Erro: 37
+Offset 4326, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...orto Sudeste do Brasil  Em  de dezembro de  a Mineração Usiminas S.A. (MUSA) possuía ...
+                                           ^^^^^
+Erro: 38
+Offset 6092, length 15, Rule ID: À_MEDIDA_EM_QUE
+Message: Substitua por “à medida que”.
+Suggestion: à medida que
+...ornecimentos são imputados ao resultado à medida em que são consumidos no processo de produção....
+                                           ^^^^^^^^^^^^^^^

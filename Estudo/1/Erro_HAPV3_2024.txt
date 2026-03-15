@@ -1,0 +1,48 @@
+Erro: 1
+Offset 6966, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...o sejam do grupo econômico da Companhia e ou controladas controladoras, sem a concor...
+                                           ^^^^
+Erro: 2
+Offset 7255, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...alteração do objeto social da Companhia e ou controladas controladoras, alterar subs...
+                                           ^^^^
+Erro: 3
+Offset 7563, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...tualmente desenvolvidas. Se a Companhia e ou controladas controladoras, propuserem p...
+                                           ^^^^
+Erro: 4
+Offset 15043, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... retrospectiva completa, em  de janeiro de  a Companhia e suas controladas:  • identi...
+                                           ^^^^^
+Erro: 5
+Offset 2221, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...adora                       de dezembro de    o de janeiro de  – Transição   Original  ...
+                                           ^^^^^^^
+Erro: 6
+Offset 9049, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...olidado                     de dezembro de    o de janeiro de  – Transição  Original  A...
+                                           ^^^^^^^
+Erro: 7
+Offset 12980, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...po Promed   Foi celebrado em  de agosto de  o acordo decorrente de negociações relaci...
+                                           ^^^^^
+Erro: 8
+Offset 15024, length 50, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais com relação à Companhia, ou
+... em  de dezembro de , quaisquer eventos ou operações não usuais com relação à Companhia ou suas atividades que não tenham sido rep...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

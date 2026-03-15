@@ -1,0 +1,36 @@
+Erro: 1
+Offset 10170, length 16, Rule ID: DIACRITICS
+Message: Se for um erro ortográfico, substitua por “dá gerenciamento”. Se for um erro de concordância, substitua por , “do gerenciamento” ou “dos gerenciamentos”.
+Suggestion: dá gerenciamento; do gerenciamento; dos gerenciamentos; da Gerenciamento
+...tividades; (i) patrocinar a implantação da gerenciamento de riscos na Companhia; e (j) validar o...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 3433, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...rado em  de dezembro de  (CDI mais taxa de   a.a., com taxa efetiva média de  ,  TR no...
+                                           ^^^^^^
+Erro: 3
+Offset 2385, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Companhia,
+...incorporação imobiliária percebida pela Companhia quando comparados os exercícios encerra...
+                                           ^^^^^^^^^
+Erro: 4
+Offset 14865, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... no primeiro trimestre de ; Em  de maio de  a Companhia realizou a rolagem de endivid...
+                                           ^^^^^
+Erro: 5
+Offset 15046, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...om vencimento em maio de ; Em  de junho de  a Companhia realizou a captação de R . ju...
+                                           ^^^^^
+Erro: 6
+Offset 2043, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...que a Companhia atua é tradicionalmente de  a  anos do investimento realizado ao reto...
+                                           ^^^^^

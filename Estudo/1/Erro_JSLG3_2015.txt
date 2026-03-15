@@ -1,0 +1,114 @@
+Erro: 1
+Offset 3142, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...SELIC variou entre , e , ao ano. No ano de  a SELIC variou de , e , ao ano, em , de ,...
+                                           ^^^^^
+Erro: 2
+Offset 3209, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+... ao ano, em , de , ao ano e , ao ano, e em  a SELIC variou de , e , ao ano. A inflaçã...
+                                           ^^^^^
+Erro: 3
+Offset 7235, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+..., apresentando uma desvalorização de ,. Em  o real passou de R , no início do período...
+                                           ^^^^^
+Erro: 4
+Offset 7332, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...presentando uma desvalorização de ,,. e em  o real passou de R , no início do período...
+                                           ^^^^^
+Erro: 5
+Offset 8167, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Ao mesmo tempo,
+...stimo de USD  milhões por meio da Lei . Ao mesmo tempo foi firmado um contrato de SWAP no mesm...
+                                           ^^^^^^^^^^^^^^
+Erro: 6
+Offset 13625, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...orme mencionado no item ., em  de julho de  a companhia realizou sua º emissão de deb...
+                                           ^^^^^
+Erro: 7
+Offset 15374, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Ao mesmo tempo,
+...stimo de USD , milhões através da Lei . Ao mesmo tempo foi firmado um contrato de swap no mesm...
+                                           ^^^^^^^^^^^^^^
+Erro: 8
+Offset 19645, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ríodo de implantação que varia na média de  a  dias (intervalo este, que compreende g...
+                                           ^^^^^
+Erro: 9
+Offset 4568, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: que, em geral
+...l tem demandado investimentos em ativos que em geral possuem um mercado secundário líquido. ...
+                                           ^^^^^^^^^^^^
+Erro: 10
+Offset 10210, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...ção de nossas disponibilidades de caixa em nível que os Diretores da Companhia acreditam...
+                                           ^^^^^^^^
+Erro: 11
+Offset 13026, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+... do passivo financeiro. Em  de dezembro de  o prazo médio do endividamento líquido da...
+                                           ^^^^^
+Erro: 12
+Offset 14133, length 3, Rule ID: FORMAL_PRA_PARA
+Message: Em contextos mais formais, prefira “para”.
+Suggestion: para
+...s normalmente as linhas de FINAME; (ii) pra a aquisição de veículos leves e utilitá...
+                                           ^^^
+Erro: 13
+Offset 1021, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...a) onde a estimativa de crescimento era de  a .  Os Diretores da Companhia esclarecem...
+                                           ^^^^^
+Erro: 14
+Offset 10064, length 11, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de veículos
+...           ,,(,)            Custo venda de veiculos novos(,)             ,(,)            ,,...
+                                           ^^^^^^^^^^^
+Erro: 15
+Offset 10141, length 11, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de veículos
+...            ,,,             Custo venda de veiculos usados(,)             ,(,)            ,...
+                                           ^^^^^^^^^^^
+Erro: 16
+Offset 17949, length 11, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de veículos
+...           ,,(,)            Custo venda de veiculos novos(,)           ,(,)          ,,,   ...
+                                           ^^^^^^^^^^^
+Erro: 17
+Offset 18022, length 11, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de veículos
+...,)          ,,,             Custo venda de veiculos usados(,)           ,(,)          ,,(,)...
+                                           ^^^^^^^^^^^
+Erro: 18
+Offset 7872, length 11, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de veículos
+... de peças  , (,) , N.A. (,) Custo venda de veiculos novos  , (,) , N.A. (,) Custo venda de ...
+                                           ^^^^^^^^^^^
+Erro: 19
+Offset 7920, length 11, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de veículos
+...los novos  , (,) , N.A. (,) Custo venda de veiculos usados  , (,) , N.A. (,) Custo de Venda...
+                                           ^^^^^^^^^^^

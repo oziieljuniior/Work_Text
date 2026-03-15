@@ -1,0 +1,36 @@
+Erro: 1
+Offset 5094, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...o de , em relação a receita operacional liquida. Em  representou ,.   O endividamento b...
+                                           ^^^^^^^
+Erro: 2
+Offset 7242, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...NTE   Patrimônio Líquido   No exercício de  o Capital Social foi aumentado de R , mil...
+                                           ^^^^^
+Erro: 3
+Offset 8657, length 22, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: metalmecânica, em geral
+...ndústria de eletrodomésticos, indústria metalmecânica em geral, etc.    ii. Fatores que afetaram mater...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 8785, length 7, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...racionais   Os fatores da macroeconomia a nível nacional eou mundial afetaram o mercado...
+                                           ^^^^^^^
+Erro: 5
+Offset 9223, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: das; dê as
+... de , em  em relação ao ano de . No ano de  as vendas registraram uma queda de , em re...
+                                           ^^^^^^
+Erro: 6
+Offset 10995, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ria.  Entrou em operação no º trimestre de  a Filial da Controlada Panatlantica Ind. ...
+                                           ^^^^^

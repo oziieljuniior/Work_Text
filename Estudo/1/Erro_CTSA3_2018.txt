@@ -1,0 +1,18 @@
+Erro: 1
+Offset 4737, length 17, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: é supervisionada; são supervisionadas
+...omo a eficiência dos controles internos é supervisionadas pela administração do emissor, indicand...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 11902, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, ao mesmo tempo
+...nuidade de suas atividades operacionais e ao mesmo tempo maximizar o retorno aos seus acionistas...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 397, length 63, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de participação societária Não houve aquisição, ou
+...s de ,  e .  b. Constituição, aquisição ou alienação de participação societária  Não houve aquisição ou alienação de participação societária no...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

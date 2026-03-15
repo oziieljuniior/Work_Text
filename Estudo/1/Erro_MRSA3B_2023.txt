@@ -1,0 +1,30 @@
+Erro: 1
+Offset 2541, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...menos os custos dos serviços prestados. Em  a administração da Companhia informa que ...
+                                           ^^^^^
+Erro: 2
+Offset 724, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Além disso,
+...s requisitos obrigatórios da renovação. Além disso foi dada continuidade na estratégia uti...
+                                           ^^^^^^^^^^
+Erro: 3
+Offset 2850, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: ., Além disso
+...ina de Equipamentos de Via no pátio do P. Além disso, foram desenvolvidos projetos de eletro...
+                                           ^^^^^^^^^^^^
+Erro: 4
+Offset 8686, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...actar os Objetivos Estratégicos da MRS. Em  a MRS atualizou seu referencial estratégi...
+                                           ^^^^^
+Erro: 5
+Offset 19912, length 30, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou demissão por justa causa, ou
+...MRS, advertência por escrito, suspensão ou demissão por justa causa ou sem justa causa. Poderão ser tomadas, a...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

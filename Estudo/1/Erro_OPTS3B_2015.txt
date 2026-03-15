@@ -1,0 +1,24 @@
+Erro: 1
+Offset 12243, length 60, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de segmento operacional Não houve introdução, ou
+...missor e seu resultado.  (a) introdução ou alienação de segmento operacional Não houve introdução ou alienação de segmentos operacionais da ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 12806, length 43, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve evento, ou
+...s acionistas da Companhia.  (c) eventos ou operações não usuais Não houve evento ou operação não usual não refletida nas de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 18015, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+... passivos de longa maturação que possam acarretar em avaliações com correspondência no resul...
+                                           ^^^^^^^^^^^^
+Erro: 4
+Offset 18345, length 14, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou passivos, ou
+...o de ativos imobilizados ou intangíveis ou passivos ou contingências de natureza ambiental.  N...
+                                           ^^^^^^^^^^^^^^

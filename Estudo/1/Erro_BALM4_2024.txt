@@ -1,0 +1,24 @@
+Erro: 1
+Offset 1129, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...igações de curto, médio e longo prazo.  Em  a Companhia obteve um lucro operacional d...
+                                           ^^^^^
+Erro: 2
+Offset 1827, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+... milhões, perfazendo , da nossa receita liquida, evidenciando a preocupação constante c...
+                                           ^^^^^^^
+Erro: 3
+Offset 3322, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...anutenção de disponibilidades de caixa, em nível que acredita ser apropriado para o dese...
+                                           ^^^^^^^^
+Erro: 4
+Offset 4701, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...antidos por avais da Diretoria.  No ano de  a Baumer efetuou o pagamento de R , milhõ...
+                                           ^^^^^

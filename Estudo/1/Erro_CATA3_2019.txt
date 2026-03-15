@@ -1,0 +1,72 @@
+Erro: 1
+Offset 7727, length 9, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Gerências
+...e Administração, Diretoria Executivas e Gerencias de área.  c. se e como a eficiência dos...
+                                           ^^^^^^^^^
+Erro: 2
+Offset 14470, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: recomendada, pois
+...a TI. Sabemos que não é uma boa prática recomendada pois agimos de forma reativa, mas é o que po...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 15429, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...vação dos lançamentos manuais  A partir de  o responsável pela área contábil ou a coo...
+                                           ^^^^^
+Erro: 4
+Offset 19110, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: indevidos, pois
+...a grande maioria, tratavamse de atrasos indevidos pois não refletiam repactuações . Gerenciame...
+                                           ^^^^^^^^^^^^^^
+Erro: 5
+Offset 5284, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: denúncia
+...IV. Avaliar, investigar a veracidade da denuncia e decidir no menor tempo possível, cons...
+                                           ^^^^^^^^
+Erro: 6
+Offset 5381, length 9, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: denúncias
+...o limite de  (trinta) dias a partir das denuncias, sobre todos os casos que cheguem ao se...
+                                           ^^^^^^^^^
+Erro: 7
+Offset 19361, length 20, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: preservando, portanto
+... eliminar o risco de execução imediata, preservando portanto sua liquidez. No segundo semestre obtiv...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 1253, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: Ajustado, pois
+...ompanhias. A Companhia divulga o EBITDA Ajustado pois utiliza esse indicador como uma de suas...
+                                           ^^^^^^^^^^^^^
+Erro: 9
+Offset 14339, length 24, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou ativos específicos, ou
+...bstantivos relativos ao uso de um ativo ou ativos específicos ou, ainda, ao direito de uso de um determi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 3690, length 58, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou itens diretamente reconhecidos no patrimônio líquido, ou
+... relacionados à combinação de negócios, ou itens diretamente reconhecidos no patrimônio líquido ou em outros resultados abrangentes.  O im...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 3823, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a receber esperado sobre o lucro, ou
+... O imposto corrente é o imposto a pagar ou a receber esperado sobre o lucro ou prejuízo tributável do exercício, a tax...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 5583, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: com efeito,
+...s potencialmente conversíveis em ações, com efeito diluidor, nos períodos apresentados, no...
+                                           ^^^^^^^^^^

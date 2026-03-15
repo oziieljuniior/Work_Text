@@ -1,0 +1,18 @@
+Erro: 1
+Offset 3516, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...mpanhia possui disponibilidade de caixa em nível apropriado para financiar seu capital d...
+                                           ^^^^^^^^
+Erro: 2
+Offset 2152, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...e amortização do período.  No exercício de  a geração de caixa operacional pelo conce...
+                                           ^^^^^
+Erro: 3
+Offset 5368, length 62, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de reservas de lucros existentes no último balanço anual, ou
+...al próprio a conta de lucros acumulados ou de reservas de lucros existentes no último balanço anual ou semestral. Tanto estes dividendos, como...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

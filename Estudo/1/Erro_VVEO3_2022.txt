@@ -1,0 +1,102 @@
+Erro: 1
+Offset 4352, length 32, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou na capacidade da Companhia, ou
+...de da Companhia ou de suas controladas, ou na capacidade da Companhia ou de suas controladas cumprir com seus co...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 7633, length 43, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou inviabilização econômica da Companhia, ou
+...es cuja materialização possa gerar dano ou inviabilização econômica da Companhia ou de suas controladas, tais como ações de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 7825, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou às regiões nas quais a Companhia, ou
+...o de danos ao meio ambiente, às pessoas ou às regiões nas quais a Companhia ou suas controladas atue.  ii. Os instrume...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 12934, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+... que possa ter consequências relevantes e ou irreversíveis, justificando a descontin...
+                                           ^^^^
+Erro: 5
+Offset 14935, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: contínua
+...ha de defesa, buscando avaliar de forma continua a eficácia de seus controles e melhoria...
+                                           ^^^^^^^^
+Erro: 6
+Offset 17204, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: papéis
+... defesa, segregados em três linhas, com papeis distintos a serem desempenhados na estr...
+                                           ^^^^^^
+Erro: 7
+Offset 17921, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: papéis
+...o das políticas de gestão, definição de papeis e responsabilidades, identificação . Ge...
+                                           ^^^^^^
+Erro: 8
+Offset 1343, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: papéis
+... defesa, segregados em três linhas, com papeis distintos a serem desempenhados na estr...
+                                           ^^^^^^
+Erro: 9
+Offset 2844, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: papéis
+...o das políticas de gestão, definição de papeis e responsabilidades, identificação de m...
+                                           ^^^^^^
+Erro: 10
+Offset 18044, length 62, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou parceiro de negócio sofrerão qualquer tipo de retaliação, ou
+... A Viveo garante que nenhum Colaborador ou parceiro de negócio sofrerão qualquer tipo de retaliação ou penalização, e referência a área de Com...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 18001, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...e demonstrado na tabela acima, continua em nível que acreditam ser confortável.  Adicion...
+                                           ^^^^^^^^
+Erro: 12
+Offset 11641, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...o resultado imediatamente.  Em dezembro de  a controlada Cremer S.A. contratou com o ...
+                                           ^^^^^
+Erro: 13
+Offset 12009, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...smo vencimento e valor. Em  de dezembro de  o saldo de nocional do contrato era de € ...
+                                           ^^^^^
+Erro: 14
+Offset 12579, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...smo vencimento e valor. Em  de dezembro de  o saldo nacional dos contratos eram de US...
+                                           ^^^^^
+Erro: 15
+Offset 13096, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...smo vencimento e valor. Em  de dezembro de  o saldo nacional do contrato era de USD  ...
+                                           ^^^^^
+Erro: 16
+Offset 7665, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ão por igual montante. Em  de fevereiro de  o Supremo Tribunal Federal (STF) reconhec...
+                                           ^^^^^
+Erro: 17
+Offset 8190, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: revertida, em contrapartida
+...equentemente a provisão constituída foi revertida em contrapartida a rubrica de outras receitas operaciona...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,96 @@
+Erro: 1
+Offset 10885, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...a das variáveis intrínsecas ao negócio, como por exemplo, o balanço de ofertademanda de energia ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 11107, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...ido à exposição a variáveis de mercado, como por exemplo, taxas de câmbio, taxas de juros, preço...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 11377, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...reços e de outras variáveis de mercado, como por exemplo, movimentos adversos nos preços de ener...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 14594, length 17, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, Além disso
+... GDE NORTE  COSERN  Versão :   PÁGINA:  de     Além disso, também se considera como mecanismos de...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 16493, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: pública, em geral
+...s, órgãos reguladores e a administração pública em geral, a Companhia conta com um programa de i...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 13399, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... carta, uma vez que durante o exercício de  a solução ainda não estava implantada.  A...
+                                           ^^^^^
+Erro: 7
+Offset 2926, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou ainda rescisão do contrato do executivo, ou
+...sa, a depender da gravidade da conduta, ou ainda rescisão do contrato do executivo ou fornecedor, previsto no próprio Código ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 1750, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: ge, Contudo
+... cobrir eventuais necessidades pontuais ge Contudo, em , não houve contração de linhas des...
+                                           ^^^^^^^^^^
+Erro: 9
+Offset 4343, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...o a dezembro de . No final do exercício de  a Cosern contava com , da dívida contabil...
+                                           ^^^^^
+Erro: 10
+Offset 4819, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...vidas existentes. No final do exercício de  a Cosern contava com , da dívida contabil...
+                                           ^^^^^
+Erro: 11
+Offset 5299, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...vidas existentes. No final do exercício de  a Cosern contava com , da dívida contabil...
+                                           ^^^^^
+Erro: 12
+Offset 5934, length 19, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: utilizados, em geral
+...dor:    Os contratos de empréstimos são utilizados em geral para capital de giro. Os principais con...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 6766, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+... principalSaldo em Outros Debenturistas a  a ..                    ..               ...
+                                           ^^^^
+Erro: 14
+Offset 6819, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...              ..                 Scotia a  a .                        .             ...
+                                           ^^^^
+Erro: 15
+Offset 10926, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+... em percentual não superior a  do lucro liquido ajustado a partir de resultados apurado...
+                                           ^^^^^^^
+Erro: 16
+Offset 19509, length 12, Rule ID: PARONYM_BENEFICIO_43
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: do benefício
+...MTM, redução da PECLD e  da amortização do beneficio ágio incorporado da controladora.  Conc...
+                                           ^^^^^^^^^^^^

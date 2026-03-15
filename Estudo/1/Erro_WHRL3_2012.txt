@@ -1,0 +1,96 @@
+Erro: 1
+Offset 5701, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ociado conforme segue: próximos  meses: de  a  de cobertura, entre  a  meses: de  a  ...
+                                           ^^^^^
+Erro: 2
+Offset 5739, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...: de  a  de cobertura, entre  a  meses: de  a  de cobertura, e entre  a  meses: de  a...
+                                           ^^^^^
+Erro: 3
+Offset 5779, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...de  a  de cobertura, e entre  a  meses: de  a  de cobertura.  É importante ressaltar ...
+                                           ^^^^^
+Erro: 4
+Offset 7379, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ês anos, sendo para os próximos  meses: de  a  de cobertura, entre  a  meses: de  a  ...
+                                           ^^^^^
+Erro: 5
+Offset 7417, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...: de  a  de cobertura, entre  a  meses: de  a  de cobertura, entre  a  meses: de  a  ...
+                                           ^^^^^
+Erro: 6
+Offset 7455, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...: de  a  de cobertura, entre  a  meses: de  a  de cobertura e, entre  a  meses: de  a...
+                                           ^^^^^
+Erro: 7
+Offset 7495, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...de  a  de cobertura e, entre  a  meses: de  a  de cobertura. Sendo necessária a aprov...
+                                           ^^^^^
+Erro: 8
+Offset 15369, length 14, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: serão limitados; será limitado
+...razo – TJLP. Os encargos deste contrato serão limitado a , ao ano, de acordo com a equalização...
+                                           ^^^^^^^^^^^^^^
+Erro: 9
+Offset 18311, length 14, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretando
+...nte pelo agravamento da crise europeia, acarretando na queda do volume de vendas, a receita lí...
+                                           ^^^^^^^^^^^^^^
+Erro: 10
+Offset 7561, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: contínua
+...sse C.  A conjuntura macroeconômica em  continua incerta. Segundo analistas de mercado, ...
+                                           ^^^^^^^^
+Erro: 11
+Offset 9181, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...as expectativas de nossos consumidores, em  a Whirlpool S.A. lançou no mercado nacion...
+                                           ^^^^^
+Erro: 12
+Offset 12625, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...    WHIRLPOOL S.A.  Versão :   PÁGINA:  de   a Companhia incorreu em dispêndios totais...
+                                           ^^^^^^
+Erro: 13
+Offset 13368, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...elativos a precificação de compressores de  a , propostas em várias jurisdições. Dive...
+                                           ^^^^^
+Erro: 14
+Offset 16556, length 15, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, Além disso
+...    WHIRLPOOL S.A.  Versão :   PÁGINA:  de   Além disso, os custos com insumos foram diretament...
+                                           ^^^^^^^^^^^^^^^
+Erro: 15
+Offset 17784, length 43, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não há eventos, ou
+...nos para tais eventos.   c. dos eventos ou operações não usuais   Não há eventos ou operações não usuais praticadas pela Co...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 16
+Offset 18770, length 9, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Porém, não
+...e IFRS seria pelo custo ou valor justo. Porém não há qualquer ressalva de nossos Auditore...
+                                           ^^^^^^^^^

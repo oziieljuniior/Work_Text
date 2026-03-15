@@ -1,0 +1,96 @@
+Erro: 1
+Offset 14693, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...éstimos em Moedas Estrangeiras  Em maio de  a controlada Cremer S.A. contratou com o ...
+                                           ^^^^^
+Erro: 2
+Offset 15378, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...remer S.A.  Dessa forma, em de dezembro de  o saldo dos contratos em nome da controla...
+                                           ^^^^^
+Erro: 3
+Offset 4547, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...o segundo em abril de . Em  de dezembro de  o saldo do contrato era de R . mil.  (h) ...
+                                           ^^^^^
+Erro: 4
+Offset 13032, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: fábricas, pois
+...s custos relacionados a mão de obra das fábricas pois serve como base para a negociação dos d...
+                                           ^^^^^^^^^^^^^
+Erro: 5
+Offset 2952, length 90, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou similar publicadas por outras companhias devido a diferentes metodologias de cálculo, ou
+... comparáveis com métricas de nome igual ou similar publicadas por outras companhias devido a diferentes metodologias de cálculo ou devido a itens que podem ser objeto de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 4076, length 53, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exercício pela receita líquida do mesmo período, ou
+...ulada pela divisão do EBITDA do período ou exercício pela receita líquida do mesmo período ou exercício. O EBITDA não é uma medida de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 18335, length 42, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou reavaliar prazos de venda a clientes, ou
+...os específicos, ajustar preços de venda ou reavaliar prazos de venda a clientes ou de compra dos fornecedores de forma a q...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 6573, length 64, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou juros sobre o capital próprio à conta de lucros acumulados, ou
+...eclaração ou distribuição de dividendos ou juros sobre o capital próprio à conta de lucros acumulados ou de reservas de lucros existentes no últ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 7111, length 64, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou juros sobre o capital próprio à conta de lucros acumulados, ou
+...eclaração ou distribuição de dividendos ou juros sobre o capital próprio à conta de lucros acumulados ou de reservas de lucros existentes no últ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 4891, length 43, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou inviabilização econômica da Companhia, ou
+...os cuja materialização possa gerar dano ou inviabilização econômica da Companhia ou de empresa dela integrante (ações de re...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 6067, length 23, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou reduzir os riscos, ou
+...hia que pode, de alguma forma, aumentar ou reduzir os riscos ou os impactos de riscos materializados, t...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 8762, length 27, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: as necessidades identificarem; as necessidades, identificar
+...risco da Companhia e, consequentemente, as necessidades identificar de recursos adicionais, como investimen...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 10081, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+... que possa ter consequências relevantes e ou irreversíveis, justificando a descontin...
+                                           ^^^^
+Erro: 14
+Offset 11903, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: contínua
+...ha de defesa, buscando avaliar de forma continua a eficácia de seus controles e melhoria...
+                                           ^^^^^^^^
+Erro: 15
+Offset 12433, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... CM Hospitalar S.A  Versão :   PÁGINA:  de   a todas as partes afetadas eou responsáve...
+                                           ^^^^^^
+Erro: 16
+Offset 15914, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: papéis
+... defesa, segregados em três linhas, com papeis distintos a serem desempenhados na estr...
+                                           ^^^^^^

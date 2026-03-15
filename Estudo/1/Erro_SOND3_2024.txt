@@ -1,0 +1,18 @@
+Erro: 1
+Offset 3566, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...mpanhia possui disponibilidade de caixa em nível apropriado para financiar seu capital d...
+                                           ^^^^^^^^
+Erro: 2
+Offset 4918, length 62, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de reservas de lucros existentes no último balanço anual, ou
+...al próprio a conta de lucros acumulados ou de reservas de lucros existentes no último balanço anual ou semestral. Tanto estes dividendos, como...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 8964, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+... a serem desempenhadas com foco em ASG. Em  a Sondotécnica se associou ao Instituto E...
+                                           ^^^^^

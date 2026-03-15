@@ -1,0 +1,54 @@
+Erro: 1
+Offset 5740, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: ., Além disso
+...da quanto pela dívida que ela já possuía. Além disso, o aumento da necessidade de capital de...
+                                           ^^^^^^^^^^^^
+Erro: 2
+Offset 7420, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nos”?
+Suggestion: Nos
+...dores que apresentaram maior variação:  Em  os indicadores que mais apresentaram varia...
+                                           ^^^^^^
+Erro: 3
+Offset 14315, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...L .. . .. , .. ,  ¹ A partir de outubro de  a Suspensys, que era filial da Randon, fo...
+                                           ^^^^^
+Erro: 4
+Offset 16579, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...,.,Total......,..,¹ A partir de outubro de  a Suspensys, que era filial da Randon, fo...
+                                           ^^^^^
+Erro: 5
+Offset 1543, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...xercícios  e  CPC IFRS  Em º de janeiro de  a Companhia adotou o CPC IFRS . Ele orien...
+                                           ^^^^^
+Erro: 6
+Offset 3320, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: assumidos, em contrapartida
+...os arrendatários reconhecer os passivos assumidos em contrapartida aos respectivos ativos correspondentes ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 6423, length 24, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou em conjunto com um, ou
+...amento tributário incerto separadamente ou em conjunto com um ou mais tratamentos fiscais incertos e con...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 269, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: por exemplo,
+...onsiderações sobre os dados utilizados, por exemplo risco de liquidez, risco de crédito e v...
+                                           ^^^^^^^^^^^
+Erro: 9
+Offset 2165, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos assuntos ou decisões de tribunais. A Companhia e su...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

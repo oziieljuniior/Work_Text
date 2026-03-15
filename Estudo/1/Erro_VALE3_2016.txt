@@ -1,0 +1,96 @@
+Erro: 1
+Offset 3430, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: incluindo, mas
+...não renovação de licenças regulatórias, incluindo mas não se limitando a licenças ambientais;...
+                                           ^^^^^^^^^^^^^
+Erro: 2
+Offset 3815, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: incluindo, mas
+...e de operações e projetos da Companhia, incluindo mas não se limitando a sistemas de informaç...
+                                           ^^^^^^^^^^^^^
+Erro: 3
+Offset 5213, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+... forma a evitar atrasos e paralisações, como por exemplo, (a) promoção de maior integração entre...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 8623, length 9, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: são partes; é parte
+...os quais a Companhia e suas controladas são parte;  (xvi) adoção, em situações de crise e...
+                                           ^^^^^^^^^
+Erro: 5
+Offset 13579, length 11, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ência    VALE S.A.  Versão :   PÁGINA:  de        a. As principais práticas de controles in...
+                                           ^^^^^^^^^^^
+Erro: 6
+Offset 3095, length 85, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou pelo Estatuto Social da Companhia bem como não têm por finalidade a deliberação, ou
+... criados pelo Conselho de Administração ou pelo Estatuto Social da Companhia bem como não têm por finalidade a deliberação ou aconselhamento dos órgãos da administra...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 5876, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, ao mesmo tempo
+...mento de dividendos e ganho de capital, e ao mesmo tempo manter um perfil de dívida adequado às ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 6356, length 19, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: utilizadas, em geral
+...oberturas destas apólices, similares às utilizadas em geral na indústria de mineração, são contrata...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 12656, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...tal em , em comparação ao , em . No ano de  a contribuição de outros produtos na rece...
+                                           ^^^^^
+Erro: 10
+Offset 1002, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: crédito
+... com prazo de cinco anos. Esta linha de credito rotativo substituiu a linha de crédito ...
+                                           ^^^^^^^
+Erro: 11
+Offset 5602, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ência    VALE S.A.  Versão :   PÁGINA:  de   o       R , bilhão em .  A Samarco acordo...
+                                           ^^^^^^
+Erro: 12
+Offset 5790, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... cada exercício, sendo que para os anos de  a  essas contribuições serão de R milhões...
+                                           ^^^^^
+Erro: 13
+Offset 1503, length 10, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de Integra
+... dos preços e à colocação das operações de Integra e Isaac Plains em suspensão, parcialmen...
+                                           ^^^^^^^^^^
+Erro: 14
+Offset 1629, length 10, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de Integra
+...e de Moatize. A suspensão das operações de Integra e Isaac Plains ocorreu em razão de invi...
+                                           ^^^^^^^^^^
+Erro: 15
+Offset 962, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ência    VALE S.A.  Versão :   PÁGINA:  de    a. Resultados das Operações da Vale, em e...
+                                           ^^^^^^^
+Erro: 16
+Offset 4014, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+... bilhões no mesmo período de . Nos anos de  o prejuízo operacional foi de R, bilhões ...
+                                           ^^^^^

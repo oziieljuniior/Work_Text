@@ -1,0 +1,24 @@
+Erro: 1
+Offset 1073, length 14, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: esses riscos são; esses riscos, é
+...os e gerimos de forma adequada e eficaz esses riscos é crucial para a nossa lucratividade, sen...
+                                           ^^^^^^^^^^^^^^
+Erro: 2
+Offset 2039, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...do saldo de contas a receber em aberto, em contrapartida o saldo de aplicações financeiras com l...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 4755, length 24, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: Como, por exemplo, analise
+...ados quaisquer outros fatores de risco (Como por exemplo analise de mercado e demanda) e a possibilidade...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 14678, length 3, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: déu
+...ais  A expansão do comércio mundial em  deu impulso ao fluxo de cargas pelo maior p...
+                                           ^^^

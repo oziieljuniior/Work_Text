@@ -1,0 +1,72 @@
+Erro: 1
+Offset 7692, length 9, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Gerências
+...e Administração, Diretoria Executivas e Gerencias de área.  c. se e como a eficiência dos...
+                                           ^^^^^^^^^
+Erro: 2
+Offset 13397, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: recomendada, pois
+...tam a TI. Sabemos que não é uma prática recomendada pois agimos de forma reativa, mas é o que po...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 16203, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: entretanto, a
+...digitação de lotes manuais continuarão, entretanto a consistência e sua efetivação do movime...
+                                           ^^^^^^^^^^^^
+Erro: 4
+Offset 16864, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: depósito
+..., referese a classificação sistêmica do deposito de trânsito que sempre zera ao final do...
+                                           ^^^^^^^^
+Erro: 5
+Offset 17064, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: depósito
+...s estoques em trânsito e já adicionou o deposito  para análise mensal.   Item   Segregaç...
+                                           ^^^^^^^^
+Erro: 6
+Offset 302, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: com efeito,
+...eira, e sua consequente redução, porém, com efeito caixa somente nos vencimentos.  O EBITD...
+                                           ^^^^^^^^^^
+Erro: 7
+Offset 796, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: ajustado, pois
+...ompanhias. A Companhia divulga o EBITDA ajustado pois utiliza esse indicador como uma de suas...
+                                           ^^^^^^^^^^^^^
+Erro: 8
+Offset 1682, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ou operações não usuais:   No exercício de  a Companhia cedeu créditos de excedente d...
+                                           ^^^^^
+Erro: 9
+Offset 14707, length 24, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou ativos específicos, ou
+...bstantivos relativos ao uso de um ativo ou ativos específicos ou, ainda, ao direito de uso de um determi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 4650, length 58, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou itens diretamente reconhecidos no patrimônio líquido, ou
+... relacionados à combinação de negócios, ou itens diretamente reconhecidos no patrimônio líquido ou em outros resultados abrangentes.  O im...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 4783, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a receber esperado sobre o lucro, ou
+... O imposto corrente é o imposto a pagar ou a receber esperado sobre o lucro ou prejuízo tributável do exercício, a tax...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 6541, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: com efeito,
+...s potencialmente conversíveis em ações, com efeito diluidor, nos períodos apresentados, no...
+                                           ^^^^^^^^^^

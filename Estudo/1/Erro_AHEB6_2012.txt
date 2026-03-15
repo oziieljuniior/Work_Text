@@ -1,0 +1,24 @@
+Erro: 1
+Offset 6849, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+...de participação societária.  c. eventos ou operações não usuais  Não houve eventos ou operações não usuais.  . Comentários do...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 10950, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Entretanto, tal
+...e a autuações por parte do INSS desde . Entretanto tal montante encontrase registrado pelo val...
+                                           ^^^^^^^^^^^^^^
+Erro: 3
+Offset 14098, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: por exemplo,
+...ada de sua implantação, não abrangendo, por exemplo as áreas de Vendas, Compras, Recursos H...
+                                           ^^^^^^^^^^^
+Erro: 4
+Offset 15087, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...la Prefeitura de São Paulo nos períodos de  a , tendo sido emitidas .. ações ordinári...
+                                           ^^^^^

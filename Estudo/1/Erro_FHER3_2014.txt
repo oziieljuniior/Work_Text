@@ -1,0 +1,24 @@
+Erro: 1
+Offset 12208, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Crédito
+...endor” (iv) , a.a.  , a.a..Operações de Credito Rural (iv)  , a.a.  , a.a....Outras obr...
+                                           ^^^^^^^
+Erro: 2
+Offset 7022, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nessa”?
+Suggestion: Nessa
+...o real frente ao dólar ocorrida no ano. Em  essa desvalorização foi de , dos quais , oco...
+                                           ^^^^^^^^
+Erro: 3
+Offset 12678, length 12, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: Os juros têm; Os juros, tem
+...ta de emissão até a data do vencimento. Os juros tem vencimento semestral a partir de novemb...
+                                           ^^^^^^^^^^^^
+Erro: 4
+Offset 140, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos assuntos ou decisões de tribunais.  . Comentários d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

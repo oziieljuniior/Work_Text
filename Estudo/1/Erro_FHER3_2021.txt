@@ -1,0 +1,66 @@
+Erro: 1
+Offset 1167, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: no entanto,
+...de gerenciamento de riscos formalizada, no entanto o Conselho de Administração atribuiu à ...
+                                           ^^^^^^^^^^
+Erro: 2
+Offset 4230, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: no entanto,
+...de gerenciamento de riscos formalizada, no entanto o Conselho de Administração atribuiu à ...
+                                           ^^^^^^^^^^
+Erro: 3
+Offset 8721, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “às”?
+Suggestion: às
+...ações financeiras confiáveis, indicar:  a as principais práticas de controles intern...
+                                           ^^^^
+Erro: 4
+Offset 15735, length 95, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou aumento na exposição do emissor a tais riscos Não foi identificado um cenário de aumento, ou
+...inda, eventuais expectativas de redução ou aumento na exposição do emissor a tais riscos  Não foi identificado um cenário de aumento ou redução na exposição da Companhia aos r...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 15643, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+... de venda. Custo dos produtos vendidos  Em  o custo dos produtos vendidos foi de R .,...
+                                           ^^^^^
+Erro: 6
+Offset 17956, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...do positivo de R ., milhões de . No ano de  o valor (R , milhões de despesa) contempl...
+                                           ^^^^^
+Erro: 7
+Offset 18114, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...recuperação judicial homologado. No ano de  o valor (R , bilhões de receita) foi cons...
+                                           ^^^^^
+Erro: 8
+Offset 3369, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de participação societária Não se aplica c. eventos, ou
+...ão se aplica b. constituição, aquisição ou alienação de participação societária  Não se aplica c. eventos ou operações não usuais  Não se aplica   ....
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 12521, length 25, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou falência da empresa, ou
+...e no caso de inadimplência, insolvência ou falência da empresa ou da contraparte.  (e) Instrumentos finan...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 16010, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: IASB, mas
+...lterações de normas foram emitidas pelo IASB mas não estão em vigor para o exercício de ...
+                                           ^^^^^^^^
+Erro: 11
+Offset 2518, length 3, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “ao”?
+Suggestion: ao
+... vista a novação da dívida que compunha a o saldo da recuperação. Adicionalmente du...
+                                           ^^^

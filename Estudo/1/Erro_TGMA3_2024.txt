@@ -1,0 +1,42 @@
+Erro: 1
+Offset 8442, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ociada foi de CDI , ao ano. Em setembro de  a Tegma Cargas Especiais Ltda. firmou con...
+                                           ^^^^^
+Erro: 2
+Offset 15412, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... bases de cálculo (do período de agosto de  a dezembro de ). O valor do crédito, líqu...
+                                           ^^^^^
+Erro: 3
+Offset 12868, length 15, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: financeiras, mas
+...informações adicionais às demonstrações financeiras mas não são medidas contábeis de acordo com...
+                                           ^^^^^^^^^^^^^^^
+Erro: 4
+Offset 11195, length 30, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou recebimento de vantagens, ou
+...rnecedores e parceiros; (iii) concessão ou recebimento de vantagens ou benefícios; (iv) conflito de interesses...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 3771, length 28, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou locação de bens móveis, ou
+...u serviços, atividades de representação ou locação de bens móveis ou imóveis ·               as sanções apli...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 4273, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...eou Comitê de Gestão Gente e Governança e ou Conselho de Administração. A aplicação ...
+                                           ^^^^
+Erro: 7
+Offset 7943, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...etidas, aplica as medidas disciplinares e ou outras medidas julgadas cabíveis para r...
+                                           ^^^^

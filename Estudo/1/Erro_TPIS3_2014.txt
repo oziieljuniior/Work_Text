@@ -1,0 +1,144 @@
+Erro: 1
+Offset 19621, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: câmbio
+...bem como pela exposição a oscilações de cambio que aumentem as suas despesas financeir...
+                                           ^^^^^^
+Erro: 2
+Offset 5279, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+... prazo, que totalizavam em  de dezembro de  o montante de R., milhões. Em  de dezembr...
+                                           ^^^^^
+Erro: 3
+Offset 8555, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...es em  de dezembro de . Em  de dezembro de  a dívida líquida era de R, milhões.  Em  ...
+                                           ^^^^^
+Erro: 4
+Offset 11890, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+... disponibilidades de caixa da Companhia em nível que os Diretores da Companhia acreditam...
+                                           ^^^^^^^^
+Erro: 5
+Offset 12114, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...linhados com a estratégia da Companhia. Em  a Companhia irá contar com a distribuição...
+                                           ^^^^^
+Erro: 6
+Offset 17063, length 17, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: As debêntures têm; As debêntures, tem
+...l de R, milhão, totalizando R, milhões. As debêntures tem um prazo de vigência de  . Comentários ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 14941, length 10, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: específica
+... da Companhia têm sempre uma destinação especifica, qual seja, compor parte do preço de aq...
+                                           ^^^^^^^^^^
+Erro: 8
+Offset 16250, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquida
+...)          ,(.)    ,Receita Operacional Liquida.         .         ,.   ,Receita de Con...
+                                           ^^^^^^^
+Erro: 9
+Offset 16352, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquida
+...  .         ,.     ,Receita Operacional Liquida Ajustada.         .         ,.   ,. Com...
+                                           ^^^^^^^
+Erro: 10
+Offset 2214, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nas”?
+Suggestion: Nas
+...S.A.  Versão :   PÁGINA:  de       vs   Em  as despesas operacionais, excluindo as des...
+                                           ^^^^^^
+Erro: 11
+Offset 13965, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...rações descontinuadas.  Em  de dezembro de  o passivo não circulante totalizou R ., m...
+                                           ^^^^^
+Erro: 12
+Offset 17210, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...s em  de dezembro de .  Em  de dezembro de  o passivo não circulante totalizou R ., m...
+                                           ^^^^^
+Erro: 13
+Offset 5296, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... variações nas receitas durante os anos de  a  deveramse, principalmente à:   O tráf...
+                                           ^^^^^
+Erro: 14
+Offset 11694, length 22, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: o serviço apresentava; o serviço, apresentavam
+...as, NTL, Vessel e Maestra, que operavam o serviço apresentavam alta alavancagem operacional e baixa ut...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 15
+Offset 16720, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Agência
+...s Brasil  Viracopos S.A., assinou com a Agencia Nacional de Aviação Civil (“ANAC”) o co...
+                                           ^^^^^^^
+Erro: 16
+Offset 18464, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... Rio Canoas  Durante o último trimestre de  a Companhia foi procurada por importantes...
+                                           ^^^^^
+Erro: 17
+Offset 18995, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...nistração.  Além disso, em  de dezembro de  a participação na controlada Rio Canoas t...
+                                           ^^^^^
+Erro: 18
+Offset 19833, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: individual, porém
+...mercializar” na demonstração financeira individual porém, segregado entre “Ativos e Passivos de ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 19
+Offset 578, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: práticas
+...auditor  a) Mudanças significativas nas praticas contábeis  Os Diretores informam que no...
+                                           ^^^^^^^^
+Erro: 20
+Offset 1505, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+... Brasil e , na Vetria. Até  de dezembro de  os ativos, passivos, receitas e despesas d...
+                                           ^^^^^^
+Erro: 21
+Offset 1771, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...dadas (IFRS ), a partir de º de janeiro de  os Diretores concluíram que tais investime...
+                                           ^^^^^^
+Erro: 22
+Offset 13348, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+... Os Diretores da Companhia informam que em  a Administração decidiu manter à venda as...
+                                           ^^^^^
+Erro: 23
+Offset 14437, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+... Os Diretores da Companhia informam que em  a Administração decidiu, em conjunto com ...
+                                           ^^^^^
+Erro: 24
+Offset 390, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos assuntos ou decisões de tribunais.  Segundo comentá...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

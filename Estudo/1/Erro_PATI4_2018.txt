@@ -1,0 +1,42 @@
+Erro: 1
+Offset 1172, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: prática
+...mento pelas usinas siderúrgicas a mesma pratica a política de manter um estoque em zona...
+                                           ^^^^^^^
+Erro: 2
+Offset 3781, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Gerência
+...ções financeiras conta com o suporte da Gerencia Administrativa Financeira juntamente co...
+                                           ^^^^^^^^
+Erro: 3
+Offset 12408, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquida
+...nsolidado  R Mil                Receita Liquida .  .  . Custos dos Prod. Vendidos (.)  ...
+                                           ^^^^^^^
+Erro: 4
+Offset 15944, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...    Patrimônio Líquido     No exercício de  o Capital Social foi aumentado de R , mil...
+                                           ^^^^^
+Erro: 5
+Offset 17287, length 22, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: metalmecânica, em geral
+...ndústria de eletrodomésticos, indústria metalmecânica em geral, etc..    ii. Fatores que afetaram mate...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 17415, length 7, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...eracionais  Os fatores da macroeconomia a nível nacional eou mundial afetaram o mercado...
+                                           ^^^^^^^
+Erro: 7
+Offset 17932, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: das; dê as
+...rios setores no mercado interno. No ano de  as vendas registraram um acréscimo de , em...
+                                           ^^^^^^

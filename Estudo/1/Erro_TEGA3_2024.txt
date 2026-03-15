@@ -1,0 +1,30 @@
+Erro: 1
+Offset 16007, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+... no estoque de imóveis a comercializar, em contrapartida a adiantamento de clientes no passivo, ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 17076, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...ica Estoque de imóveis a comercializar, em contrapartida à rubrica de Contas a pagar por aquisiç...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 1171, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...pulsionar a economia circular  Aumentar em  o uso de materiais de fontes renováveis, ...
+                                           ^^^^^
+Erro: 4
+Offset 13067, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...as Nos últimos  exercícios sociais, não houveram casos confirmados de desvios, fraudes, ...
+                                           ^^^^^^^^
+Erro: 5
+Offset 13748, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...cial encerrado em  de dezembro de , não houveram alterações significativas nos principai...
+                                           ^^^^^^^^

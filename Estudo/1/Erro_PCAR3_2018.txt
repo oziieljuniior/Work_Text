@@ -1,0 +1,54 @@
+Erro: 1
+Offset 2380, length 9, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: contínuas
+...inua seu processo de busca de melhorias continuas nos controles gerais de TI e que possui...
+                                           ^^^^^^^^^
+Erro: 2
+Offset 7284, length 41, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou outras violações ao Código de Ética, ou
+...álises de suspeita de corrupção, fraude ou outras violações ao Código de Ética ou Política Anticorrupção por parte de col...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 8626, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...            . AnoConsolidadoDe  a  anos.De  a  anos.De  a  anosDe  a  anosApós  anosS...
+                                           ^^^^^
+Erro: 4
+Offset 8638, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+.... AnoConsolidadoDe  a  anos.De  a  anos.De  a  anosDe  a  anosApós  anosSubtotal.Cust...
+                                           ^^^^^
+Erro: 5
+Offset 8995, length 19, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: é a mês; são a meses
+...ses. Entretanto, o prazo mais utilizado é inferior a  meses. Em  e , não há a apresentação deste sa...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 18708, length 15, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, Além disso
+...RA DE DISTRIBUICAO  Versão :   PÁGINA:  de   Além disso, as “Disposições Aplicáveis aos Contrat...
+                                           ^^^^^^^^^^^^^^^
+Erro: 7
+Offset 15363, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+... investimento em Cnova. Em  de dezembro de  os investimentos representavam , do ativo ...
+                                           ^^^^^^
+Erro: 8
+Offset 5569, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...Formulário de Referência.  Até dezembro de  a Companhia e suas subsidiárias outorgava...
+                                           ^^^^^
+Erro: 9
+Offset 11558, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...da Barcelona por Sendas.   Em  de abril de  os ativos e passivos da Barcelona foram in...
+                                           ^^^^^^

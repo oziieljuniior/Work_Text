@@ -1,0 +1,66 @@
+Erro: 1
+Offset 4599, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: câmbio
+...e hedge não estamos expostos a risco de cambio.  Nossa utilização de instrumentos fina...
+                                           ^^^^^^
+Erro: 2
+Offset 3464, length 8, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: aluguéis
+...es devido ao crescimento da receita dos alugueis de galerias comerciais, maior participa...
+                                           ^^^^^^^^
+Erro: 3
+Offset 4297, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...ida e totalizaram R , bilhões, enquanto em  o montante foi de R , bilhões e represent...
+                                           ^^^^^
+Erro: 4
+Offset 17868, length 19, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: é a mês; são a meses
+...ses, entretanto, o prazo mais utilizado é inferior a  meses.  Financiamento do capital de giro, swa...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 3167, length 27, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: obrigações, em contrapartida
+... , remanescia no Fundo saldo de caixa e obrigações em contrapartida às quotas subordinadas que foram resgat...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 19345, length 8, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: aluguéis
+...função do crescimento da receita de dos alugueis de galerias comerciais; maior participa...
+                                           ^^^^^^^^
+Erro: 7
+Offset 3097, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nas”?
+Suggestion: Nas
+...utras Despesas e Receitas Operacionais  Em  as outras despesas e receitas operacionais...
+                                           ^^^^^^
+Erro: 8
+Offset 14567, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “neste”?
+Suggestion: neste
+...e crédito dos últimos  dias do ano em  (em  este efeito ficou prejudicado, pois os últim...
+                                           ^^^^^^^^
+Erro: 9
+Offset 1681, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...montante de R  milhões. Em  de dezembro de  os investimentos representavam , do nosso ...
+                                           ^^^^^^
+Erro: 10
+Offset 409, length 11, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: subsidiária
+...duas) ações preferenciais de emissão da subsidiaria Via Varejo.  Em , a participação de aci...
+                                           ^^^^^^^^^^^
+Erro: 11
+Offset 13392, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...nanceiras consolidadas.  Em  de outubro de  a Assembleia Geral de Acionistas da Compa...
+                                           ^^^^^

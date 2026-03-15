@@ -1,0 +1,42 @@
+Erro: 1
+Offset 9580, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: das; dê as
+... milhões.   Debêntures. Em  de dezembro de  as debêntures totalizavam R . milhões.  Pa...
+                                           ^^^^^^
+Erro: 2
+Offset 15446, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...A:  de     Em comparação a  de dezembro de  a receita operacional líquida não apresen...
+                                           ^^^^^
+Erro: 3
+Offset 7074, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+... em relação ao exercício de , atingindo em  o montante de R  milhões. Essa redução de...
+                                           ^^^^^
+Erro: 4
+Offset 15162, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou intercalares à conta de lucros apurados em balanços semestrais, ou
+...mbleia Geral, dividendos intermediários ou intercalares à conta de lucros apurados em balanços semestrais ou de períodos menores. d. Eventuais restr...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 15436, length 91, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou arbitrais Não existem restrições à distribuição de dividendos impostas por legislação, ou
+...os, decisões judiciais, administrativas ou arbitrais Não existem restrições à distribuição de dividendos impostas por legislação ou regulamentação especial aplicável ao em...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 18037, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: pt, Além disso
+...dCanal=QaOjWSkrceEfQTiDpzLQ==&linguagem=pt  Além disso, em  o Código de Conduta Ética para For...
+                                           ^^^^^^^^^^^^^^
+Erro: 7
+Offset 18053, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...eEfQTiDpzLQ==&linguagem=pt  Além disso, em  o Código de Conduta Ética para Fornecedor...
+                                           ^^^^^

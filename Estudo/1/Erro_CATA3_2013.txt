@@ -1,0 +1,48 @@
+Erro: 1
+Offset 1481, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, ao mesmo tempo
+...cados, dentro de parâmetros aceitáveis, e ao mesmo tempo otimizar o retorno.   Risco do aumento ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 2222, length 9, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: são dólares; é dólar
+... quais estas transações são denominadas são dólar norteamericano, euro e franco suíço.  R...
+                                           ^^^^^^^^^
+Erro: 3
+Offset 1405, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...udo  minimizada pela melhora na receita liquida por metros lineares vendidos. O custo d...
+                                           ^^^^^^^
+Erro: 4
+Offset 9757, length 12, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: são retiradas; é retirada
+...orre quando suas obrigações contratuais são retirada, cancelada ou vencida.  Os ativos e pas...
+                                           ^^^^^^^^^^^^
+Erro: 5
+Offset 19938, length 9, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: são partes; é parte
+...      (.)  A Companhia e sua controlada são parte (polo passivo) em ações judiciais peran...
+                                           ^^^^^^^^^
+Erro: 6
+Offset 2073, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... na Nota explicativa a, em  de novembro de  a Companhia protocolou requerimento relat...
+                                           ^^^^^
+Erro: 7
+Offset 2943, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: depósito
+...a do débito, e solicitar a liberação do deposito judicial a seu favor, aos orgãos compet...
+                                           ^^^^^^^^
+Erro: 8
+Offset 5649, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...o interposição de Recurso de Apelação e em  a decisão desfavorável a Companhia foi tr...
+                                           ^^^^^

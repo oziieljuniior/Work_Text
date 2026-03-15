@@ -1,0 +1,36 @@
+Erro: 1
+Offset 888, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: que, em geral
+...o contrato possui cláusulas restritivas que em geral, requerem a manutenção de certos índice...
+                                           ^^^^^^^^^^^^
+Erro: 2
+Offset 12724, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: que, em geral
+...ebêntures possuem cláusulas restritivas que em geral, requerem a manutenção de certos índice...
+                                           ^^^^^^^^^^^^
+Erro: 3
+Offset 9375, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...rcício social encerrado em  de dezembro de  a introdução ou alienação de qualquer seg...
+                                           ^^^^^
+Erro: 4
+Offset 9687, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...rcício social encerrado em  de dezembro de  a constituição, aquisição ou alienação de...
+                                           ^^^^^
+Erro: 5
+Offset 14662, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ontroladas EMT e EMS ✓ Em  de fevereiro de  a controlada indireta EMT efetuou a ª emi...
+                                           ^^^^^
+Erro: 6
+Offset 15074, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...de energia elétrica. ✓ Em  de fevereiro de  a controlada indireta EMS efetuou a ª emi...
+                                           ^^^^^

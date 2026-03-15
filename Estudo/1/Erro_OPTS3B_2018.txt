@@ -1,0 +1,18 @@
+Erro: 1
+Offset 18355, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...saldo do contas a pagar era de R  mil e em  a Companhia não possuía saldo no contas a...
+                                           ^^^^^
+Erro: 2
+Offset 7075, length 60, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de segmento operacional Não houve introdução, ou
+...emissor e seu resultado. (a) introdução ou alienação de segmento operacional Não houve introdução ou alienação de segmentos operacionais da ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 7429, length 43, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve evento, ou
+... demonstrações financeiras. (c) eventos ou operações não usuais Não houve evento ou operação não usual não refletida nas de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

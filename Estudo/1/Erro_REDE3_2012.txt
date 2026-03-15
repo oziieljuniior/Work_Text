@@ -1,0 +1,210 @@
+Erro: 1
+Offset 5925, length 6, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; ou
+...COMPANHIA (incluídos os juros vencidos) e , ou R., milhões do endividamento financeiro...
+                                           ^^^^^^
+Erro: 2
+Offset 4473, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...rosso) e , (Mato Grosso do Sul) ao ano, de  a . Em nossas concessionárias da região N...
+                                           ^^^^^
+Erro: 3
+Offset 4886, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ional de consumo elétrico, que foi de , de  a . Além disso, a REDE ENERGIA acredita q...
+                                           ^^^^^
+Erro: 4
+Offset 15653, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...de capital próprio (ou seja, patrimônio liquido dividido pelo ativo total) e (ii) , de ...
+                                           ^^^^^^^
+Erro: 5
+Offset 19215, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+... financeira liquida .. .. .. Patrimônio liquido .. .. .. Índice de endividamento , , , ...
+                                           ^^^^^^^
+Erro: 6
+Offset 19454, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquido
+... de caixa e subrogação CCC.  Patrimônio Liquido: é o saldo da conta patrimônio liquido ...
+                                           ^^^^^^^
+Erro: 7
+Offset 19493, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+... Liquido: é o saldo da conta patrimônio liquido do passivo.  ìndice de endividamento: D...
+                                           ^^^^^^^
+Erro: 8
+Offset 5595, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...PARTICIPAÇÕES S.A.  Versão :   PÁGINA:  de   a emissão: Em Reunião do Conselho de Admi...
+                                           ^^^^^^
+Erro: 9
+Offset 6349, length 3, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: À
+...seis meses de carência, e a última em . A a parcela corresponde ao saldo devedor do...
+                                           ^^^
+Erro: 10
+Offset 7909, length 3, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...ures, com vencimento da a parcela em  e a a parcela, no valor correspondente ao sal...
+                                           ^^^
+Erro: 11
+Offset 9539, length 25, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: Essas reestruturações têm; Essas reestruturações, tem
+...l. A forma de amortização é semestral.  Essas reestruturações tem garantias de aval do Governo do Estado,...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 11736, length 10, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: são dívidas; é Dívida
+...forma geral, os índices mais relevantes são Dívida FinanceiraEBITDA e EBITDADespesa Financ...
+                                           ^^^^^^^^^^
+Erro: 13
+Offset 15254, length 12, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: subsidiárias
+...azão da evolução dos resultados de suas subsidiarias, conforme demonstrado abaixo (valores e...
+                                           ^^^^^^^^^^^^
+Erro: 14
+Offset 16955, length 12, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: subsidiárias
+...azão da evolução dos resultados de suas subsidiarias, conforme demonstrado abaixo:          ...
+                                           ^^^^^^^^^^^^
+Erro: 15
+Offset 1527, length 20, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: Retirandose, portanto
+... no resultado operacional da companhia. Retirandose portanto os efeitos da receita de construção, o ...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 16
+Offset 7009, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: Houve; Houvera
+...nto na receita finaneira de R, milhões. Houveram ganhos com as operações de swap em virt...
+                                           ^^^^^^^^
+Erro: 17
+Offset 8648, length 20, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: Retirandose, portanto
+...esultado operacional da REDE COMPANHIA. Retirandose portanto os efeitos da receita de construção, o ...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 18
+Offset 16574, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...ão de juros do período, uma vez que não houveram alterações no perfil dessas transações....
+                                           ^^^^^^^^
+Erro: 19
+Offset 9375, length 23, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: Considerandose, portanto
+..., somaram R, milhões e em , R, milhões. Considerandose portanto os recursos destinados a aumento de cap...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 20
+Offset 10867, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquida
+...  .. .. Deduções (..) (..) (..) Receita Liquida .. .. ..  E no quadro abaixo, estão dem...
+                                           ^^^^^^^
+Erro: 21
+Offset 12271, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...encial, com  GWh e comercial, com  GWh. De  a , o mercado consolidado cresceu a uma m...
+                                           ^^^^^
+Erro: 22
+Offset 12862, length 11, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: subsidiária
+...te pela comercialização de energia pela subsidiaria REDECOM, que registrou aumento de  GWh ...
+                                           ^^^^^^^^^^^
+Erro: 23
+Offset 18445, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...amente.  Em  de dezembro de , a receita liquida da JURUENA era de R , milhões e a recei...
+                                           ^^^^^^^
+Erro: 24
+Offset 18495, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+... JURUENA era de R , milhões e a receita liquida da REDE ENERGIA consolidado era de R .,...
+                                           ^^^^^^^
+Erro: 25
+Offset 18562, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...solidado era de R ., milhões. A receita liquida da JURUENA representava , da receita li...
+                                           ^^^^^^^
+Erro: 26
+Offset 18607, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...da da JURUENA representava , da receita liquida da REDE ENERGIA consolidado.  Em  de de...
+                                           ^^^^^^^
+Erro: 27
+Offset 19304, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...Assim, nos últimos três exercícios, não houveram constituições, aquisições ou alienações...
+                                           ^^^^^^^^
+Erro: 28
+Offset 19838, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...ntábeis  No final do exercício de , não houveram mudanças significativas nas práticas co...
+                                           ^^^^^^^^
+Erro: 29
+Offset 7258, length 36, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: outras lavouras temporárias avaliarão; outras lavouras temporárias, avaliará
+...or objeto o cultivo de cana de açúcar e outras lavouras temporárias avaliará os efeitos desta deliberação nas suas d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 30
+Offset 11394, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...circulante em R .. mil. Em  de dezembro de  os ativos e passivos da CELPA foram classi...
+                                           ^^^^^^
+Erro: 31
+Offset 16194, length 6, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: dúvida
+...certeza significativa que pode levantar duvida relevante quanto à capacidade operacion...
+                                           ^^^^^^
+Erro: 32
+Offset 16256, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: que, portanto
+...o à capacidade operacional da CELTINS e que portanto pode não ser capaz de realizar seus ati...
+                                           ^^^^^^^^^^^^
+Erro: 33
+Offset 16379, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: práticas
+... curso normal dos negócios. Conforme as praticas contábeis adotadas no Brasil especifica...
+                                           ^^^^^^^^
+Erro: 34
+Offset 5920, length 22, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou emissão do ativo, ou
+...ejam diretamente atribuídos à aquisição ou emissão do ativo ou passivo financeiro, pelo custo ou pelo ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 35
+Offset 1990, length 37, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou cambial por força de legislação, ou
+...que estão sujeitos a variação monetária ou cambial por força de legislação ou cláusulas contratuais, estão atualizado...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

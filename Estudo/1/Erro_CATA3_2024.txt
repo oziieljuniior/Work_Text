@@ -1,0 +1,48 @@
+Erro: 1
+Offset 2866, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...essas operações com recebíveis futuros. Em  a Companhia obteve uma aporte de uma oper...
+                                           ^^^^^
+Erro: 2
+Offset 12218, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nos”?
+Suggestion: Nos
+...l e no resultado financeiro do emissor  Em  os resultados operacionais e financeiros d...
+                                           ^^^^^^
+Erro: 3
+Offset 13694, length 54, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de participação societária c. eventos, ou
+...operacional  b. constituição, aquisição ou alienação de participação societária  c. eventos ou operações não usuais  A Companhia não r...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 15031, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: Ajustado, pois
+...ompanhias. A Companhia divulga o EBITDA Ajustado pois utiliza esse indicador como uma de suas...
+                                           ^^^^^^^^^^^^^
+Erro: 5
+Offset 10550, length 9, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Gerências
+...e Administração, Diretoria Executivas e Gerencias de área. c. se e como a eficiência dos ...
+                                           ^^^^^^^^^
+Erro: 6
+Offset 401, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou aceitar favores com a intenção de obter, ou
+...es e aos Parceiros:  I. Fazer, oferecer ou aceitar favores com a intenção de obter ou manter, de modo ilegal e antiético, con...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 874, length 33, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou brindes de agentes públicos, ou
+...ação de serviço.  IV. Aceitar presentes ou brindes de agentes públicos ou entidades privadas, ou qualquer outro t...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 2053, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...presentes e brindes de agentes públicos e ou entidades privadas, com exceção de pres...
+                                           ^^^^

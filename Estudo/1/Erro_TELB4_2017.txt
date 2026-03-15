@@ -1,0 +1,36 @@
+Erro: 1
+Offset 19820, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nessa”?
+Suggestion: nessa
+...é de ,, enquanto que no exercício findo em  essa taxa era de ,.   Patrimônio Líquido  A ...
+                                           ^^^^^^^^
+Erro: 2
+Offset 1045, length 7, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ou seja,
+...ice de liquidez geral foi de , (, em )  ou seja  para cada R , de obrigações de curto e...
+                                           ^^^^^^^
+Erro: 3
+Offset 2445, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou captar mais recursos para financiamento, ou
+...tos compromissados. Será necessário (i) ou captar mais recursos para financiamento ou (ii) aporte de capital do Acionista Con...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 19577, length 17, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: portanto, resultar
+...m processos judiciais alterem, podendo, portanto resultar em mudanças nas futuras provisões para ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 12431, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: Integral, Contudo
+...cessoSituaçãoValor ConsolidadoPagamento Integral Contudo, tais débitos não encontramse parcelado...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 14832, length 8, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: espírito
+...                       Gustavo tibau do espirito santo alv.,                            ...
+                                           ^^^^^^^^

@@ -1,0 +1,48 @@
+Erro: 1
+Offset 5232, length 17, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: é supervisionada; são supervisionadas
+...omo a eficiência dos controles internos é supervisionadas pela administração do emissor, indicand...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 12671, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, ao mesmo tempo
+...nuidade de suas atividades operacionais e ao mesmo tempo maximizar o retorno aos seus acionistas...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 8440, length 17, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: a Companhia foi; a Companhia fora; a Companhia, foram
+...encerrado em  de dezembro de , enquanto a Companhia foram registrou R , milhões em recuperação de...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 11207, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...e COFINS relativo ao período de outubro de  a julho de , devido ao êxito em ação judi...
+                                           ^^^^^
+Erro: 5
+Offset 4263, length 63, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de participação societária Não houve aquisição, ou
+... de , , e .  b. Constituição, aquisição ou alienação de participação societária  Não houve aquisição ou alienação de participação societária no...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 8661, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+... mensurados pelo custo amortizado tanto em nível individual como em nível coletivo. Todo...
+                                           ^^^^^^^^
+Erro: 7
+Offset 8686, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...ortizado tanto em nível individual como em nível coletivo. Todos os ativos individualmen...
+                                           ^^^^^^^^
+Erro: 8
+Offset 12533, length 22, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: justo, em contrapartida
+...ento inicial, são mensuradas pelo valor justo em contrapartida de resultados abrangentes líquidas dos ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^

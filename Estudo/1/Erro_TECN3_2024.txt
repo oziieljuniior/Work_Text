@@ -1,0 +1,36 @@
+Erro: 1
+Offset 14596, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...iamento foi de R , milhões em  enquanto em  a Companhia aplicou R , milhões.  Caixa l...
+                                           ^^^^^
+Erro: 2
+Offset 14860, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...Caixa e equivalentes de caixa  Ao final de  o Grupo Technos registrou aumento líquido...
+                                           ^^^^^
+Erro: 3
+Offset 19076, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ia    TECHNOS S.A.  Versão :   PÁGINA:  de   o ambiente macro de baixa atividade econô...
+                                           ^^^^^^
+Erro: 4
+Offset 5988, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+...s dois últimos exercícios.   c) Eventos ou operações não usuais  Não houve eventos ou operação não usuais realizadas pela Com...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 16034, length 61, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de reserva de lucros existentes no último balanço anual, ou
+...rmediários à conta de lucros acumulados ou de reserva de lucros existentes no último balanço anual ou semestral. Foi aprovada, “ad referendum...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 16842, length 61, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de reserva de lucros existentes no último balanço anual, ou
+...rmediários à conta de lucros acumulados ou de reserva de lucros existentes no último balanço anual ou semestral. Foi aprovada, “ad referendum...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

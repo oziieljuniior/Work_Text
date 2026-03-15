@@ -1,0 +1,84 @@
+Erro: 1
+Offset 10264, length 9, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Gerências
+...e Administração, Diretoria Executivas e Gerencias de área.  c. se e como a eficiência dos...
+                                           ^^^^^^^^^
+Erro: 2
+Offset 14215, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: câmbio
+...ansparência no processo de contração de cambio, a partir de Nov implementamos “Simulad...
+                                           ^^^^^^
+Erro: 3
+Offset 17098, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Portanto, não
+...a estrutura produtiva e administrativa. Portanto não será alterado o procedimento vigente. ....
+                                           ^^^^^^^^^^^^
+Erro: 4
+Offset 18178, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Entretanto, o
+...embarque da mercadoria para o exterior. Entretanto o saldo líquido destas distorções no MI s...
+                                           ^^^^^^^^^^^^
+Erro: 5
+Offset 19111, length 5, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: vagão,
+...o de efeito vagão Não procede. O efeito vagão quando relevante é efetuado os devidos ...
+                                           ^^^^^
+Erro: 6
+Offset 808, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: prática
+... em nosso sistema. Não iremos alterar a pratica vigente. Item   Adicional de Insalubrid...
+                                           ^^^^^^^
+Erro: 7
+Offset 3498, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: prática
+...de questionamento. Não iremos alterar a pratica vigente. Item   Previdência Privada  De...
+                                           ^^^^^^^
+Erro: 8
+Offset 3901, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: prática
+...os empregados. Não iremos alterar nossa pratica atual. . Gerenciamento de riscos e cont...
+                                           ^^^^^^^
+Erro: 9
+Offset 19671, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...           .          CCENCERCDI  juros de  a , .              .          FGPPR,.    ...
+                                           ^^^^^
+Erro: 10
+Offset 8609, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ou operações não usuais:   No exercício de  a Companhia cedeu créditos de excedente d...
+                                           ^^^^^
+Erro: 11
+Offset 1153, length 24, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou ativos específicos, ou
+...bstantivos relativos ao uso de um ativo ou ativos específicos ou, ainda, ao direito de uso de um determi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 11028, length 58, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou itens diretamente reconhecidos no patrimônio líquido, ou
+... relacionados à combinação de negócios, ou itens diretamente reconhecidos no patrimônio líquido ou em outros resultados abrangentes.   O i...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 13
+Offset 11162, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a receber esperado sobre o lucro, ou
+... O imposto corrente é o imposto a pagar ou a receber esperado sobre o lucro ou prejuízo tributável do exercício, a tax...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 14
+Offset 13329, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: com efeito,
+...s potencialmente conversíveis em ações, com efeito diluidor, nos períodos apresentados, no...
+                                           ^^^^^^^^^^

@@ -1,0 +1,66 @@
+Erro: 1
+Offset 3494, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...   ODONTOPREV S.A.  Versão :   PÁGINA:  de    a) se o emissor possui uma política forma...
+                                           ^^^^^^^
+Erro: 2
+Offset 5818, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...   ODONTOPREV S.A.  Versão :   PÁGINA:  de    a. as principais práticas de controles in...
+                                           ^^^^^^^
+Erro: 3
+Offset 7096, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+... Reuniões periódicas de acompanhamento em nível de Gestores, Diretoria, Comitê de Audit...
+                                           ^^^^^^^^
+Erro: 4
+Offset 15350, length 28, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: mensalidade, em contrapartida
+...prépagamento, que prevê a liquidação da mensalidade em contrapartida ao direito de utilização do benefício, ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 19093, length 18, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: odontológicos, pois
+... impacto direto nos contratos de planos odontológicos pois podem ser aumentados em decorrência do ...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 5393, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...   ODONTOPREV S.A.  Versão :   PÁGINA:  de   o ano anterior, com destaque para os segm...
+                                           ^^^^^^
+Erro: 7
+Offset 6555, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: ocorridos, mas
+...           Provisão de eventossinistros ocorridos mas não avisados (PEONA).           ,      ...
+                                           ^^^^^^^^^^^^^
+Erro: 8
+Offset 19567, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...ial, foi excluída do Custo de Serviços. Em  a PEONA representou constituição de R, mi...
+                                           ^^^^^
+Erro: 9
+Offset 9849, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: ocorridos, mas
+...           Provisão de eventossinistros ocorridos mas não avisados (PEONA).           ,      ...
+                                           ^^^^^^^^^^^^^
+Erro: 10
+Offset 4039, length 52, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+...e  de dezembro de .          c) Eventos ou operações não usuais         Não houve eventos ou operações não usuais no período.       ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 8199, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: contínua
+...ivas e premissas são revisadas de forma continua sendo as revisões reconhecidas prospect...
+                                           ^^^^^^^^

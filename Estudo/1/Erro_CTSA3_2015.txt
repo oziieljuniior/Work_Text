@@ -1,0 +1,48 @@
+Erro: 1
+Offset 14960, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, ao mesmo tempo
+...nuidade de suas atividades operacionais e ao mesmo tempo maximizar o retorno aos seus acionistas...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 6256, length 16, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...uperação Judicial   Versão :   PÁGINA:  de             a   Total Moeda estrangeira:       Banco ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 7437, length 1, Rule ID: DIACRITICS
+Message: Verifique se não quis escrever “à” ou “a”.
+Suggestion: à; a
+... emissão de novos valores mobiliários e á alienação de controle societário.   Não...
+                                           ^
+Erro: 4
+Offset 7970, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...vo de resultados obtidos nos exercícios de  a :   R milhões     Var    Var         Re...
+                                           ^^^^^
+Erro: 5
+Offset 3486, length 63, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de participação societária Não houve aquisição, ou
+...eracional.   b. Constituição, aquisição ou alienação de participação societária  Não houve aquisição ou alienação de participação societária.  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 3601, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+...e participação societária.   c. Eventos ou operações não usuais  Não houve eventos ou operações não usuais na Companhia.  . C...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 8465, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...ão para perdas com itens descontinuados e ou obsoletos. Os valores de realização líq...
+                                           ^^^^
+Erro: 8
+Offset 17808, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ública de ações da Companhia no período de  a .  b. Desvios relevantes entre a aplica...
+                                           ^^^^^

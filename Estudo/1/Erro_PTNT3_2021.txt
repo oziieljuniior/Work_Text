@@ -1,0 +1,54 @@
+Erro: 1
+Offset 2697, length 7, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: porém, o
+...que aos poucos a economia iria retomar, porém o final do primeiro semestre de , trouxe ...
+                                           ^^^^^^^
+Erro: 2
+Offset 2439, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+.... INDUSTRIA TEXTIL  Versão :   PÁGINA:  de   a) Aplicações financeiras: estão distribu...
+                                           ^^^^^^
+Erro: 3
+Offset 4259, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+.... INDUSTRIA TEXTIL  Versão :   PÁGINA:  de   a. Introdução ou alienação de segmento op...
+                                           ^^^^^^
+Erro: 4
+Offset 4603, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+.... INDUSTRIA TEXTIL  Versão :   PÁGINA:  de   a. Mudanças significativas nas práticas c...
+                                           ^^^^^^
+Erro: 5
+Offset 4662, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...gnificativas nas práticas contábeis Não houveram mudanças significativas nas práticas co...
+                                           ^^^^^^^^
+Erro: 6
+Offset 4886, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...ses presentes no parecer do auditor Não houveram ressalvas ou ênfases no relatório dos a...
+                                           ^^^^^^^^
+Erro: 7
+Offset 4980, length 77, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou ênfases no relatório dos auditores do exercício Não houveram ressalvas, ou
+...es do exercício  Não houveram ressalvas ou ênfases no relatório dos auditores do exercício  Não houveram ressalvas ou ênfases no relatório dos auditores do e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 14057, length 25, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: lançados, em contrapartida
+...segurança. Os reparos e manutenções são lançados em contrapartida ao resultado do exercício, quando incor...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 18248, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+.... INDUSTRIA TEXTIL  Versão :   PÁGINA:  de   os empréstimos e financiamentos estejam em...
+                                           ^^^^^^^

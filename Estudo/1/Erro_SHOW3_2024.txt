@@ -1,0 +1,48 @@
+Erro: 1
+Offset 16178, length 11, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarrete
+...ferência de participação societária que acarrete em perda do controle direto ou indireto da...
+                                           ^^^^^^^^^^^
+Erro: 2
+Offset 7552, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...o exercício por R , milhões.   No final de  a Companhia contava com a geração de caix...
+                                           ^^^^^
+Erro: 3
+Offset 19466, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...os (ou contratos de swap). Para os anos de  a , os valores dos cachês, direitos autor...
+                                           ^^^^^
+Erro: 4
+Offset 1339, length 44, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+...os em  de dezembro de ,  e . c. Eventos ou operações não usuais Não houve eventos ou operações não usuais durante os exercíc...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 8343, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...ursos obtidos por emissão de debentures e  ou contratação de dívida junto a instituiç...
+                                           ^^^^^
+Erro: 6
+Offset 8812, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...cidade produtiva do emissor Comunicamos em  a aquisição de participação majoritária n...
+                                           ^^^^^
+Erro: 7
+Offset 15422, length 24, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou poluição ambiental, ou
+...ior, responsabilidades por certos danos ou poluição ambiental ou interrupção de certas atividades). Assi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 3295, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: aplicável, pois
+...bre as medidas corretivas adotadas  Não aplicável pois não foram apontadas deficiências signif...
+                                           ^^^^^^^^^^^^^^

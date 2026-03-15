@@ -1,0 +1,96 @@
+Erro: 1
+Offset 8047, length 9, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Gerências
+...e Administração, Diretoria Executivas e Gerencias de área.  c. se e como a eficiência dos...
+                                           ^^^^^^^^^
+Erro: 2
+Offset 896, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...s de cada Empresa. A auditoria realizou em  a inspeção física do imobilizado e não id...
+                                           ^^^^^
+Erro: 3
+Offset 3828, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... ou indevidas, desde o segundo semestre de  a gestão de patrimônio vem aprimorando os...
+                                           ^^^^^
+Erro: 4
+Offset 7249, length 8, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Política
+...olha não for pelo menor valor ofertado. Politica de Compras.doc   . Gerenciamento de ris...
+                                           ^^^^^^^^
+Erro: 5
+Offset 8229, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: módulo
+...bil. Recomendamos a implementação de um modulo específico ou a customização do existen...
+                                           ^^^^^^
+Erro: 6
+Offset 13188, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...balhistas e IRRF para o período de maio de  a setembro de  em caso de autuação, no mo...
+                                           ^^^^^
+Erro: 7
+Offset 1580, length 3, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...rgência de entendimentos dentro do STJ, a a Seção do Superior Tribunal de Justiça e...
+                                           ^^^
+Erro: 8
+Offset 7317, length 32, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: qual quantifica e demonstra, qual
+...iderado pelo fisco, documento hábil, no qual quantifica e demonstra qual o percentual do imposto correspondente ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 14612, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Outros, sim
+... dos diretórios¹ específicos definidos. Outros sim, constatamos que os arquivos de integra...
+                                           ^^^^^^^^^^
+Erro: 10
+Offset 19616, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: denúncia
+...IV. Avaliar, investigar a veracidade da denuncia e decidir no menor tempo possível, cons...
+                                           ^^^^^^^^
+Erro: 11
+Offset 19713, length 9, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: denúncias
+...o limite de  (trinta) dias a partir das denuncias, sobre todos os casos que cheguem ao se...
+                                           ^^^^^^^^^
+Erro: 12
+Offset 6515, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...ndo essa decisão a Companhia reconheceu em  o restante dos valores recolhidos indevid...
+                                           ^^^^^
+Erro: 13
+Offset 8877, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...ões com recebíveis futuros. Além disso, em  a Companhia obteve uma aporte de uma oper...
+                                           ^^^^^
+Erro: 14
+Offset 13091, length 23, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: imóvel, em contrapartida
+...ros. Foi realizada a reclassificação do imóvel em contrapartida ao imobilizado e a remensuração ao valo...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 15
+Offset 14346, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...o de R . mil. Importante considerar que em  a Companhia reconheceu o restante dos val...
+                                           ^^^^^
+Erro: 16
+Offset 17400, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: Ajustado, pois
+...ompanhias. A Companhia divulga o EBITDA Ajustado pois utiliza esse indicador como uma de suas...
+                                           ^^^^^^^^^^^^^

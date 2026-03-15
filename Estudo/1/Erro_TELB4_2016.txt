@@ -1,0 +1,12 @@
+Erro: 1
+Offset 17363, length 7, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ou seja,
+....  O índice de liquidez geral foi de ,  ou seja  para cada R , de obrigações de curto e...
+                                           ^^^^^^^
+Erro: 2
+Offset 19521, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou captar mais recursos para financiamento, ou
+...tos compromissados. Será necessário (i) ou captar mais recursos para financiamento ou (ii) aporte de capital do Acionista Con...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

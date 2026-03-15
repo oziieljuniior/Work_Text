@@ -1,0 +1,18 @@
+Erro: 1
+Offset 1744, length 26, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: realizada, em contrapartida
+... resultado referente a tais imóveis foi realizada em contrapartida aos prejuízos acumulados, líquidos dos ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 2427, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+... desse segmento.  Resultado Financeiro: Em  a Companhia apresentou saldo negativo de ...
+                                           ^^^^^
+Erro: 3
+Offset 11120, length 107, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou serviços No último exercício a Companhia não gastou em pesquisas para investimentos de novos produtos, ou
+... para desenvolvimento de novos produtos ou serviços No último exercício a Companhia não gastou em pesquisas para investimentos de novos produtos ou serviços.  (iii) projetos em desenvolvi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

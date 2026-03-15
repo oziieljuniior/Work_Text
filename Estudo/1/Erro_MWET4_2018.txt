@@ -1,0 +1,36 @@
+Erro: 1
+Offset 3239, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... Recuperação Judicial  Em  de fevereiro de  a empresa ajuizou pedido de Recuperação J...
+                                           ^^^^^
+Erro: 2
+Offset 3310, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+... Recuperação Judicial. Em  de fevereiro de  o pedido foi deferido pelo juiz da ª Vara...
+                                           ^^^^^
+Erro: 3
+Offset 14458, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ÁGINA:  de     de preços – IGPm. No ano de  o Departamento Comercial fez várias negoc...
+                                           ^^^^^
+Erro: 4
+Offset 15567, length 15, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: Entretanto, essa
+...des Produtivas Individuais – U.P.I.(s). Entretanto essa possibilidade não está descartada, caso...
+                                           ^^^^^^^^^^^^^^^
+Erro: 5
+Offset 3269, length 18, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou total de uma, ou
+...te a possibilidade de alienação parcial ou total de uma ou mais unidades de negócio – UPI (s) – Un...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 4122, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...dade de Negócios Eletrotécnica iniciará em  a comercialização da luminária industrial...
+                                           ^^^^^

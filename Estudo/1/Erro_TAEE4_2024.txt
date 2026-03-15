@@ -1,0 +1,36 @@
+Erro: 1
+Offset 2239, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ESFINAMEPatesa CCBsubcrédito ATaxa fixa de a.a. BNB  FNE LNT CCBFNE .Taxa de fundosc...
+                                           ^^^^
+Erro: 2
+Offset 3231, length 22, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo, fusão
+...ntratos de empréstimos efinanciamentos, como por exemplo fusão, cisão e incorporação, alteração no blo...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 7647, length 22, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo, fusão
+...tratos de empréstimos e financiamentos, como por exemplo fusão,cisão e incorporação, alteração no bloc...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 12616, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...obertura; c) sofrer protestos de dívida liquida ecerta em valor individual, superior a ...
+                                           ^^^^^^^
+Erro: 5
+Offset 5904, length 3, Rule ID: FORMAL_PRA_PARA
+Message: Em contextos mais formais, prefira “para”.
+Suggestion: para
+... obrigações financeiras sejamdestinadas pra novos investimentos no Projeto Janaúba ...
+                                           ^^^
+Erro: 6
+Offset 6407, length 15, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: seja superior; sejam superiores; sejamos superiores
+...so o valor dos Investimentos Requeridos seja superiores adeterminado valor, serão permitidas dí...
+                                           ^^^^^^^^^^^^^^^

@@ -1,0 +1,66 @@
+Erro: 1
+Offset 4568, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+... º de janeiro de . Como impacto, tevese em  a redução de R , milhões, na receita e um...
+                                           ^^^^^
+Erro: 2
+Offset 5351, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: das; dê as
+...mento da SELIC no ano.  Em  de dezembro de  as disponibilidades, aplicações financeira...
+                                           ^^^^^^
+Erro: 3
+Offset 10938, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...úblicos federais. A remuneração média é de  a  do CDI ou equivalente ( em  de dezembr...
+                                           ^^^^^
+Erro: 4
+Offset 15151, length 17, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: operacionais, pois
+...o do CPC ¹, também impactou as desepsas operacionais pois acarretou provisão para devedores duvid...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 1640, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...inal do exercício, foi de R ,, enquanto em  o valor era de R ,, no mesmo período, e c...
+                                           ^^^^^
+Erro: 6
+Offset 16568, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... indevidamente do período de º de julho de  a  de outubro de , decorrente de Mandado ...
+                                           ^^^^^
+Erro: 7
+Offset 18553, length 47, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou outras medições de desempenho operacional, ou
+...ou base para distribuição de dividendos ou outras medições de desempenho operacional ou liquidez determinadas de acordo com o B...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 164, length 29, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou capacidade de pagamento, ou
+...dor de liquidez, desempenho operacional ou capacidade de pagamento ou outras medições de desempenho operacion...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 9896, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: no entanto,
+... operacional e financeiro da Companhia, no entanto não é uma medida estabelecida de acordo...
+                                           ^^^^^^^^^^
+Erro: 10
+Offset 7413, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; ou
+...onal e captações de recursos com bancos e, ou, a mercado.  A Companhia possui acesso ...
+                                           ^^^^^
+Erro: 11
+Offset 14302, length 15, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: Os projetos têm; Os projetos, tem
+...ase de validação em ambiente relevante. Os projetos tem fluxo de aprovação que leva em média do...
+                                           ^^^^^^^^^^^^^^^

@@ -1,0 +1,18 @@
+Erro: 1
+Offset 7305, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...ubscrição pelos acionistas da Fibria.   Em  o endividamento da Companhia era represen...
+                                           ^^^^^
+Erro: 2
+Offset 10877, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...bleia Geral Extraordinária de  de abril de  a controlada da Companhia, anteriormente ...
+                                           ^^^^^
+Erro: 3
+Offset 17354, length 61, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de segmento operacional Não houve introdução, ou
+... resultados da Companhia  a. Introdução ou alienação de segmento operacional  Não houve introdução ou alienação de segmento operacional no pe...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

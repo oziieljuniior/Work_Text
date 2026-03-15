@@ -1,0 +1,48 @@
+Erro: 1
+Offset 1481, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, ao mesmo tempo
+...cados, dentro de parâmetros aceitáveis, e ao mesmo tempo otimizar o retorno.   Risco do aumento ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 1974, length 9, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: são dólares; é dólar
+...ais estas transações são transacionadas são dólar norteamericano, euro e franco suíço.  R...
+                                           ^^^^^^^^^
+Erro: 3
+Offset 8034, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...vitalização em , iniciouse internamente em  o plano para equilibrar o nível de alavan...
+                                           ^^^^^
+Erro: 4
+Offset 18759, length 8, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: máquinas
+...es: Aumento de , referente aquisição de maquinas e equipamentos para o projeto nova Cald...
+                                           ^^^^^^^^
+Erro: 5
+Offset 13382, length 24, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou ativos específicos, ou
+...bstantivos relativos ao uso de um ativo ou ativos específicos ou, ainda, ao direito de uso de um determi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 2901, length 58, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou itens diretamente reconhecidos no patrimônio líquido, ou
+... relacionados à combinação de negócios, ou itens diretamente reconhecidos no patrimônio líquido ou em outros resultados abrangentes.   O i...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 3035, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a receber esperado sobre o lucro, ou
+... O imposto corrente é o imposto a pagar ou a receber esperado sobre o lucro ou prejuízo tributável do exercício, a tax...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 5206, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: com efeito,
+...s potencialmente conversíveis em ações, com efeito diluidor, nos períodos apresentados, no...
+                                           ^^^^^^^^^^

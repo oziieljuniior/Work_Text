@@ -1,0 +1,42 @@
+Erro: 1
+Offset 11186, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: papéis
+...ão :   PÁGINA:  de      gestão, definir papeis e responsabilidades, identificar mudanç...
+                                           ^^^^^^
+Erro: 2
+Offset 18168, length 9, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...cia    VITTIA S.A.  Versão :   PÁGINA:  de      a) Se o emissor possui uma política forma...
+                                           ^^^^^^^^^
+Erro: 3
+Offset 19890, length 9, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...cia    VITTIA S.A.  Versão :   PÁGINA:  de      a) As principais práticas de controles in...
+                                           ^^^^^^^^^
+Erro: 4
+Offset 5236, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+... para o exercício findo em  de dezembro de  os auditores independentes da Companhia em...
+                                           ^^^^^^
+Erro: 5
+Offset 6057, length 9, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...cia    VITTIA S.A.  Versão :   PÁGINA:  de      a) se a Companhia possui regras, política...
+                                           ^^^^^^^^^
+Erro: 6
+Offset 5658, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...o anual composta de , ao ano no período de  a .   Os mercados específicos nos quais a...
+                                           ^^^^^
+Erro: 7
+Offset 19296, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, ao mesmo tempo
+...uro) junto a uma instituição financeira e ao mesmo tempo contrata um swap para troca dessa obrig...
+                                           ^^^^^^^^^^^^^^^^

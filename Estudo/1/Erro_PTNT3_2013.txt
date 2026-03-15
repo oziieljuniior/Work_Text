@@ -1,0 +1,30 @@
+Erro: 1
+Offset 900, length 58, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de instituições financeiras depositárias de recursos, ou
+...ade de perdas oriundas de inadimplência ou de instituições financeiras depositárias de recursos ou de investimentos financeiros.  Risco de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 1987, length 8, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Máquinas
+...apital de Giro) .. .. Euros (Financ. de Maquinas) . ..   Fornecedores: referemse à compr...
+                                           ^^^^^^^^
+Erro: 3
+Offset 12549, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...iduciária  aval dos controladores Dez , a  a.a. . .. . .. Finame veículos Alienação ...
+                                           ^^^^
+Erro: 4
+Offset 13917, length 8, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Máquinas
+...apital de Giro) .. .. Euros (Financ. de Maquinas) . ..        . Comentários dos diretore...
+                                           ^^^^^^^^
+Erro: 5
+Offset 6719, length 25, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: lançados, em contrapartida
+...segurança. Os reparos e manutenções são lançados em contrapartida ao resultado do exercício, quando incor...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^

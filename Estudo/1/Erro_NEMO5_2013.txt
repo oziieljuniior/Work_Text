@@ -1,0 +1,48 @@
+Erro: 1
+Offset 7498, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: controlada,
+.... O risco cambial está restrito à nossa controlada Suzano Papel e Celulose, conforme ident...
+                                           ^^^^^^^^^^
+Erro: 2
+Offset 13504, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...s impostas à Companhia  Em  de dezembro de  a Companhia possuía contrato de empréstim...
+                                           ^^^^^
+Erro: 3
+Offset 15443, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...Futuro Aumento de Capital. Empréstimos: Em  a Companhia contratou um empréstimo junto...
+                                           ^^^^^
+Erro: 4
+Offset 18610, length 61, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de segmento operacional Não houve introdução, ou
+...resultados da Companhia:  a) Introdução ou alienação de segmento operacional  Não houve introdução ou alienação de segmento operacional no pe...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 19440, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+...al, efetuados pelos sócios.  c) eventos ou operações não usuais  Não houve eventos ou operações não usuais no período em ques...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 19769, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: práticas
+...ociais   a) Mudanças significativas nas praticas contábeis  Não houve mudanças significa...
+                                           ^^^^^^^^
+Erro: 7
+Offset 19827, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: práticas
+...  Não houve mudanças significativas nas praticas contábeis  Base de preparação e apresen...
+                                           ^^^^^^^^
+Erro: 8
+Offset 3920, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...ntrato desde . A partir de º de janeiro de  os serviços de auditoria independente são ...
+                                           ^^^^^^

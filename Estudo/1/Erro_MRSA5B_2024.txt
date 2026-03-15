@@ -1,0 +1,24 @@
+Erro: 1
+Offset 6962, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...ustos operacionais. Despesas com Vendas Em  a despesa com vendas, conforme informa a ...
+                                           ^^^^^
+Erro: 2
+Offset 10554, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...es de imobilizado e intangível a prazo, em contrapartida do aumento nos pagamentos dos investime...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 11317, length 25, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: presente, em contrapartida
+...ecnológico e foram reconhecidas a valor presente em contrapartida do ativo intangível em . • Pagamento de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 8106, length 30, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou demissão por justa causa, ou
+...MRS, advertência por escrito, suspensão ou demissão por justa causa ou sem justa causa. Poderão ser tomadas, a...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,36 @@
+Erro: 1
+Offset 157, length 30, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou demissão por justa causa, ou
+...MRS, advertência por escrito, suspensão ou demissão por justa causa ou sem justa causa. Poderão ser tomadas, a...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 12923, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...MRS LOGISTICA S.A.  Versão :   PÁGINA:  de   a.. condições financeiras e patrimoniais ...
+                                           ^^^^^^
+Erro: 3
+Offset 12987, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ceiras e patrimoniais gerais em  No ano de  a MRS apresentou o melhor resultado de su...
+                                           ^^^^^
+Erro: 4
+Offset 3019, length 13, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: era prevista; eram previstas; éramos previstas
+... garantias foram revistas e algumas que era previstas originalmente foram retiradas dos contr...
+                                           ^^^^^^^^^^^^^
+Erro: 5
+Offset 11120, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...menos os custos dos serviços prestados. Em  a administração da Companhia informa que ...
+                                           ^^^^^
+Erro: 6
+Offset 15860, length 27, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: reconheceu, em contrapartida
+... de Contratos com Clientes, a Companhia reconheceu em contrapartida ao contas a receber de indenização uma ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^

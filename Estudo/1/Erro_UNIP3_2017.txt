@@ -1,0 +1,78 @@
+Erro: 1
+Offset 4393, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, Mas
+...AR CARBOCLORO S.A.  Versão :   PÁGINA:  de   Mas devido a certas limitações, os controle...
+                                           ^^^^^^^^
+Erro: 2
+Offset 5279, length 14, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: esses riscos são; esses riscos, é
+...os e gerimos de forma adequada e eficaz esses riscos é crucial para a nossa lucratividade. A n...
+                                           ^^^^^^^^^^^^^^
+Erro: 3
+Offset 917, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...(iv) provisões para processos judiciais e  ou suas reversões e o (v) resultado de equ...
+                                           ^^^^^
+Erro: 4
+Offset 7862, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...(iv) provisões para processos judiciais e  ou suas reversões e o (v) resultado de equ...
+                                           ^^^^^
+Erro: 5
+Offset 11776, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...vancagem financeira.  A partir do final de  a Companhia iniciou um processo de desala...
+                                           ^^^^^
+Erro: 6
+Offset 16546, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...olding AG, sobre a qual incide encargos de  a.a. e será amortizada em cinco parcelas ...
+                                           ^^^^^
+Erro: 7
+Offset 17338, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...enção de suas disponibilidades de caixa em nível que a Administração da Companhia acredi...
+                                           ^^^^^^^^
+Erro: 8
+Offset 5739, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...(iv) provisões para processos judiciais e  ou suas reversões e o (v) resultado de equ...
+                                           ^^^^^
+Erro: 9
+Offset 7684, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...nstrações dos resultados para o período de  a .   Tabela h. – Demonstração de resulta...
+                                           ^^^^^
+Erro: 10
+Offset 940, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: das; dê as
+...AR CARBOCLORO S.A.  Versão :   PÁGINA:  de   as debêntures anteriormente detidas pela C...
+                                           ^^^^^^^
+Erro: 11
+Offset 8134, length 53, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de participação societária c. eventos, ou
+...operacional. b. constituição, aquisição ou alienação de participação societária c. eventos ou operações não usuais.  Em , a Companhia...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 15898, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “aos”?
+Suggestion: aos
+...parecer do auditor.  Nos exercícios de  a  os pareceres dos auditores não apresentara...
+                                           ^^^^^
+Erro: 13
+Offset 2498, length 11, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: específicas
+...mados de recuperação ambiental em áreas especificas e continua investigando outras áreas em...
+                                           ^^^^^^^^^^^

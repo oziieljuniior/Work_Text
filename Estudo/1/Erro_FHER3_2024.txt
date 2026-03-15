@@ -1,0 +1,48 @@
+Erro: 1
+Offset 12068, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...lhões de , e equivalente a , da receita liquida.  Redução nos preços dos insumos no iní...
+                                           ^^^^^^^
+Erro: 2
+Offset 12130, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretou
+...preços dos insumos no início do ano de  acarretou em menores margens de vendas, porém, no se...
+                                           ^^^^^^^^^^^^
+Erro: 3
+Offset 6658, length 62, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de reservas de lucros existentes no último balanço anual, ou
+...mediários, à conta de lucros acumulados ou de reservas de lucros existentes no último balanço anual ou semestral. d. Eventuais restrições à di...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 10047, length 15, Rule ID: À_MEDIDA_EM_QUE
+Message: Substitua por “à medida que”.
+Suggestion: à medida que
+...ão no SAP da Companhia. Gradativamente, à medida em que realizadas as cotações e selecionados o...
+                                           ^^^^^^^^^^^^^^^
+Erro: 5
+Offset 12840, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: •, Além disso
+...NGER S.A.  Versão :   PÁGINA:  de       • Além disso, o Departamento de Ética e Compliance d...
+                                           ^^^^^^^^^^^^
+Erro: 6
+Offset 14232, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: •, Além disso
+...s apresentadas pelo time de Compliance. • Além disso, relatos com evidências de materialidad...
+                                           ^^^^^^^^^^^^
+Erro: 7
+Offset 2842, length 19, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, Além disso
+...NTES HERINGER S.A.  Versão :   PÁGINA:  de       Além disso, o departamento de Ética e Compliance r...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 4525, length 40, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou outras condutas proibidas de média, ou
+...s, desvios ou favorecimentos indevidos, ou outras condutas proibidas de média ou alta gravidade, ou, ainda, quando for d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

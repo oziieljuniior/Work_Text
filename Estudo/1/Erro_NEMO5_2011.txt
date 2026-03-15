@@ -1,0 +1,36 @@
+Erro: 1
+Offset 5570, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: controlada,
+.... O risco cambial está restrito à nossa controlada Suzano Papel e Celulose, conforme ident...
+                                           ^^^^^^^^^^
+Erro: 2
+Offset 9778, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...tuição de reservas em . Em º de janeiro de  o patrimônio líquido era de R ., milhões ...
+                                           ^^^^^
+Erro: 3
+Offset 11332, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...es impostas à Companhia Em  de dezembro de  a Companhia possuía contrato de empréstim...
+                                           ^^^^^
+Erro: 4
+Offset 15630, length 60, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de segmento operacional Não houve introdução, ou
+...resultados da Companhia:  a) Introdução ou alienação de segmento operacional Não houve introdução ou alienação de segmento operacional no pe...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 16055, length 44, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+...AR, no valor de R, milhões.  c) eventos ou operações não usuais Não houve eventos ou operações não usuais no período em ques...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 16380, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: práticas
+...sociais  a) Mudanças significativas nas praticas contábeis Base de preparação e apresent...
+                                           ^^^^^^^^

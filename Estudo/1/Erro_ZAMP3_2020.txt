@@ -1,0 +1,36 @@
+Erro: 1
+Offset 9554, length 27, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou intranet da Companhia, ou
+...Companhia podem ser acessados pelo site ou intranet da Companhia ou call center (pelo telefone ), com dispo...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 14919, length 28, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: restaurantes, Além disso
+...ee Standing     Franqueado     Total de restaurantes      Além disso, considerando os  restaurantes próprios...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 4360, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ezembro de  era de ,, e em  de dezembro de  o índice de liquidez corrente era de ,. A...
+                                           ^^^^^
+Erro: 4
+Offset 8981, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...e cada mês, durante o período de  março de  a  de março de , e mensalmente durante o ...
+                                           ^^^^^
+Erro: 5
+Offset 9855, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...a mês, durante o período de  de janeiro de  a  de janeiro de , e mensalmente durante ...
+                                           ^^^^^
+Erro: 6
+Offset 2882, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...s são anuais, portanto, em  de setembro de  a Companhia apenas monitorava estes índic...
+                                           ^^^^^

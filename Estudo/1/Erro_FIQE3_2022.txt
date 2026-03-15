@@ -1,0 +1,66 @@
+Erro: 1
+Offset 8913, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: papéis
+... apoiar as políticas de gestão, definir papeis e responsabilidades, auxiliar na constr...
+                                           ^^^^^^
+Erro: 2
+Offset 10726, length 48, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou por alterações no cumprimento de políticas, ou
+...os de acordo com mudanças de condições, ou por alterações no cumprimento de políticas ou procedimentos internos. A Companhia acr...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 11218, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: papéis
+... defesa, segregados em três linhas, com papeis distintos a serem desempenhados na estr...
+                                           ^^^^^^
+Erro: 4
+Offset 15548, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...o de Administração, aprovou em  de maio de  o seu Código de Conduta (“Código de Condu...
+                                           ^^^^^
+Erro: 5
+Offset 1099, length 46, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a um membro do Conselho de Administração, ou
+...retoria Estatutária ou Não Estatutária, ou a um membro do Conselho de Administração ou membro do Comitê de Auditoria, ela será...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 11377, length 35, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou adicionar efeitos de receitas, ou
+...esponde ao EBITDA ajustado para excluir ou adicionar efeitos de receitas ou despesas consideradas de natureza pontu...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 12872, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...manutenção de disponibilidades de caixa em nível que a Diretoria acredita ser apropriado...
+                                           ^^^^^^^^
+Erro: 8
+Offset 14565, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: por exemplo,
+...antes no curso normal de seus negócios, por exemplo investimento em ampliação das redes de ...
+                                           ^^^^^^^^^^^
+Erro: 9
+Offset 17957, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ima, no exercício findo em  de dezembro de  o ativo não circulante totalizou R . mil,...
+                                           ^^^^^
+Erro: 10
+Offset 18170, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ima, no exercício findo em  de dezembro de  o Ativo total da Companhia totalizou R .....
+                                           ^^^^^
+Erro: 11
+Offset 19949, length 18, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, em contrapartida
+...é resultado das adições e remensurações e em contrapartida uma diminuição das baixas efetua
+                                           ^^^^^^^^^^^^^^^^^^

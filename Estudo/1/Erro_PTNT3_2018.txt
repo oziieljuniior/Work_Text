@@ -1,0 +1,36 @@
+Erro: 1
+Offset 4984, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...m período de baixa demanda. Em dezembro de  o Banco Mundial reduzia as previsões de c...
+                                           ^^^^^
+Erro: 2
+Offset 19744, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...os e políticos que afetaram os negócios em nível internacional e principalmente nacional...
+                                           ^^^^^^^^
+Erro: 3
+Offset 3018, length 9, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: evidência
+...oi o centro das atenções dos mercados e evidencia a preocupação das autoridades chinesas ...
+                                           ^^^^^^^^^
+Erro: 4
+Offset 13051, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...gnificativas nas práticas contábeis Não houveram mudanças significativas nas práticas co...
+                                           ^^^^^^^^
+Erro: 5
+Offset 13276, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...es presentes no parecer do auditor  Não houveram ressalvas ou ênfases no relatório dos a...
+                                           ^^^^^^^^
+Erro: 6
+Offset 879, length 25, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: lançados, em contrapartida
+...segurança. Os reparos e manutenções são lançados em contrapartida ao resultado do exercício, quando incor...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^

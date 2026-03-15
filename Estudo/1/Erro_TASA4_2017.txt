@@ -1,0 +1,126 @@
+Erro: 1
+Offset 4226, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: prática
+...nanceiras  a  Companhia  utiliza  como  pratica  a  revisão  de lançamentos  contábeis,...
+                                           ^^^^^^^
+Erro: 2
+Offset 4666, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...roles, estas são tratadas primeiramente em nível operacional; num segundo momento, áreas...
+                                           ^^^^^^^^
+Erro: 3
+Offset 10366, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+...o controle e identificação rápida, pode acarretar em desconforto com autoridades locais e in...
+                                           ^^^^^^^^^^^^
+Erro: 4
+Offset 17086, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretou
+... técnicasestruturas dos produtos, o que acarretou em diversos ajustes nos estoques da Compan...
+                                           ^^^^^^^^^^^^
+Erro: 5
+Offset 18037, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+... realizados na unidade de Porto Alegre, como por exemplo: energia elétrica e água. Identificamos...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 18440, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...ntificamos que no decorrer do exercício de  os valores de custos dos produtos vendidos...
+                                           ^^^^^^
+Erro: 7
+Offset 465, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...ta de indicadores econômicofinanceiros, como por exemplo: índices de liquidez, análise de rentab...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 3469, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ação observada No decorrer do exercício de  a Administração identificou cadastros de ...
+                                           ^^^^^
+Erro: 9
+Offset 6262, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nesse”?
+Suggestion: Nesse
+...o atendendo o princípio da competência. Em  esse saldo foi ajustado contabilmente.   . G...
+                                           ^^^^^^^^
+Erro: 10
+Offset 6895, length 6, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: havia
+...otas fiscais foram entregues, porém não haviam registros no controle de entregas da po...
+                                           ^^^^^^
+Erro: 11
+Offset 12315, length 11, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarreta
+...falta de atendimento ao disposto acima, acarreta em registro e apresentação incorretos nas ...
+                                           ^^^^^^^^^^^
+Erro: 12
+Offset 14028, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...   Situação observada Identificamos que em  a Administração passou a efetuar análise ...
+                                           ^^^^^
+Erro: 13
+Offset 15084, length 11, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarreta
+...a de aderência aos critérios do CPC (R) acarreta no reconhecimento e contabilização indevid...
+                                           ^^^^^^^^^^^
+Erro: 14
+Offset 15643, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+...ada uma análise por cliente, o que pode acarretar em vendas para clientes que não estão efet...
+                                           ^^^^^^^^^^^^
+Erro: 15
+Offset 19127, length 25, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: suas notas explicativas são; suas notas explicativas, é
+...aboração de demonstrações financeiras e suas notas explicativas é muito moroso e suscetível a erros.    i...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 16
+Offset 422, length 7, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: efeitos,
+...ivas e balancetes contábeis.  Possíveis efeitos Distorções nas notas explicativas às de...
+                                           ^^^^^^^
+Erro: 17
+Offset 1262, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+...provação e homologação em mudanças pode acarretar no risco de implementação de modificações ...
+                                           ^^^^^^^^^^^^
+Erro: 18
+Offset 7639, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...monstrações financeiras de  de dezembro de  a Companhia apresentava R  milhões de dív...
+                                           ^^^^^
+Erro: 19
+Offset 18754, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: câmbio
+... a.a.    .  .  .  .     Adiantamento de cambio USD  , a.a.    .  .  .  .     Capital d...
+                                           ^^^^^^
+Erro: 20
+Offset 13616, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...zação cambial do período. No fechamento de  o Real estava , mais desvalorizado que o ...
+                                           ^^^^^
+Erro: 21
+Offset 18452, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “neste”?
+Suggestion: Neste
+...rdinária realizada em  de setembro de . Em  este valor foi contabilizado como adiantamen...
+                                           ^^^^^^^^

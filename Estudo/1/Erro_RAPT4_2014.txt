@@ -1,0 +1,60 @@
+Erro: 1
+Offset 5257, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...uma técnica de avaliação de Nível . Não houveram transferências entre os níveis ,  e  du...
+                                           ^^^^^^^^
+Erro: 2
+Offset 7426, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Operação,
+...instrumento contratado.   Controladora  Operação Moeda Cenário Provável  (Valor Contábil...
+                                           ^^^^^^^^
+Erro: 3
+Offset 10137, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...itividade e rentabilidade dos negócios. Em  a Companhia encerrou seu exercício com bo...
+                                           ^^^^^
+Erro: 4
+Offset 690, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...) não forem atingidos.  Em  de dezembro de  os contratos de financiamento da Randon S....
+                                           ^^^^^^
+Erro: 5
+Offset 5363, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...ersão :   PÁGINA:  de   Em  de dezembro de  os índices estabelecidos estavam sendo ate...
+                                           ^^^^^^
+Erro: 6
+Offset 5666, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...ções, incidem encargos financeiros de , a  a.a. mais a variação da TJLP e parte das ...
+                                           ^^^^
+Erro: 7
+Offset 5744, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...e das captações tem taxa fixa que varia de  a , a.a.  Debêntures  As debêntures refer...
+                                           ^^^^^
+Erro: 8
+Offset 6455, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...MS gerado mensalmente, com uma carência de  a  meses e prazo de pagamento entre  a  m...
+                                           ^^^^^
+Erro: 9
+Offset 6571, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...corrigido pelo IPCAIBGE e taxa de juros de  a.a.. A parcela do débito com pagamento p...
+                                           ^^^^^
+Erro: 10
+Offset 11473, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos assuntos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos assuntos ou decisões de tribunais.   Novos pronunci...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,60 @@
+Erro: 1
+Offset 615, length 30, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou demissão por justa causa, ou
+...MRS, advertência por escrito, suspensão ou demissão por justa causa ou sem justa causa. Poderão ser tomadas, a...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 6591, length 13, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: era prevista; eram previstas; éramos previstas
+... garantias foram revistas e algumas que era previstas originalmente foram retiradas dos contr...
+                                           ^^^^^^^^^^^^^
+Erro: 3
+Offset 938, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...menos os custos dos serviços prestados. Em  a administração da Companhia informa que ...
+                                           ^^^^^
+Erro: 4
+Offset 1880, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...tas menos despesas operacionais. No ano de  o resultado dessa equação foi um saldo cr...
+                                           ^^^^^
+Erro: 5
+Offset 2883, length 18, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, em contrapartida
+...os, principalmente, no segundo semestre e em contrapartida ocorreram amortizações e prépagamentos ...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 4451, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...menos os custos dos serviços prestados. Em  a administração da Companhia informa que ...
+                                           ^^^^^
+Erro: 7
+Offset 8497, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ão e arrendamento do período de outubro de  a abril de . Em janeiro de , o saldo rema...
+                                           ^^^^^
+Erro: 8
+Offset 14080, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...o de Custo da Concessão e Arrendamento: Em  a Companhia havia registrado um contas a ...
+                                           ^^^^^
+Erro: 9
+Offset 14472, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ão e arrendamento do período de outubro de  a abril de . Em  de janeiro de , após aut...
+                                           ^^^^^
+Erro: 10
+Offset 15881, length 7, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ou seja,
+...total devido desde a data dos cálculos, ou seja desde novembro de . Na mesma oportunida...
+                                           ^^^^^^^

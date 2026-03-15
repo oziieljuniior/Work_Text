@@ -1,0 +1,66 @@
+Erro: 1
+Offset 3177, length 4, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Vale,
+...apa e na tolerância a riscos do Sistema Vale quando da decisão de novos investimento...
+                                           ^^^^
+Erro: 2
+Offset 16441, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...ssos de licenciamento de seus projetos, como por exemplo, (a) promoção de maior integração entre...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 18052, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: íntegra
+...o dos processos de contratação de forma integra, transparente e ética, respeitando as n...
+                                           ^^^^^^^
+Erro: 4
+Offset 179, length 9, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: são partes; é parte
+...os quais a Companhia e suas controladas são parte;  (xvii) adoção, em situações de crise ...
+                                           ^^^^^^^^^
+Erro: 5
+Offset 13288, length 9, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ência    VALE S.A.  Versão :   PÁGINA:  de      a. As principais práticas de controles in...
+                                           ^^^^^^^^^
+Erro: 6
+Offset 19572, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ência    VALE S.A.  Versão :   PÁGINA:  de   a. se o emissor possui regras, políticas,...
+                                           ^^^^^^
+Erro: 7
+Offset 2599, length 25, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de suas controladas, ou
+...erceiros que atuam em nome da Companhia ou de suas controladas ou em seus interesses conheçam e utilizem ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 18300, length 22, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou maiores impostos, ou
+... A Companhia pode estar sujeita a novos ou maiores impostos ou outras obrigações para financiar medida...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 18445, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: ., Além disso
+...tos e indiretos da ruptura da Barragem I. Além disso, foram celebrados acordos com o estado ...
+                                           ^^^^^^^^^^^^
+Erro: 10
+Offset 5365, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: ., Além disso
+...realizar uma nova avaliação de segurança. Além disso, com base no Plano de Ação de Emergênci...
+                                           ^^^^^^^^^^^^
+Erro: 11
+Offset 1343, length 34, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou sociais tomadas por governos, ou
+...ões regulatórias, políticas, econômicas ou sociais tomadas por governos ou outras partes interessadas.   Seguros  ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,66 @@
+Erro: 1
+Offset 6606, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...te a receita de vendas da Companhia, e, em  a Companhia encarou um ano repleto de des...
+                                           ^^^^^
+Erro: 2
+Offset 8195, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...AS E VEÍCULOS S.A.  Versão :   PÁGINA:  de    a) riscos para os quais se busca proteção...
+                                           ^^^^^^^
+Erro: 3
+Offset 1474, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...a, de modo a manter as disponibilidades em nível apropriado para o desenvolvimento de no...
+                                           ^^^^^^^^
+Erro: 4
+Offset 9672, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: e, portanto
+...função do momento de mercado, as vendas e portanto também a receita operacional da WLM, vo...
+                                           ^^^^^^^^^^
+Erro: 5
+Offset 1729, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...o sentido de manter as disponibilidades em nível apropriado para o desenvolvimento de no...
+                                           ^^^^^^^^
+Erro: 6
+Offset 10461, length 30, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: contabilizada, em contrapartida
+...eciação ou baixa dos bens reavaliados e contabilizada em contrapartida de lucros (preju zos) acumulados. O sal...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 16368, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...S S.A.  Versão :   PÁGINA:  de   No ano de  o cenário foi desafiador, apresentando fr...
+                                           ^^^^^
+Erro: 8
+Offset 18659, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: inflação,
+... de vendas também pode ser afetada pela inflação já que, de modo geral, buscamos repassa...
+                                           ^^^^^^^^
+Erro: 9
+Offset 329, length 62, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de participação societária Não houve aquisição, ou
+...Companhia.   b. Constituição, aquisição ou alienação de participação societária Não houve aquisição ou alienação de participação societária no...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 471, length 44, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+...s três últimos exercícios.   c. Eventos ou operações não usuais Não houve eventos ou operação não usuais realizadas pela Com...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 761, length 9, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...AS E VEÍCULOS S.A.  Versão :   PÁGINA:  de      a. Mudanças significativas nas práticas c...
+                                           ^^^^^^^^^

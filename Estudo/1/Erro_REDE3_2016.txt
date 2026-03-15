@@ -1,0 +1,108 @@
+Erro: 1
+Offset 15912, length 12, Rule ID: DIACRITICS
+Message: Se for um erro ortográfico, substitua por “aí incluídos”.
+Suggestion: aí incluídos; ai, incluídos
+... de trabalho utilizados eou produzidos, ai incluídos os programas e os elementos comprobatór...
+                                           ^^^^^^^^^^^^
+Erro: 2
+Offset 4820, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...e  e R , milhões em  de dezembro de .   Em  o Caixa Líquido Consolidado gerado nas At...
+                                           ^^^^^
+Erro: 3
+Offset 15460, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: que, em geral
+... ao BNDES possuem cláusulas restritivas que em geral, requerem a manutenção de certos índice...
+                                           ^^^^^^^^^^^^
+Erro: 4
+Offset 16070, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: que, em geral
+...contratos possuem cláusulas restritivas que em geral, requerem a manutenção de certos índice...
+                                           ^^^^^^^^^^^^
+Erro: 5
+Offset 47, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: que, em geral
+...ebêntures possuem cláusulas restritivas que em geral, requerem a manutenção de certos índice...
+                                           ^^^^^^^^^^^^
+Erro: 6
+Offset 5852, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: que, em geral
+...préstimos possuem cláusulas restritivas que em geral, requerem a manutenção de certos índice...
+                                           ^^^^^^^^^^^^
+Erro: 7
+Offset 11946, length 12, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: que, em geral
+...ebêntures possuem cláusulas restritivas que em geral, requerem a manutenção de certos índice...
+                                           ^^^^^^^^^^^^
+Erro: 8
+Offset 12323, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: das; dê as
+... até  de dezembro de .  Em  de dezembro de  as debêntures classificadas no não circula...
+                                           ^^^^^^
+Erro: 9
+Offset 19556, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: das; dê as
+...Aplicações financeiras: em  de dezembro de  as aplicações financeiras avaliadas a valo...
+                                           ^^^^^^
+Erro: 10
+Offset 1245, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...inanceiros derivativos: em  de dezembro de  os instrumentos financeiros derivativos at...
+                                           ^^^^^^
+Erro: 11
+Offset 1736, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... milhões.   Intangível: em  de dezembro de  a rubrica “intangível” atingiu R ., milhõ...
+                                           ^^^^^
+Erro: 12
+Offset 2923, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: pública
+...o de pensão   .  (,) Taxa de iluminação publica arrecadada . , . , , Outros . , . , (,)...
+                                           ^^^^^^^
+Erro: 13
+Offset 10370, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: pública
+...ia energética . ,    Taxa de iluminação publica arrecadada . ,    Outros . , . , , Pass...
+                                           ^^^^^^^
+Erro: 14
+Offset 12300, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...rialmente os resultados operacionais    Em  a Companhia apresentou receita operaciona...
+                                           ^^^^^
+Erro: 15
+Offset 16543, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... milhões, relativos ao período de abril de  a dezembro de , que foram ressarcidos int...
+                                           ^^^^^
+Erro: 16
+Offset 18273, length 10, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: específica
+...o de concessão com inclusão de cláusula especifica que possibilitou o reconhecimento contá...
+                                           ^^^^^^^^^^
+Erro: 17
+Offset 1738, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: com efeito,
+...o , (,)  (=) Geração ajustada de caixa, com efeito da venda de ativos ., .,  , Margem do E...
+                                           ^^^^^^^^^^
+Erro: 18
+Offset 1804, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: com efeito,
+...vos ., .,  , Margem do EBITDA ajustado, com efeito da venda dos ativos () , ,  , p.p      ...
+                                           ^^^^^^^^^^

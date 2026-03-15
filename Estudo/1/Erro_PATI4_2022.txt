@@ -1,0 +1,36 @@
+Erro: 1
+Offset 1172, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: prática
+...mento pelas usinas siderúrgicas a mesma pratica a política de manter um estoque em zona...
+                                           ^^^^^^^
+Erro: 2
+Offset 10573, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...o de , em relação a receita operacional liquida, impactado pelo ganho em processos do c...
+                                           ^^^^^^^
+Erro: 3
+Offset 12881, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...NTE   Patrimônio Líquido   No exercício de  o Capital Social foi aumentado de R , mil...
+                                           ^^^^^
+Erro: 4
+Offset 14303, length 22, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: metalmecânica, em geral
+...ndústria de eletrodomésticos, indústria metalmecânica em geral, etc.    ii. Fatores que afetaram mater...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 14431, length 7, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...racionais   Os fatores da macroeconomia a nível nacional eou mundial afetaram o mercado...
+                                           ^^^^^^^
+Erro: 6
+Offset 14859, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: das; dê as
+...ram , em  em relação ao ano de . No ano de  as vendas registraram um aumento de , em r...
+                                           ^^^^^^
