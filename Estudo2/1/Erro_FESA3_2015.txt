@@ -1,0 +1,24 @@
+Erro: 1
+Offset 1647, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...e cambial no mercado.   Em  de dezembro de  a Companhia possuía os seguintes contrato...
+                                           ^^^^^
+Erro: 2
+Offset 83, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... DA BAHIA  FERBASA  Versão :   PÁGINA:  de     a. riscos para os quais se busca proteção...
+                                           ^^^^^^^^
+Erro: 3
+Offset 83, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... DA BAHIA  FERBASA  Versão :   PÁGINA:  de   a) mudanças significativas nas práticas c...
+                                           ^^^^^^
+Erro: 4
+Offset 740, length 117, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou outros tipos de compromissos em sociedades cujas demonstrações financeiras não sejam consolidadas com as nossas, ou
+... qualquer operação, contrato, obrigação ou outros tipos de compromissos em sociedades cujas demonstrações financeiras não sejam consolidadas com as nossas ou outras operações passíveis de gerar um ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

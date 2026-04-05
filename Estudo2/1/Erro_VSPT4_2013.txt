@@ -1,0 +1,36 @@
+Erro: 1
+Offset 3618, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+...implicam em riscos à Companhia, podendo acarretar em períodos de subutilização de seus ativo...
+                                           ^^^^^^^^^^^^
+Erro: 2
+Offset 1283, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+... totalizaram R  milhões em  de dezembro de  o que representou um aumento de, aproxima...
+                                           ^^^^^
+Erro: 3
+Offset 187, length 61, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de segmento operacional Não houve introdução, ou
+...emonstrações financeiras  a. Introdução ou alienação de segmento operacional  Não houve introdução ou alienação de segmento operacional da Co...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 529, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+... (três) últimos exercícios.  c. Eventos ou operações não usuais  Não houve eventos ou operações não usuais.   . Comentários d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 1037, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: IASB, mas
+...pretações de normas foram emitidas pelo IASB mas não estão em vigor para o exercício de ...
+                                           ^^^^^^^^
+Erro: 6
+Offset 3535, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou permitido por outras normas IFRS, ou
+... aplicálo quando seu uso já é requerido ou permitido por outras normas IFRS ou US GAAP. A Companhia ainda está avalian...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,24 @@
+Erro: 1
+Offset 72, length 9, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ERVAS ODERICH S.A.  Versão :   PÁGINA:  de      a. Se o emissor possui uma política forma...
+                                           ^^^^^^^^^
+Erro: 2
+Offset 1500, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: fábricas
+...ia do desempenho operacional das nossas fabricas, de forma mais econômica e eficiente. E...
+                                           ^^^^^^^^
+Erro: 3
+Offset 183, length 68, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de segmento operacional A companhia não introduziu, ou
+...emonstrações Financeiras  a. Introdução ou alienação de segmento operacional   A companhia não introduziu ou alienou qualquer segmento operacional d...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 583, length 50, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não ocorreram eventos, ou
+...relevante para a Companhia.  c. Eventos ou operações não usuais   Não ocorreram eventos ou operações não usuais não refletidas das...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

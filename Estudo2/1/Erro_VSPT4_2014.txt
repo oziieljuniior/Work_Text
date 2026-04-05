@@ -1,0 +1,54 @@
+Erro: 1
+Offset 3527, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+...implicam em riscos à companhia, podendo acarretar em períodos de subutilização de seus ativo...
+                                           ^^^^^^^^^^^^
+Erro: 2
+Offset 1742, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... exercício social findo em  de dezembro de  a Companhia apresentou uma diminuição em ...
+                                           ^^^^^
+Erro: 3
+Offset 2323, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...AtivoTotal do ativoPassivo e patrimônio liquido Passivo não circulante . Comentários do...
+                                           ^^^^^^^
+Erro: 4
+Offset 976, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...m R , milhões negativos em  de dezembro de  o que representou um aumento de, aproxima...
+                                           ^^^^^
+Erro: 5
+Offset 2278, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...io Ajustes:  Depreciação e amortização  Em  a companhia apresentou uma redução de cai...
+                                           ^^^^^
+Erro: 6
+Offset 187, length 61, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de segmento operacional Não houve introdução, ou
+...emonstrações financeiras  a. Introdução ou alienação de segmento operacional  Não houve introdução ou alienação de segmento operacional da Co...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 7
+Offset 1051, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...s em  de dezembro de .  Em  de dezembro de  a FCA  registrava em seus livros fiscais ...
+                                           ^^^^^
+Erro: 8
+Offset 481, length 87, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou parcelamento de débitos de sua titularidade com a utilização dos créditos fiscais, ou
+...islação que permita o pagamento à vista ou parcelamento de débitos de sua titularidade com a utilização dos créditos fiscais ou qualquer alteração legislativa, a  taxa...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 442, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: IASB, mas
+...pretações de normas foram emitidas pelo IASB mas não  estão em vigor para o exercício de...
+                                           ^^^^^^^^

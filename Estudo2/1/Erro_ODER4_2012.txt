@@ -1,0 +1,48 @@
+Erro: 1
+Offset 394, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: prática
+...da economia. No setor de alimentos esta pratica tem trazido grandes movimentações e tra...
+                                           ^^^^^^^
+Erro: 2
+Offset 2546, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: prática
+...tas glosas de créditos, a introdução da pratica da ST e uma gama imensa de leis de atra...
+                                           ^^^^^^^
+Erro: 3
+Offset 212, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: práticas
+...ncipais mercados brasileiros através de praticas concorrenciais legais, fiscais e tribut...
+                                           ^^^^^^^^
+Erro: 4
+Offset 72, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ERVAS ODERICH S.A.  Versão :   PÁGINA:  de    a.Riscos para os quais se busca proteção;...
+                                           ^^^^^^^
+Erro: 5
+Offset 72, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ERVAS ODERICH S.A.  Versão :   PÁGINA:  de    a.Riscos para os quais se busca proteção;...
+                                           ^^^^^^^
+Erro: 6
+Offset 2541, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ao mesmo tempo,
+...e produtos com foco no mercado externo, ao mesmo tempo em que diminuirá significativamente des...
+                                           ^^^^^^^^^^^^^^
+Erro: 7
+Offset 72, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ERVAS ODERICH S.A.  Versão :   PÁGINA:  de    a.Introdução ou alienação de segmento ope...
+                                           ^^^^^^^
+Erro: 8
+Offset 91, length 66, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de segmento operacional A companhia não introduziu, ou
+... Versão :   PÁGINA:  de    a.Introdução ou alienação de segmento operacional A companhia não introduziu ou alienou segmento operacional.b.Constitu...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

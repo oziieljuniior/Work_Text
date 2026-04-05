@@ -1,0 +1,36 @@
+Erro: 1
+Offset 1448, length 17, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: é supervisionada; são supervisionadas
+...omo a eficiência dos controles internos é supervisionadas pela administração do emissor, indicand...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 1648, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, ao mesmo tempo
+...nuidade de suas atividades operacionais e ao mesmo tempo maximizar o retorno aos seus acionistas...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 927, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...erialmente os resultados operacionais.  Em  o resultado operacional da Companhia apre...
+                                           ^^^^^
+Erro: 4
+Offset 2743, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...no resultado operacional da Companhia.  Em  o resultado operacional da Companhia apre...
+                                           ^^^^^
+Erro: 5
+Offset 360, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...ente para o resultado operacional de .  Em  o resultado operacional da Companhia apre...
+                                           ^^^^^
+Erro: 6
+Offset 1871, length 6, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: havia
+...reços do Mercado.  Em  de dezembro de , haviam  parcelas vencidas. A Administração da ...
+                                           ^^^^^^

@@ -1,0 +1,78 @@
+Erro: 1
+Offset 707, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...os no montante de R ... Ao longo do ano de  a FCA emitiu uma Debenture de R  milhões ...
+                                           ^^^^^
+Erro: 2
+Offset 552, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...s supracitados.  Prejuízo do exercício  Em  a empresa apurou um prejuízo de R ., milh...
+                                           ^^^^^
+Erro: 3
+Offset 2613, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...am R  milhões negativos em  de dezembro de  o que representou uma redução de, aproxim...
+                                           ^^^^^
+Erro: 4
+Offset 868, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...s supracitados.  Prejuízo do exercício  Em  a empresa apurou um prejuízo de R  milhõe...
+                                           ^^^^^
+Erro: 5
+Offset 499, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nos”?
+Suggestion: Nos
+...ceiro da Companhia, quando relevante.   Em  os negócios da Companhia foram desenvolvid...
+                                           ^^^^^^
+Erro: 6
+Offset 1786, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...entes, desta forma protegendo a receita liquida.  Taxa de Juros  O resultado financeiro...
+                                           ^^^^^^^
+Erro: 7
+Offset 1995, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Em geral,
+...nciamentos e debêntures de longo prazo. Em geral as dívidas da FCA estão expostas ao CDI...
+                                           ^^^^^^^^
+Erro: 8
+Offset 2126, length 15, Rule ID: À_MEDIDA_EM_QUE
+Message: Substitua por “à medida que”.
+Suggestion: à medida que
+...s benefícios fiscais que esta faça jus, à medida em que esta apurar lucros tributáveis, até o l...
+                                           ^^^^^^^^^^^^^^^
+Erro: 9
+Offset 993, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...nual) ,  , Margem EBITDA ( de receita)  a    a  Taxa de desconto nominal   ,  ,  O vol...
+                                           ^^^^^^
+Erro: 10
+Offset 1965, length 92, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou arbitrais Não existem restrições à distribuição de dividendos impostas por legislação, ou
+...os, decisões judiciais, administrativas ou arbitrais  Não existem restrições à distribuição de dividendos impostas por legislação ou regulamento especialmente aplicável à n...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 1853, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+... Operacional; (iv) acompanhar os pontos e ou ações referentes a vulnerabilidades ope...
+                                           ^^^^
+Erro: 12
+Offset 2579, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: dos; dê os
+...a conforme BP apresentado. Para o teste de  os auditores apresentaram pela primeira ve...
+                                           ^^^^^^
+Erro: 13
+Offset 3419, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...obre a situação.  A partir de  de março de  o Canal de Ética conta com uma nova funci...
+                                           ^^^^^

@@ -1,0 +1,444 @@
+Erro: 1
+Offset 2620, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...dem se manifestar de diversas maneiras, como por exemplo, atos fraudulentos, interrupção do negó...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 1299, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...provação eou revisão de diversos itens, como por exemplo, mas não limitado a, contratações, paga...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 95, length 19, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, Além disso
+...RGIA ELÉTRICA S.A.  Versão :   PÁGINA:  de       Além disso, Companhia dispõe de outras estruturas ...
+                                           ^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 95, length 11, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...RGIA ELÉTRICA S.A.  Versão :   PÁGINA:  de        a) a Companhia possui uma política formal...
+                                           ^^^^^^^^^^^
+Erro: 5
+Offset 95, length 11, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...RGIA ELÉTRICA S.A.  Versão :   PÁGINA:  de        a) as principais práticas de controles in...
+                                           ^^^^^^^^^^^
+Erro: 6
+Offset 95, length 10, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...RGIA ELÉTRICA S.A.  Versão :   PÁGINA:  de       a quantidade e valor apresentado, propici...
+                                           ^^^^^^^^^^
+Erro: 7
+Offset 1814, length 51, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou falhas nos registros contábeis bem como erros, ou
+...ole interno, capaz de identificar erros ou falhas nos registros contábeis bem como erros ou irregularidades na movimentação de recu...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 220, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: fórmula
+...Companhia e o cálculo EY considerando a formula constante no art.  da IN :      Adições...
+                                           ^^^^^^^
+Erro: 9
+Offset 2140, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: fórmula
+...Exploração. Esta metodologia diverge da formula apresentada no manual de orientação da ...
+                                           ^^^^^^^
+Erro: 10
+Offset 803, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...ara Companhia como o capital circulante liquido. Nossa recomendação é de que a Companhi...
+                                           ^^^^^^^
+Erro: 11
+Offset 1495, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...sistema podem ser acessadas, divulgadas e  ou alteradas indevidamente, podendo afetar...
+                                           ^^^^^
+Erro: 12
+Offset 1998, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+...ores de períodos anteriores visando não acarretar em alterações na apuração fiscal de forma ...
+                                           ^^^^^^^^^^^^
+Erro: 13
+Offset 2817, length 3, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...da origem dos recursos, em sintonia com a a legislação em vigor. As Políticas descr...
+                                           ^^^
+Erro: 14
+Offset 352, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...AME Patesa  CCBsubcrédito A   Taxa fixa de  a.a. BNDES FINAME SGT  CCBsubcrédito A . ...
+                                           ^^^^^
+Erro: 15
+Offset 1085, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...AME Patesa  CCBsubcrédito A   Taxa fixa de  a.a. BNDES FINAME SGT  CCBsubcrédito A . ...
+                                           ^^^^^
+Erro: 16
+Offset 659, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...AME Patesa  CCBsubcrédito A   Taxa fixa de  a.a. BNDES FINAME SGT  CCBsubcrédito A . ...
+                                           ^^^^^
+Erro: 17
+Offset 1640, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ao mesmo tempo,
+...esa alongou o prazo médio da sua dívida ao mesmo tempo em que reduziu a taxa de juros em Real ...
+                                           ^^^^^^^^^^^^^^
+Erro: 18
+Offset 1641, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: com efeito,
+...otou o método retrospectivo modificado, com efeito cumulativo na data de adoção. Passivo d...
+                                           ^^^^^^^^^^
+Erro: 19
+Offset 1415, length 10, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: com efeito,
+...otou o método retrospectivo modificado, com efeito cumulativo na data de adoção. Consequen...
+                                           ^^^^^^^^^^
+Erro: 20
+Offset 826, length 7, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: acúmulo
+...ue a variação decorreu basicamente pelo acumulo de caixa após as capitações das ª e ª e...
+                                           ^^^^^^^
+Erro: 21
+Offset 1215, length 7, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: acúmulo
+...ue a variação decorreu basicamente pelo acumulo de caixa após as capitações das ª e ª e...
+                                           ^^^^^^^
+Erro: 22
+Offset 253, length 14, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretando
+... impostos correntes no º trimestre de , acarretando em constituição de saldo negativo de IRPJ ...
+                                           ^^^^^^^^^^^^^^
+Erro: 23
+Offset 1034, length 7, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: acúmulo
+...ue a variação decorreu basicamente pelo acumulo de rendimentos durante o período. Conta...
+                                           ^^^^^^^
+Erro: 24
+Offset 2295, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...inanceiros derivativos: Em  de dezembro de  o saldo de Instrumento Financeiros Deriva...
+                                           ^^^^^
+Erro: 25
+Offset 1472, length 9, Rule ID: PARONYM_OFICIO_227
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: no ofício
+...ir do ciclo seguinte, conforme definido no Oficio nº  – SRTANEEL de  de novembro de . Pat...
+                                           ^^^^^^^^^
+Erro: 26
+Offset 2785, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...os contratual do Swap Empréstimo (lei ) de  a.a. para  a.a. Imposto de renda e contri...
+                                           ^^^^^
+Erro: 27
+Offset 2629, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...inanceiros derivativos: Em  de dezembro de  o saldo de Instrumento Financeiros Deriva...
+                                           ^^^^^
+Erro: 28
+Offset 2967, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...da taxa de juros contratual do Swap da  de  a.a. para  a.a. do CDI. Investimentos: Em...
+                                           ^^^^^
+Erro: 29
+Offset 823, length 28, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo, Implantação
+...ção de investimentos em projetos de TI, como por exemplo Implantação do SAP S Hana. Outras contas a receber:...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 30
+Offset 1433, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...da taxa de juros contratual do Swap da  de  a.a. para  a.a. do CDI. Impostos e contri...
+                                           ^^^^^
+Erro: 31
+Offset 3379, length 9, Rule ID: PARONYM_OFICIO_227
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: no ofício
+...ir do ciclo seguinte, conforme definido no Oficio nº  – SRTANEEL de  de novembro de . Pat...
+                                           ^^^^^^^^^
+Erro: 32
+Offset 3328, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...IGPM e IPCA, que no período de dezembro de  a novembro de  acumulou uma variação de ,...
+                                           ^^^^^
+Erro: 33
+Offset 3421, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...spectivamente, e no período de dezembro de  a novembro de , que acumulou , e ,, respe...
+                                           ^^^^^
+Erro: 34
+Offset 647, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...e pelo IPCA, que no período de dezembro de  a novembro de  acumulou a variação de , e...
+                                           ^^^^^
+Erro: 35
+Offset 3359, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...e pelo IPCA, que no período de dezembro de  a novembro de  acumulou a variação de , e...
+                                           ^^^^^
+Erro: 36
+Offset 855, length 14, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretando
+...do contrato do SWAP no decorrer do ano, acarretando na escolha da apuração pelo regime de bala...
+                                           ^^^^^^^^^^^^^^
+Erro: 37
+Offset 2993, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...amente a variação do dólar. Em dezembro de  a taxa do dólar frente ao real era de ,, ...
+                                           ^^^^^
+Erro: 38
+Offset 1410, length 9, Rule ID: PARONYM_OFICIO_227
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: no ofício
+...ir do ciclo seguinte, conforme definido no Oficio nº  – SRTANEEL de  de novembro de . Pat...
+                                           ^^^^^^^^^
+Erro: 39
+Offset 95, length 11, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...RGIA ELÉTRICA S.A.  Versão :   PÁGINA:  de        a) resultado das operações da Companhia, ...
+                                           ^^^^^^^^^^^
+Erro: 40
+Offset 4004, length 25, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: recebida, em contrapartida
+...riundas da Receita Anual Permitida  RAP recebida em contrapartida pela (i) implementação e (ii) operação ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 41
+Offset 194, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...esolução . de  Resolução . de  Período: de  a  Período: de  a  Período: de  a   RAP  ...
+                                           ^^^^^
+Erro: 42
+Offset 210, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...esolução . de  Período: de  a  Período: de  a  Período: de  a   RAP  PA Total  RAP  P...
+                                           ^^^^^
+Erro: 43
+Offset 226, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...eríodo: de  a  Período: de  a  Período: de  a   RAP  PA Total  RAP  PA Total  RAP  PA...
+                                           ^^^^^
+Erro: 44
+Offset 805, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...o de banco de capacitores.  Em  de maio de  a Brasnorte se tornou uma controlada da T...
+                                           ^^^^^
+Erro: 45
+Offset 1172, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...clo  Ciclo  Resolução nº . de  Período: de  a   Resolução nº . de  Período: de  a   R...
+                                           ^^^^^
+Erro: 46
+Offset 1208, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...do: de  a   Resolução nº . de  Período: de  a   Resolução nº . de  Período: de  a  RA...
+                                           ^^^^^
+Erro: 47
+Offset 1244, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...do: de  a   Resolução nº . de  Período: de  a  RAP PA Total RAP PA Total RAP PA Total...
+                                           ^^^^^
+Erro: 48
+Offset 1788, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... (.) . . (.) . .. (.) .  () Em  de maio de  a Brasnorte se tornou uma controlada da T...
+                                           ^^^^^
+Erro: 49
+Offset 2191, length 34, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou introdução de novos produtos, ou
+...ção de preços, taxas de câmbio, volumes ou introdução de novos produtos ou serviços. As concessões Mariana, Mirace...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 50
+Offset 3702, length 25, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: recebida, em contrapartida
+...onjunto e coligadas são oriundas da RAP recebida em contrapartida pela implementação, operação e manutenç...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 51
+Offset 455, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+...cionária, com eventual deflação, poderá acarretar na redução na RAP no ciclo seguinte. Abaix...
+                                           ^^^^^^^^^^^^
+Erro: 52
+Offset 95, length 11, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...RGIA ELÉTRICA S.A.  Versão :   PÁGINA:  de        a) introdução ou alienação de segmento op...
+                                           ^^^^^^^^^^^
+Erro: 53
+Offset 673, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...mínimo no leilão. No terceiro trimestre de  a Taesa adquiriu as ações da Bipar (acion...
+                                           ^^^^^
+Erro: 54
+Offset 1708, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ergia S.A. (“Brasnorte”): Em  de agosto de  a Taesa concluiu o processo de aquisição ...
+                                           ^^^^^
+Erro: 55
+Offset 2167, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...e maio de , a Taesa concluiu o processo de a aquisição de  da Transleste. O valor to...
+                                           ^^^^
+Erro: 56
+Offset 95, length 11, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...RGIA ELÉTRICA S.A.  Versão :   PÁGINA:  de        a) mudanças significativas nas práticas c...
+                                           ^^^^^^^^^^^
+Erro: 57
+Offset 542, length 24, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou em conjunto com um, ou
+...amento tributário incerto separadamente ou em conjunto com um ou mais tratamentos fiscais incertos e con...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 58
+Offset 558, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: em, ou antes
+...PC )  Receita de Contratos com Clientes em ou antes da data de aplicação inicial da IFRS  (...
+                                           ^^^^^^^^^^^
+Erro: 59
+Offset 2873, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...cionais adicionais estimados em R. mil, em contrapartida ao reconhecimento de ativos de direito ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 60
+Offset 2611, length 24, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou em conjunto com um, ou
+...amento tributário incerto separadamente ou em conjunto com um ou mais tratamentos tributários incertos. ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 61
+Offset 3200, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... em práticas contábeis  Em º de janeiro de  a Companhia adotou o CPC  – Operações de ...
+                                           ^^^^^
+Erro: 62
+Offset 3286, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...rrendamento mercantil e em º de janeiro de  a Companhia adotou o CPC  – Receita de Co...
+                                           ^^^^^
+Erro: 63
+Offset 512, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+... demonstrações financeiras de  dezembro de  o relatório dos auditores inclui o seguin...
+                                           ^^^^^
+Erro: 64
+Offset 1421, length 27, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: registrado, em contrapartida
+...eto. O ativo de contrato de concessão é registrado em contrapartida à receita de construção, que é reconhec...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 65
+Offset 3535, length 15, Rule ID: À_MEDIDA_EM_QUE
+Message: Substitua por “à medida que”.
+Suggestion: à medida que
+...ofrerá alteração em função da inflação, à medida em que ocorrerá a prestação de serviços, tendo...
+                                           ^^^^^^^^^^^^^^^
+Erro: 66
+Offset 95, length 10, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...RGIA ELÉTRICA S.A.  Versão :   PÁGINA:  de       a impostos diferidos decorrentes de difer...
+                                           ^^^^^^^^^^
+Erro: 67
+Offset 275, length 15, Rule ID: À_MEDIDA_EM_QUE
+Message: Substitua por “à medida que”.
+Suggestion: à medida que
+...ostos diferidos ativos são reconhecidos à medida em que é esperada a geração de lucro tributáve...
+                                           ^^^^^^^^^^^^^^^
+Erro: 68
+Offset 95, length 11, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...RGIA ELÉTRICA S.A.  Versão :   PÁGINA:  de        a) investimentos, incluindo: (i) descriçã...
+                                           ^^^^^^^^^^^
+Erro: 69
+Offset 95, length 15, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de Título
+...RGIA ELÉTRICA S.A.  Versão :   PÁGINA:  de       Titulo Executor(es) Duração (Meses) Investimen...
+                                           ^^^^^^^^^^^^^^^
+Erro: 70
+Offset 95, length 15, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de Título
+...RGIA ELÉTRICA S.A.  Versão :   PÁGINA:  de       Titulo Executor(es) Duração (Meses) Investimen...
+                                           ^^^^^^^^^^^^^^^
+Erro: 71
+Offset 180, length 2, Rule ID: DIACRITICS
+Message: Se for um erro ortográfico, substitua por “tô”.
+Suggestion: tô; te
+...Investimento realizadoa realizar Status to Ativo de Óleo e Gases variação do volum...
+                                           ^^
+Erro: 72
+Offset 95, length 15, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de Título
+...RGIA ELÉTRICA S.A.  Versão :   PÁGINA:  de       Titulo Executor(es) Duração (Meses) Investimen...
+                                           ^^^^^^^^^^^^^^^
+Erro: 73
+Offset 95, length 15, Rule ID: PARONYM_ACIDULA_1
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: de Título
+...RGIA ELÉTRICA S.A.  Versão :   PÁGINA:  de       Titulo Executor(es) Duração (Meses) Investimen...
+                                           ^^^^^^^^^^^^^^^
+Erro: 74
+Offset 826, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+..., com curva de desembolso de  em  a  e  de  a  e uma RAP de R  milhões (ciclo ). Para...
+                                           ^^^^^

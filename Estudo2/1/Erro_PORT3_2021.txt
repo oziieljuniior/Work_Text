@@ -1,0 +1,90 @@
+Erro: 1
+Offset 2687, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+... os riscos relacionados à instabilidade e ou indisponibilidade do ambiente de tecnol...
+                                           ^^^^
+Erro: 2
+Offset 2322, length 40, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou sempre que proposto pela Diretoria, ou
+...or: (i) validar, por iniciativa própria ou sempre que proposto pela Diretoria ou pelo Comitê de Auditoria, as questões e...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 129, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...o prazo de amortização. Em  de dezembro de  o custo médio ponderado da dívida era , a...
+                                           ^^^^^
+Erro: 4
+Offset 2158, length 12, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: foram devidos; foi devido; fora devido
+... anos de  e , onde os principais pontos foram devido: à redução de R, milhões em adiantament...
+                                           ^^^^^^^^^^^^
+Erro: 5
+Offset 486, length 11, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarreta
+...,a.a.; : Inflação  a.a. = ,a.a.), o que acarreta em uma redução do passivo atuarial. i..   ...
+                                           ^^^^^^^^^^^
+Erro: 6
+Offset 3174, length 12, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: foram devidos; foi devido; fora devido
+... anos de  e , onde os principais pontos foram devido: (i) à apropriação do adiantamento de R...
+                                           ^^^^^^^^^^^^
+Erro: 7
+Offset 207, length 12, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: foram devidos; foi devido; fora devido
+... anos de  e , onde os principais pontos foram devido: (i) redução das provisões contábeis de...
+                                           ^^^^^^^^^^^^
+Erro: 8
+Offset 997, length 11, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarreta
+....a.; : Inflação  ,a.a. = , a.a.), o que acarreta em um aumento do passivo atuarial. ii..   ...
+                                           ^^^^^^^^^^^
+Erro: 9
+Offset 3575, length 40, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou prováveis nas condições de mercado, ou
+... conta o efeito das mudanças conhecidas ou prováveis nas condições de mercado ou de operação. Os volumes projetados para...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 10
+Offset 66, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...  Wilson Sons S.A.  Versão :   PÁGINA:  de    o atingimento da capacidade operacional. ...
+                                           ^^^^^^^
+Erro: 11
+Offset 668, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+...s em  de dezembro de ,  e .  c. eventos ou operações não usuais  Não houve eventos ou operações não usuais relevantes nos exe...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 1867, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...R , milhão em diferimentos de pagamento de  a .  Outras alterações  Não se espera que...
+                                           ^^^^^
+Erro: 13
+Offset 2764, length 36, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou rescisão do direito de usar um, ou
+...de uso da companhia, incluindo a adição ou rescisão do direito de usar um ou mais ativos subjacentes, ou a extensão ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 14
+Offset 2826, length 16, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a extensão, ou
+... de usar um ou mais ativos subjacentes, ou a extensão ou redução do prazo dos contratos de locaç...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 15
+Offset 215, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... por Manobra Portuária (US por manobra) de  a  e o detalhamento de  por trimestre. Re...
+                                           ^^^^^

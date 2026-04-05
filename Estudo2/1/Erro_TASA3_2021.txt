@@ -1,0 +1,66 @@
+Erro: 1
+Offset 1486, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...os controles são tratadas primeiramente em nível operacional e, num segundo momento, pod...
+                                           ^^^^^^^^
+Erro: 2
+Offset 1878, length 58, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou atos lesivos contra a administração pública nacional, ou
+...m ser associados à prática de corrupção ou atos lesivos contra a administração pública nacional ou estrangeira. Aprovado pelo Conselho de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 848, length 38, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou outros tipos de condutas ilegais, ou
+...histórico de envolvimento com corrupção ou outros tipos de condutas ilegais ou antiéticas, identificar riscos da opera...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 432, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...o e geração de caixa reduzida, ao final de  a Taurus apresenta perfil bastante divers...
+                                           ^^^^^
+Erro: 5
+Offset 1189, length 7, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e; mas
+...vador, ainda se manteve inferior a  em  e , mas, em , com a consolidação do atual patam...
+                                           ^^^^^^^
+Erro: 6
+Offset 1091, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... recursos. No encerramento do exercício de  a Taurus registrava dívida bruta de R , m...
+                                           ^^^^^
+Erro: 7
+Offset 1273, length 5, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: armas,
+...am adquirido armas de fogo. Foram . mil armas Taurus vendidas nos EUA no ano, com aum...
+                                           ^^^^^
+Erro: 8
+Offset 1343, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...ompanhado da manutenção da margem bruta em nível superior a , indicando que a Taurus não...
+                                           ^^^^^^^^
+Erro: 9
+Offset 1635, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+... ). Comparando a cotação do dólar médio em  a desvalorização do real foi de ,, em  de...
+                                           ^^^^^
+Erro: 10
+Offset 2370, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+... do processo de reestruturação adotado, em  a Taurus obteve em  lucro líquido de R , ...
+                                           ^^^^^
+Erro: 11
+Offset 2659, length 15, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: estão suportados; está suportado
+... bases negativas de contribuição social estão suportado por projeções de resultados tributáveis...
+                                           ^^^^^^^^^^^^^^^

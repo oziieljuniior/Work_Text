@@ -1,0 +1,72 @@
+Erro: 1
+Offset 3481, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+...implicam em riscos à companhia, podendo acarretar em períodos de subutilização de seus ativo...
+                                           ^^^^^^^^^^^^
+Erro: 2
+Offset 79, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...NTROATLANTICA S.A.  Versão :   PÁGINA:  de     a. Condições financeiras e patrimoniais g...
+                                           ^^^^^^^^
+Erro: 3
+Offset 839, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...   ..  ..  ..  ..  Passivo e patrimônio liquido            Circulante           Fornece...
+                                           ^^^^^^^
+Erro: 4
+Offset 2705, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...m R , milhões negativos em  de dezembro de  o que representou uma redução de, aproxim...
+                                           ^^^^^
+Erro: 5
+Offset 2785, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+... exercício             .    .   .   .   Em  a companhia apresentou um aumento  de cai...
+                                           ^^^^^
+Erro: 6
+Offset 856, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...do ativo ..  ..    Passivo e patrimônio liquido      Fornecedores . , . , , Partes rela...
+                                           ^^^^^^^
+Erro: 7
+Offset 188, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...m R , milhões negativos em  de dezembro de  o que representou um aumento de, aproxima...
+                                           ^^^^^
+Erro: 8
+Offset 190, length 60, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de segmento operacional Não houve introdução, ou
+...nstrações financeiras a.     Introdução ou alienação de segmento operacional Não houve introdução ou alienação de segmento operacional da Co...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 1051, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...as em  de dezembro de . Em  de dezembro de  a FCA registrava em seus livros fiscais s...
+                                           ^^^^^
+Erro: 10
+Offset 375, length 87, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou parcelamento de débitos de sua titularidade com a utilização dos créditos fiscais, ou
+...islação que permita o pagamento à vista ou parcelamento de débitos de sua titularidade com a utilização dos créditos fiscais ou qualquer alteração legislativa, a taxa ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 442, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: IASB, mas
+...pretações de normas foram emitidas pelo IASB mas não estão em vigor para o exercício de ...
+                                           ^^^^^^^^
+Erro: 12
+Offset 692, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...Contratos com Clientes"  entra em vigor em o de janeiro de  e substitui a IAS   "Con...
+                                           ^^^^

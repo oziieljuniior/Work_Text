@@ -1,0 +1,18 @@
+Erro: 1
+Offset 769, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...obal da Companhia, adquiriu em setembro de  a totalidade da planta da BSF Alimentos L...
+                                           ^^^^^
+Erro: 2
+Offset 1046, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Encargos,
+...nanceira Modalidade Moeda Vecto. Final  Encargos     Bradesco, Banrisul Cap. Giro R fev ...
+                                           ^^^^^^^^
+Erro: 3
+Offset 737, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+..., o que levará para o segundo trimestre de  o início parcial das atividades. Parte co...
+                                           ^^^^^

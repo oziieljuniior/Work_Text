@@ -1,0 +1,60 @@
+Erro: 1
+Offset 2163, length 24, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo, impacto
+...ipalmente com base em fatores externos, como por exemplo impacto no cenário econômico.  . Gerenciamento ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 535, length 8, Rule ID: HAVER
+Message: O verbo haver é impessoal no sentido de existir.
+Suggestion: houve; houvera
+...tividade de auditoria independente  Não houveram deficiências e recomendações presentes ...
+                                           ^^^^^^^^
+Erro: 3
+Offset 344, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...ivo:   A Companhia implantou em janeiro de  o código de ética e conduta e instituiu o...
+                                           ^^^^^
+Erro: 4
+Offset 624, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ao ano anterior (R , milhões).   No ano de  a Companhia aderiu aos programas de retom...
+                                           ^^^^^
+Erro: 5
+Offset 1876, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...ntoEm até  meses....De  meses a  ano....De  a  anos....De  a  anos....Acima de  anos....
+                                           ^^^^^
+Erro: 6
+Offset 1891, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: Da; Dê a
+...s....De  meses a  ano....De  a  anos....De  a  anos....Acima de  anos....Total de Emp...
+                                           ^^^^^
+Erro: 7
+Offset 833, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...importante avanço em relação a . No ano de  o maior impacto positivo relevante se dev...
+                                           ^^^^^
+Erro: 8
+Offset 933, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...Transação Excepcional (R , milhões), já em  o maior reflexo positivo foi a contabiliz...
+                                           ^^^^^
+Erro: 9
+Offset 2535, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...embro de , o Banco Central divulgou que em  o PIB ficou em ,. A taxa básica de juros ...
+                                           ^^^^^
+Erro: 10
+Offset 347, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nos”?
+Suggestion: Nos
+...ndamento e dos investimentos previstos: Em  os investimentos alcançaram o montante de ...
+                                           ^^^^^^

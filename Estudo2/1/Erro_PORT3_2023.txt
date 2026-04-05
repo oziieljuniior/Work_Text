@@ -1,0 +1,42 @@
+Erro: 1
+Offset 3610, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...  de  amortização.  Em    de  dezembro  de    o  custo  médio  ponderado  da  dívida  e...
+                                           ^^^^^^^
+Erro: 2
+Offset 1136, length 13, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: foram devidos; foi devido; fora devido
+...    e  ,  onde  os  principais  pontos  foram  devido:  (i)  aquisição  de  materiais  de  ma...
+                                           ^^^^^^^^^^^^^
+Erro: 3
+Offset 2528, length 7, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...r de investidores.  Em    de  dezembro  de    o  capital  social  encontrase  totalment...
+                                           ^^^^^^^
+Erro: 4
+Offset 901, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não houve eventos, ou
+...depreciação da mais valia.  c.  eventos ou operações não usuais  Não houve eventos ou operações não usuais relevantes nos exe...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 5
+Offset 286, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...da receita por manobra (US por manobra) de  a  e o  detalhamento de  por trimestre.  ...
+                                           ^^^^^
+Erro: 6
+Offset 3043, length 5, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+...riscos  relacionados  à  instabilidade  e  ou  indisponibilidade  do  ambiente  de  t...
+                                           ^^^^^
+Erro: 7
+Offset 3730, length 46, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou sempre que proposto pela Diretoria, ou
+...i)  validar,  por  iniciativa  própria  ou  sempre  que  proposto  pela  Diretoria  ou  pelo  Comitê  de  Auditoria,  as  ques...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
