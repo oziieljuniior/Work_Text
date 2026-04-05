@@ -1,16 +1,27 @@
-[project]
-name = "b3"
+[tool.poetry]
+name = "Work_Text"
 version = "0.1.0"
-description = ""
-authors = [
-    {name = "Oziel Junior ",email = "58310583+oziieljuniior@users.noreply.github.com"}
-]
+description = "Projeto de análise de legibilidade e processamento de dados B3"
+authors = ["Oziel Junior <58310583+oziieljuniior@users.noreply.github.com>"]
 readme = "README.md"
-requires-python = ">=3.12"
-dependencies = [
+packages = [
+    { include = "Estudo", from = "Documenos" }
 ]
 
+[tool.poetry.dependencies]
+python = ">=3.12"
+pandas = "^3.0.1"
+numpy = "^2.4.3"
+requests = "^2.32.5"
+openpyxl = "^3.1.5"
+nltk = "^3.9.3"
+language-tool-python = "^3.3.0"
+pyphen = "^0.17.2"
+pdfminer-six = "^20240706"
+tqdm = "^4.67.3"
+cryptography = "^46.0.5"
+psutil = "^7.2.2"
 
 [build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
+requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
