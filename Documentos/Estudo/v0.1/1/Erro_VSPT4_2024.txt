@@ -1,0 +1,174 @@
+Erro: 251
+Offset 5208, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... montante de R  (  R ). Ao longo do ano de  a FCA emitiu uma Debenture de R  milhões ...
+                                           ^^^^^
+Erro: 252
+Offset 15815, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...das no exercício. Prejuízo do exercício Em  a empresa apurou um prejuízo de R , milhõ...
+                                           ^^^^^
+Erro: 253
+Offset 26571, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...ens supracitados. Prejuízo do exercício Em  a empresa apurou um prejuízo de R ., milh...
+                                           ^^^^^
+Erro: 254
+Offset 31413, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nos”?
+Suggestion: Nos
+...nceiro da Companhia, quando relevante.  Em  os negócios da Companhia foram desenvolvid...
+                                           ^^^^^^
+Erro: 255
+Offset 32344, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: No
+...R ,  Diesel (RL) R , R , R ,   Inflação Em  o índice de inflação no Brasil retornou p...
+                                           ^^^^^
+Erro: 256
+Offset 32528, length 10, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: superior à
+...nteriores em que a inflação apurada foi superior a meta vigente no período.  A inflação im...
+                                           ^^^^^^^^^^
+Erro: 257
+Offset 32946, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+...adas dos clientes, protegendo a receita liquida. Taxa de Juros O resultado financeiro d...
+                                           ^^^^^^^
+Erro: 258
+Offset 33165, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Em geral,
+...nciamentos e debêntures de longo prazo. Em geral as dívidas da FCA estão expostas ao CDI...
+                                           ^^^^^^^^
+Erro: 259
+Offset 35084, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...de acordo com o IFRS   CPC . Alterações à IAS   CPC  (R) Apresentação das Demonstraçõ...
+                                           ^^^^^
+Erro: 260
+Offset 35249, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...de A Companhia VLI adotou as alterações à IAS  pela primeira vez no exercício corrent...
+                                           ^^^^^
+Erro: 261
+Offset 36741, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...o na Declaração de Prática . Alterações à IAS   CPC  Tributos sobre o Lucro — Imposto...
+                                           ^^^^^
+Erro: 262
+Offset 36905, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...ão A Companhia VLI adotou as alterações à IAS   CPC  pela primeira vez no exercício c...
+                                           ^^^^^
+Erro: 263
+Offset 37462, length 24, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: nem o lucro contábil, nem
+... combinação de negócios e que não afeta nem o lucro contábil nem o lucro tributável.  Após as alterações...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 264
+Offset 37527, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...o lucro tributável.  Após as alterações à IAS   CPC , a entidade deve reconhecer o co...
+                                           ^^^^^
+Erro: 265
+Offset 37761, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...dade contidos na IAS   CPC . Alterações à IAS   CPC  Políticas Contábeis, Mudanças de...
+                                           ^^^^^
+Erro: 266
+Offset 38060, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a IAS
+...is A Companhia VLI adotou as alterações à IAS   CPC  pela primeira vez no exercício c...
+                                           ^^^^^
+Erro: 267
+Offset 43828, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ácia do hedge não se enquadrar na faixa de  a  e a relação de hedge estiver sujeita a...
+                                           ^^^^^
+Erro: 268
+Offset 44119, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...cia retrospectiva estiver fora da faixa de  a . A Companhia continuará a aplicar as a...
+                                           ^^^^^
+Erro: 269
+Offset 45129, length 13, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: equivalente à
+...de caixa contratuais for economicamente equivalente a base imediatamente anterior à alteração...
+                                           ^^^^^^^^^^^^^
+Erro: 270
+Offset 46311, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: em, ou antes
+...ava os pagamentos originalmente devidos em ou antes de  de junho de .  Em março de , o Boar...
+                                           ^^^^^^^^^^^
+Erro: 271
+Offset 46551, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: em, ou antes
+... esses pagamentos originalmente devidos em ou antes de  de junho de . No exercício social c...
+                                           ^^^^^^^^^^^
+Erro: 272
+Offset 50664, length 15, Rule ID: À_MEDIDA_EM_QUE
+Message: Substitua por “à medida que”.
+Suggestion: à medida que
+...s benefícios fiscais que esta faça jus, à medida em que esta apurar lucros tributáveis, até o l...
+                                           ^^^^^^^^^^^^^^^
+Erro: 273
+Offset 52222, length 4, Rule ID: ETC_USAGE
+Message: Deve-se utilizar a vírgula antes de ‘etc.’.
+Suggestion: , etc
+...desconto, carrying amount, investimentos etc.) para avaliar se ajustes de impairment...
+                                           ^^^^
+Erro: 274
+Offset 52725, length 11, Rule ID: CRASE_CONFUSION
+Message: Não se utiliza a crase antes de palavras masculinas.
+Suggestion: a exclusivo; ao exclusivo; aos exclusivo
+...o da concessão está sujeita à aprovação à exclusivo critério do poder concedente, conforme ...
+                                           ^^^^^^^^^^^
+Erro: 275
+Offset 53722, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...al) (,)  , Margem EBITDA ( de receita)  a    a  Taxa de desconto nominal   ,  ,  O vol...
+                                           ^^^^^^
+Erro: 276
+Offset 58986, length 20, Rule ID: QUE_TER_COMO_POR_NOME_ADJ
+Message: Com o pronome relativo “cujo”, o seu texto poderia ficar mais claro e elegante.
+Suggestion: cujo objetivo é
+...emanescente para a reserva de expansão, que tem por objetivo assegurar os recursos necessários para ...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 277
+Offset 60290, length 92, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou arbitrais Não existem restrições à distribuição de dividendos impostas por legislação, ou
+...os, decisões judiciais, administrativas ou arbitrais  Não existem restrições à distribuição de dividendos impostas por legislação ou regulamento especialmente aplicável à n...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 278
+Offset 63062, length 13, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: alterar
+...  a) como tais itens alteram ou poderão vir a alterar as receitas, as despesas, o resultado o...
+                                           ^^^^^^^^^^^^^
+Erro: 279
+Offset 87202, length 10, Rule ID: CRASE_CONFUSION
+Message: Não se utiliza a crase antes de palavras masculinas.
+Suggestion: a projetos; ao projetos; aos projetos
+... Prioritários, de processos e relativos à projetos relevantes, bem como novos riscos perce...
+                                           ^^^^^^^^^^

@@ -1,0 +1,162 @@
+Erro: 95
+Offset 4205, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: prática
+...nanceiras  a  Companhia  utiliza  como  pratica  a  revisão  de lançamentos  contábeis,...
+                                           ^^^^^^^
+Erro: 96
+Offset 4646, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...roles, estas são tratadas primeiramente em nível operacional; num segundo momento, áreas...
+                                           ^^^^^^^^
+Erro: 97
+Offset 5519, length 6, Rule ID: CRASE_CONFUSION
+Message: Neste contexto não se utiliza a crase.
+Suggestion: a eles
+... controles visando mitigar riscos. Cabe à eles supervisionar os riscos e implementar a...
+                                           ^^^^^^
+Erro: 98
+Offset 8032, length 10, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: próximo às
+...o de vencimento antecipado sempre muito próximo as datas de fechamento e correndo o risco ...
+                                           ^^^^^^^^^^
+Erro: 99
+Offset 11348, length 11, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarreta
+...falta de atendimento ao disposto acima, acarreta em registro e apresentação incorretos nas ...
+                                           ^^^^^^^^^^^
+Erro: 100
+Offset 13004, length 7, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: efeitos,
+...ra os serviços já prestados.  Possíveis efeitos Apresentação incorreta das demonstraçõe...
+                                           ^^^^^^^
+Erro: 101
+Offset 15576, length 4, Rule ID: ETC_USAGE
+Message: Deve-se utilizar a vírgula antes de ‘etc.’.
+Suggestion: , etc
+...de armas em  não considerado no cálculo; etc.   Recomendação Aprimorar os controles ...
+                                           ^^^^
+Erro: 102
+Offset 16043, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+...conciliações de provisão efetuadas pode acarretar em registros e apresentação incorretas nas...
+                                           ^^^^^^^^^^^^
+Erro: 103
+Offset 16749, length 7, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...econhecidos indevidamente como receitas a nível de grupo.   Recomendação Apesar de em  ...
+                                           ^^^^^^^
+Erro: 104
+Offset 17136, length 11, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarreta
+...a de aderência aos critérios do CPC (R) acarreta no reconhecimento e contabilização indevid...
+                                           ^^^^^^^^^^^
+Erro: 105
+Offset 23077, length 14, Rule ID: SIMPLIFICAR_CONVERTER_PARA_VERBO_INFINITIVO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: para serem
+... áreas de negócios antes de iniciadas e para que sejam concluídas somente quando homologadas e...
+                                           ^^^^^^^^^^^^^^
+Erro: 106
+Offset 26494, length 13, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, Além disso
+...a    TAURUS ARMAS S.A.Versão : PÁGINA:  de Além disso, o processo de revisão dessas informaçõ...
+                                           ^^^^^^^^^^^^^
+Erro: 107
+Offset 27912, length 7, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: efeitos,
+...ivas e balancetes contábeis.  Possíveis efeitos Apresentação incorreta das notas explic...
+                                           ^^^^^^^
+Erro: 108
+Offset 28936, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...ão do emissor a tais riscos. Em janeiro de  a Companhia alterou seu sistema ERP para ...
+                                           ^^^^^
+Erro: 109
+Offset 30491, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...dos em grande parte por taxas variáveis de  a  do CDI, contratados com instituições f...
+                                           ^^^^^
+Erro: 110
+Offset 35504, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...monstrações financeiras de  de dezembro de  a Companhia apresentava R  milhões de dív...
+                                           ^^^^^
+Erro: 111
+Offset 42635, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: liquidados com
+...ssociadas com seus passivos financeiros que são liquidados com pagamentos à vista ou com outro ativo f...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 112
+Offset 43850, length 6, Rule ID: CRASE_CONFUSION
+Message: Verifique se a crase não deve estar no plural. Caso contrário, não se utiliza a crase.
+Suggestion: a suas; às suas
+...ra e os avais concedidos pela Companhia à suas controladas estão demonstrados na nota ...
+                                           ^^^^^^
+Erro: 113
+Offset 56083, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...zação cambial do período. No fechamento de  o Real estava , mais desvalorizado que o ...
+                                           ^^^^^
+Erro: 114
+Offset 58135, length 12, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: em relação à
+...peracional de R , milhões, aumento de , em relação a geração de caixa operacional em .   Em ...
+                                           ^^^^^^^^^^^^
+Erro: 115
+Offset 59049, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “neste”?
+Suggestion: Neste
+...rdinária realizada em  de setembro de . Em  este valor foi contabilizado como adiantamen...
+                                           ^^^^^^^^
+Erro: 116
+Offset 67543, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...erando o efeito desvalorização cambial (em  o dólar norte americano médio valorizouse...
+                                           ^^^^^
+Erro: 117
+Offset 71351, length 79, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de segmento operacional Nos últimos anos não houve introdução, ou
+...onstrações financeiras.   a) introdução ou alienação de segmento operacional  Nos últimos  anos não houve introdução ou alienação de segmento operacional   b) ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 118
+Offset 74320, length 15, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: estão suportados; está suportado
+... bases negativas de contribuição social estão suportado por projeções de resultados tributáveis...
+                                           ^^^^^^^^^^^^^^^
+Erro: 119
+Offset 78317, length 13, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: alterar
+...  a) como tais itens alteram ou poderão vir a alterar as receitas, as despesas, o resultado o...
+                                           ^^^^^^^^^^^^^
+Erro: 120
+Offset 81353, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...locandoa em um novo patamar competitivo em nível internacional.   (a) investimentos, inc...
+                                           ^^^^^^^^
+Erro: 121
+Offset 83280, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...da Companhia aprovado em:   de janeiro de  a aquisição da Steelinject – Injeção de A...
+                                           ^^^^^

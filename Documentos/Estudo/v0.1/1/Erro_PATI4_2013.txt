@@ -1,0 +1,54 @@
+Erro: 13
+Offset 1069, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: prática
+...mento pelas usinas siderúrgicas a mesma pratica a política de manter um estoque em zona...
+                                           ^^^^^^^
+Erro: 14
+Offset 10818, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquida
+... representaram , da receita operacional liquida em , com um acréscimo em relação a , qu...
+                                           ^^^^^^^
+Erro: 15
+Offset 11932, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Líquida
+...  ConsolidadoR Mil              Receita Liquida . . . . Comentários dos diretores  .  C...
+                                           ^^^^^^^
+Erro: 16
+Offset 15137, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...CULANTE  Patrimônio Líquido  No período de  o Capital Social foi aumentado de R , mil...
+                                           ^^^^^
+Erro: 17
+Offset 16562, length 22, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: metalmecânica, em geral
+...ndústria de eletrodomésticos, indústria metalmecânica em geral, etc    ii. fatores que afetaram materi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 18
+Offset 16688, length 7, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...eracionais  Os fatores da macroeconomia a nível nacional eou mundial, afetaram o mercad...
+                                           ^^^^^^^
+Erro: 19
+Offset 18087, length 15, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: causem
+...XOS QUE TENHAM CAUSADO OU SE ESPERA QUE VENHAM A CAUSAR NAS DEMONSTRAÇÕES FINANCEIRAS E NOS RES...
+                                           ^^^^^^^^^^^^^^^
+Erro: 20
+Offset 18447, length 9, Rule ID: PARONYM_INICIO_169
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: No início
+... alienação de participação societária.  No inicio de  a Controladora L. P. Aços Comércio ...
+                                           ^^^^^^^^^
+Erro: 21
+Offset 18457, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... de participação societária.  No inicio de  a Controladora L. P. Aços Comércio e Part...
+                                           ^^^^^

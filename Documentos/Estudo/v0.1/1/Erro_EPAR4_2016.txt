@@ -1,0 +1,48 @@
+Erro: 38
+Offset 3090, length 16, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: ocorram
+...elo Banco Central.  Portanto, ainda que venham a ocorrer elevações da taxa Selic, estas poderão ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 39
+Offset 8936, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: acompanhadas em
+...ção, responsável e data de implantação, que são acompanhadas em bases mensais pela área de Auditoria In...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 40
+Offset 10454, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...identificados alguns pontos de melhoria como por exemplo: Na área de vendas, apontamentos envolv...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 41
+Offset 14841, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se utiliza a crase antes de palavras masculinas.
+Suggestion: a ROL; ao ROL; aos ROL
+...os pesados houve redução de  em relação à ROL em , se comparado a . Essa redução é de...
+                                           ^^^^^
+Erro: 42
+Offset 27602, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+... desse segmento.  Resultado Financeiro: Em  a Companhia apresentou saldo negativo de ...
+                                           ^^^^^
+Erro: 43
+Offset 31906, length 15, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: causem
+... abaixo tenham causado ou se espera que venham a causar nas demonstrações financeiras do emisso...
+                                           ^^^^^^^^^^^^^^^
+Erro: 44
+Offset 40206, length 13, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: alterar
+...  a. Como tais itens alteram ou poderão vir a alterar as receitas, as despesas, o resultado o...
+                                           ^^^^^^^^^^^^^
+Erro: 45
+Offset 41979, length 107, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou serviços No último exercício a Companhia não gastou em pesquisas para investimentos de novos produtos, ou
+... para desenvolvimento de novos produtos ou serviços No último exercício a Companhia não gastou em pesquisas para investimentos de novos produtos ou serviços.  (iii) projetos em desenvolvi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

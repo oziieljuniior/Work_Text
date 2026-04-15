@@ -1,0 +1,72 @@
+Erro: 1
+Offset 1094, length 58, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de instituições financeiras depositárias de recursos, ou
+...ade de perdas oriundas de inadimplência ou de instituições financeiras depositárias de recursos ou de investimentos financeiros.  Risco de...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 2
+Offset 2158, length 8, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Máquinas
+... (Capital de Giro)    Euros (Financ. de Maquinas)      Fornecedores: referemse a compra ...
+                                           ^^^^^^^^
+Erro: 3
+Offset 14457, length 4, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...iduciária  aval dos controladores Dez , a  a.a.       Set , a.a.   .   . Finame veíc...
+                                           ^^^^
+Erro: 4
+Offset 15748, length 8, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Máquinas
+... (Capital de Giro)    Euros (Financ. de Maquinas)     iii. Grau de subordinação entre as...
+                                           ^^^^^^^^
+Erro: 5
+Offset 17914, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: incorrer
+... decorrem da possibilidade da companhia vir a incorrer em perdas ou ganhos por conta das flutu...
+                                           ^^^^^^^^^^^^^^
+Erro: 6
+Offset 22131, length 15, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: causem
+... abaixo tenham causado ou se espera que venham a causar nas demonstrações financeiras do emisso...
+                                           ^^^^^^^^^^^^^^^
+Erro: 7
+Offset 48064, length 20, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: reconhecido no
+...elo método de equivalência patrimonial, que é reconhecido no resultado do exercício. No caso das var...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 8
+Offset 49152, length 25, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: lançados, em contrapartida
+...segurança. Os reparos e manutenções são lançados em contrapartida ao resultado do exercício, quando incor...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 9
+Offset 49445, length 4, Rule ID: FRAGMENT_TWO_ARTICLES
+Message: Possível fragmento.
+Suggestion: as; a; as… A
+...s taxas utilizadas para o cálculo foram as a seguir discriminadas, sendo que as taxa...
+                                           ^^^^
+Erro: 10
+Offset 52335, length 4, Rule ID: FRAGMENT_TWO_ARTICLES
+Message: Possível fragmento.
+Suggestion: as; a; as… A
+...das para o cálculo da amortização foram as a seguir discriminadas, sendo que as  inf...
+                                           ^^^^
+Erro: 11
+Offset 58966, length 21, Rule ID: QUE_TER_COMO_POR_NOME_ADJ
+Message: Com o pronome relativo “cujo”, o seu texto poderia ficar mais claro e elegante.
+Suggestion: cujo objetivo é
+...liar a estrutura de controles internos, que tem como objetivo garantir a adequação das demonstrações ...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 61138, length 13, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: alterar
+...  a. Como tais itens alteram ou poderão vir a alterar as receitas, as despesas, o resultado o...
+                                           ^^^^^^^^^^^^^

@@ -1,0 +1,108 @@
+Erro: 19
+Offset 5214, length 8, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “neste”?
+Suggestion: neste
+...a da dívida total da Companhia, de ,, e em  este mesmo percentual reduziu para  Portanto...
+                                           ^^^^^^^^
+Erro: 20
+Offset 5248, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: para, Portanto
+... ,, e em  este mesmo percentual reduziu para  Portanto, a Companhia optou por não utilizar ins...
+                                           ^^^^^^^^^^^^^^
+Erro: 21
+Offset 5973, length 58, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de instituições financeiras depositárias de recursos, ou
+...s de inadimplência de suas contrapartes ou de instituições financeiras depositárias de recursos ou de investimentos financeiros.   Em  de ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 22
+Offset 7167, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+...contratos comerciais, podendo até mesmo acarretar na suspensão temporária da prestação do se...
+                                           ^^^^^^^^^^^^
+Erro: 23
+Offset 7801, length 26, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou em aplicações em CDB, ou
+... que estavam alocados em conta corrente ou em aplicações em CDB ou em operações compromissadas que possuía...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 24
+Offset 17380, length 13, Rule ID: LINKING_VERB_PREDICATE_AGREEMENT
+Message: O predicativo tem de concordar em número com o verbo de ligação.
+Suggestion: são resultados; é resultado
+...sas importantes conquistas operacionais são resultado dos investimentos realizados nos último...
+                                           ^^^^^^^^^^^^^
+Erro: 25
+Offset 19376, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...icados, nos primeiros nove meses do ano de  o lucro líquido totalizou R , milhões, , ...
+                                           ^^^^^
+Erro: 26
+Offset 22526, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...stinado à exportação acumulada nos anos de  a . Outro indicador relevante de desempen...
+                                           ^^^^^
+Erro: 27
+Offset 24028, length 8, Rule ID: A_NIVEL
+Message: Substitua por “ao nível”.
+Suggestion: ao nível
+...da LíquidaEBITDA da Companhia permanece em nível confortável em relação aos limites fina...
+                                           ^^^^^^^^
+Erro: 28
+Offset 28992, length 9, Rule ID: DEPOIS_DE_APÓS
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: após
+... acesso ao mercado de capitais pela MRS depois de oito anos, após um bem sucedido process...
+                                           ^^^^^^^^^
+Erro: 29
+Offset 29874, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...tamar da Companhia. Enquanto no período de  a  atingiuse a marca de  milhões de tonel...
+                                           ^^^^^
+Erro: 30
+Offset 41145, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...os Financeiros Derivativos. Em dezembro de  a dívida bruta totalizava R., milhões, do...
+                                           ^^^^^
+Erro: 31
+Offset 46089, length 8, Rule ID: CRASE_CONFUSION
+Message: Não se utiliza a crase antes de palavras masculinas.
+Suggestion: a ativos; ao ativos; aos ativos
+... à alienação de ativos, imposta somente à ativos permanentes em montante igual ou superi...
+                                           ^^^^^^^^
+Erro: 32
+Offset 46305, length 8, Rule ID: CRASE_CONFUSION
+Message: Não se utiliza a crase antes de palavras masculinas.
+Suggestion: a ativos; ao ativos; aos ativos
+... à alienação de ativos, imposta somente à ativos permanentes que representem em um perío...
+                                           ^^^^^^^^
+Erro: 33
+Offset 57228, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjugação deve ser separada por vírgulas.
+Suggestion: portanto, um
+..., ocorre em momento posterior, havendo, portanto um efeito no caixa da MRS pelo aumento do ...
+                                           ^^^^^^^^^^^
+Erro: 34
+Offset 62923, length 18, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: e, em contrapartida
+... direito de “take or pay” de R, milhões e em contrapartida houve provisão para perda de ativos no ...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 35
+Offset 88678, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...etária das parcelas pagas entre outubro de  a abril de  (variação IGPDI acumulada ver...
+                                           ^^^^^
+Erro: 36
+Offset 91122, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a via
+...ao longo de , principalmente em relação à via permanente e aquisição de novas locomot...
+                                           ^^^^^

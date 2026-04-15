@@ -1,0 +1,60 @@
+Erro: 9
+Offset 15245, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...o: os custos com depreciação aumentaram devido a continuidade de investimentos para viab...
+                                           ^^^^^^^^
+Erro: 10
+Offset 31016, length 5, Rule ID: CRASE_CONFUSION
+Message: Não se aplica a crase antes de um verbo.
+Suggestion: a via
+...longo do ano referente, principalmente, à via permanente, pátios, locomotivas e vagõe...
+                                           ^^^^^
+Erro: 11
+Offset 53184, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...s.  A adesão ao PPE II reduziu em torno de  o valor do parcelamento referente ao PPE ...
+                                           ^^^^^
+Erro: 12
+Offset 57177, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “no”?
+Suggestion: no
+...zaram ganho de R, milhões, enquanto que em  o valor foi R, milhão.  Ajuste de Estoque...
+                                           ^^^^^
+Erro: 13
+Offset 60904, length 15, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: causem
+... abaixo tenham causado ou se espera que venham a causar nas demonstrações financeiras do emisso...
+                                           ^^^^^^^^^^^^^^^
+Erro: 14
+Offset 61398, length 51, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou operações não usuais Não ocorreram eventos, ou
+...lano com este propósito.    c.  eventos ou operações não usuais    Não ocorreram eventos ou operações não usuais.      . Comentário...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 15
+Offset 69433, length 65, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou exposições adicionais identificadas com base em novos fatos, ou
+...icável, conclusões de inspeções fiscais ou exposições adicionais identificadas com base em novos fatos ou decisões de tribunais, as provisões são...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 16
+Offset 70188, length 13, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou menores, ou
+...udiciais, taxas de desligamento maiores ou menores ou períodos de vida mais curtos ou longos ...
+                                           ^^^^^^^^^^^^^
+Erro: 17
+Offset 71608, length 24, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: convertidas para
+...realiza transações em moeda estrangeira que são convertidas para reais usandose as taxas de câmbio em vi...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 18
+Offset 78595, length 13, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: alterar
+...  a. como tais itens alteram ou poderão vir a alterar as receitas, as despesas, o resultado o...
+                                           ^^^^^^^^^^^^^

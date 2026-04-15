@@ -1,0 +1,150 @@
+Erro: 42
+Offset 3393, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+...l superior a ,x o EBITDA, o que poderia acarretar em quebra de covenant.  O credor, todavia,...
+                                           ^^^^^^^^^^^^
+Erro: 43
+Offset 19960, length 14, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretaria
+... um nível superior a ,x o EBITDA, o que acarretaria em quebra de cláusula contratual restritiv...
+                                           ^^^^^^^^^^^^^^
+Erro: 44
+Offset 22166, length 6, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: Móbile
+...m razão de uma queda de , das vendas de Mobile Devices e de , de Office & IT Supplies,...
+                                           ^^^^^^
+Erro: 45
+Offset 25495, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...das  No exercício findo em  de dezembro de  a Companhia reconheceu receita de R , mil...
+                                           ^^^^^
+Erro: 46
+Offset 31483, length 20, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: limitados em
+...ação do resultado e podem incluir itens que são limitados em número e claramente identificáveis tais...
+                                           ^^^^^^^^^^^^^^^^^^^^
+Erro: 47
+Offset 34563, length 60, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou a itens reconhecidos diretamente no patrimônio líquido, ou
+...lacionados a uma combinação de negócios ou a itens reconhecidos diretamente no patrimônio líquido ou em outros resultados abrangentes. Ver n...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 48
+Offset 35610, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: considerada como
+..., podese mencionar a taxa de desemprego que é considerada como um indicador com impacto direto sobre o...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 49
+Offset 35790, length 11, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: de, Contudo
+...em  foi de , em comparação com  que foi de  Contudo, a alta inflação dos preços em algumas ...
+                                           ^^^^^^^^^^^
+Erro: 50
+Offset 37411, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...naram o ambiente de consumo brasileiro, como por exemplo, aumento nas taxas de juros, inflação, ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 51
+Offset 41329, length 15, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: causem
+... abaixo tenham causado ou se espera que venham a causar nas demonstrações financeiras da Compan...
+                                           ^^^^^^^^^^^^^^^
+Erro: 52
+Offset 41553, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...rcício social encerrado em  de dezembro de  a introdução ou alienação de qualquer seg...
+                                           ^^^^^
+Erro: 53
+Offset 47911, length 17, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: obtida pela
+...al Investido) é uma medida não contábil que é obtida pela divisão do . Medições não contábeis    ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 54
+Offset 66140, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...ara ampliação da operação da Companhia, como por exemplo, na construção de novos galpões para au...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 55
+Offset 66891, length 14, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: adquirir
+...ens de consumo não duráveis, mas poderá vir a adquirir empresas que atuam em outros segmentos,...
+                                           ^^^^^^^^^^^^^^
+Erro: 56
+Offset 67923, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “nas”?
+Suggestion: nas
+...  A Companhia prepara para lançar ainda em  as motos da Watts, fabricadas em ManausAM....
+                                           ^^^^^^
+Erro: 57
+Offset 73619, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...ar melhorias e fortalecer a governança, em  a Companhia contratou uma consultoria ext...
+                                           ^^^^^
+Erro: 58
+Offset 77344, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: como, por exemplo
+...ode se manifestar de diversas maneiras, como por exemplo, atos fraudulentos, interrupção do negó...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 59
+Offset 78262, length 8, Rule ID: CRASE_CONFUSION
+Message: Verifique se a crase não deve estar no plural. Caso contrário, não se utiliza a crase.
+Suggestion: a multas; às multas
+...s ou intempestivos, expondo a Companhia à multas e penalidades.  • Risco regulatório eou...
+                                           ^^^^^^^^
+Erro: 60
+Offset 79142, length 50, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou uso indevido de dados pessoais confidenciais, ou
+...ção: tratase do risco associado à perda ou uso indevido de dados pessoais confidenciais ou informações confidenciais, podendo amea...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 61
+Offset 80966, length 11, Rule ID: CRASE_CONFUSION
+Message: Não se utiliza a crase antes de palavras masculinas.
+Suggestion: a terceiros; ao terceiros; aos terceiros
+..., (ii) mitigação ou (iii) transferência à terceiros.  A comunicação e a consulta entre os c...
+                                           ^^^^^^^^^^^
+Erro: 62
+Offset 81996, length 21, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: compostos por
+...da Diretoria, conjunta ou isoladamente, que são compostos por profissionais com vasta experiência e q...
+                                           ^^^^^^^^^^^^^^^^^^^^^
+Erro: 63
+Offset 82954, length 37, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou aplicações de eventuais sanções, ou
+...a mitigar o risco de perda de reputação ou aplicações de eventuais sanções ou multas em decorrência do risco de confo...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 64
+Offset 84637, length 16, Rule ID: SIMPLIFICAR_CONVERTER_PARA_VERBO_INFINITIVO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: para estarem
+...mpanhia mantém em constante treinamento para que estejam sempre atualizados no que diz respeito ...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 65
+Offset 102355, length 40, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou contribuir com fundos corporativos, ou
+...hum colaborador deve prometer, oferecer ou contribuir com fundos corporativos ou quaisquer outros ativos empresariais pa...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 66
+Offset 106996, length 47, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou terceiros poderão resultar em advertência, ou
+...a. Eventuais violações por fornecedores ou terceiros poderão resultar em advertência ou rescisão do contrato, sempre que aplicá...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

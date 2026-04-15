@@ -1,0 +1,48 @@
+Erro: 1
+Offset 1063, length 14, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: esses riscos são; esses riscos, é
+...os e gerimos de forma adequada e eficaz esses riscos é crucial para a nossa lucratividade, sen...
+                                           ^^^^^^^^^^^^^^
+Erro: 2
+Offset 2037, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...do saldo de contas a receber em aberto, em contrapartida o saldo de aplicações financeiras com l...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 3
+Offset 4716, length 24, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: Como, por exemplo, analise
+...ados quaisquer outros fatores de risco (Como por exemplo analise de mercado e demanda) e a possibilidade...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 10054, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...Conselho de Administração, foi definida em  a diretriz de proteção das exposições a m...
+                                           ^^^^^
+Erro: 5
+Offset 24288, length 3, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “à”?
+Suggestion: à
+...a CDI Única  .    CCE – Credit Suisse , a a  CDI Trimestral . .                    ...
+                                           ^^^
+Erro: 6
+Offset 46008, length 15, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: causem
+... abaixo tenham causado ou se espera que venham a causar nas demonstrações financeiras do emisso...
+                                           ^^^^^^^^^^^^^^^
+Erro: 7
+Offset 73860, length 5, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: Nível,
+...método de avaliação.    Controladora    Nível  Nível  Nível  Total Derivativos de Pas...
+                                           ^^^^^
+Erro: 8
+Offset 84562, length 13, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: alterar
+...  a. como tais itens alteram ou poderão vir a alterar as receitas, as despesas, o resultado o...
+                                           ^^^^^^^^^^^^^

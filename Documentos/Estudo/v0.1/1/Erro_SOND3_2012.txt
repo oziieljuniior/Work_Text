@@ -1,0 +1,24 @@
+Erro: 1
+Offset 7872, length 12, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: em relação à
+... , da receita bruta, tendo uma elevação em relação a receita bruta observada nos dois último...
+                                           ^^^^^^^^^^^^
+Erro: 2
+Offset 9782, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...cursos judiciais. Em  de dezembro de  e de  o respectivo montante contabilizado era d...
+                                           ^^^^^
+Erro: 3
+Offset 12337, length 18, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: causem
+...   tenham   causado   ou   se  espera   venham   a  causar   nas demonstrações financeiras do emis...
+                                           ^^^^^^^^^^^^^^^^^^
+Erro: 4
+Offset 18885, length 16, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: apresentar
+...lanço que tenham apresentado, ou possam vir a apresentar, efeitos relevantes sobre os números re...
+                                           ^^^^^^^^^^^^^^^^

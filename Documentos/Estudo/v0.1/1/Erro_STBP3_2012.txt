@@ -1,0 +1,60 @@
+Erro: 9
+Offset 1063, length 14, Rule ID: GENERAL_VERB_AGREEMENT_ERRORS
+Message: Possível erro de concordância verbal.
+Suggestion: esses riscos são; esses riscos, é
+...os e gerimos de forma adequada e eficaz esses riscos é crucial para a nossa lucratividade, sen...
+                                           ^^^^^^^^^^^^^^
+Erro: 10
+Offset 2029, length 16, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: em contrapartida,
+...do saldo de contas a receber em aberto, em contrapartida o saldo de aplicações financeiras com l...
+                                           ^^^^^^^^^^^^^^^^
+Erro: 11
+Offset 4739, length 24, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas, e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: Como, por exemplo, analise
+...ados quaisquer outros fatores de risco (Como por exemplo analise de mercado e demanda) e a possibilidade...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 12
+Offset 16909, length 6, Rule ID: FRAGMENT_TWO_ARTICLES
+Message: Possível fragmento.
+Suggestion: dá uma; dar uma; duma; da; uma
+...racional da Companhia foi de ,, reflexo da uma atividade econômica do país no período....
+                                           ^^^^^^
+Erro: 13
+Offset 34472, length 3, Rule ID: DIACRITICS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: déu
+...ais  A expansão do comércio mundial em  deu impulso ao fluxo de cargas pelo maior p...
+                                           ^^^
+Erro: 14
+Offset 35088, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...to de , no ano de  quando comparado à , devido a estratégia comercial para as operações ...
+                                           ^^^^^^^^
+Erro: 15
+Offset 38880, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...perado e o aumento do custo com pessoal devido a demanda prevista e o reajuste da catego...
+                                           ^^^^^^^^
+Erro: 16
+Offset 42985, length 15, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: causem
+... abaixo tenham causado ou se espera que venham a causar nas demonstrações financeiras do emisso...
+                                           ^^^^^^^^^^^^^^^
+Erro: 17
+Offset 62935, length 15, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: exerça
+...R. e será pago à medida que a Companhia venha a exercer as opções. A Fertisanta é arrendatária ...
+                                           ^^^^^^^^^^^^^^^
+Erro: 18
+Offset 64821, length 13, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: alterar
+...  a. como tais itens alteram ou poderão vir a alterar as receitas, as despesas, o resultado o...
+                                           ^^^^^^^^^^^^^

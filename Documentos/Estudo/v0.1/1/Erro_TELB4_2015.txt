@@ -1,0 +1,24 @@
+Erro: 27
+Offset 10587, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...or total do financiamento, foi recebida em  a primeira parcela no valor de R . mil.  ...
+                                           ^^^^^
+Erro: 28
+Offset 13936, length 45, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou captar mais recursos para financiamento, ou
+...tos compromissados. Será necessário (i) ou captar mais recursos para financiamento ou (ii) aporte de capital do Acionista Con...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 29
+Offset 21113, length 17, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: causem
+...  tenham  causado  ou  se  espera  que  venham  a  causar  nas demonstrações financeiras e nos re...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 30
+Offset 36389, length 4, Rule ID: REDUNDANT_CONJUNCTIONS
+Message: Possível fragmento. Utilize apenas uma conjunção deste tipo.
+Suggestion: e/ou; e; ou
+... de contribuições por parte da TELEBRAS e ou dos participantes. Cabe ressaltar que a...
+                                           ^^^^

@@ -1,0 +1,24 @@
+Erro: 4
+Offset 1708, length 7, Rule ID: ETC_USAGE
+Message: ‘etc.’ não deve ser precedido por ‘e’.
+Suggestion: , etc.
+...o pretende cobrir (câmbio, taxa de juros e etc.). A política de controle consiste em ac...
+                                           ^^^^^^^
+Erro: 5
+Offset 2426, length 58, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou de instituições financeiras depositárias de recursos, ou
+...entes de inadimplência de seus clientes ou de instituições financeiras depositárias de recursos ou de investimentos financeiros. Para miti...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 6
+Offset 7960, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...a Geral Extraordinária realizada no ano de  a Companhia transferiu acervo líquido com...
+                                           ^^^^^
+Erro: 7
+Offset 8767, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+...ão dos atos praticados.  Nesse sentido, em  a controlada Renauxview e a Rotterdam, pr...
+                                           ^^^^^

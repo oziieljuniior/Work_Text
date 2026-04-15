@@ -1,0 +1,72 @@
+Erro: 1
+Offset 3772, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: prática
+...da economia. No setor de alimentos esta pratica tem trazido grandes movimentações e tra...
+                                           ^^^^^^^
+Erro: 2
+Offset 5924, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: prática
+...tas glosas de créditos, a introdução da pratica da ST e uma gama imensa de leis de atra...
+                                           ^^^^^^^
+Erro: 3
+Offset 6606, length 8, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: práticas
+...ncipais mercados brasileiros através de praticas concorrenciais legais, fiscais e tribut...
+                                           ^^^^^^^^
+Erro: 4
+Offset 9034, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...esa não teve ações negociadas na bolsa, devido a grande concentração do Controle Acionár...
+                                           ^^^^^^^^
+Erro: 5
+Offset 9701, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...CONSERVAS ODERICH S.A.Versão : PÁGINA:  de  a.Riscos para os quais se busca proteção;...
+                                           ^^^^^
+Erro: 6
+Offset 10476, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...CONSERVAS ODERICH S.A.Versão : PÁGINA:  de  a.Riscos para os quais se busca proteção;...
+                                           ^^^^^
+Erro: 7
+Offset 13917, length 14, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta locução deve ser separada por vírgulas.
+Suggestion: ao mesmo tempo,
+...e produtos com foco no mercado externo, ao mesmo tempo em que diminuirá significativamente des...
+                                           ^^^^^^^^^^^^^^
+Erro: 8
+Offset 15259, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...aves prejuízos financeiros e econômicos devido a impossibilidade de embarque de centenas...
+                                           ^^^^^^^^
+Erro: 9
+Offset 24360, length 11, Rule ID: CRASE_CONFUSION
+Message: Não se utiliza a crase antes de palavras masculinas.
+Suggestion: a terceiros; ao terceiros; aos terceiros
+...o pela industrialização destes produtos à terceiros.Possui unidades produtoras em São Sebas...
+                                           ^^^^^^^^^^^
+Erro: 10
+Offset 25064, length 13, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: em relação às
+... vem sendo monitorada desde o ano de  e em relação as altas de preços das matérias primas.A R...
+                                           ^^^^^^^^^^^^^
+Erro: 11
+Offset 26033, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...CONSERVAS ODERICH S.A.Versão : PÁGINA:  de  a.Introdução ou alienação de segmento ope...
+                                           ^^^^^
+Erro: 12
+Offset 26050, length 66, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de segmento operacional A companhia não introduziu, ou
+... S.A.Versão : PÁGINA:  de  a.Introdução ou alienação de segmento operacional A companhia não introduziu ou alienou segmento operacional.b.Constitu...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

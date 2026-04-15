@@ -1,0 +1,66 @@
+Erro: 17
+Offset 2336, length 17, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: comprometer
+... não possa ser repassado à tarifa, pode vir a comprometer a rentabilidade da companhia, afetando ...
+                                           ^^^^^^^^^^^^^^^^^
+Erro: 18
+Offset 4130, length 12, Rule ID: PHRASAL_VERB_EM
+Message: Este verbo não se rege com a proposição “em”.
+Suggestion: acarretar
+...implicam em riscos à companhia, podendo acarretar em períodos de subutilização de seus ativo...
+                                           ^^^^^^^^^^^^
+Erro: 19
+Offset 16888, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+... exercício social findo em  de dezembro de  a Companhia apresentou uma diminuição em ...
+                                           ^^^^^
+Erro: 20
+Offset 24097, length 7, Rule ID: LP_PARONYMS
+Message: Quando escrita sem acento, esta palavra é um verbo. Se pretende referir-se a um substantivo ou adjetivo, deve utilizar a forma acentuada.
+Suggestion: líquido
+...AtivoTotal do ativoPassivo e patrimônio liquido Passivo não circulante . Comentários do...
+                                           ^^^^^^^
+Erro: 21
+Offset 33930, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: do; dê o
+...m R , milhões negativos em  de dezembro de  o que representou um aumento de, aproxima...
+                                           ^^^^^
+Erro: 22
+Offset 37973, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: Na
+...io Ajustes:  Depreciação e amortização  Em  a companhia apresentou uma redução de cai...
+                                           ^^^^^
+Erro: 23
+Offset 43815, length 61, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou alienação de segmento operacional Não houve introdução, ou
+...emonstrações financeiras  a. Introdução ou alienação de segmento operacional  Não houve introdução ou alienação de segmento operacional da Co...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 24
+Offset 44679, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...s em  de dezembro de .  Em  de dezembro de  a FCA  registrava em seus livros fiscais ...
+                                           ^^^^^
+Erro: 25
+Offset 47500, length 87, Rule ID: ALTERNATIVE_CONJUNCTIONS_COMMA
+Message: Conjunções alternativas ou disjuntivas devem ser separadas por vírgulas.
+Suggestion: ou parcelamento de débitos de sua titularidade com a utilização dos créditos fiscais, ou
+...islação que permita o pagamento à vista ou parcelamento de débitos de sua titularidade com a utilização dos créditos fiscais ou qualquer alteração legislativa, a  taxa...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 26
+Offset 48195, length 8, Rule ID: VERB_COMMA_CONJUNCTION
+Message: Esta conjunção deve ser separada por vírgulas e só deve ser utilizada no início duma frase para efeitos de estilo.
+Suggestion: IASB, mas
+...pretações de normas foram emitidas pelo IASB mas não  estão em vigor para o exercício de...
+                                           ^^^^^^^^
+Erro: 27
+Offset 48936, length 11, Rule ID: CRASE_CONFUSION_2
+Message: Possível erro de crase.
+Suggestion: relativo às
+...cer do auditor  O parecer dos auditores relativo as demonstrações contábeis de  continha um...
+                                           ^^^^^^^^^^^

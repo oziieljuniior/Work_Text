@@ -1,0 +1,90 @@
+Erro: 320
+Offset 24851, length 9, Rule ID: CRASE_CONFUSION
+Message: Não se utiliza a crase antes de palavras masculinas.
+Suggestion: a mercado; ao mercado; aos mercado
+...e  Custos de captação          Marcação à mercado de dívida  .        Total EMS          ...
+                                           ^^^^^^^^^
+Erro: 321
+Offset 26768, length 9, Rule ID: CRASE_CONFUSION
+Message: Não se utiliza a crase antes de palavras masculinas.
+Suggestion: a mercado; ao mercado; aos mercado
+...   Custos de captação          Marcação à mercado de dívida  .        Total em moeda naci...
+                                           ^^^^^^^^^
+Erro: 322
+Offset 42186, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...l, que direcionou  da queda e do desvio devido a combinação de maior utilização de geraç...
+                                           ^^^^^^^^
+Erro: 323
+Offset 43214, length 8, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: devido à
+...eses, sobretudo em maio, julho e agosto devido a base baixa e temperaturas elevadas. O r...
+                                           ^^^^^^^^
+Erro: 324
+Offset 51527, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...rcício social encerrado em  de dezembro de  a introdução ou alienação de qualquer seg...
+                                           ^^^^^
+Erro: 325
+Offset 51841, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...rcício social encerrado em  de dezembro de  a constituição, aquisição ou alienação de...
+                                           ^^^^^
+Erro: 326
+Offset 57025, length 6, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: das; dê as
+... planos de previdências  Em  de janeiro de  as controladas distribuidoras de energia e...
+                                           ^^^^^^
+Erro: 327
+Offset 58796, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...oladas EMS, ETO e ESS  Em  de fevereiro de  a controlada Energisa Mato Grosso do Sul ...
+                                           ^^^^^
+Erro: 328
+Offset 59185, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...gócios da controlada.  Em  de fevereiro de  a controlada Energisa Tocantins Distribui...
+                                           ^^^^^
+Erro: 329
+Offset 59708, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis utilizar a contração, ou referir-se ao verbo dar? Mesmo no AO90, continua a ser acentuado.
+Suggestion: da; dê a
+...gócios da controlada.  Em  de fevereiro de  a controlada Energisa Sul Sudeste Distrib...
+                                           ^^^^^
+Erro: 330
+Offset 61607, length 5, Rule ID: CONTRACOES_OBRIGATORIAS
+Message: Será que quis dizer “na”?
+Suggestion: na
+... retenções de lucros No exercício findo em  a Companhia efetuou retenção de lucros co...
+                                           ^^^^^
+Erro: 331
+Offset 72835, length 23, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: utilizados pela
+...s citar alguns exemplos de instrumentos que são utilizados pela Companhia, conforme a seguir apresentad...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^
+Erro: 332
+Offset 82721, length 22, Rule ID: QUE_TER_COMO_POR_NOME_ADJ
+Message: Com o pronome relativo “cujo”, o seu texto poderia ficar mais claro e elegante.
+Suggestion: cujo princípio é
+...or profissionais com expertise na área, que tem como princípio avaliar de forma equilibrada as circuns...
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+Erro: 333
+Offset 86289, length 4, Rule ID: ETC_USAGE
+Message: Deve-se utilizar a vírgula antes de ‘etc.’.
+Suggestion: , etc
+...ara pagamento de planos de saúde, bolsas etc.; • SIADP  Sistemas de folha de pagamen...
+                                           ^^^^
+Erro: 334
+Offset 89127, length 22, Rule ID: QUE_É-SÃO_NC-ADJ_COMO-POR
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: responsável pelo
+...ma, utilizase um framework de segurança que é responsável pelo controle de acesso dos usuários. A para...
+                                           ^^^^^^^^^^^^^^^^^^^^^^

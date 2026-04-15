@@ -1,0 +1,18 @@
+Erro: 5
+Offset 2238, length 12, Rule ID: DIACRITICS
+Message: Se for um erro ortográfico, substitua por “aí incluídas”.
+Suggestion: aí incluídas; ai, incluídas
+...culativas  eou de proteção patrimonial, ai incluídas operações associadas a instrumentos der...
+                                           ^^^^^^^^^^^^
+Erro: 6
+Offset 8111, length 12, Rule ID: CRASE_CONFUSION
+Message: Neste contexto utiliza-se a crase.
+Suggestion: em relação à
+..., da receita bruta, tendo uma elevação  em relação a receita bruta observada nos dois último...
+                                           ^^^^^^^^^^^^
+Erro: 7
+Offset 12350, length 18, Rule ID: VIR_A_VERBO_VERBO
+Message: Para conferir mais clareza ao seu texto, busque usar uma linguagem mais concisa.
+Suggestion: causem
+...   tenham   causado   ou   se  espera   venham   a  causar   nas demonstrações financeiras do emis...
+                                           ^^^^^^^^^^^^^^^^^^
