@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"bfbc4e1396b3c6a1","type":"group","x":-1100,"y":-640,"width":1755,"height":700,"color":"3","label":"CalculoErros.py"},
+		{"id":"0cd92ecaafe47800","type":"text","text":"# Organizar os diretórios\n1. Listar pasta Final: \"/home/darkcover/Documentos/Work_Text/Documentos/Estudo/v0.1/Final\"\n2. Entrar em cada path: /{ano}/Resultado\n3. Criar arquivos: Erro_Geral.xlsx | Erro Local.xlsx | Resumo.xlsx\n","x":-1080,"y":-560,"width":770,"height":160,"color":"1"},
+		{"id":"8a5fa31725d503a6","type":"text","text":"# Buscar Informações\n1. Listar pasta data info: \"/home/darkcover/Documentos/Work_Text/Documentos/Estudo/v0.1/Final/EmpresasGeral\"\n\n2. Acessar cada arquivo: \"/{empresa}.xslx\"\n\n2.1 Dentro de cada arquivo listar quantidade de relatórios: COLUNA A1\n\n2.2 Criar indice de registro local: i_1\n\n2.3 Acessar registro: \"/home/darkcover/Documentos/Work_Text/Documentos/Estudo/v0.1/Final/{i_1}/Resultado/\"\n\n2.4 Registrar: Resumo.xlsx ## Verificar forma de acesso e registro da tabela","x":-120,"y":-620,"width":755,"height":360,"color":"2"},
+		{"id":"6ad09b16f78fd067","type":"text","text":"# Finalização do Projeto\n1. Listar pasta Final: \"/home/darkcover/Documentos/Work_Text/Documentos/Estudo/v0.1/Final\"\n\n2. Entrar em cada path: /{ano}/Resultado\n\n3. Editar arquivos: Erro Local.xlsx | Erro_Geral.xlsx","x":-280,"y":-120,"width":847,"height":160,"color":"6"}
+	],
+	"edges":[
+		{"id":"c9ebb9b59b9f0acb","fromNode":"0cd92ecaafe47800","fromSide":"right","toNode":"8a5fa31725d503a6","toSide":"left","fromEnd":"arrow","color":"2"},
+		{"id":"2ea63a202af074e0","fromNode":"6ad09b16f78fd067","fromSide":"top","toNode":"8a5fa31725d503a6","toSide":"bottom","fromEnd":"arrow","color":"6"}
+	]
+}
